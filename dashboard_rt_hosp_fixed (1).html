@@ -1,0 +1,814 @@
+---
+layout: default
+title: "Rt Interactive Dashboard"
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covid-19 and Flu Rt Dashboard</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        #container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        #controls {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        #dateDisplay {
+            font-size: 18px;
+            font-weight: bold;
+            color: #555;
+            margin: 10px 0;
+        }
+
+        #timeSeries {
+            margin: 20px auto;
+            display: block;
+        }
+
+        #mapsContainer {
+            display: flex;
+            justify-content: space-around;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .map-wrapper {
+            flex: 1 1 320px;
+            text-align: center;
+            min-width: 280px;
+        }
+
+        .map-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        .state {
+            stroke: #fff;
+            stroke-width: 1px;
+            cursor: pointer;
+        }
+
+        .state:hover {
+            stroke: #333;
+            stroke-width: 2px;
+        }
+
+        .state.selected {
+            stroke: #ff6b6b;
+            stroke-width: 3px;
+        }
+
+        #tooltip {
+            position: absolute;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            border-radius: 4px;
+            pointer-events: none;
+            opacity: 0;
+            font-size: 14px;
+        }
+
+        .legend {
+            font-size: 12px;
+        }
+
+        .play-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+
+        .play-button:hover {
+            background-color: #45a049;
+        }
+
+        .axis-label {
+            font-size: 12px;
+        }
+
+        .line {
+            fill: none;
+            stroke-width: 2;
+            opacity: 0.8;
+        }
+
+        .line.highlighted {
+            stroke-width: 3;
+            opacity: 1;
+        }
+
+        .line.hover-line {
+            stroke-width: 2;
+            opacity: 0.5;
+            stroke-dasharray: 4, 4;
+        }
+
+        .time-marker-group {
+            cursor: grab;
+        }
+
+        .time-marker-group:active {
+            cursor: grabbing;
+        }
+
+        .time-marker {
+            stroke: #ff6b6b;
+            stroke-width: 2;
+            stroke-dasharray: 5, 5;
+            pointer-events: none;
+        }
+
+        .time-marker-handle {
+            fill: #ff6b6b;
+            cursor: grab;
+        }
+
+        .time-marker-handle:active {
+            cursor: grabbing;
+        }
+
+        .time-marker-drag-area {
+            fill: transparent;
+            cursor: grab;
+        }
+
+        #timeSeries,
+        #map1,
+        #map2 {
+            width: 100%;
+            height: auto;
+            display: block;
+            max-width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h1>Rt Interactive Dashboard</h1>
+
+        <div id="controls">
+            <button class="play-button" id="playButton">▶ Play</button>
+            <div id="dateDisplay">Select a date</div>
+        </div>
+
+        <svg id="timeSeries"></svg>
+
+        <div id="mapsContainer">
+            <div class="map-wrapper">
+                <div class="map-title">Covid-19 Rt Estimate</div>
+                <svg id="map1"></svg>
+            </div>
+            <div class="map-wrapper">
+                <div class="map-title">Influenza Rt Estimate</div>
+                <svg id="map2"></svg>
+            </div>
+        </div>
+
+        <div id="tooltip"></div>
+    </div>
+
+    <script>
+        /*
+         * DATA FILE REQUIREMENTS:
+         * 
+         * 1. MAP CSV FILES (two files: covid_rt.csv and flu_rt.csv)
+         *    Required columns:
+         *    - date: Date in YYYY-MM-DD format (e.g., "2024-01-15")
+         *    - state: State name (must match TopoJSON state names)
+         *    - value: Numeric Rt value (typically 0-1 or 0-2 range)
+         * 
+         *    Example CSV format:
+         *    date,state,value
+         *    2024-01-01,California,0.85
+         *    2024-01-01,Texas,0.92
+         *    2024-01-01,New York,0.78
+         * 
+         * 2. TIME SERIES CSV FILE (hosp_time_series.csv)
+         *    Required columns:
+         *    - date: Date in YYYY-MM-DD format
+         *    - state: State name (use "US" for national data)
+         *    - disease: Disease type (e.g., "COVID-19", "Influenza")
+         *    - value: Numeric hospitalization value
+         * 
+         *    Example CSV format:
+         *    date,state,disease,value
+         *    2024-01-01,US,COVID-19,1500
+         *    2024-01-01,US,Influenza,800
+         *    2024-01-01,California,COVID-19,250
+         *    2024-01-01,California,Influenza,120
+         * 
+         * 3. TOPOJSON FILE
+         *    - Should contain a TopoJSON object with state geometries
+         *    - Each feature should have a property that matches the CSV 'state' column
+         *    - Common property names: 'name', 'state', or use feature.id
+         * 
+         * 4. Configure file paths in the initialize() function below
+         */
+
+        // Configuration
+        const mapWidth = 600;
+        const mapHeight = 400;
+        const timeSeriesWidth = 1200;
+        const timeSeriesHeight = 250;
+        const margin = { top: 20, right: 100, bottom: 40, left: 60 };
+
+        // Create SVGs
+        const timeSeriesSvg = d3.select("#timeSeries")
+            .attr("viewBox", `0 0 ${timeSeriesWidth} ${timeSeriesHeight}`)
+            .attr("preserveAspectRatio", "xMidYMid meet")
+            .attr("width", "100%")
+            .attr("height", "auto");
+
+        const map1Svg = d3.select("#map1")
+            .attr("viewBox", `0 0 ${mapWidth} ${mapHeight}`)
+            .attr("preserveAspectRatio", "xMidYMid meet")
+            .attr("width", "100%")
+            .attr("height", "auto");
+
+        const map2Svg = d3.select("#map2")
+            .attr("viewBox", `0 0 ${mapWidth} ${mapHeight}`)
+            .attr("preserveAspectRatio", "xMidYMid meet")
+            .attr("width", "100%")
+            .attr("height", "auto");
+
+        // Tooltip
+        const tooltip = d3.select("#tooltip");
+
+        // Data storage
+        let timeSeriesData = [];
+        let dates = [];
+        let currentDateIndex = 0;
+        let isPlaying = false;
+        let playInterval;
+        let selectedState = null;
+        let currentHoverState = null;
+
+        // Color scale
+        window.rtGradientColors = [
+            "#006166", // Declining
+            "#3bbbb0", // Likely Declining
+            "#bdbdbd", // Not Changing
+            "#b83d93", // Likely Growing
+            "#6d085a"  // Growing
+        ];
+
+        window.colorScalemap1 = d3.scaleLinear()
+            .domain([0, 0.25, 0.5, 0.75, 1])
+            .range(window.rtGradientColors)
+            .clamp(true);
+
+        window.colorScalemap2 = window.colorScalemap1;
+
+        async function loadDataFromCSV(covidCsvPath, fluCsvPath, hospTimeSeriesPath) {
+            // Load all CSV files
+            const [covidCsv, fluCsv, hospTimeSeriesCsv] = await Promise.all([
+                d3.csv(covidCsvPath),
+                d3.csv(fluCsvPath),
+                d3.csv(hospTimeSeriesPath)
+            ]);
+
+            // Process map data (Rt values)
+            const covidMapData = processMapCSVData(covidCsv);
+            const fluMapData = processMapCSVData(fluCsv);
+
+            // Process time series data - keep in long format
+            const timeSeriesData = processTimeSeriesCSVDataLong(hospTimeSeriesCsv);
+
+            // Extract all unique dates and sort them
+            const allDates = new Set();
+            covidCsv.forEach(d => allDates.add(d.date));
+            fluCsv.forEach(d => allDates.add(d.date));
+            hospTimeSeriesCsv.forEach(d => allDates.add(d.date));
+            dates = Array.from(allDates).sort();
+
+            return {
+                dates: dates,
+                covidMapData: covidMapData,
+                fluMapData: fluMapData,
+                timeSeriesData: timeSeriesData
+            };
+        }
+
+        function processMapCSVData(csvData) {
+            // Group map data by state (for choropleth maps)
+            const dataByState = {};
+
+            csvData.forEach(row => {
+                const state = row.state;
+                const date = row.date;
+                const value = parseFloat(row.value);
+
+                if (!dataByState[state]) {
+                    dataByState[state] = [];
+                }
+
+                dataByState[state].push({
+                    date: date,
+                    value: value,
+                    state: state
+                });
+            });
+
+            // Sort each state's data by date
+            Object.keys(dataByState).forEach(state => {
+                dataByState[state].sort((a, b) => new Date(a.date) - new Date(b.date));
+            });
+
+            return dataByState;
+        }
+
+        function processTimeSeriesCSVDataLong(csvData) {
+            // Keep data in long format, just parse and clean
+            const longData = [];
+
+            csvData.forEach(row => {
+                const state = row.state;
+                const date = row.date;
+                const disease = row.disease;
+                const value = parseFloat(row.value);
+
+                // Use "National" for US data
+                const stateName = state === "US" ? "National" : state;
+
+                longData.push({
+                    date: date,
+                    state: stateName,
+                    disease: disease,
+                    value: value
+                });
+            });
+
+            return longData;
+        }
+
+        function getDataForState(dataDict, stateName) {
+            const stateData = dataDict[stateName];
+            if (!stateData) return null;
+            return stateData[currentDateIndex];
+        }
+
+        async function initialize() {
+            // Configure your data file paths here
+            const config = {
+                topoJsonPath: 'us_states_shifted.topojson',      // Path to your TopoJSON file
+                covidCsvPath: 'fake_data_map1.csv',              // Path to your COVID Rt CSV file (for maps)
+                fluCsvPath: 'fake_data_map2.csv',                // Path to your Flu Rt CSV file (for maps)
+                hospTimeSeriesPath: 'fake_data_linechart.csv'    // Path to hospitalization time series CSV
+            };
+
+            try {
+                // Load the TopoJSON map and CSV data
+                const [topoJsonData, csvData] = await Promise.all([
+                    d3.json(config.topoJsonPath),
+                    loadDataFromCSV(config.covidCsvPath, config.fluCsvPath, config.hospTimeSeriesPath)
+                ]);
+
+                // Convert TopoJSON to GeoJSON
+                // TopoJSON has an object called 'data'
+                const states = topojson.feature(topoJsonData, topoJsonData.objects.data);
+
+                // Match state names between TopoJSON and CSV
+                states.features.forEach(feature => {
+                    feature.properties.state = feature.properties.name || feature.properties.state || feature.id;
+                });
+
+                initializeVisualization(csvData, states);
+            } catch (error) {
+                console.error("Error loading data:", error);
+                d3.select("#container").append("p")
+                    .style("color", "red")
+                    .text(`Error loading data: ${error.message}. Please check that your data files are in the correct location.`);
+            }
+        }
+
+        function initializeVisualization(data, states) {
+            dates = data.dates;
+
+            drawTimeSeries(data.timeSeriesData);
+            drawMap(map1Svg, states, "map1", data.covidMapData, window.colorScalemap1);
+            drawMap(map2Svg, states, "map2", data.fluMapData, window.colorScalemap2);
+
+            // Play button
+            d3.select("#playButton").on("click", function () {
+                if (isPlaying) {
+                    clearInterval(playInterval);
+                    this.textContent = "▶ Play";
+                    isPlaying = false;
+                } else {
+                    this.textContent = "⏸ Pause";
+                    isPlaying = true;
+                    playInterval = setInterval(() => {
+                        currentDateIndex = (currentDateIndex + 1) % dates.length;
+                        updateVisualizations();
+                    }, 500);
+                }
+            });
+
+            updateVisualizations();
+        }
+
+        function drawTimeSeries(timeSeriesData) {
+            const width = timeSeriesWidth - margin.left - margin.right;
+            const height = timeSeriesHeight - margin.top - margin.bottom;
+
+            const chartG = timeSeriesSvg.append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Filter for National data only
+            const nationalData = timeSeriesData.filter(d => d.state === 'National');
+
+            // Parse dates
+            nationalData.forEach(d => {
+                d.parsedDate = new Date(d.date);
+            });
+
+            // Scales
+            const parsedDates = dates.map(d => new Date(d));
+            const xScale = d3.scaleTime()
+                .domain(d3.extent(parsedDates))
+                .range([0, width]);
+
+            const yScale = d3.scaleLinear()
+                .domain([0, d3.max(timeSeriesData, d => d.value)])
+                .range([height, 0]);
+
+            // Line generator
+            const line = d3.line()
+                .x(d => xScale(d.parsedDate))
+                .y(d => yScale(d.value));
+
+            // Group national data by disease
+            const dataByDisease = d3.group(nationalData, d => d.disease);
+
+            // Colorblind-friendly palette (Paul Tol's vibrant scheme)
+            // Works well for up to 7 categories
+            const colorBlindPalette = [
+                '#0077BB', // blue
+                '#EE7733', // orange
+                '#009988', // teal
+                '#CC3311', // red
+                '#33BBEE', // cyan
+                '#EE3377', // magenta
+                '#BBBBBB'  // grey
+            ];
+
+            // Auto-assign colors based on unique diseases
+            const diseases = Array.from(dataByDisease.keys()).sort();
+            const colorScale = d3.scaleOrdinal()
+                .domain(diseases)
+                .range(colorBlindPalette);
+
+            // Draw lines for each disease
+            dataByDisease.forEach((values, disease) => {
+                const sortedValues = values.sort((a, b) => a.parsedDate - b.parsedDate);
+                
+                chartG.append("path")
+                    .datum(sortedValues)
+                    .attr("class", `line ${disease.toLowerCase().replace(/[^a-z0-9]/g, '-')}`)
+                    .attr("d", line)
+                    .style("stroke", colorScale(disease));
+            });
+
+            // Hover lines (for temporary display when hovering over states)
+            // Use the same color scale for consistency
+            const diseaseArray = Array.from(diseases);
+            chartG.append("path")
+                .attr("class", "line hover-line hover-0")
+                .style("display", "none")
+                .style("stroke", diseaseArray[0] ? colorScale(diseaseArray[0]) : colorBlindPalette[0]);
+
+            if (diseaseArray.length > 1) {
+                chartG.append("path")
+                    .attr("class", "line hover-line hover-1")
+                    .style("display", "none")
+                    .style("stroke", colorScale(diseaseArray[1]));
+            }
+
+            // Axes
+            const xAxis = d3.axisBottom(xScale);
+            const yAxis = d3.axisLeft(yScale);
+
+            chartG.append("g")
+                .attr("class", "x-axis")
+                .attr("transform", `translate(0,${height})`)
+                .call(xAxis);
+
+            chartG.append("g")
+                .attr("class", "y-axis")
+                .call(yAxis);
+
+            // Axis labels
+            chartG.append("text")
+                .attr("class", "axis-label")
+                .attr("x", width / 2)
+                .attr("y", height + 35)
+                .style("text-anchor", "middle")
+                .text("Date");
+
+            chartG.append("text")
+                .attr("class", "axis-label")
+                .attr("transform", "rotate(-90)")
+                .attr("x", -height / 2)
+                .attr("y", -45)
+                .style("text-anchor", "middle")
+                .text("Hospitalizations");
+
+            // Legend
+            const legend = chartG.append("g")
+                .attr("class", "legend")
+                .attr("transform", `translate(${width + 10}, 20)`);
+
+            let yOffset = 0;
+            dataByDisease.forEach((values, disease) => {
+                legend.append("line")
+                    .attr("x1", 0)
+                    .attr("x2", 20)
+                    .attr("y1", yOffset)
+                    .attr("y2", yOffset)
+                    .attr("stroke", colorScale(disease))
+                    .attr("stroke-width", 2);
+
+                legend.append("text")
+                    .attr("x", 25)
+                    .attr("y", yOffset + 4)
+                    .style("font-size", "12px")
+                    .text(disease);
+
+                yOffset += 20;
+            });
+
+            // Add draggable time marker
+            const timeMarkerGroup = chartG.append("g")
+                .attr("class", "time-marker-group");
+
+            const timeMarker = timeMarkerGroup.append("line")
+                .attr("class", "time-marker")
+                .attr("y1", 0)
+                .attr("y2", height);
+
+            const handleRadius = 8;
+            const timeMarkerHandle = timeMarkerGroup.append("circle")
+                .attr("class", "time-marker-handle")
+                .attr("r", handleRadius)
+                .attr("cy", height + 10);
+
+            // Invisible drag area for easier interaction
+            const dragArea = timeMarkerGroup.append("rect")
+                .attr("class", "time-marker-drag-area")
+                .attr("width", 20)
+                .attr("height", height + 20)
+                .attr("x", -10)
+                .attr("y", 0);
+
+            // Drag behavior
+            const drag = d3.drag()
+                .on("start", function() {
+                    if (isPlaying) {
+                        clearInterval(playInterval);
+                        d3.select("#playButton").text("▶ Play");
+                        isPlaying = false;
+                    }
+                })
+                .on("drag", function(event) {
+                    const x = Math.max(0, Math.min(width, event.x));
+                    const date = xScale.invert(x);
+                    
+                    // Find closest date index
+                    let minDiff = Infinity;
+                    let closestIndex = 0;
+                    parsedDates.forEach((d, i) => {
+                        const diff = Math.abs(d - date);
+                        if (diff < minDiff) {
+                            minDiff = diff;
+                            closestIndex = i;
+                        }
+                    });
+                    
+                    currentDateIndex = closestIndex;
+                    updateVisualizations();
+                })
+                .on("end", function() {
+                    // Optional: do something when drag ends
+                });
+
+            timeMarkerGroup.call(drag);
+
+            // Store for updates
+            window.timeSeriesScale = xScale;
+            window.timeMarker = timeMarker;
+            window.timeMarkerHandle = timeMarkerHandle;
+            window.timeSeriesGenerator = line;
+            window.timeSeriesDataLong = timeSeriesData; // Store long format data
+            window.timeSeriesColorScale = colorScale; // Store color scale for hover lines
+            window.timeSeriesDiseases = diseaseArray; // Store disease array
+        }
+
+        function drawMap(svg, states, mapId, mapData, mapColorScale) {
+            const path = d3.geoPath()
+                .projection(d3.geoIdentity()
+                    .reflectY(true)
+                    .fitSize([mapWidth, mapHeight], states));
+
+            const statePaths = svg.selectAll(`.state-${mapId}`)
+                .data(states.features)
+                .enter()
+                .append("path")
+                .attr("class", `state state-${mapId}`)
+                .attr("d", path)
+                .on("mouseover", function (event, d) {
+                    const stateName = d.properties.state;
+                    const currentData = getDataForState(mapData, stateName);
+
+                    tooltip
+                        .style("opacity", 1)
+                        .html(`<strong>${stateName}</strong><br/>Value: ${currentData ? currentData.value.toFixed(2) : 'N/A'}`)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+
+                    // Show hover lines for this state
+                    currentHoverState = stateName;
+                    
+                    // Filter long format data for this state and group by disease
+                    const stateData = window.timeSeriesDataLong.filter(d => d.state === stateName);
+                    const stateDataByDisease = d3.group(stateData, d => d.disease);
+
+                    // Get diseases in sorted order to match main chart
+                    const diseases = window.timeSeriesDiseases || [];
+                    
+                    // Show hover line for each disease
+                    let hoverIndex = 0;
+                    stateDataByDisease.forEach((values, disease) => {
+                        // Add parsed dates for line generation
+                        values.forEach(d => d.parsedDate = new Date(d.date));
+                        const sortedValues = values.sort((a, b) => a.parsedDate - b.parsedDate);
+
+                        if (hoverIndex < 2) { // Limit to 2 hover lines
+                            d3.select(`.hover-${hoverIndex}`)
+                                .datum(sortedValues)
+                                .attr("d", window.timeSeriesGenerator)
+                                .style("display", null)
+                                .style("stroke", window.timeSeriesColorScale(disease));
+                            hoverIndex++;
+                        }
+                    });
+                })
+                .on("mouseout", function () {
+                    tooltip.style("opacity", 0);
+                    currentHoverState = null;
+                    d3.selectAll(".hover-line").style("display", "none");
+                })
+                .on("click", function (event, d) {
+                    const stateName = d.properties.state;
+
+                    if (selectedState === stateName) {
+                        selectedState = null;
+                        d3.selectAll(".state").classed("selected", false);
+                    } else {
+                        selectedState = stateName;
+                        d3.selectAll(".state").classed("selected", false);
+                        d3.selectAll(`.state`).filter(s => s.properties.state === stateName)
+                            .classed("selected", true);
+                    }
+                });
+
+            // Add legend
+            const legendWidth = 200;
+            const legendHeight = 10;
+
+            const legendSvg = svg.append("g")
+                .attr("class", "legend")
+                .attr("transform", `translate(${mapWidth - legendWidth - 20}, ${mapHeight - 40})`);
+
+            const domainVals = mapColorScale.domain();
+            const legendDomain = d3.extent(domainVals);
+
+            const legendScale = d3.scaleLinear()
+                .domain(legendDomain)
+                .range([0, legendWidth]);
+
+            const legendAxis = d3.axisBottom(legendScale)
+                .ticks(5)
+                .tickFormat(d3.format(".1f"));
+
+            const defs = svg.append("defs");
+            const linearGradient = defs.append("linearGradient")
+                .attr("id", `legend-gradient-${mapId}`);
+
+            const domainMin = domainVals[0];
+            const domainMax = domainVals[domainVals.length - 1];
+
+            linearGradient.selectAll("stop")
+                .data(d3.range(0, 1.0001, 0.1))
+                .enter()
+                .append("stop")
+                .attr("offset", d => `${d * 100}%`)
+                .attr("stop-color", d => mapColorScale(domainMin + d * (domainMax - domainMin)));
+
+            legendSvg.append("rect")
+                .attr("width", legendWidth)
+                .attr("height", legendHeight)
+                .style("fill", `url(#legend-gradient-${mapId})`);
+
+            legendSvg.append("g")
+                .attr("transform", `translate(0, ${legendHeight})`)
+                .call(legendAxis);
+
+            window[`statePaths${mapId}`] = statePaths;
+            window[`mapData${mapId}`] = mapData;
+            window[`colorScale${mapId}`] = mapColorScale;
+        }
+
+        function updateVisualizations() {
+            const currentDate = dates[currentDateIndex];
+            d3.select("#dateDisplay").text(currentDate);
+
+            // Update map1
+            if (window.statePathsmap1) {
+                window.statePathsmap1.transition()
+                    .duration(200)
+                    .style("fill", d => {
+                        const stateName = d.properties.state;
+                        const data = getDataForState(window.mapDatamap1, stateName);
+                        const v = data ? data.value : null;
+                        return (v == null || Number.isNaN(v)) ? "#ffffff" : window.colorScalemap1(v);
+                    });
+            }
+
+            // Update map2
+            if (window.statePathsmap2) {
+                window.statePathsmap2.transition()
+                    .duration(200)
+                    .style("fill", d => {
+                        const stateName = d.properties.state;
+                        const data = getDataForState(window.mapDatamap2, stateName);
+                        const v = data ? data.value : null;
+                        return (v == null || Number.isNaN(v)) ? "#ffffff" : window.colorScalemap2(v);
+                    });
+            }
+
+            // Update time marker position
+            if (window.timeMarker && window.timeSeriesScale) {
+                const currentDateObj = new Date(currentDate);
+                const x = window.timeSeriesScale(currentDateObj);
+
+                window.timeMarker
+                    .transition()
+                    .duration(200)
+                    .attr("x1", x)
+                    .attr("x2", x);
+
+                window.timeMarkerHandle
+                    .transition()
+                    .duration(200)
+                    .attr("cx", x);
+
+                d3.select(".time-marker-drag-area")
+                    .transition()
+                    .duration(200)
+                    .attr("x", x - 10);
+            }
+        }
+
+        initialize();
+    </script>
+</body>
+
+</html>
