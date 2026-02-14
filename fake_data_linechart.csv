@@ -1,0 +1,6121 @@
+state,disease,date,value
+Alabama,Flu,2020-01-01,52.29
+Alabama,Flu,2020-02-01,68.87
+Alabama,Flu,2020-03-01,79.92
+Alabama,Flu,2020-04-01,80.17
+Alabama,Flu,2020-05-01,89.25
+Alabama,Flu,2020-06-01,66.52
+Alabama,Flu,2020-07-01,87.58
+Alabama,Flu,2020-08-01,47.65
+Alabama,Flu,2020-09-01,61.39
+Alabama,Flu,2020-10-01,70.92
+Alabama,Flu,2020-11-01,73.62
+Alabama,Flu,2020-12-01,46.89
+Alabama,Flu,2021-01-01,71.71
+Alabama,Flu,2021-02-01,78.7
+Alabama,Flu,2021-03-01,75.25
+Alabama,Flu,2021-04-01,69.66
+Alabama,Flu,2021-05-01,50.46
+Alabama,Flu,2021-06-01,67.09
+Alabama,Flu,2021-07-01,65.94
+Alabama,Flu,2021-08-01,57.12
+Alabama,Flu,2021-09-01,48.52
+Alabama,Flu,2021-10-01,61.58
+Alabama,Flu,2021-11-01,57.64
+Alabama,Flu,2021-12-01,48.18
+Alabama,Flu,2022-01-01,62.89
+Alabama,Flu,2022-02-01,80.01
+Alabama,Flu,2022-03-01,86.54
+Alabama,Flu,2022-04-01,80.2
+Alabama,Flu,2022-05-01,76.0
+Alabama,Flu,2022-06-01,78.99
+Alabama,Flu,2022-07-01,60.04
+Alabama,Flu,2022-08-01,75.01
+Alabama,Flu,2022-09-01,53.48
+Alabama,Flu,2022-10-01,78.91
+Alabama,Flu,2022-11-01,82.69
+Alabama,Flu,2022-12-01,66.28
+Alabama,Flu,2023-01-01,79.73
+Alabama,Flu,2023-02-01,67.55
+Alabama,Flu,2023-03-01,77.07
+Alabama,Flu,2023-04-01,78.86
+Alabama,Flu,2023-05-01,100.64
+Alabama,Flu,2023-06-01,76.61
+Alabama,Flu,2023-07-01,71.05
+Alabama,Flu,2023-08-01,73.24
+Alabama,Flu,2023-09-01,62.27
+Alabama,Flu,2023-10-01,60.5
+Alabama,Flu,2023-11-01,65.73
+Alabama,Flu,2023-12-01,52.73
+Alabama,Flu,2024-01-01,71.88
+Alabama,Flu,2024-02-01,65.46
+Alabama,Flu,2024-03-01,67.95
+Alabama,Flu,2024-04-01,96.92
+Alabama,Flu,2024-05-01,77.57
+Alabama,Flu,2024-06-01,98.63
+Alabama,Flu,2024-07-01,89.66
+Alabama,Flu,2024-08-01,76.2
+Alabama,Flu,2024-09-01,78.02
+Alabama,Flu,2024-10-01,88.21
+Alabama,Flu,2024-11-01,65.5
+Alabama,Flu,2024-12-01,89.57
+Alabama,Covid,2020-01-01,80.66
+Alabama,Covid,2020-02-01,57.45
+Alabama,Covid,2020-03-01,74.35
+Alabama,Covid,2020-04-01,71.86
+Alabama,Covid,2020-05-01,79.33
+Alabama,Covid,2020-06-01,64.81
+Alabama,Covid,2020-07-01,61.84
+Alabama,Covid,2020-08-01,55.78
+Alabama,Covid,2020-09-01,57.11
+Alabama,Covid,2020-10-01,51.99
+Alabama,Covid,2020-11-01,73.96
+Alabama,Covid,2020-12-01,61.23
+Alabama,Covid,2021-01-01,54.84
+Alabama,Covid,2021-02-01,79.23
+Alabama,Covid,2021-03-01,82.12
+Alabama,Covid,2021-04-01,77.93
+Alabama,Covid,2021-05-01,73.87
+Alabama,Covid,2021-06-01,67.34
+Alabama,Covid,2021-07-01,77.11
+Alabama,Covid,2021-08-01,75.11
+Alabama,Covid,2021-09-01,60.44
+Alabama,Covid,2021-10-01,55.99
+Alabama,Covid,2021-11-01,79.91
+Alabama,Covid,2021-12-01,60.88
+Alabama,Covid,2022-01-01,76.23
+Alabama,Covid,2022-02-01,78.14
+Alabama,Covid,2022-03-01,66.12
+Alabama,Covid,2022-04-01,69.79
+Alabama,Covid,2022-05-01,65.0
+Alabama,Covid,2022-06-01,79.19
+Alabama,Covid,2022-07-01,82.85
+Alabama,Covid,2022-08-01,53.99
+Alabama,Covid,2022-09-01,58.73
+Alabama,Covid,2022-10-01,65.15
+Alabama,Covid,2022-11-01,52.8
+Alabama,Covid,2022-12-01,42.1
+Alabama,Covid,2023-01-01,80.68
+Alabama,Covid,2023-02-01,92.95
+Alabama,Covid,2023-03-01,75.5
+Alabama,Covid,2023-04-01,89.68
+Alabama,Covid,2023-05-01,68.76
+Alabama,Covid,2023-06-01,94.96
+Alabama,Covid,2023-07-01,96.74
+Alabama,Covid,2023-08-01,81.78
+Alabama,Covid,2023-09-01,58.23
+Alabama,Covid,2023-10-01,64.34
+Alabama,Covid,2023-11-01,67.01
+Alabama,Covid,2023-12-01,53.22
+Alabama,Covid,2024-01-01,56.13
+Alabama,Covid,2024-02-01,74.39
+Alabama,Covid,2024-03-01,74.97
+Alabama,Covid,2024-04-01,79.57
+Alabama,Covid,2024-05-01,74.52
+Alabama,Covid,2024-06-01,68.19
+Alabama,Covid,2024-07-01,58.03
+Alabama,Covid,2024-08-01,67.05
+Alabama,Covid,2024-09-01,71.37
+Alabama,Covid,2024-10-01,55.81
+Alabama,Covid,2024-11-01,85.76
+Alabama,Covid,2024-12-01,62.83
+Alaska,Flu,2020-01-01,60.56
+Alaska,Flu,2020-02-01,72.2
+Alaska,Flu,2020-03-01,73.2
+Alaska,Flu,2020-04-01,48.16
+Alaska,Flu,2020-05-01,86.26
+Alaska,Flu,2020-06-01,73.0
+Alaska,Flu,2020-07-01,62.87
+Alaska,Flu,2020-08-01,62.94
+Alaska,Flu,2020-09-01,60.17
+Alaska,Flu,2020-10-01,48.86
+Alaska,Flu,2020-11-01,70.58
+Alaska,Flu,2020-12-01,60.0
+Alaska,Flu,2021-01-01,67.19
+Alaska,Flu,2021-02-01,94.57
+Alaska,Flu,2021-03-01,68.14
+Alaska,Flu,2021-04-01,64.12
+Alaska,Flu,2021-05-01,81.91
+Alaska,Flu,2021-06-01,80.14
+Alaska,Flu,2021-07-01,78.26
+Alaska,Flu,2021-08-01,71.1
+Alaska,Flu,2021-09-01,64.64
+Alaska,Flu,2021-10-01,64.93
+Alaska,Flu,2021-11-01,59.99
+Alaska,Flu,2021-12-01,65.72
+Alaska,Flu,2022-01-01,79.65
+Alaska,Flu,2022-02-01,74.57
+Alaska,Flu,2022-03-01,78.87
+Alaska,Flu,2022-04-01,85.37
+Alaska,Flu,2022-05-01,70.51
+Alaska,Flu,2022-06-01,89.16
+Alaska,Flu,2022-07-01,61.95
+Alaska,Flu,2022-08-01,66.7
+Alaska,Flu,2022-09-01,62.7
+Alaska,Flu,2022-10-01,72.97
+Alaska,Flu,2022-11-01,78.56
+Alaska,Flu,2022-12-01,66.03
+Alaska,Flu,2023-01-01,82.13
+Alaska,Flu,2023-02-01,96.97
+Alaska,Flu,2023-03-01,59.52
+Alaska,Flu,2023-04-01,80.43
+Alaska,Flu,2023-05-01,82.24
+Alaska,Flu,2023-06-01,85.92
+Alaska,Flu,2023-07-01,79.11
+Alaska,Flu,2023-08-01,74.71
+Alaska,Flu,2023-09-01,66.75
+Alaska,Flu,2023-10-01,72.71
+Alaska,Flu,2023-11-01,77.27
+Alaska,Flu,2023-12-01,89.42
+Alaska,Flu,2024-01-01,85.91
+Alaska,Flu,2024-02-01,90.74
+Alaska,Flu,2024-03-01,90.43
+Alaska,Flu,2024-04-01,94.74
+Alaska,Flu,2024-05-01,77.08
+Alaska,Flu,2024-06-01,96.3
+Alaska,Flu,2024-07-01,90.82
+Alaska,Flu,2024-08-01,95.33
+Alaska,Flu,2024-09-01,76.57
+Alaska,Flu,2024-10-01,87.56
+Alaska,Flu,2024-11-01,75.9
+Alaska,Flu,2024-12-01,88.27
+Alaska,Covid,2020-01-01,71.88
+Alaska,Covid,2020-02-01,60.7
+Alaska,Covid,2020-03-01,79.52
+Alaska,Covid,2020-04-01,71.07
+Alaska,Covid,2020-05-01,63.17
+Alaska,Covid,2020-06-01,81.97
+Alaska,Covid,2020-07-01,65.85
+Alaska,Covid,2020-08-01,66.56
+Alaska,Covid,2020-09-01,77.08
+Alaska,Covid,2020-10-01,92.1
+Alaska,Covid,2020-11-01,70.0
+Alaska,Covid,2020-12-01,72.25
+Alaska,Covid,2021-01-01,68.64
+Alaska,Covid,2021-02-01,92.09
+Alaska,Covid,2021-03-01,77.24
+Alaska,Covid,2021-04-01,106.98
+Alaska,Covid,2021-05-01,94.17
+Alaska,Covid,2021-06-01,67.95
+Alaska,Covid,2021-07-01,72.22
+Alaska,Covid,2021-08-01,52.7
+Alaska,Covid,2021-09-01,72.72
+Alaska,Covid,2021-10-01,82.34
+Alaska,Covid,2021-11-01,90.68
+Alaska,Covid,2021-12-01,64.69
+Alaska,Covid,2022-01-01,94.14
+Alaska,Covid,2022-02-01,75.75
+Alaska,Covid,2022-03-01,98.33
+Alaska,Covid,2022-04-01,96.22
+Alaska,Covid,2022-05-01,66.21
+Alaska,Covid,2022-06-01,81.67
+Alaska,Covid,2022-07-01,92.5
+Alaska,Covid,2022-08-01,85.55
+Alaska,Covid,2022-09-01,66.91
+Alaska,Covid,2022-10-01,68.5
+Alaska,Covid,2022-11-01,68.64
+Alaska,Covid,2022-12-01,90.03
+Alaska,Covid,2023-01-01,76.83
+Alaska,Covid,2023-02-01,98.06
+Alaska,Covid,2023-03-01,80.78
+Alaska,Covid,2023-04-01,89.8
+Alaska,Covid,2023-05-01,93.96
+Alaska,Covid,2023-06-01,80.08
+Alaska,Covid,2023-07-01,84.86
+Alaska,Covid,2023-08-01,68.07
+Alaska,Covid,2023-09-01,68.77
+Alaska,Covid,2023-10-01,80.87
+Alaska,Covid,2023-11-01,76.57
+Alaska,Covid,2023-12-01,65.92
+Alaska,Covid,2024-01-01,86.52
+Alaska,Covid,2024-02-01,94.07
+Alaska,Covid,2024-03-01,94.74
+Alaska,Covid,2024-04-01,93.08
+Alaska,Covid,2024-05-01,90.56
+Alaska,Covid,2024-06-01,80.25
+Alaska,Covid,2024-07-01,77.03
+Alaska,Covid,2024-08-01,80.47
+Alaska,Covid,2024-09-01,79.49
+Alaska,Covid,2024-10-01,79.69
+Alaska,Covid,2024-11-01,70.47
+Alaska,Covid,2024-12-01,70.6
+Arizona,Flu,2020-01-01,72.41
+Arizona,Flu,2020-02-01,59.46
+Arizona,Flu,2020-03-01,71.99
+Arizona,Flu,2020-04-01,47.89
+Arizona,Flu,2020-05-01,53.39
+Arizona,Flu,2020-06-01,74.02
+Arizona,Flu,2020-07-01,59.46
+Arizona,Flu,2020-08-01,87.24
+Arizona,Flu,2020-09-01,57.13
+Arizona,Flu,2020-10-01,65.69
+Arizona,Flu,2020-11-01,78.77
+Arizona,Flu,2020-12-01,70.67
+Arizona,Flu,2021-01-01,52.32
+Arizona,Flu,2021-02-01,53.91
+Arizona,Flu,2021-03-01,63.38
+Arizona,Flu,2021-04-01,79.04
+Arizona,Flu,2021-05-01,63.47
+Arizona,Flu,2021-06-01,77.9
+Arizona,Flu,2021-07-01,49.69
+Arizona,Flu,2021-08-01,56.18
+Arizona,Flu,2021-09-01,63.68
+Arizona,Flu,2021-10-01,49.75
+Arizona,Flu,2021-11-01,56.65
+Arizona,Flu,2021-12-01,49.29
+Arizona,Flu,2022-01-01,72.06
+Arizona,Flu,2022-02-01,68.22
+Arizona,Flu,2022-03-01,73.15
+Arizona,Flu,2022-04-01,85.14
+Arizona,Flu,2022-05-01,62.6
+Arizona,Flu,2022-06-01,70.46
+Arizona,Flu,2022-07-01,86.02
+Arizona,Flu,2022-08-01,56.72
+Arizona,Flu,2022-09-01,63.29
+Arizona,Flu,2022-10-01,50.82
+Arizona,Flu,2022-11-01,57.26
+Arizona,Flu,2022-12-01,64.69
+Arizona,Flu,2023-01-01,73.75
+Arizona,Flu,2023-02-01,85.09
+Arizona,Flu,2023-03-01,84.87
+Arizona,Flu,2023-04-01,99.01
+Arizona,Flu,2023-05-01,73.78
+Arizona,Flu,2023-06-01,82.59
+Arizona,Flu,2023-07-01,81.64
+Arizona,Flu,2023-08-01,68.35
+Arizona,Flu,2023-09-01,72.41
+Arizona,Flu,2023-10-01,59.5
+Arizona,Flu,2023-11-01,64.14
+Arizona,Flu,2023-12-01,70.75
+Arizona,Flu,2024-01-01,70.06
+Arizona,Flu,2024-02-01,75.44
+Arizona,Flu,2024-03-01,106.39
+Arizona,Flu,2024-04-01,90.67
+Arizona,Flu,2024-05-01,73.37
+Arizona,Flu,2024-06-01,83.87
+Arizona,Flu,2024-07-01,102.52
+Arizona,Flu,2024-08-01,53.32
+Arizona,Flu,2024-09-01,83.08
+Arizona,Flu,2024-10-01,62.67
+Arizona,Flu,2024-11-01,81.38
+Arizona,Flu,2024-12-01,80.18
+Arizona,Covid,2020-01-01,61.2
+Arizona,Covid,2020-02-01,67.35
+Arizona,Covid,2020-03-01,64.8
+Arizona,Covid,2020-04-01,80.02
+Arizona,Covid,2020-05-01,69.29
+Arizona,Covid,2020-06-01,79.46
+Arizona,Covid,2020-07-01,64.53
+Arizona,Covid,2020-08-01,55.89
+Arizona,Covid,2020-09-01,40.75
+Arizona,Covid,2020-10-01,41.34
+Arizona,Covid,2020-11-01,48.18
+Arizona,Covid,2020-12-01,72.1
+Arizona,Covid,2021-01-01,67.06
+Arizona,Covid,2021-02-01,61.05
+Arizona,Covid,2021-03-01,59.69
+Arizona,Covid,2021-04-01,84.35
+Arizona,Covid,2021-05-01,84.65
+Arizona,Covid,2021-06-01,75.07
+Arizona,Covid,2021-07-01,41.51
+Arizona,Covid,2021-08-01,52.03
+Arizona,Covid,2021-09-01,60.1
+Arizona,Covid,2021-10-01,45.44
+Arizona,Covid,2021-11-01,58.33
+Arizona,Covid,2021-12-01,62.05
+Arizona,Covid,2022-01-01,73.47
+Arizona,Covid,2022-02-01,75.28
+Arizona,Covid,2022-03-01,66.59
+Arizona,Covid,2022-04-01,73.52
+Arizona,Covid,2022-05-01,65.92
+Arizona,Covid,2022-06-01,72.12
+Arizona,Covid,2022-07-01,59.49
+Arizona,Covid,2022-08-01,64.63
+Arizona,Covid,2022-09-01,53.94
+Arizona,Covid,2022-10-01,73.2
+Arizona,Covid,2022-11-01,50.44
+Arizona,Covid,2022-12-01,72.58
+Arizona,Covid,2023-01-01,67.37
+Arizona,Covid,2023-02-01,58.93
+Arizona,Covid,2023-03-01,56.44
+Arizona,Covid,2023-04-01,93.23
+Arizona,Covid,2023-05-01,72.34
+Arizona,Covid,2023-06-01,79.9
+Arizona,Covid,2023-07-01,85.87
+Arizona,Covid,2023-08-01,75.65
+Arizona,Covid,2023-09-01,55.01
+Arizona,Covid,2023-10-01,66.08
+Arizona,Covid,2023-11-01,48.12
+Arizona,Covid,2023-12-01,76.1
+Arizona,Covid,2024-01-01,78.04
+Arizona,Covid,2024-02-01,85.3
+Arizona,Covid,2024-03-01,87.43
+Arizona,Covid,2024-04-01,95.0
+Arizona,Covid,2024-05-01,82.21
+Arizona,Covid,2024-06-01,69.39
+Arizona,Covid,2024-07-01,66.42
+Arizona,Covid,2024-08-01,75.79
+Arizona,Covid,2024-09-01,74.27
+Arizona,Covid,2024-10-01,55.92
+Arizona,Covid,2024-11-01,67.58
+Arizona,Covid,2024-12-01,66.31
+Arkansas,Flu,2020-01-01,81.13
+Arkansas,Flu,2020-02-01,98.86
+Arkansas,Flu,2020-03-01,108.14
+Arkansas,Flu,2020-04-01,133.94
+Arkansas,Flu,2020-05-01,113.49
+Arkansas,Flu,2020-06-01,95.28
+Arkansas,Flu,2020-07-01,90.84
+Arkansas,Flu,2020-08-01,105.88
+Arkansas,Flu,2020-09-01,88.73
+Arkansas,Flu,2020-10-01,100.63
+Arkansas,Flu,2020-11-01,74.5
+Arkansas,Flu,2020-12-01,96.89
+Arkansas,Flu,2021-01-01,125.02
+Arkansas,Flu,2021-02-01,108.0
+Arkansas,Flu,2021-03-01,114.06
+Arkansas,Flu,2021-04-01,116.99
+Arkansas,Flu,2021-05-01,128.29
+Arkansas,Flu,2021-06-01,112.43
+Arkansas,Flu,2021-07-01,91.16
+Arkansas,Flu,2021-08-01,102.31
+Arkansas,Flu,2021-09-01,114.72
+Arkansas,Flu,2021-10-01,86.83
+Arkansas,Flu,2021-11-01,73.92
+Arkansas,Flu,2021-12-01,112.8
+Arkansas,Flu,2022-01-01,100.68
+Arkansas,Flu,2022-02-01,109.47
+Arkansas,Flu,2022-03-01,118.44
+Arkansas,Flu,2022-04-01,110.48
+Arkansas,Flu,2022-05-01,107.7
+Arkansas,Flu,2022-06-01,103.66
+Arkansas,Flu,2022-07-01,111.99
+Arkansas,Flu,2022-08-01,99.76
+Arkansas,Flu,2022-09-01,94.78
+Arkansas,Flu,2022-10-01,98.6
+Arkansas,Flu,2022-11-01,94.23
+Arkansas,Flu,2022-12-01,103.25
+Arkansas,Flu,2023-01-01,91.77
+Arkansas,Flu,2023-02-01,106.9
+Arkansas,Flu,2023-03-01,127.61
+Arkansas,Flu,2023-04-01,112.43
+Arkansas,Flu,2023-05-01,126.85
+Arkansas,Flu,2023-06-01,122.36
+Arkansas,Flu,2023-07-01,94.29
+Arkansas,Flu,2023-08-01,112.93
+Arkansas,Flu,2023-09-01,96.75
+Arkansas,Flu,2023-10-01,105.09
+Arkansas,Flu,2023-11-01,103.49
+Arkansas,Flu,2023-12-01,114.67
+Arkansas,Flu,2024-01-01,120.87
+Arkansas,Flu,2024-02-01,90.43
+Arkansas,Flu,2024-03-01,120.02
+Arkansas,Flu,2024-04-01,100.8
+Arkansas,Flu,2024-05-01,122.94
+Arkansas,Flu,2024-06-01,118.02
+Arkansas,Flu,2024-07-01,91.8
+Arkansas,Flu,2024-08-01,94.92
+Arkansas,Flu,2024-09-01,97.23
+Arkansas,Flu,2024-10-01,77.37
+Arkansas,Flu,2024-11-01,96.84
+Arkansas,Flu,2024-12-01,112.88
+Arkansas,Covid,2020-01-01,101.2
+Arkansas,Covid,2020-02-01,100.18
+Arkansas,Covid,2020-03-01,120.56
+Arkansas,Covid,2020-04-01,118.03
+Arkansas,Covid,2020-05-01,104.66
+Arkansas,Covid,2020-06-01,107.59
+Arkansas,Covid,2020-07-01,79.12
+Arkansas,Covid,2020-08-01,104.12
+Arkansas,Covid,2020-09-01,91.43
+Arkansas,Covid,2020-10-01,95.87
+Arkansas,Covid,2020-11-01,97.86
+Arkansas,Covid,2020-12-01,101.28
+Arkansas,Covid,2021-01-01,108.96
+Arkansas,Covid,2021-02-01,115.6
+Arkansas,Covid,2021-03-01,109.15
+Arkansas,Covid,2021-04-01,118.42
+Arkansas,Covid,2021-05-01,99.75
+Arkansas,Covid,2021-06-01,100.29
+Arkansas,Covid,2021-07-01,106.87
+Arkansas,Covid,2021-08-01,120.37
+Arkansas,Covid,2021-09-01,118.7
+Arkansas,Covid,2021-10-01,88.18
+Arkansas,Covid,2021-11-01,104.09
+Arkansas,Covid,2021-12-01,124.12
+Arkansas,Covid,2022-01-01,102.44
+Arkansas,Covid,2022-02-01,109.94
+Arkansas,Covid,2022-03-01,111.59
+Arkansas,Covid,2022-04-01,105.06
+Arkansas,Covid,2022-05-01,107.13
+Arkansas,Covid,2022-06-01,110.82
+Arkansas,Covid,2022-07-01,90.49
+Arkansas,Covid,2022-08-01,109.96
+Arkansas,Covid,2022-09-01,101.65
+Arkansas,Covid,2022-10-01,87.0
+Arkansas,Covid,2022-11-01,95.82
+Arkansas,Covid,2022-12-01,101.54
+Arkansas,Covid,2023-01-01,97.23
+Arkansas,Covid,2023-02-01,104.95
+Arkansas,Covid,2023-03-01,100.57
+Arkansas,Covid,2023-04-01,110.86
+Arkansas,Covid,2023-05-01,120.33
+Arkansas,Covid,2023-06-01,107.06
+Arkansas,Covid,2023-07-01,88.79
+Arkansas,Covid,2023-08-01,113.18
+Arkansas,Covid,2023-09-01,100.85
+Arkansas,Covid,2023-10-01,100.78
+Arkansas,Covid,2023-11-01,97.62
+Arkansas,Covid,2023-12-01,103.26
+Arkansas,Covid,2024-01-01,108.77
+Arkansas,Covid,2024-02-01,99.18
+Arkansas,Covid,2024-03-01,126.0
+Arkansas,Covid,2024-04-01,103.6
+Arkansas,Covid,2024-05-01,112.98
+Arkansas,Covid,2024-06-01,106.68
+Arkansas,Covid,2024-07-01,91.84
+Arkansas,Covid,2024-08-01,100.47
+Arkansas,Covid,2024-09-01,104.52
+Arkansas,Covid,2024-10-01,90.07
+Arkansas,Covid,2024-11-01,119.64
+Arkansas,Covid,2024-12-01,109.51
+California,Flu,2020-01-01,63.97
+California,Flu,2020-02-01,51.05
+California,Flu,2020-03-01,66.66
+California,Flu,2020-04-01,68.55
+California,Flu,2020-05-01,87.27
+California,Flu,2020-06-01,63.47
+California,Flu,2020-07-01,71.5
+California,Flu,2020-08-01,44.09
+California,Flu,2020-09-01,41.01
+California,Flu,2020-10-01,55.62
+California,Flu,2020-11-01,40.19
+California,Flu,2020-12-01,49.11
+California,Flu,2021-01-01,55.54
+California,Flu,2021-02-01,66.29
+California,Flu,2021-03-01,79.1
+California,Flu,2021-04-01,82.21
+California,Flu,2021-05-01,66.57
+California,Flu,2021-06-01,66.18
+California,Flu,2021-07-01,62.83
+California,Flu,2021-08-01,62.96
+California,Flu,2021-09-01,58.49
+California,Flu,2021-10-01,70.81
+California,Flu,2021-11-01,53.56
+California,Flu,2021-12-01,68.24
+California,Flu,2022-01-01,46.5
+California,Flu,2022-02-01,61.82
+California,Flu,2022-03-01,76.39
+California,Flu,2022-04-01,82.7
+California,Flu,2022-05-01,73.74
+California,Flu,2022-06-01,72.83
+California,Flu,2022-07-01,47.26
+California,Flu,2022-08-01,48.18
+California,Flu,2022-09-01,63.06
+California,Flu,2022-10-01,59.9
+California,Flu,2022-11-01,45.43
+California,Flu,2022-12-01,60.04
+California,Flu,2023-01-01,50.17
+California,Flu,2023-02-01,67.35
+California,Flu,2023-03-01,66.71
+California,Flu,2023-04-01,82.42
+California,Flu,2023-05-01,86.09
+California,Flu,2023-06-01,58.31
+California,Flu,2023-07-01,82.27
+California,Flu,2023-08-01,59.81
+California,Flu,2023-09-01,59.44
+California,Flu,2023-10-01,53.62
+California,Flu,2023-11-01,60.11
+California,Flu,2023-12-01,58.08
+California,Flu,2024-01-01,70.75
+California,Flu,2024-02-01,78.1
+California,Flu,2024-03-01,80.61
+California,Flu,2024-04-01,74.84
+California,Flu,2024-05-01,69.9
+California,Flu,2024-06-01,51.46
+California,Flu,2024-07-01,76.68
+California,Flu,2024-08-01,56.7
+California,Flu,2024-09-01,76.77
+California,Flu,2024-10-01,60.98
+California,Flu,2024-11-01,59.97
+California,Flu,2024-12-01,70.26
+California,Covid,2020-01-01,50.87
+California,Covid,2020-02-01,46.24
+California,Covid,2020-03-01,69.89
+California,Covid,2020-04-01,75.93
+California,Covid,2020-05-01,55.23
+California,Covid,2020-06-01,58.8
+California,Covid,2020-07-01,58.39
+California,Covid,2020-08-01,60.45
+California,Covid,2020-09-01,48.83
+California,Covid,2020-10-01,39.55
+California,Covid,2020-11-01,43.94
+California,Covid,2020-12-01,47.99
+California,Covid,2021-01-01,40.28
+California,Covid,2021-02-01,57.87
+California,Covid,2021-03-01,72.55
+California,Covid,2021-04-01,83.26
+California,Covid,2021-05-01,62.81
+California,Covid,2021-06-01,58.26
+California,Covid,2021-07-01,66.97
+California,Covid,2021-08-01,29.5
+California,Covid,2021-09-01,61.62
+California,Covid,2021-10-01,56.35
+California,Covid,2021-11-01,66.25
+California,Covid,2021-12-01,73.23
+California,Covid,2022-01-01,60.89
+California,Covid,2022-02-01,73.61
+California,Covid,2022-03-01,71.14
+California,Covid,2022-04-01,99.43
+California,Covid,2022-05-01,72.08
+California,Covid,2022-06-01,87.48
+California,Covid,2022-07-01,75.86
+California,Covid,2022-08-01,66.27
+California,Covid,2022-09-01,59.81
+California,Covid,2022-10-01,57.35
+California,Covid,2022-11-01,50.83
+California,Covid,2022-12-01,58.86
+California,Covid,2023-01-01,70.95
+California,Covid,2023-02-01,77.06
+California,Covid,2023-03-01,71.97
+California,Covid,2023-04-01,84.21
+California,Covid,2023-05-01,69.3
+California,Covid,2023-06-01,60.83
+California,Covid,2023-07-01,68.18
+California,Covid,2023-08-01,63.62
+California,Covid,2023-09-01,75.33
+California,Covid,2023-10-01,72.76
+California,Covid,2023-11-01,74.85
+California,Covid,2023-12-01,69.63
+California,Covid,2024-01-01,68.48
+California,Covid,2024-02-01,76.01
+California,Covid,2024-03-01,76.81
+California,Covid,2024-04-01,86.12
+California,Covid,2024-05-01,100.02
+California,Covid,2024-06-01,87.68
+California,Covid,2024-07-01,58.0
+California,Covid,2024-08-01,69.99
+California,Covid,2024-09-01,60.82
+California,Covid,2024-10-01,71.41
+California,Covid,2024-11-01,70.39
+California,Covid,2024-12-01,67.32
+Colorado,Flu,2020-01-01,105.29
+Colorado,Flu,2020-02-01,85.7
+Colorado,Flu,2020-03-01,91.12
+Colorado,Flu,2020-04-01,109.67
+Colorado,Flu,2020-05-01,100.65
+Colorado,Flu,2020-06-01,91.22
+Colorado,Flu,2020-07-01,89.58
+Colorado,Flu,2020-08-01,85.12
+Colorado,Flu,2020-09-01,92.02
+Colorado,Flu,2020-10-01,82.14
+Colorado,Flu,2020-11-01,78.59
+Colorado,Flu,2020-12-01,81.55
+Colorado,Flu,2021-01-01,121.31
+Colorado,Flu,2021-02-01,96.13
+Colorado,Flu,2021-03-01,98.65
+Colorado,Flu,2021-04-01,93.54
+Colorado,Flu,2021-05-01,105.19
+Colorado,Flu,2021-06-01,121.13
+Colorado,Flu,2021-07-01,85.54
+Colorado,Flu,2021-08-01,84.36
+Colorado,Flu,2021-09-01,87.34
+Colorado,Flu,2021-10-01,97.86
+Colorado,Flu,2021-11-01,90.42
+Colorado,Flu,2021-12-01,70.39
+Colorado,Flu,2022-01-01,92.31
+Colorado,Flu,2022-02-01,104.95
+Colorado,Flu,2022-03-01,98.5
+Colorado,Flu,2022-04-01,103.21
+Colorado,Flu,2022-05-01,92.36
+Colorado,Flu,2022-06-01,85.97
+Colorado,Flu,2022-07-01,94.17
+Colorado,Flu,2022-08-01,90.95
+Colorado,Flu,2022-09-01,92.5
+Colorado,Flu,2022-10-01,86.09
+Colorado,Flu,2022-11-01,79.69
+Colorado,Flu,2022-12-01,91.22
+Colorado,Flu,2023-01-01,95.49
+Colorado,Flu,2023-02-01,104.4
+Colorado,Flu,2023-03-01,98.87
+Colorado,Flu,2023-04-01,94.15
+Colorado,Flu,2023-05-01,103.37
+Colorado,Flu,2023-06-01,98.29
+Colorado,Flu,2023-07-01,93.43
+Colorado,Flu,2023-08-01,83.06
+Colorado,Flu,2023-09-01,81.85
+Colorado,Flu,2023-10-01,72.76
+Colorado,Flu,2023-11-01,93.74
+Colorado,Flu,2023-12-01,107.77
+Colorado,Flu,2024-01-01,108.97
+Colorado,Flu,2024-02-01,76.71
+Colorado,Flu,2024-03-01,87.19
+Colorado,Flu,2024-04-01,118.57
+Colorado,Flu,2024-05-01,103.2
+Colorado,Flu,2024-06-01,107.85
+Colorado,Flu,2024-07-01,94.91
+Colorado,Flu,2024-08-01,89.16
+Colorado,Flu,2024-09-01,90.63
+Colorado,Flu,2024-10-01,95.09
+Colorado,Flu,2024-11-01,87.48
+Colorado,Flu,2024-12-01,102.39
+Colorado,Covid,2020-01-01,84.15
+Colorado,Covid,2020-02-01,90.72
+Colorado,Covid,2020-03-01,94.55
+Colorado,Covid,2020-04-01,101.7
+Colorado,Covid,2020-05-01,99.79
+Colorado,Covid,2020-06-01,93.73
+Colorado,Covid,2020-07-01,93.38
+Colorado,Covid,2020-08-01,83.2
+Colorado,Covid,2020-09-01,68.49
+Colorado,Covid,2020-10-01,89.58
+Colorado,Covid,2020-11-01,81.86
+Colorado,Covid,2020-12-01,87.57
+Colorado,Covid,2021-01-01,105.35
+Colorado,Covid,2021-02-01,91.34
+Colorado,Covid,2021-03-01,84.37
+Colorado,Covid,2021-04-01,102.75
+Colorado,Covid,2021-05-01,89.11
+Colorado,Covid,2021-06-01,87.87
+Colorado,Covid,2021-07-01,109.13
+Colorado,Covid,2021-08-01,88.16
+Colorado,Covid,2021-09-01,72.5
+Colorado,Covid,2021-10-01,87.74
+Colorado,Covid,2021-11-01,94.56
+Colorado,Covid,2021-12-01,94.57
+Colorado,Covid,2022-01-01,92.92
+Colorado,Covid,2022-02-01,86.38
+Colorado,Covid,2022-03-01,110.08
+Colorado,Covid,2022-04-01,121.06
+Colorado,Covid,2022-05-01,101.75
+Colorado,Covid,2022-06-01,99.33
+Colorado,Covid,2022-07-01,86.2
+Colorado,Covid,2022-08-01,100.88
+Colorado,Covid,2022-09-01,89.41
+Colorado,Covid,2022-10-01,79.14
+Colorado,Covid,2022-11-01,84.83
+Colorado,Covid,2022-12-01,81.61
+Colorado,Covid,2023-01-01,92.91
+Colorado,Covid,2023-02-01,107.12
+Colorado,Covid,2023-03-01,107.07
+Colorado,Covid,2023-04-01,122.54
+Colorado,Covid,2023-05-01,106.17
+Colorado,Covid,2023-06-01,84.93
+Colorado,Covid,2023-07-01,101.63
+Colorado,Covid,2023-08-01,74.4
+Colorado,Covid,2023-09-01,87.14
+Colorado,Covid,2023-10-01,76.05
+Colorado,Covid,2023-11-01,106.08
+Colorado,Covid,2023-12-01,87.26
+Colorado,Covid,2024-01-01,99.64
+Colorado,Covid,2024-02-01,104.58
+Colorado,Covid,2024-03-01,97.38
+Colorado,Covid,2024-04-01,105.15
+Colorado,Covid,2024-05-01,97.84
+Colorado,Covid,2024-06-01,97.57
+Colorado,Covid,2024-07-01,89.87
+Colorado,Covid,2024-08-01,114.57
+Colorado,Covid,2024-09-01,104.03
+Colorado,Covid,2024-10-01,73.87
+Colorado,Covid,2024-11-01,94.15
+Colorado,Covid,2024-12-01,90.43
+Connecticut,Flu,2020-01-01,118.43
+Connecticut,Flu,2020-02-01,126.27
+Connecticut,Flu,2020-03-01,110.03
+Connecticut,Flu,2020-04-01,94.49
+Connecticut,Flu,2020-05-01,111.42
+Connecticut,Flu,2020-06-01,101.53
+Connecticut,Flu,2020-07-01,108.6
+Connecticut,Flu,2020-08-01,99.69
+Connecticut,Flu,2020-09-01,87.97
+Connecticut,Flu,2020-10-01,87.44
+Connecticut,Flu,2020-11-01,71.23
+Connecticut,Flu,2020-12-01,88.86
+Connecticut,Flu,2021-01-01,90.24
+Connecticut,Flu,2021-02-01,124.37
+Connecticut,Flu,2021-03-01,110.6
+Connecticut,Flu,2021-04-01,114.46
+Connecticut,Flu,2021-05-01,107.5
+Connecticut,Flu,2021-06-01,102.92
+Connecticut,Flu,2021-07-01,99.4
+Connecticut,Flu,2021-08-01,107.09
+Connecticut,Flu,2021-09-01,104.92
+Connecticut,Flu,2021-10-01,98.66
+Connecticut,Flu,2021-11-01,108.4
+Connecticut,Flu,2021-12-01,102.57
+Connecticut,Flu,2022-01-01,104.81
+Connecticut,Flu,2022-02-01,110.85
+Connecticut,Flu,2022-03-01,128.72
+Connecticut,Flu,2022-04-01,108.82
+Connecticut,Flu,2022-05-01,107.98
+Connecticut,Flu,2022-06-01,117.22
+Connecticut,Flu,2022-07-01,132.68
+Connecticut,Flu,2022-08-01,105.22
+Connecticut,Flu,2022-09-01,117.79
+Connecticut,Flu,2022-10-01,84.69
+Connecticut,Flu,2022-11-01,96.58
+Connecticut,Flu,2022-12-01,135.34
+Connecticut,Flu,2023-01-01,109.2
+Connecticut,Flu,2023-02-01,105.45
+Connecticut,Flu,2023-03-01,96.05
+Connecticut,Flu,2023-04-01,123.46
+Connecticut,Flu,2023-05-01,152.2
+Connecticut,Flu,2023-06-01,122.22
+Connecticut,Flu,2023-07-01,112.28
+Connecticut,Flu,2023-08-01,119.81
+Connecticut,Flu,2023-09-01,97.54
+Connecticut,Flu,2023-10-01,124.07
+Connecticut,Flu,2023-11-01,101.12
+Connecticut,Flu,2023-12-01,118.35
+Connecticut,Flu,2024-01-01,114.78
+Connecticut,Flu,2024-02-01,140.45
+Connecticut,Flu,2024-03-01,121.09
+Connecticut,Flu,2024-04-01,152.57
+Connecticut,Flu,2024-05-01,148.06
+Connecticut,Flu,2024-06-01,119.98
+Connecticut,Flu,2024-07-01,129.89
+Connecticut,Flu,2024-08-01,114.32
+Connecticut,Flu,2024-09-01,129.69
+Connecticut,Flu,2024-10-01,98.77
+Connecticut,Flu,2024-11-01,120.43
+Connecticut,Flu,2024-12-01,112.3
+Connecticut,Covid,2020-01-01,102.73
+Connecticut,Covid,2020-02-01,92.47
+Connecticut,Covid,2020-03-01,98.63
+Connecticut,Covid,2020-04-01,121.64
+Connecticut,Covid,2020-05-01,114.38
+Connecticut,Covid,2020-06-01,109.48
+Connecticut,Covid,2020-07-01,96.05
+Connecticut,Covid,2020-08-01,110.07
+Connecticut,Covid,2020-09-01,102.3
+Connecticut,Covid,2020-10-01,105.23
+Connecticut,Covid,2020-11-01,91.39
+Connecticut,Covid,2020-12-01,103.02
+Connecticut,Covid,2021-01-01,98.09
+Connecticut,Covid,2021-02-01,111.58
+Connecticut,Covid,2021-03-01,110.33
+Connecticut,Covid,2021-04-01,128.44
+Connecticut,Covid,2021-05-01,100.03
+Connecticut,Covid,2021-06-01,106.06
+Connecticut,Covid,2021-07-01,115.23
+Connecticut,Covid,2021-08-01,105.57
+Connecticut,Covid,2021-09-01,96.48
+Connecticut,Covid,2021-10-01,93.51
+Connecticut,Covid,2021-11-01,92.58
+Connecticut,Covid,2021-12-01,112.38
+Connecticut,Covid,2022-01-01,113.1
+Connecticut,Covid,2022-02-01,118.39
+Connecticut,Covid,2022-03-01,117.8
+Connecticut,Covid,2022-04-01,124.71
+Connecticut,Covid,2022-05-01,104.47
+Connecticut,Covid,2022-06-01,109.31
+Connecticut,Covid,2022-07-01,101.23
+Connecticut,Covid,2022-08-01,93.13
+Connecticut,Covid,2022-09-01,112.04
+Connecticut,Covid,2022-10-01,122.63
+Connecticut,Covid,2022-11-01,89.19
+Connecticut,Covid,2022-12-01,109.06
+Connecticut,Covid,2023-01-01,125.2
+Connecticut,Covid,2023-02-01,136.84
+Connecticut,Covid,2023-03-01,108.85
+Connecticut,Covid,2023-04-01,119.59
+Connecticut,Covid,2023-05-01,100.08
+Connecticut,Covid,2023-06-01,110.84
+Connecticut,Covid,2023-07-01,115.18
+Connecticut,Covid,2023-08-01,122.08
+Connecticut,Covid,2023-09-01,99.63
+Connecticut,Covid,2023-10-01,102.88
+Connecticut,Covid,2023-11-01,106.13
+Connecticut,Covid,2023-12-01,124.75
+Connecticut,Covid,2024-01-01,137.13
+Connecticut,Covid,2024-02-01,144.52
+Connecticut,Covid,2024-03-01,141.04
+Connecticut,Covid,2024-04-01,126.58
+Connecticut,Covid,2024-05-01,136.84
+Connecticut,Covid,2024-06-01,124.2
+Connecticut,Covid,2024-07-01,126.51
+Connecticut,Covid,2024-08-01,101.55
+Connecticut,Covid,2024-09-01,107.17
+Connecticut,Covid,2024-10-01,119.63
+Connecticut,Covid,2024-11-01,133.42
+Connecticut,Covid,2024-12-01,146.82
+Delaware,Flu,2020-01-01,41.86
+Delaware,Flu,2020-02-01,56.3
+Delaware,Flu,2020-03-01,80.76
+Delaware,Flu,2020-04-01,55.36
+Delaware,Flu,2020-05-01,73.64
+Delaware,Flu,2020-06-01,66.07
+Delaware,Flu,2020-07-01,56.54
+Delaware,Flu,2020-08-01,70.54
+Delaware,Flu,2020-09-01,56.86
+Delaware,Flu,2020-10-01,46.2
+Delaware,Flu,2020-11-01,57.88
+Delaware,Flu,2020-12-01,51.19
+Delaware,Flu,2021-01-01,49.55
+Delaware,Flu,2021-02-01,62.5
+Delaware,Flu,2021-03-01,48.48
+Delaware,Flu,2021-04-01,78.1
+Delaware,Flu,2021-05-01,67.78
+Delaware,Flu,2021-06-01,72.04
+Delaware,Flu,2021-07-01,71.51
+Delaware,Flu,2021-08-01,39.44
+Delaware,Flu,2021-09-01,48.48
+Delaware,Flu,2021-10-01,40.46
+Delaware,Flu,2021-11-01,47.49
+Delaware,Flu,2021-12-01,54.63
+Delaware,Flu,2022-01-01,65.05
+Delaware,Flu,2022-02-01,78.76
+Delaware,Flu,2022-03-01,72.32
+Delaware,Flu,2022-04-01,57.92
+Delaware,Flu,2022-05-01,72.07
+Delaware,Flu,2022-06-01,68.77
+Delaware,Flu,2022-07-01,90.31
+Delaware,Flu,2022-08-01,62.33
+Delaware,Flu,2022-09-01,67.9
+Delaware,Flu,2022-10-01,45.76
+Delaware,Flu,2022-11-01,63.2
+Delaware,Flu,2022-12-01,55.74
+Delaware,Flu,2023-01-01,65.41
+Delaware,Flu,2023-02-01,68.16
+Delaware,Flu,2023-03-01,80.82
+Delaware,Flu,2023-04-01,72.55
+Delaware,Flu,2023-05-01,73.52
+Delaware,Flu,2023-06-01,52.89
+Delaware,Flu,2023-07-01,60.87
+Delaware,Flu,2023-08-01,57.04
+Delaware,Flu,2023-09-01,58.65
+Delaware,Flu,2023-10-01,47.19
+Delaware,Flu,2023-11-01,50.54
+Delaware,Flu,2023-12-01,58.01
+Delaware,Flu,2024-01-01,57.94
+Delaware,Flu,2024-02-01,75.66
+Delaware,Flu,2024-03-01,75.92
+Delaware,Flu,2024-04-01,83.52
+Delaware,Flu,2024-05-01,76.67
+Delaware,Flu,2024-06-01,74.51
+Delaware,Flu,2024-07-01,77.5
+Delaware,Flu,2024-08-01,63.57
+Delaware,Flu,2024-09-01,54.6
+Delaware,Flu,2024-10-01,53.72
+Delaware,Flu,2024-11-01,68.0
+Delaware,Flu,2024-12-01,49.97
+Delaware,Covid,2020-01-01,53.56
+Delaware,Covid,2020-02-01,59.52
+Delaware,Covid,2020-03-01,53.16
+Delaware,Covid,2020-04-01,87.19
+Delaware,Covid,2020-05-01,59.44
+Delaware,Covid,2020-06-01,68.58
+Delaware,Covid,2020-07-01,54.46
+Delaware,Covid,2020-08-01,52.5
+Delaware,Covid,2020-09-01,70.34
+Delaware,Covid,2020-10-01,40.46
+Delaware,Covid,2020-11-01,56.44
+Delaware,Covid,2020-12-01,46.49
+Delaware,Covid,2021-01-01,59.87
+Delaware,Covid,2021-02-01,68.55
+Delaware,Covid,2021-03-01,69.54
+Delaware,Covid,2021-04-01,86.28
+Delaware,Covid,2021-05-01,71.0
+Delaware,Covid,2021-06-01,57.32
+Delaware,Covid,2021-07-01,62.09
+Delaware,Covid,2021-08-01,57.05
+Delaware,Covid,2021-09-01,63.6
+Delaware,Covid,2021-10-01,48.84
+Delaware,Covid,2021-11-01,53.96
+Delaware,Covid,2021-12-01,59.62
+Delaware,Covid,2022-01-01,70.88
+Delaware,Covid,2022-02-01,78.05
+Delaware,Covid,2022-03-01,64.8
+Delaware,Covid,2022-04-01,68.82
+Delaware,Covid,2022-05-01,69.22
+Delaware,Covid,2022-06-01,74.66
+Delaware,Covid,2022-07-01,61.4
+Delaware,Covid,2022-08-01,64.99
+Delaware,Covid,2022-09-01,55.99
+Delaware,Covid,2022-10-01,66.07
+Delaware,Covid,2022-11-01,55.28
+Delaware,Covid,2022-12-01,56.99
+Delaware,Covid,2023-01-01,49.19
+Delaware,Covid,2023-02-01,58.97
+Delaware,Covid,2023-03-01,68.83
+Delaware,Covid,2023-04-01,83.82
+Delaware,Covid,2023-05-01,75.29
+Delaware,Covid,2023-06-01,67.56
+Delaware,Covid,2023-07-01,65.86
+Delaware,Covid,2023-08-01,55.83
+Delaware,Covid,2023-09-01,49.65
+Delaware,Covid,2023-10-01,43.9
+Delaware,Covid,2023-11-01,58.55
+Delaware,Covid,2023-12-01,61.61
+Delaware,Covid,2024-01-01,52.01
+Delaware,Covid,2024-02-01,67.57
+Delaware,Covid,2024-03-01,58.47
+Delaware,Covid,2024-04-01,64.44
+Delaware,Covid,2024-05-01,98.11
+Delaware,Covid,2024-06-01,67.21
+Delaware,Covid,2024-07-01,67.87
+Delaware,Covid,2024-08-01,45.37
+Delaware,Covid,2024-09-01,51.88
+Delaware,Covid,2024-10-01,60.35
+Delaware,Covid,2024-11-01,57.9
+Delaware,Covid,2024-12-01,53.26
+Florida,Flu,2020-01-01,31.62
+Florida,Flu,2020-02-01,40.87
+Florida,Flu,2020-03-01,58.48
+Florida,Flu,2020-04-01,63.82
+Florida,Flu,2020-05-01,47.05
+Florida,Flu,2020-06-01,53.89
+Florida,Flu,2020-07-01,57.44
+Florida,Flu,2020-08-01,54.68
+Florida,Flu,2020-09-01,56.17
+Florida,Flu,2020-10-01,38.01
+Florida,Flu,2020-11-01,42.81
+Florida,Flu,2020-12-01,56.16
+Florida,Flu,2021-01-01,53.86
+Florida,Flu,2021-02-01,60.34
+Florida,Flu,2021-03-01,67.59
+Florida,Flu,2021-04-01,58.97
+Florida,Flu,2021-05-01,67.07
+Florida,Flu,2021-06-01,68.53
+Florida,Flu,2021-07-01,69.48
+Florida,Flu,2021-08-01,43.5
+Florida,Flu,2021-09-01,41.84
+Florida,Flu,2021-10-01,51.97
+Florida,Flu,2021-11-01,61.25
+Florida,Flu,2021-12-01,56.5
+Florida,Flu,2022-01-01,74.67
+Florida,Flu,2022-02-01,68.28
+Florida,Flu,2022-03-01,53.75
+Florida,Flu,2022-04-01,84.91
+Florida,Flu,2022-05-01,64.43
+Florida,Flu,2022-06-01,54.25
+Florida,Flu,2022-07-01,54.32
+Florida,Flu,2022-08-01,56.97
+Florida,Flu,2022-09-01,54.76
+Florida,Flu,2022-10-01,58.11
+Florida,Flu,2022-11-01,63.19
+Florida,Flu,2022-12-01,48.45
+Florida,Flu,2023-01-01,67.96
+Florida,Flu,2023-02-01,56.11
+Florida,Flu,2023-03-01,75.97
+Florida,Flu,2023-04-01,54.77
+Florida,Flu,2023-05-01,65.49
+Florida,Flu,2023-06-01,86.9
+Florida,Flu,2023-07-01,42.01
+Florida,Flu,2023-08-01,56.86
+Florida,Flu,2023-09-01,62.85
+Florida,Flu,2023-10-01,60.79
+Florida,Flu,2023-11-01,68.82
+Florida,Flu,2023-12-01,48.83
+Florida,Flu,2024-01-01,68.49
+Florida,Flu,2024-02-01,71.29
+Florida,Flu,2024-03-01,48.86
+Florida,Flu,2024-04-01,70.78
+Florida,Flu,2024-05-01,67.1
+Florida,Flu,2024-06-01,80.01
+Florida,Flu,2024-07-01,56.41
+Florida,Flu,2024-08-01,46.62
+Florida,Flu,2024-09-01,65.27
+Florida,Flu,2024-10-01,45.24
+Florida,Flu,2024-11-01,70.14
+Florida,Flu,2024-12-01,59.13
+Florida,Covid,2020-01-01,50.8
+Florida,Covid,2020-02-01,82.79
+Florida,Covid,2020-03-01,88.74
+Florida,Covid,2020-04-01,51.52
+Florida,Covid,2020-05-01,61.75
+Florida,Covid,2020-06-01,54.91
+Florida,Covid,2020-07-01,43.79
+Florida,Covid,2020-08-01,42.26
+Florida,Covid,2020-09-01,45.1
+Florida,Covid,2020-10-01,38.08
+Florida,Covid,2020-11-01,48.13
+Florida,Covid,2020-12-01,60.88
+Florida,Covid,2021-01-01,58.05
+Florida,Covid,2021-02-01,48.17
+Florida,Covid,2021-03-01,56.43
+Florida,Covid,2021-04-01,71.11
+Florida,Covid,2021-05-01,55.4
+Florida,Covid,2021-06-01,49.21
+Florida,Covid,2021-07-01,51.29
+Florida,Covid,2021-08-01,49.61
+Florida,Covid,2021-09-01,47.44
+Florida,Covid,2021-10-01,34.77
+Florida,Covid,2021-11-01,54.46
+Florida,Covid,2021-12-01,40.75
+Florida,Covid,2022-01-01,52.01
+Florida,Covid,2022-02-01,49.07
+Florida,Covid,2022-03-01,63.0
+Florida,Covid,2022-04-01,50.03
+Florida,Covid,2022-05-01,59.6
+Florida,Covid,2022-06-01,78.77
+Florida,Covid,2022-07-01,53.04
+Florida,Covid,2022-08-01,52.66
+Florida,Covid,2022-09-01,32.23
+Florida,Covid,2022-10-01,64.83
+Florida,Covid,2022-11-01,69.11
+Florida,Covid,2022-12-01,39.34
+Florida,Covid,2023-01-01,67.41
+Florida,Covid,2023-02-01,72.35
+Florida,Covid,2023-03-01,69.62
+Florida,Covid,2023-04-01,67.54
+Florida,Covid,2023-05-01,73.86
+Florida,Covid,2023-06-01,52.77
+Florida,Covid,2023-07-01,59.28
+Florida,Covid,2023-08-01,77.69
+Florida,Covid,2023-09-01,26.12
+Florida,Covid,2023-10-01,60.56
+Florida,Covid,2023-11-01,56.17
+Florida,Covid,2023-12-01,45.26
+Florida,Covid,2024-01-01,87.65
+Florida,Covid,2024-02-01,64.66
+Florida,Covid,2024-03-01,59.65
+Florida,Covid,2024-04-01,68.73
+Florida,Covid,2024-05-01,67.04
+Florida,Covid,2024-06-01,55.92
+Florida,Covid,2024-07-01,71.46
+Florida,Covid,2024-08-01,75.86
+Florida,Covid,2024-09-01,80.22
+Florida,Covid,2024-10-01,58.78
+Florida,Covid,2024-11-01,54.7
+Florida,Covid,2024-12-01,58.16
+Georgia,Flu,2020-01-01,97.67
+Georgia,Flu,2020-02-01,124.11
+Georgia,Flu,2020-03-01,116.73
+Georgia,Flu,2020-04-01,104.22
+Georgia,Flu,2020-05-01,102.71
+Georgia,Flu,2020-06-01,100.51
+Georgia,Flu,2020-07-01,121.59
+Georgia,Flu,2020-08-01,100.12
+Georgia,Flu,2020-09-01,92.18
+Georgia,Flu,2020-10-01,96.84
+Georgia,Flu,2020-11-01,100.68
+Georgia,Flu,2020-12-01,93.92
+Georgia,Flu,2021-01-01,102.95
+Georgia,Flu,2021-02-01,125.57
+Georgia,Flu,2021-03-01,123.0
+Georgia,Flu,2021-04-01,144.18
+Georgia,Flu,2021-05-01,132.62
+Georgia,Flu,2021-06-01,117.54
+Georgia,Flu,2021-07-01,113.29
+Georgia,Flu,2021-08-01,106.25
+Georgia,Flu,2021-09-01,89.83
+Georgia,Flu,2021-10-01,125.8
+Georgia,Flu,2021-11-01,109.95
+Georgia,Flu,2021-12-01,109.49
+Georgia,Flu,2022-01-01,138.49
+Georgia,Flu,2022-02-01,115.14
+Georgia,Flu,2022-03-01,120.72
+Georgia,Flu,2022-04-01,143.15
+Georgia,Flu,2022-05-01,128.75
+Georgia,Flu,2022-06-01,124.6
+Georgia,Flu,2022-07-01,113.29
+Georgia,Flu,2022-08-01,103.74
+Georgia,Flu,2022-09-01,118.89
+Georgia,Flu,2022-10-01,122.78
+Georgia,Flu,2022-11-01,100.15
+Georgia,Flu,2022-12-01,121.75
+Georgia,Flu,2023-01-01,126.16
+Georgia,Flu,2023-02-01,129.88
+Georgia,Flu,2023-03-01,133.92
+Georgia,Flu,2023-04-01,143.0
+Georgia,Flu,2023-05-01,152.01
+Georgia,Flu,2023-06-01,133.47
+Georgia,Flu,2023-07-01,137.46
+Georgia,Flu,2023-08-01,118.03
+Georgia,Flu,2023-09-01,113.05
+Georgia,Flu,2023-10-01,116.98
+Georgia,Flu,2023-11-01,115.85
+Georgia,Flu,2023-12-01,124.83
+Georgia,Flu,2024-01-01,119.76
+Georgia,Flu,2024-02-01,129.32
+Georgia,Flu,2024-03-01,124.69
+Georgia,Flu,2024-04-01,136.61
+Georgia,Flu,2024-05-01,142.75
+Georgia,Flu,2024-06-01,114.41
+Georgia,Flu,2024-07-01,129.29
+Georgia,Flu,2024-08-01,124.03
+Georgia,Flu,2024-09-01,124.02
+Georgia,Flu,2024-10-01,116.64
+Georgia,Flu,2024-11-01,119.69
+Georgia,Flu,2024-12-01,131.64
+Georgia,Covid,2020-01-01,92.21
+Georgia,Covid,2020-02-01,118.85
+Georgia,Covid,2020-03-01,129.54
+Georgia,Covid,2020-04-01,125.35
+Georgia,Covid,2020-05-01,119.35
+Georgia,Covid,2020-06-01,118.53
+Georgia,Covid,2020-07-01,116.62
+Georgia,Covid,2020-08-01,107.91
+Georgia,Covid,2020-09-01,102.63
+Georgia,Covid,2020-10-01,106.37
+Georgia,Covid,2020-11-01,132.78
+Georgia,Covid,2020-12-01,94.75
+Georgia,Covid,2021-01-01,107.49
+Georgia,Covid,2021-02-01,98.06
+Georgia,Covid,2021-03-01,110.94
+Georgia,Covid,2021-04-01,126.02
+Georgia,Covid,2021-05-01,120.97
+Georgia,Covid,2021-06-01,102.66
+Georgia,Covid,2021-07-01,108.28
+Georgia,Covid,2021-08-01,111.86
+Georgia,Covid,2021-09-01,95.04
+Georgia,Covid,2021-10-01,98.62
+Georgia,Covid,2021-11-01,104.95
+Georgia,Covid,2021-12-01,125.42
+Georgia,Covid,2022-01-01,126.48
+Georgia,Covid,2022-02-01,131.5
+Georgia,Covid,2022-03-01,132.15
+Georgia,Covid,2022-04-01,121.51
+Georgia,Covid,2022-05-01,129.53
+Georgia,Covid,2022-06-01,161.72
+Georgia,Covid,2022-07-01,119.54
+Georgia,Covid,2022-08-01,113.34
+Georgia,Covid,2022-09-01,87.79
+Georgia,Covid,2022-10-01,125.96
+Georgia,Covid,2022-11-01,115.0
+Georgia,Covid,2022-12-01,119.6
+Georgia,Covid,2023-01-01,129.19
+Georgia,Covid,2023-02-01,128.48
+Georgia,Covid,2023-03-01,126.33
+Georgia,Covid,2023-04-01,121.61
+Georgia,Covid,2023-05-01,132.53
+Georgia,Covid,2023-06-01,122.89
+Georgia,Covid,2023-07-01,143.18
+Georgia,Covid,2023-08-01,114.66
+Georgia,Covid,2023-09-01,107.73
+Georgia,Covid,2023-10-01,125.91
+Georgia,Covid,2023-11-01,98.72
+Georgia,Covid,2023-12-01,124.21
+Georgia,Covid,2024-01-01,129.2
+Georgia,Covid,2024-02-01,135.7
+Georgia,Covid,2024-03-01,148.59
+Georgia,Covid,2024-04-01,132.96
+Georgia,Covid,2024-05-01,137.61
+Georgia,Covid,2024-06-01,105.48
+Georgia,Covid,2024-07-01,127.58
+Georgia,Covid,2024-08-01,132.52
+Georgia,Covid,2024-09-01,119.87
+Georgia,Covid,2024-10-01,131.98
+Georgia,Covid,2024-11-01,120.04
+Georgia,Covid,2024-12-01,132.0
+Hawaii,Flu,2020-01-01,97.82
+Hawaii,Flu,2020-02-01,125.56
+Hawaii,Flu,2020-03-01,97.87
+Hawaii,Flu,2020-04-01,104.06
+Hawaii,Flu,2020-05-01,114.2
+Hawaii,Flu,2020-06-01,101.1
+Hawaii,Flu,2020-07-01,100.04
+Hawaii,Flu,2020-08-01,101.3
+Hawaii,Flu,2020-09-01,90.5
+Hawaii,Flu,2020-10-01,92.09
+Hawaii,Flu,2020-11-01,81.57
+Hawaii,Flu,2020-12-01,95.16
+Hawaii,Flu,2021-01-01,98.01
+Hawaii,Flu,2021-02-01,104.15
+Hawaii,Flu,2021-03-01,117.97
+Hawaii,Flu,2021-04-01,99.3
+Hawaii,Flu,2021-05-01,101.06
+Hawaii,Flu,2021-06-01,112.18
+Hawaii,Flu,2021-07-01,106.36
+Hawaii,Flu,2021-08-01,85.54
+Hawaii,Flu,2021-09-01,103.11
+Hawaii,Flu,2021-10-01,109.31
+Hawaii,Flu,2021-11-01,107.02
+Hawaii,Flu,2021-12-01,108.9
+Hawaii,Flu,2022-01-01,101.28
+Hawaii,Flu,2022-02-01,99.19
+Hawaii,Flu,2022-03-01,121.18
+Hawaii,Flu,2022-04-01,117.33
+Hawaii,Flu,2022-05-01,115.83
+Hawaii,Flu,2022-06-01,111.57
+Hawaii,Flu,2022-07-01,109.35
+Hawaii,Flu,2022-08-01,89.09
+Hawaii,Flu,2022-09-01,94.91
+Hawaii,Flu,2022-10-01,104.89
+Hawaii,Flu,2022-11-01,83.29
+Hawaii,Flu,2022-12-01,114.31
+Hawaii,Flu,2023-01-01,110.71
+Hawaii,Flu,2023-02-01,107.26
+Hawaii,Flu,2023-03-01,109.76
+Hawaii,Flu,2023-04-01,122.44
+Hawaii,Flu,2023-05-01,115.38
+Hawaii,Flu,2023-06-01,112.27
+Hawaii,Flu,2023-07-01,107.16
+Hawaii,Flu,2023-08-01,96.84
+Hawaii,Flu,2023-09-01,103.28
+Hawaii,Flu,2023-10-01,99.96
+Hawaii,Flu,2023-11-01,93.94
+Hawaii,Flu,2023-12-01,91.79
+Hawaii,Flu,2024-01-01,118.11
+Hawaii,Flu,2024-02-01,95.72
+Hawaii,Flu,2024-03-01,131.14
+Hawaii,Flu,2024-04-01,117.23
+Hawaii,Flu,2024-05-01,115.15
+Hawaii,Flu,2024-06-01,110.74
+Hawaii,Flu,2024-07-01,105.87
+Hawaii,Flu,2024-08-01,95.34
+Hawaii,Flu,2024-09-01,92.76
+Hawaii,Flu,2024-10-01,102.24
+Hawaii,Flu,2024-11-01,101.0
+Hawaii,Flu,2024-12-01,107.89
+Hawaii,Covid,2020-01-01,109.98
+Hawaii,Covid,2020-02-01,111.3
+Hawaii,Covid,2020-03-01,108.39
+Hawaii,Covid,2020-04-01,124.06
+Hawaii,Covid,2020-05-01,118.83
+Hawaii,Covid,2020-06-01,106.89
+Hawaii,Covid,2020-07-01,105.41
+Hawaii,Covid,2020-08-01,100.05
+Hawaii,Covid,2020-09-01,84.59
+Hawaii,Covid,2020-10-01,116.62
+Hawaii,Covid,2020-11-01,97.94
+Hawaii,Covid,2020-12-01,97.22
+Hawaii,Covid,2021-01-01,91.57
+Hawaii,Covid,2021-02-01,102.73
+Hawaii,Covid,2021-03-01,131.58
+Hawaii,Covid,2021-04-01,130.12
+Hawaii,Covid,2021-05-01,128.6
+Hawaii,Covid,2021-06-01,98.43
+Hawaii,Covid,2021-07-01,103.41
+Hawaii,Covid,2021-08-01,86.48
+Hawaii,Covid,2021-09-01,98.3
+Hawaii,Covid,2021-10-01,100.28
+Hawaii,Covid,2021-11-01,99.57
+Hawaii,Covid,2021-12-01,101.05
+Hawaii,Covid,2022-01-01,90.95
+Hawaii,Covid,2022-02-01,123.65
+Hawaii,Covid,2022-03-01,113.46
+Hawaii,Covid,2022-04-01,113.85
+Hawaii,Covid,2022-05-01,114.55
+Hawaii,Covid,2022-06-01,100.96
+Hawaii,Covid,2022-07-01,77.72
+Hawaii,Covid,2022-08-01,103.76
+Hawaii,Covid,2022-09-01,90.32
+Hawaii,Covid,2022-10-01,101.39
+Hawaii,Covid,2022-11-01,90.17
+Hawaii,Covid,2022-12-01,92.04
+Hawaii,Covid,2023-01-01,114.7
+Hawaii,Covid,2023-02-01,104.0
+Hawaii,Covid,2023-03-01,102.18
+Hawaii,Covid,2023-04-01,115.06
+Hawaii,Covid,2023-05-01,119.32
+Hawaii,Covid,2023-06-01,110.22
+Hawaii,Covid,2023-07-01,94.14
+Hawaii,Covid,2023-08-01,97.21
+Hawaii,Covid,2023-09-01,109.26
+Hawaii,Covid,2023-10-01,110.83
+Hawaii,Covid,2023-11-01,101.23
+Hawaii,Covid,2023-12-01,108.56
+Hawaii,Covid,2024-01-01,98.87
+Hawaii,Covid,2024-02-01,108.69
+Hawaii,Covid,2024-03-01,111.39
+Hawaii,Covid,2024-04-01,119.4
+Hawaii,Covid,2024-05-01,98.19
+Hawaii,Covid,2024-06-01,100.56
+Hawaii,Covid,2024-07-01,118.52
+Hawaii,Covid,2024-08-01,126.94
+Hawaii,Covid,2024-09-01,115.19
+Hawaii,Covid,2024-10-01,88.6
+Hawaii,Covid,2024-11-01,116.69
+Hawaii,Covid,2024-12-01,81.95
+Idaho,Flu,2020-01-01,86.64
+Idaho,Flu,2020-02-01,87.34
+Idaho,Flu,2020-03-01,90.09
+Idaho,Flu,2020-04-01,94.16
+Idaho,Flu,2020-05-01,73.51
+Idaho,Flu,2020-06-01,69.45
+Idaho,Flu,2020-07-01,86.88
+Idaho,Flu,2020-08-01,80.67
+Idaho,Flu,2020-09-01,73.09
+Idaho,Flu,2020-10-01,61.82
+Idaho,Flu,2020-11-01,61.44
+Idaho,Flu,2020-12-01,50.02
+Idaho,Flu,2021-01-01,77.56
+Idaho,Flu,2021-02-01,78.85
+Idaho,Flu,2021-03-01,87.48
+Idaho,Flu,2021-04-01,100.0
+Idaho,Flu,2021-05-01,74.72
+Idaho,Flu,2021-06-01,93.48
+Idaho,Flu,2021-07-01,66.2
+Idaho,Flu,2021-08-01,47.17
+Idaho,Flu,2021-09-01,67.28
+Idaho,Flu,2021-10-01,62.9
+Idaho,Flu,2021-11-01,63.48
+Idaho,Flu,2021-12-01,69.07
+Idaho,Flu,2022-01-01,76.68
+Idaho,Flu,2022-02-01,54.74
+Idaho,Flu,2022-03-01,72.57
+Idaho,Flu,2022-04-01,88.12
+Idaho,Flu,2022-05-01,82.16
+Idaho,Flu,2022-06-01,81.78
+Idaho,Flu,2022-07-01,84.5
+Idaho,Flu,2022-08-01,83.26
+Idaho,Flu,2022-09-01,59.34
+Idaho,Flu,2022-10-01,74.04
+Idaho,Flu,2022-11-01,73.54
+Idaho,Flu,2022-12-01,67.06
+Idaho,Flu,2023-01-01,62.63
+Idaho,Flu,2023-02-01,94.04
+Idaho,Flu,2023-03-01,79.51
+Idaho,Flu,2023-04-01,88.4
+Idaho,Flu,2023-05-01,76.0
+Idaho,Flu,2023-06-01,89.29
+Idaho,Flu,2023-07-01,78.65
+Idaho,Flu,2023-08-01,68.1
+Idaho,Flu,2023-09-01,79.59
+Idaho,Flu,2023-10-01,86.01
+Idaho,Flu,2023-11-01,72.27
+Idaho,Flu,2023-12-01,63.94
+Idaho,Flu,2024-01-01,69.15
+Idaho,Flu,2024-02-01,76.51
+Idaho,Flu,2024-03-01,71.96
+Idaho,Flu,2024-04-01,107.34
+Idaho,Flu,2024-05-01,68.19
+Idaho,Flu,2024-06-01,86.3
+Idaho,Flu,2024-07-01,71.97
+Idaho,Flu,2024-08-01,81.15
+Idaho,Flu,2024-09-01,63.03
+Idaho,Flu,2024-10-01,76.18
+Idaho,Flu,2024-11-01,73.52
+Idaho,Flu,2024-12-01,81.78
+Idaho,Covid,2020-01-01,78.85
+Idaho,Covid,2020-02-01,72.13
+Idaho,Covid,2020-03-01,88.53
+Idaho,Covid,2020-04-01,83.08
+Idaho,Covid,2020-05-01,87.9
+Idaho,Covid,2020-06-01,78.72
+Idaho,Covid,2020-07-01,74.62
+Idaho,Covid,2020-08-01,72.46
+Idaho,Covid,2020-09-01,61.07
+Idaho,Covid,2020-10-01,73.46
+Idaho,Covid,2020-11-01,59.86
+Idaho,Covid,2020-12-01,55.27
+Idaho,Covid,2021-01-01,84.22
+Idaho,Covid,2021-02-01,82.52
+Idaho,Covid,2021-03-01,102.7
+Idaho,Covid,2021-04-01,79.65
+Idaho,Covid,2021-05-01,72.35
+Idaho,Covid,2021-06-01,80.12
+Idaho,Covid,2021-07-01,93.67
+Idaho,Covid,2021-08-01,59.43
+Idaho,Covid,2021-09-01,66.67
+Idaho,Covid,2021-10-01,74.85
+Idaho,Covid,2021-11-01,56.86
+Idaho,Covid,2021-12-01,76.72
+Idaho,Covid,2022-01-01,74.8
+Idaho,Covid,2022-02-01,72.91
+Idaho,Covid,2022-03-01,83.75
+Idaho,Covid,2022-04-01,88.12
+Idaho,Covid,2022-05-01,76.42
+Idaho,Covid,2022-06-01,76.32
+Idaho,Covid,2022-07-01,90.6
+Idaho,Covid,2022-08-01,82.48
+Idaho,Covid,2022-09-01,71.88
+Idaho,Covid,2022-10-01,60.06
+Idaho,Covid,2022-11-01,66.59
+Idaho,Covid,2022-12-01,83.22
+Idaho,Covid,2023-01-01,80.78
+Idaho,Covid,2023-02-01,79.25
+Idaho,Covid,2023-03-01,101.89
+Idaho,Covid,2023-04-01,92.52
+Idaho,Covid,2023-05-01,71.98
+Idaho,Covid,2023-06-01,74.32
+Idaho,Covid,2023-07-01,91.03
+Idaho,Covid,2023-08-01,89.3
+Idaho,Covid,2023-09-01,76.29
+Idaho,Covid,2023-10-01,71.99
+Idaho,Covid,2023-11-01,61.46
+Idaho,Covid,2023-12-01,81.73
+Idaho,Covid,2024-01-01,58.76
+Idaho,Covid,2024-02-01,85.18
+Idaho,Covid,2024-03-01,75.63
+Idaho,Covid,2024-04-01,93.84
+Idaho,Covid,2024-05-01,98.45
+Idaho,Covid,2024-06-01,92.84
+Idaho,Covid,2024-07-01,91.55
+Idaho,Covid,2024-08-01,64.92
+Idaho,Covid,2024-09-01,55.06
+Idaho,Covid,2024-10-01,67.86
+Idaho,Covid,2024-11-01,53.07
+Idaho,Covid,2024-12-01,72.32
+Illinois,Flu,2020-01-01,118.16
+Illinois,Flu,2020-02-01,123.48
+Illinois,Flu,2020-03-01,115.86
+Illinois,Flu,2020-04-01,141.26
+Illinois,Flu,2020-05-01,133.27
+Illinois,Flu,2020-06-01,132.43
+Illinois,Flu,2020-07-01,121.39
+Illinois,Flu,2020-08-01,102.08
+Illinois,Flu,2020-09-01,97.94
+Illinois,Flu,2020-10-01,130.04
+Illinois,Flu,2020-11-01,104.95
+Illinois,Flu,2020-12-01,104.1
+Illinois,Flu,2021-01-01,115.67
+Illinois,Flu,2021-02-01,106.1
+Illinois,Flu,2021-03-01,124.81
+Illinois,Flu,2021-04-01,130.53
+Illinois,Flu,2021-05-01,129.38
+Illinois,Flu,2021-06-01,135.96
+Illinois,Flu,2021-07-01,102.85
+Illinois,Flu,2021-08-01,85.49
+Illinois,Flu,2021-09-01,116.67
+Illinois,Flu,2021-10-01,103.47
+Illinois,Flu,2021-11-01,122.56
+Illinois,Flu,2021-12-01,115.37
+Illinois,Flu,2022-01-01,120.97
+Illinois,Flu,2022-02-01,134.54
+Illinois,Flu,2022-03-01,135.3
+Illinois,Flu,2022-04-01,117.06
+Illinois,Flu,2022-05-01,133.95
+Illinois,Flu,2022-06-01,111.94
+Illinois,Flu,2022-07-01,128.18
+Illinois,Flu,2022-08-01,109.59
+Illinois,Flu,2022-09-01,105.3
+Illinois,Flu,2022-10-01,112.22
+Illinois,Flu,2022-11-01,96.23
+Illinois,Flu,2022-12-01,128.57
+Illinois,Flu,2023-01-01,123.55
+Illinois,Flu,2023-02-01,132.96
+Illinois,Flu,2023-03-01,136.23
+Illinois,Flu,2023-04-01,148.22
+Illinois,Flu,2023-05-01,147.73
+Illinois,Flu,2023-06-01,119.98
+Illinois,Flu,2023-07-01,138.65
+Illinois,Flu,2023-08-01,110.51
+Illinois,Flu,2023-09-01,118.8
+Illinois,Flu,2023-10-01,111.35
+Illinois,Flu,2023-11-01,122.51
+Illinois,Flu,2023-12-01,113.0
+Illinois,Flu,2024-01-01,124.68
+Illinois,Flu,2024-02-01,139.32
+Illinois,Flu,2024-03-01,124.09
+Illinois,Flu,2024-04-01,124.5
+Illinois,Flu,2024-05-01,148.11
+Illinois,Flu,2024-06-01,134.28
+Illinois,Flu,2024-07-01,120.99
+Illinois,Flu,2024-08-01,113.6
+Illinois,Flu,2024-09-01,115.4
+Illinois,Flu,2024-10-01,114.61
+Illinois,Flu,2024-11-01,120.26
+Illinois,Flu,2024-12-01,105.25
+Illinois,Covid,2020-01-01,126.33
+Illinois,Covid,2020-02-01,126.42
+Illinois,Covid,2020-03-01,124.82
+Illinois,Covid,2020-04-01,91.07
+Illinois,Covid,2020-05-01,108.62
+Illinois,Covid,2020-06-01,107.59
+Illinois,Covid,2020-07-01,104.56
+Illinois,Covid,2020-08-01,108.81
+Illinois,Covid,2020-09-01,119.3
+Illinois,Covid,2020-10-01,104.86
+Illinois,Covid,2020-11-01,114.6
+Illinois,Covid,2020-12-01,107.87
+Illinois,Covid,2021-01-01,127.82
+Illinois,Covid,2021-02-01,113.7
+Illinois,Covid,2021-03-01,136.13
+Illinois,Covid,2021-04-01,147.36
+Illinois,Covid,2021-05-01,111.63
+Illinois,Covid,2021-06-01,113.67
+Illinois,Covid,2021-07-01,125.3
+Illinois,Covid,2021-08-01,111.05
+Illinois,Covid,2021-09-01,113.23
+Illinois,Covid,2021-10-01,95.35
+Illinois,Covid,2021-11-01,108.66
+Illinois,Covid,2021-12-01,107.37
+Illinois,Covid,2022-01-01,126.47
+Illinois,Covid,2022-02-01,107.66
+Illinois,Covid,2022-03-01,121.72
+Illinois,Covid,2022-04-01,123.07
+Illinois,Covid,2022-05-01,133.9
+Illinois,Covid,2022-06-01,141.84
+Illinois,Covid,2022-07-01,116.05
+Illinois,Covid,2022-08-01,112.79
+Illinois,Covid,2022-09-01,118.91
+Illinois,Covid,2022-10-01,101.02
+Illinois,Covid,2022-11-01,113.53
+Illinois,Covid,2022-12-01,117.7
+Illinois,Covid,2023-01-01,122.04
+Illinois,Covid,2023-02-01,115.57
+Illinois,Covid,2023-03-01,123.75
+Illinois,Covid,2023-04-01,143.08
+Illinois,Covid,2023-05-01,122.99
+Illinois,Covid,2023-06-01,133.8
+Illinois,Covid,2023-07-01,125.46
+Illinois,Covid,2023-08-01,117.34
+Illinois,Covid,2023-09-01,128.67
+Illinois,Covid,2023-10-01,120.98
+Illinois,Covid,2023-11-01,100.17
+Illinois,Covid,2023-12-01,139.49
+Illinois,Covid,2024-01-01,115.2
+Illinois,Covid,2024-02-01,110.59
+Illinois,Covid,2024-03-01,126.1
+Illinois,Covid,2024-04-01,126.3
+Illinois,Covid,2024-05-01,122.59
+Illinois,Covid,2024-06-01,117.93
+Illinois,Covid,2024-07-01,118.5
+Illinois,Covid,2024-08-01,125.78
+Illinois,Covid,2024-09-01,104.09
+Illinois,Covid,2024-10-01,125.13
+Illinois,Covid,2024-11-01,126.82
+Illinois,Covid,2024-12-01,114.53
+Indiana,Flu,2020-01-01,94.45
+Indiana,Flu,2020-02-01,75.44
+Indiana,Flu,2020-03-01,99.53
+Indiana,Flu,2020-04-01,86.96
+Indiana,Flu,2020-05-01,69.9
+Indiana,Flu,2020-06-01,100.47
+Indiana,Flu,2020-07-01,87.59
+Indiana,Flu,2020-08-01,71.13
+Indiana,Flu,2020-09-01,76.84
+Indiana,Flu,2020-10-01,70.35
+Indiana,Flu,2020-11-01,61.88
+Indiana,Flu,2020-12-01,63.1
+Indiana,Flu,2021-01-01,80.99
+Indiana,Flu,2021-02-01,82.07
+Indiana,Flu,2021-03-01,91.77
+Indiana,Flu,2021-04-01,95.87
+Indiana,Flu,2021-05-01,85.56
+Indiana,Flu,2021-06-01,86.33
+Indiana,Flu,2021-07-01,88.29
+Indiana,Flu,2021-08-01,76.53
+Indiana,Flu,2021-09-01,66.54
+Indiana,Flu,2021-10-01,49.56
+Indiana,Flu,2021-11-01,83.34
+Indiana,Flu,2021-12-01,78.59
+Indiana,Flu,2022-01-01,81.08
+Indiana,Flu,2022-02-01,95.25
+Indiana,Flu,2022-03-01,108.3
+Indiana,Flu,2022-04-01,117.35
+Indiana,Flu,2022-05-01,102.86
+Indiana,Flu,2022-06-01,81.77
+Indiana,Flu,2022-07-01,81.7
+Indiana,Flu,2022-08-01,73.51
+Indiana,Flu,2022-09-01,72.66
+Indiana,Flu,2022-10-01,69.38
+Indiana,Flu,2022-11-01,59.31
+Indiana,Flu,2022-12-01,80.44
+Indiana,Flu,2023-01-01,83.39
+Indiana,Flu,2023-02-01,83.96
+Indiana,Flu,2023-03-01,103.2
+Indiana,Flu,2023-04-01,104.56
+Indiana,Flu,2023-05-01,89.47
+Indiana,Flu,2023-06-01,85.97
+Indiana,Flu,2023-07-01,73.48
+Indiana,Flu,2023-08-01,100.8
+Indiana,Flu,2023-09-01,74.11
+Indiana,Flu,2023-10-01,80.23
+Indiana,Flu,2023-11-01,87.85
+Indiana,Flu,2023-12-01,77.75
+Indiana,Flu,2024-01-01,95.43
+Indiana,Flu,2024-02-01,102.8
+Indiana,Flu,2024-03-01,87.85
+Indiana,Flu,2024-04-01,104.77
+Indiana,Flu,2024-05-01,86.29
+Indiana,Flu,2024-06-01,97.34
+Indiana,Flu,2024-07-01,102.23
+Indiana,Flu,2024-08-01,93.82
+Indiana,Flu,2024-09-01,95.88
+Indiana,Flu,2024-10-01,75.81
+Indiana,Flu,2024-11-01,84.8
+Indiana,Flu,2024-12-01,107.77
+Indiana,Covid,2020-01-01,82.3
+Indiana,Covid,2020-02-01,70.17
+Indiana,Covid,2020-03-01,84.78
+Indiana,Covid,2020-04-01,81.71
+Indiana,Covid,2020-05-01,101.55
+Indiana,Covid,2020-06-01,100.93
+Indiana,Covid,2020-07-01,87.56
+Indiana,Covid,2020-08-01,82.7
+Indiana,Covid,2020-09-01,59.49
+Indiana,Covid,2020-10-01,61.58
+Indiana,Covid,2020-11-01,80.93
+Indiana,Covid,2020-12-01,67.01
+Indiana,Covid,2021-01-01,80.8
+Indiana,Covid,2021-02-01,111.95
+Indiana,Covid,2021-03-01,97.45
+Indiana,Covid,2021-04-01,95.27
+Indiana,Covid,2021-05-01,104.59
+Indiana,Covid,2021-06-01,104.82
+Indiana,Covid,2021-07-01,99.27
+Indiana,Covid,2021-08-01,86.97
+Indiana,Covid,2021-09-01,97.5
+Indiana,Covid,2021-10-01,80.34
+Indiana,Covid,2021-11-01,76.09
+Indiana,Covid,2021-12-01,80.38
+Indiana,Covid,2022-01-01,87.53
+Indiana,Covid,2022-02-01,94.44
+Indiana,Covid,2022-03-01,85.59
+Indiana,Covid,2022-04-01,70.94
+Indiana,Covid,2022-05-01,93.92
+Indiana,Covid,2022-06-01,76.89
+Indiana,Covid,2022-07-01,77.17
+Indiana,Covid,2022-08-01,82.08
+Indiana,Covid,2022-09-01,88.72
+Indiana,Covid,2022-10-01,78.97
+Indiana,Covid,2022-11-01,89.01
+Indiana,Covid,2022-12-01,67.46
+Indiana,Covid,2023-01-01,87.16
+Indiana,Covid,2023-02-01,87.42
+Indiana,Covid,2023-03-01,104.55
+Indiana,Covid,2023-04-01,106.64
+Indiana,Covid,2023-05-01,101.42
+Indiana,Covid,2023-06-01,106.07
+Indiana,Covid,2023-07-01,104.67
+Indiana,Covid,2023-08-01,80.01
+Indiana,Covid,2023-09-01,102.29
+Indiana,Covid,2023-10-01,79.97
+Indiana,Covid,2023-11-01,81.78
+Indiana,Covid,2023-12-01,81.25
+Indiana,Covid,2024-01-01,87.93
+Indiana,Covid,2024-02-01,96.65
+Indiana,Covid,2024-03-01,106.0
+Indiana,Covid,2024-04-01,104.5
+Indiana,Covid,2024-05-01,114.49
+Indiana,Covid,2024-06-01,96.65
+Indiana,Covid,2024-07-01,90.63
+Indiana,Covid,2024-08-01,85.36
+Indiana,Covid,2024-09-01,70.65
+Indiana,Covid,2024-10-01,80.7
+Indiana,Covid,2024-11-01,84.71
+Indiana,Covid,2024-12-01,101.46
+Iowa,Flu,2020-01-01,51.7
+Iowa,Flu,2020-02-01,65.96
+Iowa,Flu,2020-03-01,59.3
+Iowa,Flu,2020-04-01,84.01
+Iowa,Flu,2020-05-01,53.9
+Iowa,Flu,2020-06-01,46.88
+Iowa,Flu,2020-07-01,63.4
+Iowa,Flu,2020-08-01,61.02
+Iowa,Flu,2020-09-01,59.3
+Iowa,Flu,2020-10-01,63.18
+Iowa,Flu,2020-11-01,47.38
+Iowa,Flu,2020-12-01,67.11
+Iowa,Flu,2021-01-01,66.09
+Iowa,Flu,2021-02-01,68.41
+Iowa,Flu,2021-03-01,82.02
+Iowa,Flu,2021-04-01,63.0
+Iowa,Flu,2021-05-01,67.19
+Iowa,Flu,2021-06-01,65.39
+Iowa,Flu,2021-07-01,42.21
+Iowa,Flu,2021-08-01,59.63
+Iowa,Flu,2021-09-01,58.18
+Iowa,Flu,2021-10-01,63.06
+Iowa,Flu,2021-11-01,59.28
+Iowa,Flu,2021-12-01,53.51
+Iowa,Flu,2022-01-01,55.57
+Iowa,Flu,2022-02-01,69.79
+Iowa,Flu,2022-03-01,67.92
+Iowa,Flu,2022-04-01,54.44
+Iowa,Flu,2022-05-01,76.36
+Iowa,Flu,2022-06-01,58.15
+Iowa,Flu,2022-07-01,34.4
+Iowa,Flu,2022-08-01,58.88
+Iowa,Flu,2022-09-01,33.65
+Iowa,Flu,2022-10-01,61.01
+Iowa,Flu,2022-11-01,38.88
+Iowa,Flu,2022-12-01,45.87
+Iowa,Flu,2023-01-01,53.2
+Iowa,Flu,2023-02-01,72.94
+Iowa,Flu,2023-03-01,84.58
+Iowa,Flu,2023-04-01,65.17
+Iowa,Flu,2023-05-01,67.62
+Iowa,Flu,2023-06-01,45.19
+Iowa,Flu,2023-07-01,62.97
+Iowa,Flu,2023-08-01,46.26
+Iowa,Flu,2023-09-01,37.9
+Iowa,Flu,2023-10-01,54.38
+Iowa,Flu,2023-11-01,60.16
+Iowa,Flu,2023-12-01,39.45
+Iowa,Flu,2024-01-01,53.95
+Iowa,Flu,2024-02-01,64.91
+Iowa,Flu,2024-03-01,59.96
+Iowa,Flu,2024-04-01,69.11
+Iowa,Flu,2024-05-01,46.63
+Iowa,Flu,2024-06-01,81.67
+Iowa,Flu,2024-07-01,50.05
+Iowa,Flu,2024-08-01,51.28
+Iowa,Flu,2024-09-01,56.98
+Iowa,Flu,2024-10-01,68.27
+Iowa,Flu,2024-11-01,68.9
+Iowa,Flu,2024-12-01,42.0
+Iowa,Covid,2020-01-01,63.2
+Iowa,Covid,2020-02-01,41.09
+Iowa,Covid,2020-03-01,66.46
+Iowa,Covid,2020-04-01,66.68
+Iowa,Covid,2020-05-01,48.61
+Iowa,Covid,2020-06-01,47.15
+Iowa,Covid,2020-07-01,66.48
+Iowa,Covid,2020-08-01,33.79
+Iowa,Covid,2020-09-01,51.61
+Iowa,Covid,2020-10-01,33.73
+Iowa,Covid,2020-11-01,27.62
+Iowa,Covid,2020-12-01,58.34
+Iowa,Covid,2021-01-01,51.49
+Iowa,Covid,2021-02-01,61.89
+Iowa,Covid,2021-03-01,67.04
+Iowa,Covid,2021-04-01,60.71
+Iowa,Covid,2021-05-01,64.99
+Iowa,Covid,2021-06-01,59.94
+Iowa,Covid,2021-07-01,51.14
+Iowa,Covid,2021-08-01,52.89
+Iowa,Covid,2021-09-01,44.52
+Iowa,Covid,2021-10-01,54.08
+Iowa,Covid,2021-11-01,47.75
+Iowa,Covid,2021-12-01,59.24
+Iowa,Covid,2022-01-01,52.34
+Iowa,Covid,2022-02-01,47.88
+Iowa,Covid,2022-03-01,73.7
+Iowa,Covid,2022-04-01,42.79
+Iowa,Covid,2022-05-01,76.43
+Iowa,Covid,2022-06-01,72.52
+Iowa,Covid,2022-07-01,46.46
+Iowa,Covid,2022-08-01,62.9
+Iowa,Covid,2022-09-01,36.83
+Iowa,Covid,2022-10-01,53.55
+Iowa,Covid,2022-11-01,51.43
+Iowa,Covid,2022-12-01,55.19
+Iowa,Covid,2023-01-01,63.12
+Iowa,Covid,2023-02-01,72.33
+Iowa,Covid,2023-03-01,68.49
+Iowa,Covid,2023-04-01,77.95
+Iowa,Covid,2023-05-01,72.54
+Iowa,Covid,2023-06-01,54.18
+Iowa,Covid,2023-07-01,79.22
+Iowa,Covid,2023-08-01,60.52
+Iowa,Covid,2023-09-01,59.94
+Iowa,Covid,2023-10-01,47.43
+Iowa,Covid,2023-11-01,47.34
+Iowa,Covid,2023-12-01,39.64
+Iowa,Covid,2024-01-01,44.31
+Iowa,Covid,2024-02-01,63.26
+Iowa,Covid,2024-03-01,86.33
+Iowa,Covid,2024-04-01,55.42
+Iowa,Covid,2024-05-01,77.9
+Iowa,Covid,2024-06-01,69.58
+Iowa,Covid,2024-07-01,67.49
+Iowa,Covid,2024-08-01,46.98
+Iowa,Covid,2024-09-01,47.31
+Iowa,Covid,2024-10-01,54.74
+Iowa,Covid,2024-11-01,58.46
+Iowa,Covid,2024-12-01,69.67
+Kansas,Flu,2020-01-01,53.17
+Kansas,Flu,2020-02-01,56.47
+Kansas,Flu,2020-03-01,56.77
+Kansas,Flu,2020-04-01,64.94
+Kansas,Flu,2020-05-01,46.14
+Kansas,Flu,2020-06-01,23.97
+Kansas,Flu,2020-07-01,55.56
+Kansas,Flu,2020-08-01,63.69
+Kansas,Flu,2020-09-01,32.86
+Kansas,Flu,2020-10-01,33.36
+Kansas,Flu,2020-11-01,29.21
+Kansas,Flu,2020-12-01,26.48
+Kansas,Flu,2021-01-01,45.78
+Kansas,Flu,2021-02-01,50.68
+Kansas,Flu,2021-03-01,63.09
+Kansas,Flu,2021-04-01,62.0
+Kansas,Flu,2021-05-01,58.73
+Kansas,Flu,2021-06-01,36.36
+Kansas,Flu,2021-07-01,59.09
+Kansas,Flu,2021-08-01,46.63
+Kansas,Flu,2021-09-01,37.67
+Kansas,Flu,2021-10-01,31.91
+Kansas,Flu,2021-11-01,41.95
+Kansas,Flu,2021-12-01,58.78
+Kansas,Flu,2022-01-01,52.16
+Kansas,Flu,2022-02-01,89.21
+Kansas,Flu,2022-03-01,56.81
+Kansas,Flu,2022-04-01,56.23
+Kansas,Flu,2022-05-01,60.2
+Kansas,Flu,2022-06-01,74.34
+Kansas,Flu,2022-07-01,37.8
+Kansas,Flu,2022-08-01,69.31
+Kansas,Flu,2022-09-01,52.4
+Kansas,Flu,2022-10-01,35.19
+Kansas,Flu,2022-11-01,68.06
+Kansas,Flu,2022-12-01,45.04
+Kansas,Flu,2023-01-01,75.49
+Kansas,Flu,2023-02-01,58.5
+Kansas,Flu,2023-03-01,68.06
+Kansas,Flu,2023-04-01,84.33
+Kansas,Flu,2023-05-01,57.9
+Kansas,Flu,2023-06-01,68.14
+Kansas,Flu,2023-07-01,51.47
+Kansas,Flu,2023-08-01,66.64
+Kansas,Flu,2023-09-01,55.51
+Kansas,Flu,2023-10-01,37.84
+Kansas,Flu,2023-11-01,64.29
+Kansas,Flu,2023-12-01,58.18
+Kansas,Flu,2024-01-01,67.1
+Kansas,Flu,2024-02-01,76.73
+Kansas,Flu,2024-03-01,69.22
+Kansas,Flu,2024-04-01,81.44
+Kansas,Flu,2024-05-01,77.94
+Kansas,Flu,2024-06-01,76.3
+Kansas,Flu,2024-07-01,77.49
+Kansas,Flu,2024-08-01,65.27
+Kansas,Flu,2024-09-01,61.62
+Kansas,Flu,2024-10-01,71.95
+Kansas,Flu,2024-11-01,58.21
+Kansas,Flu,2024-12-01,76.06
+Kansas,Covid,2020-01-01,41.19
+Kansas,Covid,2020-02-01,48.26
+Kansas,Covid,2020-03-01,51.4
+Kansas,Covid,2020-04-01,29.05
+Kansas,Covid,2020-05-01,55.75
+Kansas,Covid,2020-06-01,53.44
+Kansas,Covid,2020-07-01,42.02
+Kansas,Covid,2020-08-01,42.04
+Kansas,Covid,2020-09-01,34.88
+Kansas,Covid,2020-10-01,21.88
+Kansas,Covid,2020-11-01,30.57
+Kansas,Covid,2020-12-01,55.72
+Kansas,Covid,2021-01-01,73.03
+Kansas,Covid,2021-02-01,54.57
+Kansas,Covid,2021-03-01,50.44
+Kansas,Covid,2021-04-01,59.1
+Kansas,Covid,2021-05-01,56.71
+Kansas,Covid,2021-06-01,64.38
+Kansas,Covid,2021-07-01,77.02
+Kansas,Covid,2021-08-01,53.34
+Kansas,Covid,2021-09-01,57.92
+Kansas,Covid,2021-10-01,40.28
+Kansas,Covid,2021-11-01,48.86
+Kansas,Covid,2021-12-01,59.56
+Kansas,Covid,2022-01-01,53.19
+Kansas,Covid,2022-02-01,48.25
+Kansas,Covid,2022-03-01,71.59
+Kansas,Covid,2022-04-01,54.33
+Kansas,Covid,2022-05-01,58.89
+Kansas,Covid,2022-06-01,66.57
+Kansas,Covid,2022-07-01,70.58
+Kansas,Covid,2022-08-01,54.89
+Kansas,Covid,2022-09-01,53.51
+Kansas,Covid,2022-10-01,40.06
+Kansas,Covid,2022-11-01,37.14
+Kansas,Covid,2022-12-01,61.48
+Kansas,Covid,2023-01-01,75.81
+Kansas,Covid,2023-02-01,74.47
+Kansas,Covid,2023-03-01,45.54
+Kansas,Covid,2023-04-01,70.77
+Kansas,Covid,2023-05-01,68.53
+Kansas,Covid,2023-06-01,62.08
+Kansas,Covid,2023-07-01,50.37
+Kansas,Covid,2023-08-01,57.05
+Kansas,Covid,2023-09-01,54.84
+Kansas,Covid,2023-10-01,72.07
+Kansas,Covid,2023-11-01,56.21
+Kansas,Covid,2023-12-01,62.59
+Kansas,Covid,2024-01-01,67.38
+Kansas,Covid,2024-02-01,65.47
+Kansas,Covid,2024-03-01,60.92
+Kansas,Covid,2024-04-01,64.44
+Kansas,Covid,2024-05-01,76.67
+Kansas,Covid,2024-06-01,53.26
+Kansas,Covid,2024-07-01,71.41
+Kansas,Covid,2024-08-01,66.91
+Kansas,Covid,2024-09-01,39.73
+Kansas,Covid,2024-10-01,59.35
+Kansas,Covid,2024-11-01,59.13
+Kansas,Covid,2024-12-01,70.83
+Kentucky,Flu,2020-01-01,63.38
+Kentucky,Flu,2020-02-01,61.44
+Kentucky,Flu,2020-03-01,62.86
+Kentucky,Flu,2020-04-01,61.32
+Kentucky,Flu,2020-05-01,59.4
+Kentucky,Flu,2020-06-01,56.51
+Kentucky,Flu,2020-07-01,60.47
+Kentucky,Flu,2020-08-01,58.24
+Kentucky,Flu,2020-09-01,51.99
+Kentucky,Flu,2020-10-01,62.88
+Kentucky,Flu,2020-11-01,44.65
+Kentucky,Flu,2020-12-01,45.29
+Kentucky,Flu,2021-01-01,64.16
+Kentucky,Flu,2021-02-01,57.61
+Kentucky,Flu,2021-03-01,71.28
+Kentucky,Flu,2021-04-01,74.9
+Kentucky,Flu,2021-05-01,62.78
+Kentucky,Flu,2021-06-01,74.03
+Kentucky,Flu,2021-07-01,44.29
+Kentucky,Flu,2021-08-01,40.0
+Kentucky,Flu,2021-09-01,47.05
+Kentucky,Flu,2021-10-01,38.83
+Kentucky,Flu,2021-11-01,49.71
+Kentucky,Flu,2021-12-01,61.15
+Kentucky,Flu,2022-01-01,58.03
+Kentucky,Flu,2022-02-01,49.77
+Kentucky,Flu,2022-03-01,54.99
+Kentucky,Flu,2022-04-01,78.8
+Kentucky,Flu,2022-05-01,68.39
+Kentucky,Flu,2022-06-01,65.19
+Kentucky,Flu,2022-07-01,75.58
+Kentucky,Flu,2022-08-01,72.65
+Kentucky,Flu,2022-09-01,55.5
+Kentucky,Flu,2022-10-01,42.32
+Kentucky,Flu,2022-11-01,45.33
+Kentucky,Flu,2022-12-01,39.87
+Kentucky,Flu,2023-01-01,45.99
+Kentucky,Flu,2023-02-01,86.36
+Kentucky,Flu,2023-03-01,68.49
+Kentucky,Flu,2023-04-01,68.95
+Kentucky,Flu,2023-05-01,85.5
+Kentucky,Flu,2023-06-01,59.61
+Kentucky,Flu,2023-07-01,76.59
+Kentucky,Flu,2023-08-01,64.32
+Kentucky,Flu,2023-09-01,51.51
+Kentucky,Flu,2023-10-01,35.23
+Kentucky,Flu,2023-11-01,51.78
+Kentucky,Flu,2023-12-01,54.7
+Kentucky,Flu,2024-01-01,58.17
+Kentucky,Flu,2024-02-01,65.96
+Kentucky,Flu,2024-03-01,78.35
+Kentucky,Flu,2024-04-01,77.61
+Kentucky,Flu,2024-05-01,72.24
+Kentucky,Flu,2024-06-01,62.03
+Kentucky,Flu,2024-07-01,84.39
+Kentucky,Flu,2024-08-01,58.8
+Kentucky,Flu,2024-09-01,54.81
+Kentucky,Flu,2024-10-01,77.78
+Kentucky,Flu,2024-11-01,70.82
+Kentucky,Flu,2024-12-01,84.81
+Kentucky,Covid,2020-01-01,55.7
+Kentucky,Covid,2020-02-01,73.91
+Kentucky,Covid,2020-03-01,46.45
+Kentucky,Covid,2020-04-01,73.97
+Kentucky,Covid,2020-05-01,68.75
+Kentucky,Covid,2020-06-01,44.82
+Kentucky,Covid,2020-07-01,52.03
+Kentucky,Covid,2020-08-01,64.89
+Kentucky,Covid,2020-09-01,56.47
+Kentucky,Covid,2020-10-01,59.72
+Kentucky,Covid,2020-11-01,52.94
+Kentucky,Covid,2020-12-01,44.44
+Kentucky,Covid,2021-01-01,63.16
+Kentucky,Covid,2021-02-01,71.12
+Kentucky,Covid,2021-03-01,61.99
+Kentucky,Covid,2021-04-01,69.12
+Kentucky,Covid,2021-05-01,60.41
+Kentucky,Covid,2021-06-01,49.35
+Kentucky,Covid,2021-07-01,60.22
+Kentucky,Covid,2021-08-01,49.97
+Kentucky,Covid,2021-09-01,47.75
+Kentucky,Covid,2021-10-01,51.52
+Kentucky,Covid,2021-11-01,52.47
+Kentucky,Covid,2021-12-01,49.51
+Kentucky,Covid,2022-01-01,39.07
+Kentucky,Covid,2022-02-01,79.97
+Kentucky,Covid,2022-03-01,72.46
+Kentucky,Covid,2022-04-01,62.29
+Kentucky,Covid,2022-05-01,69.06
+Kentucky,Covid,2022-06-01,47.13
+Kentucky,Covid,2022-07-01,74.26
+Kentucky,Covid,2022-08-01,53.05
+Kentucky,Covid,2022-09-01,70.63
+Kentucky,Covid,2022-10-01,41.2
+Kentucky,Covid,2022-11-01,79.78
+Kentucky,Covid,2022-12-01,60.32
+Kentucky,Covid,2023-01-01,65.9
+Kentucky,Covid,2023-02-01,60.7
+Kentucky,Covid,2023-03-01,72.97
+Kentucky,Covid,2023-04-01,71.38
+Kentucky,Covid,2023-05-01,94.44
+Kentucky,Covid,2023-06-01,70.24
+Kentucky,Covid,2023-07-01,50.6
+Kentucky,Covid,2023-08-01,71.54
+Kentucky,Covid,2023-09-01,54.46
+Kentucky,Covid,2023-10-01,53.58
+Kentucky,Covid,2023-11-01,51.8
+Kentucky,Covid,2023-12-01,63.07
+Kentucky,Covid,2024-01-01,58.85
+Kentucky,Covid,2024-02-01,70.29
+Kentucky,Covid,2024-03-01,73.66
+Kentucky,Covid,2024-04-01,68.16
+Kentucky,Covid,2024-05-01,82.94
+Kentucky,Covid,2024-06-01,87.2
+Kentucky,Covid,2024-07-01,69.56
+Kentucky,Covid,2024-08-01,61.96
+Kentucky,Covid,2024-09-01,55.55
+Kentucky,Covid,2024-10-01,67.46
+Kentucky,Covid,2024-11-01,69.76
+Kentucky,Covid,2024-12-01,69.59
+Louisiana,Flu,2020-01-01,85.12
+Louisiana,Flu,2020-02-01,89.44
+Louisiana,Flu,2020-03-01,108.79
+Louisiana,Flu,2020-04-01,79.13
+Louisiana,Flu,2020-05-01,100.36
+Louisiana,Flu,2020-06-01,86.43
+Louisiana,Flu,2020-07-01,88.39
+Louisiana,Flu,2020-08-01,90.52
+Louisiana,Flu,2020-09-01,100.56
+Louisiana,Flu,2020-10-01,83.67
+Louisiana,Flu,2020-11-01,86.19
+Louisiana,Flu,2020-12-01,82.59
+Louisiana,Flu,2021-01-01,78.57
+Louisiana,Flu,2021-02-01,100.65
+Louisiana,Flu,2021-03-01,91.84
+Louisiana,Flu,2021-04-01,105.71
+Louisiana,Flu,2021-05-01,84.73
+Louisiana,Flu,2021-06-01,96.6
+Louisiana,Flu,2021-07-01,86.11
+Louisiana,Flu,2021-08-01,88.8
+Louisiana,Flu,2021-09-01,79.57
+Louisiana,Flu,2021-10-01,69.12
+Louisiana,Flu,2021-11-01,74.89
+Louisiana,Flu,2021-12-01,84.27
+Louisiana,Flu,2022-01-01,93.71
+Louisiana,Flu,2022-02-01,99.5
+Louisiana,Flu,2022-03-01,92.41
+Louisiana,Flu,2022-04-01,89.99
+Louisiana,Flu,2022-05-01,95.01
+Louisiana,Flu,2022-06-01,76.19
+Louisiana,Flu,2022-07-01,90.52
+Louisiana,Flu,2022-08-01,76.77
+Louisiana,Flu,2022-09-01,87.66
+Louisiana,Flu,2022-10-01,80.04
+Louisiana,Flu,2022-11-01,76.49
+Louisiana,Flu,2022-12-01,99.07
+Louisiana,Flu,2023-01-01,89.72
+Louisiana,Flu,2023-02-01,80.13
+Louisiana,Flu,2023-03-01,95.06
+Louisiana,Flu,2023-04-01,94.02
+Louisiana,Flu,2023-05-01,98.29
+Louisiana,Flu,2023-06-01,94.23
+Louisiana,Flu,2023-07-01,95.94
+Louisiana,Flu,2023-08-01,83.11
+Louisiana,Flu,2023-09-01,74.57
+Louisiana,Flu,2023-10-01,81.0
+Louisiana,Flu,2023-11-01,77.06
+Louisiana,Flu,2023-12-01,74.69
+Louisiana,Flu,2024-01-01,77.73
+Louisiana,Flu,2024-02-01,109.84
+Louisiana,Flu,2024-03-01,88.93
+Louisiana,Flu,2024-04-01,104.55
+Louisiana,Flu,2024-05-01,86.06
+Louisiana,Flu,2024-06-01,92.01
+Louisiana,Flu,2024-07-01,86.15
+Louisiana,Flu,2024-08-01,69.86
+Louisiana,Flu,2024-09-01,76.78
+Louisiana,Flu,2024-10-01,77.07
+Louisiana,Flu,2024-11-01,80.6
+Louisiana,Flu,2024-12-01,102.88
+Louisiana,Covid,2020-01-01,85.19
+Louisiana,Covid,2020-02-01,110.36
+Louisiana,Covid,2020-03-01,88.81
+Louisiana,Covid,2020-04-01,93.15
+Louisiana,Covid,2020-05-01,96.58
+Louisiana,Covid,2020-06-01,95.47
+Louisiana,Covid,2020-07-01,83.29
+Louisiana,Covid,2020-08-01,83.88
+Louisiana,Covid,2020-09-01,70.06
+Louisiana,Covid,2020-10-01,75.62
+Louisiana,Covid,2020-11-01,93.42
+Louisiana,Covid,2020-12-01,75.12
+Louisiana,Covid,2021-01-01,77.92
+Louisiana,Covid,2021-02-01,102.29
+Louisiana,Covid,2021-03-01,100.32
+Louisiana,Covid,2021-04-01,89.72
+Louisiana,Covid,2021-05-01,114.84
+Louisiana,Covid,2021-06-01,108.51
+Louisiana,Covid,2021-07-01,71.7
+Louisiana,Covid,2021-08-01,76.73
+Louisiana,Covid,2021-09-01,84.66
+Louisiana,Covid,2021-10-01,74.97
+Louisiana,Covid,2021-11-01,70.66
+Louisiana,Covid,2021-12-01,67.07
+Louisiana,Covid,2022-01-01,91.37
+Louisiana,Covid,2022-02-01,98.85
+Louisiana,Covid,2022-03-01,110.43
+Louisiana,Covid,2022-04-01,107.51
+Louisiana,Covid,2022-05-01,90.72
+Louisiana,Covid,2022-06-01,124.38
+Louisiana,Covid,2022-07-01,67.49
+Louisiana,Covid,2022-08-01,80.71
+Louisiana,Covid,2022-09-01,92.78
+Louisiana,Covid,2022-10-01,92.93
+Louisiana,Covid,2022-11-01,81.41
+Louisiana,Covid,2022-12-01,94.79
+Louisiana,Covid,2023-01-01,88.5
+Louisiana,Covid,2023-02-01,82.31
+Louisiana,Covid,2023-03-01,102.52
+Louisiana,Covid,2023-04-01,108.6
+Louisiana,Covid,2023-05-01,88.0
+Louisiana,Covid,2023-06-01,98.17
+Louisiana,Covid,2023-07-01,88.39
+Louisiana,Covid,2023-08-01,85.95
+Louisiana,Covid,2023-09-01,95.0
+Louisiana,Covid,2023-10-01,72.96
+Louisiana,Covid,2023-11-01,97.09
+Louisiana,Covid,2023-12-01,77.85
+Louisiana,Covid,2024-01-01,88.45
+Louisiana,Covid,2024-02-01,95.38
+Louisiana,Covid,2024-03-01,91.51
+Louisiana,Covid,2024-04-01,101.98
+Louisiana,Covid,2024-05-01,86.26
+Louisiana,Covid,2024-06-01,98.12
+Louisiana,Covid,2024-07-01,106.0
+Louisiana,Covid,2024-08-01,81.42
+Louisiana,Covid,2024-09-01,94.93
+Louisiana,Covid,2024-10-01,93.53
+Louisiana,Covid,2024-11-01,99.18
+Louisiana,Covid,2024-12-01,81.02
+Maine,Flu,2020-01-01,112.57
+Maine,Flu,2020-02-01,124.26
+Maine,Flu,2020-03-01,143.44
+Maine,Flu,2020-04-01,109.97
+Maine,Flu,2020-05-01,114.67
+Maine,Flu,2020-06-01,117.71
+Maine,Flu,2020-07-01,117.45
+Maine,Flu,2020-08-01,126.01
+Maine,Flu,2020-09-01,105.32
+Maine,Flu,2020-10-01,108.84
+Maine,Flu,2020-11-01,116.79
+Maine,Flu,2020-12-01,100.12
+Maine,Flu,2021-01-01,128.09
+Maine,Flu,2021-02-01,116.24
+Maine,Flu,2021-03-01,123.2
+Maine,Flu,2021-04-01,133.81
+Maine,Flu,2021-05-01,113.54
+Maine,Flu,2021-06-01,126.85
+Maine,Flu,2021-07-01,147.27
+Maine,Flu,2021-08-01,110.97
+Maine,Flu,2021-09-01,120.22
+Maine,Flu,2021-10-01,112.29
+Maine,Flu,2021-11-01,113.77
+Maine,Flu,2021-12-01,110.53
+Maine,Flu,2022-01-01,104.43
+Maine,Flu,2022-02-01,138.21
+Maine,Flu,2022-03-01,132.83
+Maine,Flu,2022-04-01,125.34
+Maine,Flu,2022-05-01,132.59
+Maine,Flu,2022-06-01,135.67
+Maine,Flu,2022-07-01,109.62
+Maine,Flu,2022-08-01,120.71
+Maine,Flu,2022-09-01,109.82
+Maine,Flu,2022-10-01,109.3
+Maine,Flu,2022-11-01,107.77
+Maine,Flu,2022-12-01,98.43
+Maine,Flu,2023-01-01,108.62
+Maine,Flu,2023-02-01,143.62
+Maine,Flu,2023-03-01,118.78
+Maine,Flu,2023-04-01,125.9
+Maine,Flu,2023-05-01,122.64
+Maine,Flu,2023-06-01,133.6
+Maine,Flu,2023-07-01,112.09
+Maine,Flu,2023-08-01,128.67
+Maine,Flu,2023-09-01,94.37
+Maine,Flu,2023-10-01,116.22
+Maine,Flu,2023-11-01,120.0
+Maine,Flu,2023-12-01,115.92
+Maine,Flu,2024-01-01,103.65
+Maine,Flu,2024-02-01,135.65
+Maine,Flu,2024-03-01,131.99
+Maine,Flu,2024-04-01,128.04
+Maine,Flu,2024-05-01,138.49
+Maine,Flu,2024-06-01,129.7
+Maine,Flu,2024-07-01,129.76
+Maine,Flu,2024-08-01,139.23
+Maine,Flu,2024-09-01,111.44
+Maine,Flu,2024-10-01,103.34
+Maine,Flu,2024-11-01,96.25
+Maine,Flu,2024-12-01,95.43
+Maine,Covid,2020-01-01,103.76
+Maine,Covid,2020-02-01,113.43
+Maine,Covid,2020-03-01,132.93
+Maine,Covid,2020-04-01,131.84
+Maine,Covid,2020-05-01,130.2
+Maine,Covid,2020-06-01,139.25
+Maine,Covid,2020-07-01,127.09
+Maine,Covid,2020-08-01,107.85
+Maine,Covid,2020-09-01,115.49
+Maine,Covid,2020-10-01,113.89
+Maine,Covid,2020-11-01,96.06
+Maine,Covid,2020-12-01,122.82
+Maine,Covid,2021-01-01,121.62
+Maine,Covid,2021-02-01,133.75
+Maine,Covid,2021-03-01,123.37
+Maine,Covid,2021-04-01,154.82
+Maine,Covid,2021-05-01,106.42
+Maine,Covid,2021-06-01,135.71
+Maine,Covid,2021-07-01,121.64
+Maine,Covid,2021-08-01,118.79
+Maine,Covid,2021-09-01,102.71
+Maine,Covid,2021-10-01,109.2
+Maine,Covid,2021-11-01,115.89
+Maine,Covid,2021-12-01,123.21
+Maine,Covid,2022-01-01,125.6
+Maine,Covid,2022-02-01,122.08
+Maine,Covid,2022-03-01,137.5
+Maine,Covid,2022-04-01,114.65
+Maine,Covid,2022-05-01,135.99
+Maine,Covid,2022-06-01,148.78
+Maine,Covid,2022-07-01,107.75
+Maine,Covid,2022-08-01,117.83
+Maine,Covid,2022-09-01,111.84
+Maine,Covid,2022-10-01,109.43
+Maine,Covid,2022-11-01,110.45
+Maine,Covid,2022-12-01,118.59
+Maine,Covid,2023-01-01,124.52
+Maine,Covid,2023-02-01,140.56
+Maine,Covid,2023-03-01,126.59
+Maine,Covid,2023-04-01,135.19
+Maine,Covid,2023-05-01,121.56
+Maine,Covid,2023-06-01,117.88
+Maine,Covid,2023-07-01,107.37
+Maine,Covid,2023-08-01,102.52
+Maine,Covid,2023-09-01,121.93
+Maine,Covid,2023-10-01,115.17
+Maine,Covid,2023-11-01,98.88
+Maine,Covid,2023-12-01,97.16
+Maine,Covid,2024-01-01,114.33
+Maine,Covid,2024-02-01,121.89
+Maine,Covid,2024-03-01,126.89
+Maine,Covid,2024-04-01,131.1
+Maine,Covid,2024-05-01,147.59
+Maine,Covid,2024-06-01,123.97
+Maine,Covid,2024-07-01,144.35
+Maine,Covid,2024-08-01,118.05
+Maine,Covid,2024-09-01,117.02
+Maine,Covid,2024-10-01,111.86
+Maine,Covid,2024-11-01,124.59
+Maine,Covid,2024-12-01,120.62
+Maryland,Flu,2020-01-01,91.54
+Maryland,Flu,2020-02-01,76.28
+Maryland,Flu,2020-03-01,80.24
+Maryland,Flu,2020-04-01,87.25
+Maryland,Flu,2020-05-01,73.92
+Maryland,Flu,2020-06-01,79.23
+Maryland,Flu,2020-07-01,70.39
+Maryland,Flu,2020-08-01,68.25
+Maryland,Flu,2020-09-01,71.42
+Maryland,Flu,2020-10-01,71.77
+Maryland,Flu,2020-11-01,70.95
+Maryland,Flu,2020-12-01,76.35
+Maryland,Flu,2021-01-01,75.72
+Maryland,Flu,2021-02-01,75.09
+Maryland,Flu,2021-03-01,85.61
+Maryland,Flu,2021-04-01,76.17
+Maryland,Flu,2021-05-01,74.74
+Maryland,Flu,2021-06-01,94.1
+Maryland,Flu,2021-07-01,71.46
+Maryland,Flu,2021-08-01,69.96
+Maryland,Flu,2021-09-01,67.49
+Maryland,Flu,2021-10-01,82.93
+Maryland,Flu,2021-11-01,69.01
+Maryland,Flu,2021-12-01,77.6
+Maryland,Flu,2022-01-01,71.96
+Maryland,Flu,2022-02-01,91.72
+Maryland,Flu,2022-03-01,81.94
+Maryland,Flu,2022-04-01,92.21
+Maryland,Flu,2022-05-01,82.05
+Maryland,Flu,2022-06-01,104.68
+Maryland,Flu,2022-07-01,89.88
+Maryland,Flu,2022-08-01,76.91
+Maryland,Flu,2022-09-01,70.64
+Maryland,Flu,2022-10-01,79.99
+Maryland,Flu,2022-11-01,71.89
+Maryland,Flu,2022-12-01,67.98
+Maryland,Flu,2023-01-01,87.66
+Maryland,Flu,2023-02-01,89.63
+Maryland,Flu,2023-03-01,84.0
+Maryland,Flu,2023-04-01,107.51
+Maryland,Flu,2023-05-01,85.1
+Maryland,Flu,2023-06-01,82.21
+Maryland,Flu,2023-07-01,100.81
+Maryland,Flu,2023-08-01,77.09
+Maryland,Flu,2023-09-01,74.15
+Maryland,Flu,2023-10-01,83.0
+Maryland,Flu,2023-11-01,64.04
+Maryland,Flu,2023-12-01,69.38
+Maryland,Flu,2024-01-01,64.22
+Maryland,Flu,2024-02-01,87.13
+Maryland,Flu,2024-03-01,89.34
+Maryland,Flu,2024-04-01,102.04
+Maryland,Flu,2024-05-01,79.25
+Maryland,Flu,2024-06-01,73.91
+Maryland,Flu,2024-07-01,93.54
+Maryland,Flu,2024-08-01,71.98
+Maryland,Flu,2024-09-01,69.13
+Maryland,Flu,2024-10-01,74.43
+Maryland,Flu,2024-11-01,61.63
+Maryland,Flu,2024-12-01,86.71
+Maryland,Covid,2020-01-01,75.56
+Maryland,Covid,2020-02-01,83.54
+Maryland,Covid,2020-03-01,86.04
+Maryland,Covid,2020-04-01,80.68
+Maryland,Covid,2020-05-01,87.94
+Maryland,Covid,2020-06-01,93.29
+Maryland,Covid,2020-07-01,90.33
+Maryland,Covid,2020-08-01,72.53
+Maryland,Covid,2020-09-01,59.76
+Maryland,Covid,2020-10-01,68.52
+Maryland,Covid,2020-11-01,65.64
+Maryland,Covid,2020-12-01,73.36
+Maryland,Covid,2021-01-01,79.0
+Maryland,Covid,2021-02-01,90.5
+Maryland,Covid,2021-03-01,91.82
+Maryland,Covid,2021-04-01,94.84
+Maryland,Covid,2021-05-01,84.74
+Maryland,Covid,2021-06-01,87.45
+Maryland,Covid,2021-07-01,77.98
+Maryland,Covid,2021-08-01,75.48
+Maryland,Covid,2021-09-01,64.93
+Maryland,Covid,2021-10-01,63.11
+Maryland,Covid,2021-11-01,70.64
+Maryland,Covid,2021-12-01,93.2
+Maryland,Covid,2022-01-01,82.09
+Maryland,Covid,2022-02-01,76.78
+Maryland,Covid,2022-03-01,91.58
+Maryland,Covid,2022-04-01,87.21
+Maryland,Covid,2022-05-01,78.78
+Maryland,Covid,2022-06-01,85.46
+Maryland,Covid,2022-07-01,79.52
+Maryland,Covid,2022-08-01,81.85
+Maryland,Covid,2022-09-01,80.09
+Maryland,Covid,2022-10-01,82.26
+Maryland,Covid,2022-11-01,83.23
+Maryland,Covid,2022-12-01,77.59
+Maryland,Covid,2023-01-01,95.99
+Maryland,Covid,2023-02-01,75.82
+Maryland,Covid,2023-03-01,84.41
+Maryland,Covid,2023-04-01,105.03
+Maryland,Covid,2023-05-01,86.68
+Maryland,Covid,2023-06-01,96.27
+Maryland,Covid,2023-07-01,86.64
+Maryland,Covid,2023-08-01,75.38
+Maryland,Covid,2023-09-01,64.82
+Maryland,Covid,2023-10-01,65.02
+Maryland,Covid,2023-11-01,65.45
+Maryland,Covid,2023-12-01,81.81
+Maryland,Covid,2024-01-01,89.6
+Maryland,Covid,2024-02-01,99.19
+Maryland,Covid,2024-03-01,83.43
+Maryland,Covid,2024-04-01,80.92
+Maryland,Covid,2024-05-01,85.71
+Maryland,Covid,2024-06-01,74.75
+Maryland,Covid,2024-07-01,64.98
+Maryland,Covid,2024-08-01,72.14
+Maryland,Covid,2024-09-01,65.78
+Maryland,Covid,2024-10-01,79.53
+Maryland,Covid,2024-11-01,69.77
+Maryland,Covid,2024-12-01,85.23
+Massachusetts,Flu,2020-01-01,93.55
+Massachusetts,Flu,2020-02-01,89.04
+Massachusetts,Flu,2020-03-01,96.29
+Massachusetts,Flu,2020-04-01,88.62
+Massachusetts,Flu,2020-05-01,113.27
+Massachusetts,Flu,2020-06-01,98.89
+Massachusetts,Flu,2020-07-01,82.99
+Massachusetts,Flu,2020-08-01,66.48
+Massachusetts,Flu,2020-09-01,75.04
+Massachusetts,Flu,2020-10-01,81.5
+Massachusetts,Flu,2020-11-01,71.11
+Massachusetts,Flu,2020-12-01,87.36
+Massachusetts,Flu,2021-01-01,84.11
+Massachusetts,Flu,2021-02-01,108.51
+Massachusetts,Flu,2021-03-01,99.09
+Massachusetts,Flu,2021-04-01,90.62
+Massachusetts,Flu,2021-05-01,106.32
+Massachusetts,Flu,2021-06-01,92.32
+Massachusetts,Flu,2021-07-01,95.22
+Massachusetts,Flu,2021-08-01,87.97
+Massachusetts,Flu,2021-09-01,92.41
+Massachusetts,Flu,2021-10-01,92.9
+Massachusetts,Flu,2021-11-01,70.78
+Massachusetts,Flu,2021-12-01,84.5
+Massachusetts,Flu,2022-01-01,89.51
+Massachusetts,Flu,2022-02-01,109.77
+Massachusetts,Flu,2022-03-01,98.27
+Massachusetts,Flu,2022-04-01,101.13
+Massachusetts,Flu,2022-05-01,114.88
+Massachusetts,Flu,2022-06-01,105.66
+Massachusetts,Flu,2022-07-01,101.28
+Massachusetts,Flu,2022-08-01,78.05
+Massachusetts,Flu,2022-09-01,74.42
+Massachusetts,Flu,2022-10-01,82.72
+Massachusetts,Flu,2022-11-01,80.06
+Massachusetts,Flu,2022-12-01,112.56
+Massachusetts,Flu,2023-01-01,94.37
+Massachusetts,Flu,2023-02-01,106.12
+Massachusetts,Flu,2023-03-01,108.27
+Massachusetts,Flu,2023-04-01,103.9
+Massachusetts,Flu,2023-05-01,123.0
+Massachusetts,Flu,2023-06-01,108.99
+Massachusetts,Flu,2023-07-01,97.68
+Massachusetts,Flu,2023-08-01,74.3
+Massachusetts,Flu,2023-09-01,105.87
+Massachusetts,Flu,2023-10-01,106.65
+Massachusetts,Flu,2023-11-01,103.15
+Massachusetts,Flu,2023-12-01,108.18
+Massachusetts,Flu,2024-01-01,99.04
+Massachusetts,Flu,2024-02-01,86.17
+Massachusetts,Flu,2024-03-01,116.35
+Massachusetts,Flu,2024-04-01,115.51
+Massachusetts,Flu,2024-05-01,117.79
+Massachusetts,Flu,2024-06-01,119.8
+Massachusetts,Flu,2024-07-01,99.95
+Massachusetts,Flu,2024-08-01,102.91
+Massachusetts,Flu,2024-09-01,100.51
+Massachusetts,Flu,2024-10-01,96.92
+Massachusetts,Flu,2024-11-01,84.8
+Massachusetts,Flu,2024-12-01,93.8
+Massachusetts,Covid,2020-01-01,82.58
+Massachusetts,Covid,2020-02-01,97.86
+Massachusetts,Covid,2020-03-01,94.66
+Massachusetts,Covid,2020-04-01,101.42
+Massachusetts,Covid,2020-05-01,105.9
+Massachusetts,Covid,2020-06-01,90.61
+Massachusetts,Covid,2020-07-01,82.36
+Massachusetts,Covid,2020-08-01,77.11
+Massachusetts,Covid,2020-09-01,69.85
+Massachusetts,Covid,2020-10-01,83.69
+Massachusetts,Covid,2020-11-01,82.73
+Massachusetts,Covid,2020-12-01,68.27
+Massachusetts,Covid,2021-01-01,72.54
+Massachusetts,Covid,2021-02-01,92.16
+Massachusetts,Covid,2021-03-01,97.32
+Massachusetts,Covid,2021-04-01,75.09
+Massachusetts,Covid,2021-05-01,101.75
+Massachusetts,Covid,2021-06-01,76.05
+Massachusetts,Covid,2021-07-01,102.84
+Massachusetts,Covid,2021-08-01,76.53
+Massachusetts,Covid,2021-09-01,80.02
+Massachusetts,Covid,2021-10-01,69.65
+Massachusetts,Covid,2021-11-01,79.41
+Massachusetts,Covid,2021-12-01,105.66
+Massachusetts,Covid,2022-01-01,81.29
+Massachusetts,Covid,2022-02-01,96.36
+Massachusetts,Covid,2022-03-01,98.14
+Massachusetts,Covid,2022-04-01,94.56
+Massachusetts,Covid,2022-05-01,80.75
+Massachusetts,Covid,2022-06-01,95.94
+Massachusetts,Covid,2022-07-01,96.23
+Massachusetts,Covid,2022-08-01,88.17
+Massachusetts,Covid,2022-09-01,106.58
+Massachusetts,Covid,2022-10-01,82.1
+Massachusetts,Covid,2022-11-01,90.83
+Massachusetts,Covid,2022-12-01,96.27
+Massachusetts,Covid,2023-01-01,100.76
+Massachusetts,Covid,2023-02-01,106.13
+Massachusetts,Covid,2023-03-01,88.71
+Massachusetts,Covid,2023-04-01,94.02
+Massachusetts,Covid,2023-05-01,91.37
+Massachusetts,Covid,2023-06-01,97.25
+Massachusetts,Covid,2023-07-01,101.69
+Massachusetts,Covid,2023-08-01,91.86
+Massachusetts,Covid,2023-09-01,99.3
+Massachusetts,Covid,2023-10-01,89.89
+Massachusetts,Covid,2023-11-01,99.02
+Massachusetts,Covid,2023-12-01,93.29
+Massachusetts,Covid,2024-01-01,76.57
+Massachusetts,Covid,2024-02-01,82.09
+Massachusetts,Covid,2024-03-01,103.67
+Massachusetts,Covid,2024-04-01,118.09
+Massachusetts,Covid,2024-05-01,105.93
+Massachusetts,Covid,2024-06-01,96.58
+Massachusetts,Covid,2024-07-01,96.22
+Massachusetts,Covid,2024-08-01,107.3
+Massachusetts,Covid,2024-09-01,97.27
+Massachusetts,Covid,2024-10-01,103.67
+Massachusetts,Covid,2024-11-01,80.97
+Massachusetts,Covid,2024-12-01,97.05
+Michigan,Flu,2020-01-01,27.68
+Michigan,Flu,2020-02-01,70.95
+Michigan,Flu,2020-03-01,45.5
+Michigan,Flu,2020-04-01,42.28
+Michigan,Flu,2020-05-01,47.39
+Michigan,Flu,2020-06-01,64.71
+Michigan,Flu,2020-07-01,29.36
+Michigan,Flu,2020-08-01,13.56
+Michigan,Flu,2020-09-01,24.47
+Michigan,Flu,2020-10-01,25.43
+Michigan,Flu,2020-11-01,12.39
+Michigan,Flu,2020-12-01,39.59
+Michigan,Flu,2021-01-01,44.77
+Michigan,Flu,2021-02-01,29.44
+Michigan,Flu,2021-03-01,51.57
+Michigan,Flu,2021-04-01,56.12
+Michigan,Flu,2021-05-01,40.38
+Michigan,Flu,2021-06-01,50.74
+Michigan,Flu,2021-07-01,45.91
+Michigan,Flu,2021-08-01,45.9
+Michigan,Flu,2021-09-01,35.54
+Michigan,Flu,2021-10-01,46.94
+Michigan,Flu,2021-11-01,52.79
+Michigan,Flu,2021-12-01,20.87
+Michigan,Flu,2022-01-01,42.31
+Michigan,Flu,2022-02-01,57.95
+Michigan,Flu,2022-03-01,54.8
+Michigan,Flu,2022-04-01,28.29
+Michigan,Flu,2022-05-01,57.09
+Michigan,Flu,2022-06-01,65.46
+Michigan,Flu,2022-07-01,46.89
+Michigan,Flu,2022-08-01,26.23
+Michigan,Flu,2022-09-01,48.48
+Michigan,Flu,2022-10-01,34.63
+Michigan,Flu,2022-11-01,41.08
+Michigan,Flu,2022-12-01,21.41
+Michigan,Flu,2023-01-01,51.84
+Michigan,Flu,2023-02-01,38.74
+Michigan,Flu,2023-03-01,44.12
+Michigan,Flu,2023-04-01,50.31
+Michigan,Flu,2023-05-01,57.48
+Michigan,Flu,2023-06-01,55.03
+Michigan,Flu,2023-07-01,42.16
+Michigan,Flu,2023-08-01,25.88
+Michigan,Flu,2023-09-01,46.2
+Michigan,Flu,2023-10-01,43.02
+Michigan,Flu,2023-11-01,28.99
+Michigan,Flu,2023-12-01,41.44
+Michigan,Flu,2024-01-01,48.85
+Michigan,Flu,2024-02-01,64.66
+Michigan,Flu,2024-03-01,58.35
+Michigan,Flu,2024-04-01,42.03
+Michigan,Flu,2024-05-01,71.1
+Michigan,Flu,2024-06-01,48.51
+Michigan,Flu,2024-07-01,50.23
+Michigan,Flu,2024-08-01,44.73
+Michigan,Flu,2024-09-01,35.77
+Michigan,Flu,2024-10-01,9.18
+Michigan,Flu,2024-11-01,37.19
+Michigan,Flu,2024-12-01,52.42
+Michigan,Covid,2020-01-01,50.2
+Michigan,Covid,2020-02-01,41.47
+Michigan,Covid,2020-03-01,50.54
+Michigan,Covid,2020-04-01,51.83
+Michigan,Covid,2020-05-01,34.75
+Michigan,Covid,2020-06-01,53.14
+Michigan,Covid,2020-07-01,66.3
+Michigan,Covid,2020-08-01,29.72
+Michigan,Covid,2020-09-01,32.4
+Michigan,Covid,2020-10-01,32.44
+Michigan,Covid,2020-11-01,33.74
+Michigan,Covid,2020-12-01,34.74
+Michigan,Covid,2021-01-01,57.56
+Michigan,Covid,2021-02-01,50.13
+Michigan,Covid,2021-03-01,49.73
+Michigan,Covid,2021-04-01,40.13
+Michigan,Covid,2021-05-01,56.29
+Michigan,Covid,2021-06-01,49.32
+Michigan,Covid,2021-07-01,40.76
+Michigan,Covid,2021-08-01,27.43
+Michigan,Covid,2021-09-01,30.73
+Michigan,Covid,2021-10-01,30.37
+Michigan,Covid,2021-11-01,25.4
+Michigan,Covid,2021-12-01,20.79
+Michigan,Covid,2022-01-01,41.63
+Michigan,Covid,2022-02-01,50.25
+Michigan,Covid,2022-03-01,33.31
+Michigan,Covid,2022-04-01,54.58
+Michigan,Covid,2022-05-01,45.62
+Michigan,Covid,2022-06-01,38.31
+Michigan,Covid,2022-07-01,33.85
+Michigan,Covid,2022-08-01,32.94
+Michigan,Covid,2022-09-01,20.89
+Michigan,Covid,2022-10-01,31.84
+Michigan,Covid,2022-11-01,34.75
+Michigan,Covid,2022-12-01,13.44
+Michigan,Covid,2023-01-01,41.35
+Michigan,Covid,2023-02-01,40.3
+Michigan,Covid,2023-03-01,51.97
+Michigan,Covid,2023-04-01,51.64
+Michigan,Covid,2023-05-01,64.02
+Michigan,Covid,2023-06-01,33.75
+Michigan,Covid,2023-07-01,27.68
+Michigan,Covid,2023-08-01,43.07
+Michigan,Covid,2023-09-01,38.73
+Michigan,Covid,2023-10-01,27.69
+Michigan,Covid,2023-11-01,32.45
+Michigan,Covid,2023-12-01,34.69
+Michigan,Covid,2024-01-01,42.86
+Michigan,Covid,2024-02-01,58.77
+Michigan,Covid,2024-03-01,64.59
+Michigan,Covid,2024-04-01,60.02
+Michigan,Covid,2024-05-01,49.42
+Michigan,Covid,2024-06-01,40.95
+Michigan,Covid,2024-07-01,44.8
+Michigan,Covid,2024-08-01,26.02
+Michigan,Covid,2024-09-01,37.41
+Michigan,Covid,2024-10-01,34.66
+Michigan,Covid,2024-11-01,33.88
+Michigan,Covid,2024-12-01,39.46
+Minnesota,Flu,2020-01-01,60.71
+Minnesota,Flu,2020-02-01,57.07
+Minnesota,Flu,2020-03-01,79.64
+Minnesota,Flu,2020-04-01,75.82
+Minnesota,Flu,2020-05-01,77.99
+Minnesota,Flu,2020-06-01,82.54
+Minnesota,Flu,2020-07-01,67.85
+Minnesota,Flu,2020-08-01,58.07
+Minnesota,Flu,2020-09-01,66.26
+Minnesota,Flu,2020-10-01,66.93
+Minnesota,Flu,2020-11-01,53.53
+Minnesota,Flu,2020-12-01,59.28
+Minnesota,Flu,2021-01-01,67.21
+Minnesota,Flu,2021-02-01,68.04
+Minnesota,Flu,2021-03-01,63.06
+Minnesota,Flu,2021-04-01,92.23
+Minnesota,Flu,2021-05-01,60.4
+Minnesota,Flu,2021-06-01,72.97
+Minnesota,Flu,2021-07-01,80.21
+Minnesota,Flu,2021-08-01,62.98
+Minnesota,Flu,2021-09-01,62.83
+Minnesota,Flu,2021-10-01,67.7
+Minnesota,Flu,2021-11-01,43.55
+Minnesota,Flu,2021-12-01,66.9
+Minnesota,Flu,2022-01-01,73.06
+Minnesota,Flu,2022-02-01,85.38
+Minnesota,Flu,2022-03-01,86.44
+Minnesota,Flu,2022-04-01,71.34
+Minnesota,Flu,2022-05-01,86.91
+Minnesota,Flu,2022-06-01,69.97
+Minnesota,Flu,2022-07-01,95.53
+Minnesota,Flu,2022-08-01,53.33
+Minnesota,Flu,2022-09-01,81.67
+Minnesota,Flu,2022-10-01,69.5
+Minnesota,Flu,2022-11-01,78.13
+Minnesota,Flu,2022-12-01,49.04
+Minnesota,Flu,2023-01-01,84.57
+Minnesota,Flu,2023-02-01,89.43
+Minnesota,Flu,2023-03-01,94.34
+Minnesota,Flu,2023-04-01,110.09
+Minnesota,Flu,2023-05-01,94.57
+Minnesota,Flu,2023-06-01,86.55
+Minnesota,Flu,2023-07-01,93.56
+Minnesota,Flu,2023-08-01,78.17
+Minnesota,Flu,2023-09-01,85.8
+Minnesota,Flu,2023-10-01,76.38
+Minnesota,Flu,2023-11-01,89.83
+Minnesota,Flu,2023-12-01,72.27
+Minnesota,Flu,2024-01-01,87.67
+Minnesota,Flu,2024-02-01,90.72
+Minnesota,Flu,2024-03-01,93.51
+Minnesota,Flu,2024-04-01,102.45
+Minnesota,Flu,2024-05-01,88.9
+Minnesota,Flu,2024-06-01,116.29
+Minnesota,Flu,2024-07-01,102.44
+Minnesota,Flu,2024-08-01,98.23
+Minnesota,Flu,2024-09-01,57.97
+Minnesota,Flu,2024-10-01,98.47
+Minnesota,Flu,2024-11-01,102.05
+Minnesota,Flu,2024-12-01,72.88
+Minnesota,Covid,2020-01-01,51.63
+Minnesota,Covid,2020-02-01,58.21
+Minnesota,Covid,2020-03-01,62.35
+Minnesota,Covid,2020-04-01,87.09
+Minnesota,Covid,2020-05-01,67.54
+Minnesota,Covid,2020-06-01,56.52
+Minnesota,Covid,2020-07-01,60.76
+Minnesota,Covid,2020-08-01,59.15
+Minnesota,Covid,2020-09-01,52.88
+Minnesota,Covid,2020-10-01,53.32
+Minnesota,Covid,2020-11-01,51.72
+Minnesota,Covid,2020-12-01,66.52
+Minnesota,Covid,2021-01-01,74.13
+Minnesota,Covid,2021-02-01,64.39
+Minnesota,Covid,2021-03-01,72.5
+Minnesota,Covid,2021-04-01,98.13
+Minnesota,Covid,2021-05-01,73.99
+Minnesota,Covid,2021-06-01,63.92
+Minnesota,Covid,2021-07-01,76.76
+Minnesota,Covid,2021-08-01,62.1
+Minnesota,Covid,2021-09-01,54.26
+Minnesota,Covid,2021-10-01,73.56
+Minnesota,Covid,2021-11-01,69.23
+Minnesota,Covid,2021-12-01,47.15
+Minnesota,Covid,2022-01-01,77.26
+Minnesota,Covid,2022-02-01,66.95
+Minnesota,Covid,2022-03-01,100.48
+Minnesota,Covid,2022-04-01,68.43
+Minnesota,Covid,2022-05-01,70.75
+Minnesota,Covid,2022-06-01,76.64
+Minnesota,Covid,2022-07-01,67.19
+Minnesota,Covid,2022-08-01,61.05
+Minnesota,Covid,2022-09-01,76.74
+Minnesota,Covid,2022-10-01,70.08
+Minnesota,Covid,2022-11-01,60.55
+Minnesota,Covid,2022-12-01,64.05
+Minnesota,Covid,2023-01-01,85.77
+Minnesota,Covid,2023-02-01,74.31
+Minnesota,Covid,2023-03-01,92.56
+Minnesota,Covid,2023-04-01,86.28
+Minnesota,Covid,2023-05-01,79.79
+Minnesota,Covid,2023-06-01,72.42
+Minnesota,Covid,2023-07-01,65.44
+Minnesota,Covid,2023-08-01,91.3
+Minnesota,Covid,2023-09-01,74.6
+Minnesota,Covid,2023-10-01,77.46
+Minnesota,Covid,2023-11-01,57.12
+Minnesota,Covid,2023-12-01,84.93
+Minnesota,Covid,2024-01-01,90.08
+Minnesota,Covid,2024-02-01,108.58
+Minnesota,Covid,2024-03-01,105.12
+Minnesota,Covid,2024-04-01,104.56
+Minnesota,Covid,2024-05-01,102.75
+Minnesota,Covid,2024-06-01,84.02
+Minnesota,Covid,2024-07-01,80.14
+Minnesota,Covid,2024-08-01,82.5
+Minnesota,Covid,2024-09-01,80.36
+Minnesota,Covid,2024-10-01,90.56
+Minnesota,Covid,2024-11-01,84.99
+Minnesota,Covid,2024-12-01,88.71
+Mississippi,Flu,2020-01-01,112.37
+Mississippi,Flu,2020-02-01,130.89
+Mississippi,Flu,2020-03-01,136.84
+Mississippi,Flu,2020-04-01,134.17
+Mississippi,Flu,2020-05-01,117.67
+Mississippi,Flu,2020-06-01,119.54
+Mississippi,Flu,2020-07-01,112.65
+Mississippi,Flu,2020-08-01,107.36
+Mississippi,Flu,2020-09-01,114.89
+Mississippi,Flu,2020-10-01,120.99
+Mississippi,Flu,2020-11-01,81.74
+Mississippi,Flu,2020-12-01,95.65
+Mississippi,Flu,2021-01-01,122.35
+Mississippi,Flu,2021-02-01,135.05
+Mississippi,Flu,2021-03-01,120.76
+Mississippi,Flu,2021-04-01,135.34
+Mississippi,Flu,2021-05-01,122.71
+Mississippi,Flu,2021-06-01,110.55
+Mississippi,Flu,2021-07-01,116.93
+Mississippi,Flu,2021-08-01,115.54
+Mississippi,Flu,2021-09-01,105.49
+Mississippi,Flu,2021-10-01,101.54
+Mississippi,Flu,2021-11-01,115.07
+Mississippi,Flu,2021-12-01,126.64
+Mississippi,Flu,2022-01-01,136.87
+Mississippi,Flu,2022-02-01,92.25
+Mississippi,Flu,2022-03-01,125.13
+Mississippi,Flu,2022-04-01,118.94
+Mississippi,Flu,2022-05-01,152.63
+Mississippi,Flu,2022-06-01,128.26
+Mississippi,Flu,2022-07-01,134.16
+Mississippi,Flu,2022-08-01,127.65
+Mississippi,Flu,2022-09-01,116.06
+Mississippi,Flu,2022-10-01,109.1
+Mississippi,Flu,2022-11-01,117.33
+Mississippi,Flu,2022-12-01,119.82
+Mississippi,Flu,2023-01-01,127.86
+Mississippi,Flu,2023-02-01,128.32
+Mississippi,Flu,2023-03-01,135.52
+Mississippi,Flu,2023-04-01,126.5
+Mississippi,Flu,2023-05-01,123.25
+Mississippi,Flu,2023-06-01,118.06
+Mississippi,Flu,2023-07-01,112.18
+Mississippi,Flu,2023-08-01,114.44
+Mississippi,Flu,2023-09-01,115.36
+Mississippi,Flu,2023-10-01,119.33
+Mississippi,Flu,2023-11-01,108.2
+Mississippi,Flu,2023-12-01,107.85
+Mississippi,Flu,2024-01-01,131.91
+Mississippi,Flu,2024-02-01,128.64
+Mississippi,Flu,2024-03-01,138.99
+Mississippi,Flu,2024-04-01,138.81
+Mississippi,Flu,2024-05-01,113.5
+Mississippi,Flu,2024-06-01,123.84
+Mississippi,Flu,2024-07-01,128.78
+Mississippi,Flu,2024-08-01,101.46
+Mississippi,Flu,2024-09-01,112.72
+Mississippi,Flu,2024-10-01,100.96
+Mississippi,Flu,2024-11-01,102.25
+Mississippi,Flu,2024-12-01,112.2
+Mississippi,Covid,2020-01-01,111.4
+Mississippi,Covid,2020-02-01,119.09
+Mississippi,Covid,2020-03-01,107.13
+Mississippi,Covid,2020-04-01,130.44
+Mississippi,Covid,2020-05-01,122.66
+Mississippi,Covid,2020-06-01,112.55
+Mississippi,Covid,2020-07-01,128.6
+Mississippi,Covid,2020-08-01,118.53
+Mississippi,Covid,2020-09-01,110.81
+Mississippi,Covid,2020-10-01,127.75
+Mississippi,Covid,2020-11-01,99.86
+Mississippi,Covid,2020-12-01,125.88
+Mississippi,Covid,2021-01-01,111.45
+Mississippi,Covid,2021-02-01,110.77
+Mississippi,Covid,2021-03-01,133.86
+Mississippi,Covid,2021-04-01,131.14
+Mississippi,Covid,2021-05-01,139.65
+Mississippi,Covid,2021-06-01,135.17
+Mississippi,Covid,2021-07-01,119.84
+Mississippi,Covid,2021-08-01,103.57
+Mississippi,Covid,2021-09-01,103.79
+Mississippi,Covid,2021-10-01,118.11
+Mississippi,Covid,2021-11-01,105.52
+Mississippi,Covid,2021-12-01,111.89
+Mississippi,Covid,2022-01-01,112.77
+Mississippi,Covid,2022-02-01,122.43
+Mississippi,Covid,2022-03-01,126.52
+Mississippi,Covid,2022-04-01,123.29
+Mississippi,Covid,2022-05-01,120.22
+Mississippi,Covid,2022-06-01,137.53
+Mississippi,Covid,2022-07-01,135.03
+Mississippi,Covid,2022-08-01,103.58
+Mississippi,Covid,2022-09-01,130.52
+Mississippi,Covid,2022-10-01,112.63
+Mississippi,Covid,2022-11-01,120.79
+Mississippi,Covid,2022-12-01,109.19
+Mississippi,Covid,2023-01-01,129.32
+Mississippi,Covid,2023-02-01,124.22
+Mississippi,Covid,2023-03-01,126.99
+Mississippi,Covid,2023-04-01,128.99
+Mississippi,Covid,2023-05-01,124.56
+Mississippi,Covid,2023-06-01,120.05
+Mississippi,Covid,2023-07-01,115.33
+Mississippi,Covid,2023-08-01,123.24
+Mississippi,Covid,2023-09-01,110.67
+Mississippi,Covid,2023-10-01,108.86
+Mississippi,Covid,2023-11-01,103.17
+Mississippi,Covid,2023-12-01,108.73
+Mississippi,Covid,2024-01-01,107.21
+Mississippi,Covid,2024-02-01,149.3
+Mississippi,Covid,2024-03-01,117.17
+Mississippi,Covid,2024-04-01,129.52
+Mississippi,Covid,2024-05-01,131.09
+Mississippi,Covid,2024-06-01,135.88
+Mississippi,Covid,2024-07-01,122.46
+Mississippi,Covid,2024-08-01,122.22
+Mississippi,Covid,2024-09-01,117.91
+Mississippi,Covid,2024-10-01,99.99
+Mississippi,Covid,2024-11-01,117.35
+Mississippi,Covid,2024-12-01,121.08
+Missouri,Flu,2020-01-01,96.23
+Missouri,Flu,2020-02-01,105.15
+Missouri,Flu,2020-03-01,96.08
+Missouri,Flu,2020-04-01,96.78
+Missouri,Flu,2020-05-01,115.54
+Missouri,Flu,2020-06-01,92.37
+Missouri,Flu,2020-07-01,86.69
+Missouri,Flu,2020-08-01,84.55
+Missouri,Flu,2020-09-01,66.19
+Missouri,Flu,2020-10-01,74.11
+Missouri,Flu,2020-11-01,87.72
+Missouri,Flu,2020-12-01,77.97
+Missouri,Flu,2021-01-01,98.98
+Missouri,Flu,2021-02-01,88.19
+Missouri,Flu,2021-03-01,93.13
+Missouri,Flu,2021-04-01,82.78
+Missouri,Flu,2021-05-01,105.69
+Missouri,Flu,2021-06-01,84.24
+Missouri,Flu,2021-07-01,92.3
+Missouri,Flu,2021-08-01,101.12
+Missouri,Flu,2021-09-01,78.12
+Missouri,Flu,2021-10-01,57.64
+Missouri,Flu,2021-11-01,84.71
+Missouri,Flu,2021-12-01,78.84
+Missouri,Flu,2022-01-01,100.62
+Missouri,Flu,2022-02-01,115.28
+Missouri,Flu,2022-03-01,101.13
+Missouri,Flu,2022-04-01,95.05
+Missouri,Flu,2022-05-01,110.54
+Missouri,Flu,2022-06-01,112.29
+Missouri,Flu,2022-07-01,92.53
+Missouri,Flu,2022-08-01,69.77
+Missouri,Flu,2022-09-01,90.19
+Missouri,Flu,2022-10-01,79.21
+Missouri,Flu,2022-11-01,90.64
+Missouri,Flu,2022-12-01,92.27
+Missouri,Flu,2023-01-01,84.63
+Missouri,Flu,2023-02-01,77.77
+Missouri,Flu,2023-03-01,108.39
+Missouri,Flu,2023-04-01,89.91
+Missouri,Flu,2023-05-01,106.99
+Missouri,Flu,2023-06-01,83.63
+Missouri,Flu,2023-07-01,100.25
+Missouri,Flu,2023-08-01,75.27
+Missouri,Flu,2023-09-01,91.07
+Missouri,Flu,2023-10-01,87.87
+Missouri,Flu,2023-11-01,76.63
+Missouri,Flu,2023-12-01,91.21
+Missouri,Flu,2024-01-01,91.78
+Missouri,Flu,2024-02-01,100.79
+Missouri,Flu,2024-03-01,93.79
+Missouri,Flu,2024-04-01,81.58
+Missouri,Flu,2024-05-01,93.97
+Missouri,Flu,2024-06-01,99.64
+Missouri,Flu,2024-07-01,104.14
+Missouri,Flu,2024-08-01,81.7
+Missouri,Flu,2024-09-01,96.2
+Missouri,Flu,2024-10-01,81.64
+Missouri,Flu,2024-11-01,79.43
+Missouri,Flu,2024-12-01,97.44
+Missouri,Covid,2020-01-01,98.59
+Missouri,Covid,2020-02-01,97.25
+Missouri,Covid,2020-03-01,84.89
+Missouri,Covid,2020-04-01,108.17
+Missouri,Covid,2020-05-01,70.94
+Missouri,Covid,2020-06-01,91.75
+Missouri,Covid,2020-07-01,86.41
+Missouri,Covid,2020-08-01,94.04
+Missouri,Covid,2020-09-01,69.52
+Missouri,Covid,2020-10-01,68.21
+Missouri,Covid,2020-11-01,92.16
+Missouri,Covid,2020-12-01,85.22
+Missouri,Covid,2021-01-01,86.5
+Missouri,Covid,2021-02-01,104.39
+Missouri,Covid,2021-03-01,104.4
+Missouri,Covid,2021-04-01,103.73
+Missouri,Covid,2021-05-01,83.48
+Missouri,Covid,2021-06-01,93.25
+Missouri,Covid,2021-07-01,89.79
+Missouri,Covid,2021-08-01,75.67
+Missouri,Covid,2021-09-01,68.76
+Missouri,Covid,2021-10-01,57.44
+Missouri,Covid,2021-11-01,72.65
+Missouri,Covid,2021-12-01,78.58
+Missouri,Covid,2022-01-01,111.94
+Missouri,Covid,2022-02-01,106.99
+Missouri,Covid,2022-03-01,91.57
+Missouri,Covid,2022-04-01,90.33
+Missouri,Covid,2022-05-01,94.72
+Missouri,Covid,2022-06-01,103.13
+Missouri,Covid,2022-07-01,87.3
+Missouri,Covid,2022-08-01,84.08
+Missouri,Covid,2022-09-01,79.5
+Missouri,Covid,2022-10-01,81.26
+Missouri,Covid,2022-11-01,79.28
+Missouri,Covid,2022-12-01,83.1
+Missouri,Covid,2023-01-01,84.21
+Missouri,Covid,2023-02-01,98.1
+Missouri,Covid,2023-03-01,107.29
+Missouri,Covid,2023-04-01,84.39
+Missouri,Covid,2023-05-01,98.82
+Missouri,Covid,2023-06-01,112.04
+Missouri,Covid,2023-07-01,75.65
+Missouri,Covid,2023-08-01,103.38
+Missouri,Covid,2023-09-01,87.45
+Missouri,Covid,2023-10-01,84.33
+Missouri,Covid,2023-11-01,80.79
+Missouri,Covid,2023-12-01,79.89
+Missouri,Covid,2024-01-01,79.86
+Missouri,Covid,2024-02-01,79.67
+Missouri,Covid,2024-03-01,89.25
+Missouri,Covid,2024-04-01,89.92
+Missouri,Covid,2024-05-01,115.49
+Missouri,Covid,2024-06-01,85.88
+Missouri,Covid,2024-07-01,75.84
+Missouri,Covid,2024-08-01,67.57
+Missouri,Covid,2024-09-01,77.86
+Missouri,Covid,2024-10-01,80.23
+Missouri,Covid,2024-11-01,93.75
+Missouri,Covid,2024-12-01,84.95
+Montana,Flu,2020-01-01,103.87
+Montana,Flu,2020-02-01,114.26
+Montana,Flu,2020-03-01,109.11
+Montana,Flu,2020-04-01,105.7
+Montana,Flu,2020-05-01,105.91
+Montana,Flu,2020-06-01,108.8
+Montana,Flu,2020-07-01,141.46
+Montana,Flu,2020-08-01,120.54
+Montana,Flu,2020-09-01,76.74
+Montana,Flu,2020-10-01,108.21
+Montana,Flu,2020-11-01,91.81
+Montana,Flu,2020-12-01,106.52
+Montana,Flu,2021-01-01,114.25
+Montana,Flu,2021-02-01,107.99
+Montana,Flu,2021-03-01,105.04
+Montana,Flu,2021-04-01,115.05
+Montana,Flu,2021-05-01,112.97
+Montana,Flu,2021-06-01,90.35
+Montana,Flu,2021-07-01,134.05
+Montana,Flu,2021-08-01,94.25
+Montana,Flu,2021-09-01,110.48
+Montana,Flu,2021-10-01,105.91
+Montana,Flu,2021-11-01,102.87
+Montana,Flu,2021-12-01,115.06
+Montana,Flu,2022-01-01,113.28
+Montana,Flu,2022-02-01,127.04
+Montana,Flu,2022-03-01,117.87
+Montana,Flu,2022-04-01,111.48
+Montana,Flu,2022-05-01,116.31
+Montana,Flu,2022-06-01,112.91
+Montana,Flu,2022-07-01,111.25
+Montana,Flu,2022-08-01,100.72
+Montana,Flu,2022-09-01,102.39
+Montana,Flu,2022-10-01,105.55
+Montana,Flu,2022-11-01,110.65
+Montana,Flu,2022-12-01,120.38
+Montana,Flu,2023-01-01,124.82
+Montana,Flu,2023-02-01,121.63
+Montana,Flu,2023-03-01,134.97
+Montana,Flu,2023-04-01,120.28
+Montana,Flu,2023-05-01,132.31
+Montana,Flu,2023-06-01,153.57
+Montana,Flu,2023-07-01,111.2
+Montana,Flu,2023-08-01,113.28
+Montana,Flu,2023-09-01,120.77
+Montana,Flu,2023-10-01,117.28
+Montana,Flu,2023-11-01,113.14
+Montana,Flu,2023-12-01,118.25
+Montana,Flu,2024-01-01,110.58
+Montana,Flu,2024-02-01,105.9
+Montana,Flu,2024-03-01,124.89
+Montana,Flu,2024-04-01,118.44
+Montana,Flu,2024-05-01,133.74
+Montana,Flu,2024-06-01,148.66
+Montana,Flu,2024-07-01,110.41
+Montana,Flu,2024-08-01,118.17
+Montana,Flu,2024-09-01,109.49
+Montana,Flu,2024-10-01,121.45
+Montana,Flu,2024-11-01,123.89
+Montana,Flu,2024-12-01,108.07
+Montana,Covid,2020-01-01,102.52
+Montana,Covid,2020-02-01,110.37
+Montana,Covid,2020-03-01,116.86
+Montana,Covid,2020-04-01,141.85
+Montana,Covid,2020-05-01,146.68
+Montana,Covid,2020-06-01,103.8
+Montana,Covid,2020-07-01,108.07
+Montana,Covid,2020-08-01,99.68
+Montana,Covid,2020-09-01,108.67
+Montana,Covid,2020-10-01,100.94
+Montana,Covid,2020-11-01,113.6
+Montana,Covid,2020-12-01,104.85
+Montana,Covid,2021-01-01,116.48
+Montana,Covid,2021-02-01,96.39
+Montana,Covid,2021-03-01,127.75
+Montana,Covid,2021-04-01,115.54
+Montana,Covid,2021-05-01,125.82
+Montana,Covid,2021-06-01,104.98
+Montana,Covid,2021-07-01,98.01
+Montana,Covid,2021-08-01,96.87
+Montana,Covid,2021-09-01,91.6
+Montana,Covid,2021-10-01,104.57
+Montana,Covid,2021-11-01,95.73
+Montana,Covid,2021-12-01,119.76
+Montana,Covid,2022-01-01,91.85
+Montana,Covid,2022-02-01,113.4
+Montana,Covid,2022-03-01,131.61
+Montana,Covid,2022-04-01,118.51
+Montana,Covid,2022-05-01,113.06
+Montana,Covid,2022-06-01,109.64
+Montana,Covid,2022-07-01,127.39
+Montana,Covid,2022-08-01,124.53
+Montana,Covid,2022-09-01,110.79
+Montana,Covid,2022-10-01,103.29
+Montana,Covid,2022-11-01,119.42
+Montana,Covid,2022-12-01,115.45
+Montana,Covid,2023-01-01,116.29
+Montana,Covid,2023-02-01,120.22
+Montana,Covid,2023-03-01,128.55
+Montana,Covid,2023-04-01,130.74
+Montana,Covid,2023-05-01,131.69
+Montana,Covid,2023-06-01,135.91
+Montana,Covid,2023-07-01,110.82
+Montana,Covid,2023-08-01,117.34
+Montana,Covid,2023-09-01,99.43
+Montana,Covid,2023-10-01,113.21
+Montana,Covid,2023-11-01,100.8
+Montana,Covid,2023-12-01,132.05
+Montana,Covid,2024-01-01,104.97
+Montana,Covid,2024-02-01,127.44
+Montana,Covid,2024-03-01,132.7
+Montana,Covid,2024-04-01,135.69
+Montana,Covid,2024-05-01,147.37
+Montana,Covid,2024-06-01,127.83
+Montana,Covid,2024-07-01,113.17
+Montana,Covid,2024-08-01,120.83
+Montana,Covid,2024-09-01,119.44
+Montana,Covid,2024-10-01,101.34
+Montana,Covid,2024-11-01,129.54
+Montana,Covid,2024-12-01,105.09
+Nebraska,Flu,2020-01-01,87.95
+Nebraska,Flu,2020-02-01,80.44
+Nebraska,Flu,2020-03-01,120.99
+Nebraska,Flu,2020-04-01,103.66
+Nebraska,Flu,2020-05-01,111.51
+Nebraska,Flu,2020-06-01,90.01
+Nebraska,Flu,2020-07-01,93.99
+Nebraska,Flu,2020-08-01,118.33
+Nebraska,Flu,2020-09-01,78.81
+Nebraska,Flu,2020-10-01,97.04
+Nebraska,Flu,2020-11-01,88.14
+Nebraska,Flu,2020-12-01,87.49
+Nebraska,Flu,2021-01-01,103.7
+Nebraska,Flu,2021-02-01,121.27
+Nebraska,Flu,2021-03-01,104.56
+Nebraska,Flu,2021-04-01,121.58
+Nebraska,Flu,2021-05-01,114.43
+Nebraska,Flu,2021-06-01,107.62
+Nebraska,Flu,2021-07-01,100.1
+Nebraska,Flu,2021-08-01,94.88
+Nebraska,Flu,2021-09-01,81.83
+Nebraska,Flu,2021-10-01,96.22
+Nebraska,Flu,2021-11-01,82.38
+Nebraska,Flu,2021-12-01,98.36
+Nebraska,Flu,2022-01-01,98.8
+Nebraska,Flu,2022-02-01,112.14
+Nebraska,Flu,2022-03-01,119.5
+Nebraska,Flu,2022-04-01,134.35
+Nebraska,Flu,2022-05-01,109.3
+Nebraska,Flu,2022-06-01,103.09
+Nebraska,Flu,2022-07-01,102.02
+Nebraska,Flu,2022-08-01,108.66
+Nebraska,Flu,2022-09-01,100.84
+Nebraska,Flu,2022-10-01,98.84
+Nebraska,Flu,2022-11-01,100.34
+Nebraska,Flu,2022-12-01,93.15
+Nebraska,Flu,2023-01-01,120.61
+Nebraska,Flu,2023-02-01,117.08
+Nebraska,Flu,2023-03-01,123.18
+Nebraska,Flu,2023-04-01,123.12
+Nebraska,Flu,2023-05-01,109.22
+Nebraska,Flu,2023-06-01,119.38
+Nebraska,Flu,2023-07-01,120.63
+Nebraska,Flu,2023-08-01,104.73
+Nebraska,Flu,2023-09-01,116.67
+Nebraska,Flu,2023-10-01,84.69
+Nebraska,Flu,2023-11-01,113.37
+Nebraska,Flu,2023-12-01,105.4
+Nebraska,Flu,2024-01-01,118.86
+Nebraska,Flu,2024-02-01,146.18
+Nebraska,Flu,2024-03-01,128.8
+Nebraska,Flu,2024-04-01,111.05
+Nebraska,Flu,2024-05-01,132.09
+Nebraska,Flu,2024-06-01,109.96
+Nebraska,Flu,2024-07-01,124.13
+Nebraska,Flu,2024-08-01,112.45
+Nebraska,Flu,2024-09-01,123.29
+Nebraska,Flu,2024-10-01,110.31
+Nebraska,Flu,2024-11-01,101.23
+Nebraska,Flu,2024-12-01,106.69
+Nebraska,Covid,2020-01-01,90.64
+Nebraska,Covid,2020-02-01,96.4
+Nebraska,Covid,2020-03-01,120.12
+Nebraska,Covid,2020-04-01,120.7
+Nebraska,Covid,2020-05-01,133.5
+Nebraska,Covid,2020-06-01,99.48
+Nebraska,Covid,2020-07-01,86.75
+Nebraska,Covid,2020-08-01,82.17
+Nebraska,Covid,2020-09-01,100.31
+Nebraska,Covid,2020-10-01,82.05
+Nebraska,Covid,2020-11-01,75.61
+Nebraska,Covid,2020-12-01,81.36
+Nebraska,Covid,2021-01-01,95.92
+Nebraska,Covid,2021-02-01,101.07
+Nebraska,Covid,2021-03-01,109.58
+Nebraska,Covid,2021-04-01,116.08
+Nebraska,Covid,2021-05-01,115.66
+Nebraska,Covid,2021-06-01,141.5
+Nebraska,Covid,2021-07-01,112.73
+Nebraska,Covid,2021-08-01,113.18
+Nebraska,Covid,2021-09-01,89.42
+Nebraska,Covid,2021-10-01,92.63
+Nebraska,Covid,2021-11-01,92.06
+Nebraska,Covid,2021-12-01,102.61
+Nebraska,Covid,2022-01-01,109.29
+Nebraska,Covid,2022-02-01,116.62
+Nebraska,Covid,2022-03-01,133.3
+Nebraska,Covid,2022-04-01,129.63
+Nebraska,Covid,2022-05-01,128.84
+Nebraska,Covid,2022-06-01,127.26
+Nebraska,Covid,2022-07-01,106.81
+Nebraska,Covid,2022-08-01,118.94
+Nebraska,Covid,2022-09-01,101.77
+Nebraska,Covid,2022-10-01,89.59
+Nebraska,Covid,2022-11-01,102.36
+Nebraska,Covid,2022-12-01,117.02
+Nebraska,Covid,2023-01-01,117.98
+Nebraska,Covid,2023-02-01,137.62
+Nebraska,Covid,2023-03-01,123.8
+Nebraska,Covid,2023-04-01,121.5
+Nebraska,Covid,2023-05-01,116.41
+Nebraska,Covid,2023-06-01,116.55
+Nebraska,Covid,2023-07-01,115.55
+Nebraska,Covid,2023-08-01,140.17
+Nebraska,Covid,2023-09-01,93.18
+Nebraska,Covid,2023-10-01,103.92
+Nebraska,Covid,2023-11-01,112.05
+Nebraska,Covid,2023-12-01,102.18
+Nebraska,Covid,2024-01-01,104.65
+Nebraska,Covid,2024-02-01,127.73
+Nebraska,Covid,2024-03-01,116.92
+Nebraska,Covid,2024-04-01,123.88
+Nebraska,Covid,2024-05-01,124.38
+Nebraska,Covid,2024-06-01,126.81
+Nebraska,Covid,2024-07-01,129.45
+Nebraska,Covid,2024-08-01,113.71
+Nebraska,Covid,2024-09-01,95.69
+Nebraska,Covid,2024-10-01,96.1
+Nebraska,Covid,2024-11-01,99.44
+Nebraska,Covid,2024-12-01,119.07
+Nevada,Flu,2020-01-01,120.45
+Nevada,Flu,2020-02-01,124.07
+Nevada,Flu,2020-03-01,103.88
+Nevada,Flu,2020-04-01,127.44
+Nevada,Flu,2020-05-01,97.03
+Nevada,Flu,2020-06-01,131.75
+Nevada,Flu,2020-07-01,103.35
+Nevada,Flu,2020-08-01,117.58
+Nevada,Flu,2020-09-01,98.03
+Nevada,Flu,2020-10-01,113.71
+Nevada,Flu,2020-11-01,105.33
+Nevada,Flu,2020-12-01,107.65
+Nevada,Flu,2021-01-01,97.12
+Nevada,Flu,2021-02-01,126.45
+Nevada,Flu,2021-03-01,101.44
+Nevada,Flu,2021-04-01,130.0
+Nevada,Flu,2021-05-01,123.94
+Nevada,Flu,2021-06-01,121.95
+Nevada,Flu,2021-07-01,115.52
+Nevada,Flu,2021-08-01,99.71
+Nevada,Flu,2021-09-01,113.95
+Nevada,Flu,2021-10-01,107.03
+Nevada,Flu,2021-11-01,106.53
+Nevada,Flu,2021-12-01,113.62
+Nevada,Flu,2022-01-01,114.48
+Nevada,Flu,2022-02-01,124.28
+Nevada,Flu,2022-03-01,126.61
+Nevada,Flu,2022-04-01,129.97
+Nevada,Flu,2022-05-01,129.82
+Nevada,Flu,2022-06-01,106.7
+Nevada,Flu,2022-07-01,123.86
+Nevada,Flu,2022-08-01,114.2
+Nevada,Flu,2022-09-01,107.64
+Nevada,Flu,2022-10-01,99.17
+Nevada,Flu,2022-11-01,131.67
+Nevada,Flu,2022-12-01,103.24
+Nevada,Flu,2023-01-01,116.08
+Nevada,Flu,2023-02-01,128.16
+Nevada,Flu,2023-03-01,144.24
+Nevada,Flu,2023-04-01,122.79
+Nevada,Flu,2023-05-01,147.16
+Nevada,Flu,2023-06-01,139.31
+Nevada,Flu,2023-07-01,125.34
+Nevada,Flu,2023-08-01,103.34
+Nevada,Flu,2023-09-01,116.53
+Nevada,Flu,2023-10-01,101.73
+Nevada,Flu,2023-11-01,136.7
+Nevada,Flu,2023-12-01,110.65
+Nevada,Flu,2024-01-01,137.11
+Nevada,Flu,2024-02-01,131.9
+Nevada,Flu,2024-03-01,119.34
+Nevada,Flu,2024-04-01,122.11
+Nevada,Flu,2024-05-01,149.16
+Nevada,Flu,2024-06-01,119.45
+Nevada,Flu,2024-07-01,130.29
+Nevada,Flu,2024-08-01,129.41
+Nevada,Flu,2024-09-01,127.44
+Nevada,Flu,2024-10-01,125.92
+Nevada,Flu,2024-11-01,121.68
+Nevada,Flu,2024-12-01,120.25
+Nevada,Covid,2020-01-01,95.69
+Nevada,Covid,2020-02-01,95.39
+Nevada,Covid,2020-03-01,98.95
+Nevada,Covid,2020-04-01,114.31
+Nevada,Covid,2020-05-01,106.24
+Nevada,Covid,2020-06-01,104.48
+Nevada,Covid,2020-07-01,109.02
+Nevada,Covid,2020-08-01,88.82
+Nevada,Covid,2020-09-01,98.24
+Nevada,Covid,2020-10-01,99.37
+Nevada,Covid,2020-11-01,94.83
+Nevada,Covid,2020-12-01,93.62
+Nevada,Covid,2021-01-01,113.97
+Nevada,Covid,2021-02-01,121.15
+Nevada,Covid,2021-03-01,102.57
+Nevada,Covid,2021-04-01,111.05
+Nevada,Covid,2021-05-01,130.72
+Nevada,Covid,2021-06-01,108.33
+Nevada,Covid,2021-07-01,115.15
+Nevada,Covid,2021-08-01,132.39
+Nevada,Covid,2021-09-01,100.9
+Nevada,Covid,2021-10-01,90.72
+Nevada,Covid,2021-11-01,84.95
+Nevada,Covid,2021-12-01,96.59
+Nevada,Covid,2022-01-01,111.41
+Nevada,Covid,2022-02-01,127.2
+Nevada,Covid,2022-03-01,129.88
+Nevada,Covid,2022-04-01,138.37
+Nevada,Covid,2022-05-01,133.65
+Nevada,Covid,2022-06-01,118.98
+Nevada,Covid,2022-07-01,121.75
+Nevada,Covid,2022-08-01,115.4
+Nevada,Covid,2022-09-01,101.91
+Nevada,Covid,2022-10-01,108.44
+Nevada,Covid,2022-11-01,101.9
+Nevada,Covid,2022-12-01,116.82
+Nevada,Covid,2023-01-01,115.9
+Nevada,Covid,2023-02-01,109.48
+Nevada,Covid,2023-03-01,133.77
+Nevada,Covid,2023-04-01,133.23
+Nevada,Covid,2023-05-01,125.74
+Nevada,Covid,2023-06-01,121.86
+Nevada,Covid,2023-07-01,113.75
+Nevada,Covid,2023-08-01,124.69
+Nevada,Covid,2023-09-01,109.64
+Nevada,Covid,2023-10-01,129.76
+Nevada,Covid,2023-11-01,108.28
+Nevada,Covid,2023-12-01,112.95
+Nevada,Covid,2024-01-01,128.46
+Nevada,Covid,2024-02-01,130.81
+Nevada,Covid,2024-03-01,126.13
+Nevada,Covid,2024-04-01,138.55
+Nevada,Covid,2024-05-01,148.46
+Nevada,Covid,2024-06-01,137.51
+Nevada,Covid,2024-07-01,104.76
+Nevada,Covid,2024-08-01,120.99
+Nevada,Covid,2024-09-01,123.31
+Nevada,Covid,2024-10-01,121.14
+Nevada,Covid,2024-11-01,143.46
+Nevada,Covid,2024-12-01,118.15
+New Hampshire,Flu,2020-01-01,74.44
+New Hampshire,Flu,2020-02-01,74.11
+New Hampshire,Flu,2020-03-01,84.47
+New Hampshire,Flu,2020-04-01,87.19
+New Hampshire,Flu,2020-05-01,69.05
+New Hampshire,Flu,2020-06-01,81.26
+New Hampshire,Flu,2020-07-01,79.6
+New Hampshire,Flu,2020-08-01,59.1
+New Hampshire,Flu,2020-09-01,53.03
+New Hampshire,Flu,2020-10-01,62.82
+New Hampshire,Flu,2020-11-01,59.47
+New Hampshire,Flu,2020-12-01,79.41
+New Hampshire,Flu,2021-01-01,79.71
+New Hampshire,Flu,2021-02-01,79.16
+New Hampshire,Flu,2021-03-01,73.01
+New Hampshire,Flu,2021-04-01,81.16
+New Hampshire,Flu,2021-05-01,82.49
+New Hampshire,Flu,2021-06-01,71.09
+New Hampshire,Flu,2021-07-01,73.36
+New Hampshire,Flu,2021-08-01,79.13
+New Hampshire,Flu,2021-09-01,77.75
+New Hampshire,Flu,2021-10-01,63.16
+New Hampshire,Flu,2021-11-01,58.43
+New Hampshire,Flu,2021-12-01,81.91
+New Hampshire,Flu,2022-01-01,61.78
+New Hampshire,Flu,2022-02-01,99.09
+New Hampshire,Flu,2022-03-01,77.58
+New Hampshire,Flu,2022-04-01,80.81
+New Hampshire,Flu,2022-05-01,98.59
+New Hampshire,Flu,2022-06-01,99.39
+New Hampshire,Flu,2022-07-01,70.83
+New Hampshire,Flu,2022-08-01,91.81
+New Hampshire,Flu,2022-09-01,59.41
+New Hampshire,Flu,2022-10-01,67.15
+New Hampshire,Flu,2022-11-01,60.13
+New Hampshire,Flu,2022-12-01,85.99
+New Hampshire,Flu,2023-01-01,76.74
+New Hampshire,Flu,2023-02-01,93.02
+New Hampshire,Flu,2023-03-01,94.03
+New Hampshire,Flu,2023-04-01,96.71
+New Hampshire,Flu,2023-05-01,93.88
+New Hampshire,Flu,2023-06-01,98.3
+New Hampshire,Flu,2023-07-01,74.12
+New Hampshire,Flu,2023-08-01,88.66
+New Hampshire,Flu,2023-09-01,84.46
+New Hampshire,Flu,2023-10-01,75.17
+New Hampshire,Flu,2023-11-01,75.09
+New Hampshire,Flu,2023-12-01,66.82
+New Hampshire,Flu,2024-01-01,80.25
+New Hampshire,Flu,2024-02-01,84.28
+New Hampshire,Flu,2024-03-01,87.08
+New Hampshire,Flu,2024-04-01,101.87
+New Hampshire,Flu,2024-05-01,91.26
+New Hampshire,Flu,2024-06-01,89.08
+New Hampshire,Flu,2024-07-01,87.01
+New Hampshire,Flu,2024-08-01,89.41
+New Hampshire,Flu,2024-09-01,60.57
+New Hampshire,Flu,2024-10-01,88.04
+New Hampshire,Flu,2024-11-01,76.72
+New Hampshire,Flu,2024-12-01,95.1
+New Hampshire,Covid,2020-01-01,80.36
+New Hampshire,Covid,2020-02-01,71.18
+New Hampshire,Covid,2020-03-01,71.87
+New Hampshire,Covid,2020-04-01,60.34
+New Hampshire,Covid,2020-05-01,73.32
+New Hampshire,Covid,2020-06-01,75.05
+New Hampshire,Covid,2020-07-01,78.99
+New Hampshire,Covid,2020-08-01,74.95
+New Hampshire,Covid,2020-09-01,48.18
+New Hampshire,Covid,2020-10-01,43.15
+New Hampshire,Covid,2020-11-01,73.64
+New Hampshire,Covid,2020-12-01,89.78
+New Hampshire,Covid,2021-01-01,78.1
+New Hampshire,Covid,2021-02-01,83.77
+New Hampshire,Covid,2021-03-01,76.33
+New Hampshire,Covid,2021-04-01,98.81
+New Hampshire,Covid,2021-05-01,78.69
+New Hampshire,Covid,2021-06-01,90.26
+New Hampshire,Covid,2021-07-01,82.57
+New Hampshire,Covid,2021-08-01,73.73
+New Hampshire,Covid,2021-09-01,76.54
+New Hampshire,Covid,2021-10-01,82.6
+New Hampshire,Covid,2021-11-01,80.47
+New Hampshire,Covid,2021-12-01,79.69
+New Hampshire,Covid,2022-01-01,70.88
+New Hampshire,Covid,2022-02-01,80.0
+New Hampshire,Covid,2022-03-01,81.3
+New Hampshire,Covid,2022-04-01,93.5
+New Hampshire,Covid,2022-05-01,78.05
+New Hampshire,Covid,2022-06-01,73.44
+New Hampshire,Covid,2022-07-01,72.93
+New Hampshire,Covid,2022-08-01,78.39
+New Hampshire,Covid,2022-09-01,60.36
+New Hampshire,Covid,2022-10-01,73.74
+New Hampshire,Covid,2022-11-01,80.68
+New Hampshire,Covid,2022-12-01,68.73
+New Hampshire,Covid,2023-01-01,73.54
+New Hampshire,Covid,2023-02-01,73.83
+New Hampshire,Covid,2023-03-01,104.03
+New Hampshire,Covid,2023-04-01,87.43
+New Hampshire,Covid,2023-05-01,68.28
+New Hampshire,Covid,2023-06-01,102.67
+New Hampshire,Covid,2023-07-01,83.01
+New Hampshire,Covid,2023-08-01,83.14
+New Hampshire,Covid,2023-09-01,66.81
+New Hampshire,Covid,2023-10-01,60.35
+New Hampshire,Covid,2023-11-01,85.98
+New Hampshire,Covid,2023-12-01,72.48
+New Hampshire,Covid,2024-01-01,101.89
+New Hampshire,Covid,2024-02-01,77.21
+New Hampshire,Covid,2024-03-01,99.09
+New Hampshire,Covid,2024-04-01,98.65
+New Hampshire,Covid,2024-05-01,68.33
+New Hampshire,Covid,2024-06-01,107.71
+New Hampshire,Covid,2024-07-01,93.46
+New Hampshire,Covid,2024-08-01,86.38
+New Hampshire,Covid,2024-09-01,86.14
+New Hampshire,Covid,2024-10-01,83.03
+New Hampshire,Covid,2024-11-01,93.22
+New Hampshire,Covid,2024-12-01,84.26
+New Jersey,Flu,2020-01-01,79.02
+New Jersey,Flu,2020-02-01,85.93
+New Jersey,Flu,2020-03-01,81.05
+New Jersey,Flu,2020-04-01,99.38
+New Jersey,Flu,2020-05-01,83.87
+New Jersey,Flu,2020-06-01,63.57
+New Jersey,Flu,2020-07-01,73.62
+New Jersey,Flu,2020-08-01,55.93
+New Jersey,Flu,2020-09-01,57.34
+New Jersey,Flu,2020-10-01,51.37
+New Jersey,Flu,2020-11-01,72.64
+New Jersey,Flu,2020-12-01,90.11
+New Jersey,Flu,2021-01-01,85.31
+New Jersey,Flu,2021-02-01,68.05
+New Jersey,Flu,2021-03-01,68.61
+New Jersey,Flu,2021-04-01,69.95
+New Jersey,Flu,2021-05-01,69.48
+New Jersey,Flu,2021-06-01,86.85
+New Jersey,Flu,2021-07-01,70.69
+New Jersey,Flu,2021-08-01,69.09
+New Jersey,Flu,2021-09-01,61.62
+New Jersey,Flu,2021-10-01,65.02
+New Jersey,Flu,2021-11-01,68.57
+New Jersey,Flu,2021-12-01,72.99
+New Jersey,Flu,2022-01-01,75.0
+New Jersey,Flu,2022-02-01,72.24
+New Jersey,Flu,2022-03-01,83.47
+New Jersey,Flu,2022-04-01,78.6
+New Jersey,Flu,2022-05-01,85.21
+New Jersey,Flu,2022-06-01,70.3
+New Jersey,Flu,2022-07-01,79.06
+New Jersey,Flu,2022-08-01,71.01
+New Jersey,Flu,2022-09-01,58.65
+New Jersey,Flu,2022-10-01,72.62
+New Jersey,Flu,2022-11-01,67.61
+New Jersey,Flu,2022-12-01,72.82
+New Jersey,Flu,2023-01-01,81.94
+New Jersey,Flu,2023-02-01,82.06
+New Jersey,Flu,2023-03-01,76.27
+New Jersey,Flu,2023-04-01,93.09
+New Jersey,Flu,2023-05-01,98.83
+New Jersey,Flu,2023-06-01,83.98
+New Jersey,Flu,2023-07-01,95.17
+New Jersey,Flu,2023-08-01,75.47
+New Jersey,Flu,2023-09-01,52.2
+New Jersey,Flu,2023-10-01,66.41
+New Jersey,Flu,2023-11-01,79.78
+New Jersey,Flu,2023-12-01,63.12
+New Jersey,Flu,2024-01-01,85.8
+New Jersey,Flu,2024-02-01,77.47
+New Jersey,Flu,2024-03-01,91.42
+New Jersey,Flu,2024-04-01,72.06
+New Jersey,Flu,2024-05-01,81.88
+New Jersey,Flu,2024-06-01,81.81
+New Jersey,Flu,2024-07-01,76.66
+New Jersey,Flu,2024-08-01,73.83
+New Jersey,Flu,2024-09-01,79.35
+New Jersey,Flu,2024-10-01,78.5
+New Jersey,Flu,2024-11-01,71.56
+New Jersey,Flu,2024-12-01,71.37
+New Jersey,Covid,2020-01-01,48.01
+New Jersey,Covid,2020-02-01,87.65
+New Jersey,Covid,2020-03-01,70.89
+New Jersey,Covid,2020-04-01,96.65
+New Jersey,Covid,2020-05-01,78.44
+New Jersey,Covid,2020-06-01,95.36
+New Jersey,Covid,2020-07-01,55.38
+New Jersey,Covid,2020-08-01,52.01
+New Jersey,Covid,2020-09-01,74.03
+New Jersey,Covid,2020-10-01,56.46
+New Jersey,Covid,2020-11-01,62.59
+New Jersey,Covid,2020-12-01,81.29
+New Jersey,Covid,2021-01-01,61.09
+New Jersey,Covid,2021-02-01,91.61
+New Jersey,Covid,2021-03-01,88.66
+New Jersey,Covid,2021-04-01,79.27
+New Jersey,Covid,2021-05-01,85.75
+New Jersey,Covid,2021-06-01,82.45
+New Jersey,Covid,2021-07-01,56.44
+New Jersey,Covid,2021-08-01,60.44
+New Jersey,Covid,2021-09-01,63.67
+New Jersey,Covid,2021-10-01,70.52
+New Jersey,Covid,2021-11-01,61.76
+New Jersey,Covid,2021-12-01,73.33
+New Jersey,Covid,2022-01-01,62.03
+New Jersey,Covid,2022-02-01,78.46
+New Jersey,Covid,2022-03-01,95.14
+New Jersey,Covid,2022-04-01,102.97
+New Jersey,Covid,2022-05-01,79.63
+New Jersey,Covid,2022-06-01,90.75
+New Jersey,Covid,2022-07-01,93.07
+New Jersey,Covid,2022-08-01,65.88
+New Jersey,Covid,2022-09-01,55.48
+New Jersey,Covid,2022-10-01,85.19
+New Jersey,Covid,2022-11-01,77.85
+New Jersey,Covid,2022-12-01,66.59
+New Jersey,Covid,2023-01-01,87.78
+New Jersey,Covid,2023-02-01,59.02
+New Jersey,Covid,2023-03-01,89.15
+New Jersey,Covid,2023-04-01,93.78
+New Jersey,Covid,2023-05-01,86.44
+New Jersey,Covid,2023-06-01,74.86
+New Jersey,Covid,2023-07-01,57.92
+New Jersey,Covid,2023-08-01,71.16
+New Jersey,Covid,2023-09-01,79.71
+New Jersey,Covid,2023-10-01,69.45
+New Jersey,Covid,2023-11-01,55.5
+New Jersey,Covid,2023-12-01,71.18
+New Jersey,Covid,2024-01-01,41.32
+New Jersey,Covid,2024-02-01,91.52
+New Jersey,Covid,2024-03-01,91.87
+New Jersey,Covid,2024-04-01,87.14
+New Jersey,Covid,2024-05-01,101.73
+New Jersey,Covid,2024-06-01,83.06
+New Jersey,Covid,2024-07-01,67.22
+New Jersey,Covid,2024-08-01,67.68
+New Jersey,Covid,2024-09-01,55.35
+New Jersey,Covid,2024-10-01,72.02
+New Jersey,Covid,2024-11-01,61.71
+New Jersey,Covid,2024-12-01,77.18
+New Mexico,Flu,2020-01-01,88.82
+New Mexico,Flu,2020-02-01,108.49
+New Mexico,Flu,2020-03-01,99.61
+New Mexico,Flu,2020-04-01,104.28
+New Mexico,Flu,2020-05-01,107.11
+New Mexico,Flu,2020-06-01,117.87
+New Mexico,Flu,2020-07-01,101.37
+New Mexico,Flu,2020-08-01,80.24
+New Mexico,Flu,2020-09-01,86.05
+New Mexico,Flu,2020-10-01,81.53
+New Mexico,Flu,2020-11-01,80.97
+New Mexico,Flu,2020-12-01,78.01
+New Mexico,Flu,2021-01-01,77.29
+New Mexico,Flu,2021-02-01,79.73
+New Mexico,Flu,2021-03-01,121.1
+New Mexico,Flu,2021-04-01,95.54
+New Mexico,Flu,2021-05-01,104.54
+New Mexico,Flu,2021-06-01,90.17
+New Mexico,Flu,2021-07-01,95.96
+New Mexico,Flu,2021-08-01,100.35
+New Mexico,Flu,2021-09-01,74.64
+New Mexico,Flu,2021-10-01,89.78
+New Mexico,Flu,2021-11-01,85.79
+New Mexico,Flu,2021-12-01,107.39
+New Mexico,Flu,2022-01-01,95.73
+New Mexico,Flu,2022-02-01,80.36
+New Mexico,Flu,2022-03-01,113.64
+New Mexico,Flu,2022-04-01,108.89
+New Mexico,Flu,2022-05-01,113.39
+New Mexico,Flu,2022-06-01,101.7
+New Mexico,Flu,2022-07-01,107.89
+New Mexico,Flu,2022-08-01,92.95
+New Mexico,Flu,2022-09-01,94.67
+New Mexico,Flu,2022-10-01,73.24
+New Mexico,Flu,2022-11-01,80.34
+New Mexico,Flu,2022-12-01,99.07
+New Mexico,Flu,2023-01-01,91.69
+New Mexico,Flu,2023-02-01,87.94
+New Mexico,Flu,2023-03-01,100.58
+New Mexico,Flu,2023-04-01,104.46
+New Mexico,Flu,2023-05-01,94.67
+New Mexico,Flu,2023-06-01,107.77
+New Mexico,Flu,2023-07-01,96.71
+New Mexico,Flu,2023-08-01,73.55
+New Mexico,Flu,2023-09-01,85.98
+New Mexico,Flu,2023-10-01,90.08
+New Mexico,Flu,2023-11-01,87.69
+New Mexico,Flu,2023-12-01,95.97
+New Mexico,Flu,2024-01-01,98.33
+New Mexico,Flu,2024-02-01,96.95
+New Mexico,Flu,2024-03-01,95.11
+New Mexico,Flu,2024-04-01,100.41
+New Mexico,Flu,2024-05-01,115.52
+New Mexico,Flu,2024-06-01,81.54
+New Mexico,Flu,2024-07-01,102.46
+New Mexico,Flu,2024-08-01,111.7
+New Mexico,Flu,2024-09-01,105.87
+New Mexico,Flu,2024-10-01,86.68
+New Mexico,Flu,2024-11-01,72.97
+New Mexico,Flu,2024-12-01,105.61
+New Mexico,Covid,2020-01-01,83.9
+New Mexico,Covid,2020-02-01,81.26
+New Mexico,Covid,2020-03-01,85.01
+New Mexico,Covid,2020-04-01,98.65
+New Mexico,Covid,2020-05-01,109.88
+New Mexico,Covid,2020-06-01,103.96
+New Mexico,Covid,2020-07-01,103.38
+New Mexico,Covid,2020-08-01,92.09
+New Mexico,Covid,2020-09-01,80.34
+New Mexico,Covid,2020-10-01,94.68
+New Mexico,Covid,2020-11-01,87.43
+New Mexico,Covid,2020-12-01,111.05
+New Mexico,Covid,2021-01-01,89.03
+New Mexico,Covid,2021-02-01,91.75
+New Mexico,Covid,2021-03-01,120.79
+New Mexico,Covid,2021-04-01,111.91
+New Mexico,Covid,2021-05-01,99.79
+New Mexico,Covid,2021-06-01,97.54
+New Mexico,Covid,2021-07-01,97.79
+New Mexico,Covid,2021-08-01,106.37
+New Mexico,Covid,2021-09-01,90.98
+New Mexico,Covid,2021-10-01,84.44
+New Mexico,Covid,2021-11-01,84.51
+New Mexico,Covid,2021-12-01,81.03
+New Mexico,Covid,2022-01-01,87.62
+New Mexico,Covid,2022-02-01,105.41
+New Mexico,Covid,2022-03-01,110.31
+New Mexico,Covid,2022-04-01,102.64
+New Mexico,Covid,2022-05-01,107.54
+New Mexico,Covid,2022-06-01,100.8
+New Mexico,Covid,2022-07-01,86.6
+New Mexico,Covid,2022-08-01,102.08
+New Mexico,Covid,2022-09-01,82.87
+New Mexico,Covid,2022-10-01,68.14
+New Mexico,Covid,2022-11-01,77.72
+New Mexico,Covid,2022-12-01,83.47
+New Mexico,Covid,2023-01-01,106.01
+New Mexico,Covid,2023-02-01,95.72
+New Mexico,Covid,2023-03-01,100.47
+New Mexico,Covid,2023-04-01,104.23
+New Mexico,Covid,2023-05-01,100.73
+New Mexico,Covid,2023-06-01,71.08
+New Mexico,Covid,2023-07-01,92.14
+New Mexico,Covid,2023-08-01,88.66
+New Mexico,Covid,2023-09-01,96.31
+New Mexico,Covid,2023-10-01,97.89
+New Mexico,Covid,2023-11-01,108.09
+New Mexico,Covid,2023-12-01,88.67
+New Mexico,Covid,2024-01-01,94.5
+New Mexico,Covid,2024-02-01,98.42
+New Mexico,Covid,2024-03-01,107.45
+New Mexico,Covid,2024-04-01,100.45
+New Mexico,Covid,2024-05-01,103.94
+New Mexico,Covid,2024-06-01,103.48
+New Mexico,Covid,2024-07-01,95.63
+New Mexico,Covid,2024-08-01,91.84
+New Mexico,Covid,2024-09-01,65.74
+New Mexico,Covid,2024-10-01,93.65
+New Mexico,Covid,2024-11-01,87.82
+New Mexico,Covid,2024-12-01,84.88
+New York,Flu,2020-01-01,79.85
+New York,Flu,2020-02-01,93.35
+New York,Flu,2020-03-01,92.01
+New York,Flu,2020-04-01,100.49
+New York,Flu,2020-05-01,122.87
+New York,Flu,2020-06-01,97.12
+New York,Flu,2020-07-01,111.24
+New York,Flu,2020-08-01,103.26
+New York,Flu,2020-09-01,78.14
+New York,Flu,2020-10-01,97.49
+New York,Flu,2020-11-01,84.47
+New York,Flu,2020-12-01,99.24
+New York,Flu,2021-01-01,101.59
+New York,Flu,2021-02-01,104.61
+New York,Flu,2021-03-01,120.05
+New York,Flu,2021-04-01,112.19
+New York,Flu,2021-05-01,105.96
+New York,Flu,2021-06-01,109.26
+New York,Flu,2021-07-01,119.79
+New York,Flu,2021-08-01,92.77
+New York,Flu,2021-09-01,100.26
+New York,Flu,2021-10-01,73.83
+New York,Flu,2021-11-01,120.28
+New York,Flu,2021-12-01,103.48
+New York,Flu,2022-01-01,102.49
+New York,Flu,2022-02-01,97.18
+New York,Flu,2022-03-01,110.44
+New York,Flu,2022-04-01,122.98
+New York,Flu,2022-05-01,105.19
+New York,Flu,2022-06-01,110.26
+New York,Flu,2022-07-01,102.0
+New York,Flu,2022-08-01,91.86
+New York,Flu,2022-09-01,80.46
+New York,Flu,2022-10-01,96.66
+New York,Flu,2022-11-01,83.14
+New York,Flu,2022-12-01,83.86
+New York,Flu,2023-01-01,110.25
+New York,Flu,2023-02-01,122.75
+New York,Flu,2023-03-01,118.71
+New York,Flu,2023-04-01,119.86
+New York,Flu,2023-05-01,120.56
+New York,Flu,2023-06-01,101.84
+New York,Flu,2023-07-01,107.23
+New York,Flu,2023-08-01,107.31
+New York,Flu,2023-09-01,94.77
+New York,Flu,2023-10-01,132.35
+New York,Flu,2023-11-01,118.69
+New York,Flu,2023-12-01,117.31
+New York,Flu,2024-01-01,126.76
+New York,Flu,2024-02-01,116.88
+New York,Flu,2024-03-01,122.4
+New York,Flu,2024-04-01,120.9
+New York,Flu,2024-05-01,133.42
+New York,Flu,2024-06-01,124.17
+New York,Flu,2024-07-01,107.62
+New York,Flu,2024-08-01,124.5
+New York,Flu,2024-09-01,114.24
+New York,Flu,2024-10-01,99.8
+New York,Flu,2024-11-01,99.24
+New York,Flu,2024-12-01,117.53
+New York,Covid,2020-01-01,96.91
+New York,Covid,2020-02-01,99.71
+New York,Covid,2020-03-01,102.28
+New York,Covid,2020-04-01,97.62
+New York,Covid,2020-05-01,107.01
+New York,Covid,2020-06-01,100.68
+New York,Covid,2020-07-01,101.05
+New York,Covid,2020-08-01,97.78
+New York,Covid,2020-09-01,83.56
+New York,Covid,2020-10-01,80.74
+New York,Covid,2020-11-01,100.69
+New York,Covid,2020-12-01,95.81
+New York,Covid,2021-01-01,94.82
+New York,Covid,2021-02-01,110.91
+New York,Covid,2021-03-01,98.46
+New York,Covid,2021-04-01,115.55
+New York,Covid,2021-05-01,109.61
+New York,Covid,2021-06-01,100.41
+New York,Covid,2021-07-01,105.01
+New York,Covid,2021-08-01,97.03
+New York,Covid,2021-09-01,80.68
+New York,Covid,2021-10-01,88.63
+New York,Covid,2021-11-01,103.79
+New York,Covid,2021-12-01,99.43
+New York,Covid,2022-01-01,125.04
+New York,Covid,2022-02-01,107.26
+New York,Covid,2022-03-01,113.16
+New York,Covid,2022-04-01,113.9
+New York,Covid,2022-05-01,122.36
+New York,Covid,2022-06-01,102.22
+New York,Covid,2022-07-01,119.38
+New York,Covid,2022-08-01,109.2
+New York,Covid,2022-09-01,99.51
+New York,Covid,2022-10-01,84.69
+New York,Covid,2022-11-01,104.06
+New York,Covid,2022-12-01,97.96
+New York,Covid,2023-01-01,118.05
+New York,Covid,2023-02-01,127.52
+New York,Covid,2023-03-01,112.71
+New York,Covid,2023-04-01,121.97
+New York,Covid,2023-05-01,117.49
+New York,Covid,2023-06-01,136.18
+New York,Covid,2023-07-01,104.82
+New York,Covid,2023-08-01,93.23
+New York,Covid,2023-09-01,92.42
+New York,Covid,2023-10-01,111.66
+New York,Covid,2023-11-01,117.67
+New York,Covid,2023-12-01,106.64
+New York,Covid,2024-01-01,110.55
+New York,Covid,2024-02-01,118.23
+New York,Covid,2024-03-01,132.98
+New York,Covid,2024-04-01,103.48
+New York,Covid,2024-05-01,106.12
+New York,Covid,2024-06-01,130.58
+New York,Covid,2024-07-01,111.85
+New York,Covid,2024-08-01,92.76
+New York,Covid,2024-09-01,99.35
+New York,Covid,2024-10-01,122.44
+New York,Covid,2024-11-01,103.1
+New York,Covid,2024-12-01,134.57
+North Carolina,Flu,2020-01-01,95.38
+North Carolina,Flu,2020-02-01,95.01
+North Carolina,Flu,2020-03-01,80.57
+North Carolina,Flu,2020-04-01,84.2
+North Carolina,Flu,2020-05-01,111.73
+North Carolina,Flu,2020-06-01,95.89
+North Carolina,Flu,2020-07-01,97.18
+North Carolina,Flu,2020-08-01,76.85
+North Carolina,Flu,2020-09-01,77.76
+North Carolina,Flu,2020-10-01,73.86
+North Carolina,Flu,2020-11-01,68.16
+North Carolina,Flu,2020-12-01,89.4
+North Carolina,Flu,2021-01-01,96.99
+North Carolina,Flu,2021-02-01,104.06
+North Carolina,Flu,2021-03-01,94.72
+North Carolina,Flu,2021-04-01,114.34
+North Carolina,Flu,2021-05-01,101.05
+North Carolina,Flu,2021-06-01,81.53
+North Carolina,Flu,2021-07-01,86.37
+North Carolina,Flu,2021-08-01,95.48
+North Carolina,Flu,2021-09-01,94.86
+North Carolina,Flu,2021-10-01,71.12
+North Carolina,Flu,2021-11-01,65.59
+North Carolina,Flu,2021-12-01,86.91
+North Carolina,Flu,2022-01-01,96.63
+North Carolina,Flu,2022-02-01,98.98
+North Carolina,Flu,2022-03-01,104.72
+North Carolina,Flu,2022-04-01,100.37
+North Carolina,Flu,2022-05-01,79.94
+North Carolina,Flu,2022-06-01,91.25
+North Carolina,Flu,2022-07-01,98.89
+North Carolina,Flu,2022-08-01,87.72
+North Carolina,Flu,2022-09-01,84.91
+North Carolina,Flu,2022-10-01,92.54
+North Carolina,Flu,2022-11-01,71.5
+North Carolina,Flu,2022-12-01,97.38
+North Carolina,Flu,2023-01-01,85.62
+North Carolina,Flu,2023-02-01,114.78
+North Carolina,Flu,2023-03-01,89.71
+North Carolina,Flu,2023-04-01,91.0
+North Carolina,Flu,2023-05-01,108.35
+North Carolina,Flu,2023-06-01,108.85
+North Carolina,Flu,2023-07-01,88.28
+North Carolina,Flu,2023-08-01,94.26
+North Carolina,Flu,2023-09-01,77.57
+North Carolina,Flu,2023-10-01,97.83
+North Carolina,Flu,2023-11-01,89.87
+North Carolina,Flu,2023-12-01,85.77
+North Carolina,Flu,2024-01-01,79.75
+North Carolina,Flu,2024-02-01,104.27
+North Carolina,Flu,2024-03-01,117.05
+North Carolina,Flu,2024-04-01,99.68
+North Carolina,Flu,2024-05-01,90.24
+North Carolina,Flu,2024-06-01,102.29
+North Carolina,Flu,2024-07-01,103.66
+North Carolina,Flu,2024-08-01,91.38
+North Carolina,Flu,2024-09-01,97.02
+North Carolina,Flu,2024-10-01,91.26
+North Carolina,Flu,2024-11-01,92.25
+North Carolina,Flu,2024-12-01,86.3
+North Carolina,Covid,2020-01-01,87.17
+North Carolina,Covid,2020-02-01,87.14
+North Carolina,Covid,2020-03-01,105.85
+North Carolina,Covid,2020-04-01,99.16
+North Carolina,Covid,2020-05-01,88.62
+North Carolina,Covid,2020-06-01,92.16
+North Carolina,Covid,2020-07-01,92.13
+North Carolina,Covid,2020-08-01,82.13
+North Carolina,Covid,2020-09-01,90.99
+North Carolina,Covid,2020-10-01,69.99
+North Carolina,Covid,2020-11-01,79.23
+North Carolina,Covid,2020-12-01,90.85
+North Carolina,Covid,2021-01-01,81.33
+North Carolina,Covid,2021-02-01,104.96
+North Carolina,Covid,2021-03-01,105.98
+North Carolina,Covid,2021-04-01,112.08
+North Carolina,Covid,2021-05-01,112.7
+North Carolina,Covid,2021-06-01,91.4
+North Carolina,Covid,2021-07-01,86.25
+North Carolina,Covid,2021-08-01,85.23
+North Carolina,Covid,2021-09-01,86.15
+North Carolina,Covid,2021-10-01,76.01
+North Carolina,Covid,2021-11-01,73.21
+North Carolina,Covid,2021-12-01,100.95
+North Carolina,Covid,2022-01-01,122.02
+North Carolina,Covid,2022-02-01,101.66
+North Carolina,Covid,2022-03-01,103.36
+North Carolina,Covid,2022-04-01,113.96
+North Carolina,Covid,2022-05-01,105.53
+North Carolina,Covid,2022-06-01,85.64
+North Carolina,Covid,2022-07-01,105.77
+North Carolina,Covid,2022-08-01,72.5
+North Carolina,Covid,2022-09-01,76.25
+North Carolina,Covid,2022-10-01,85.46
+North Carolina,Covid,2022-11-01,64.5
+North Carolina,Covid,2022-12-01,101.11
+North Carolina,Covid,2023-01-01,93.35
+North Carolina,Covid,2023-02-01,99.87
+North Carolina,Covid,2023-03-01,117.25
+North Carolina,Covid,2023-04-01,109.76
+North Carolina,Covid,2023-05-01,96.91
+North Carolina,Covid,2023-06-01,103.36
+North Carolina,Covid,2023-07-01,95.7
+North Carolina,Covid,2023-08-01,100.07
+North Carolina,Covid,2023-09-01,70.75
+North Carolina,Covid,2023-10-01,83.25
+North Carolina,Covid,2023-11-01,103.11
+North Carolina,Covid,2023-12-01,95.03
+North Carolina,Covid,2024-01-01,110.07
+North Carolina,Covid,2024-02-01,108.27
+North Carolina,Covid,2024-03-01,90.8
+North Carolina,Covid,2024-04-01,107.28
+North Carolina,Covid,2024-05-01,109.84
+North Carolina,Covid,2024-06-01,82.61
+North Carolina,Covid,2024-07-01,86.4
+North Carolina,Covid,2024-08-01,106.61
+North Carolina,Covid,2024-09-01,88.63
+North Carolina,Covid,2024-10-01,73.12
+North Carolina,Covid,2024-11-01,95.31
+North Carolina,Covid,2024-12-01,92.9
+North Dakota,Flu,2020-01-01,87.05
+North Dakota,Flu,2020-02-01,112.8
+North Dakota,Flu,2020-03-01,117.65
+North Dakota,Flu,2020-04-01,115.33
+North Dakota,Flu,2020-05-01,127.17
+North Dakota,Flu,2020-06-01,127.06
+North Dakota,Flu,2020-07-01,114.43
+North Dakota,Flu,2020-08-01,107.22
+North Dakota,Flu,2020-09-01,91.61
+North Dakota,Flu,2020-10-01,86.11
+North Dakota,Flu,2020-11-01,96.39
+North Dakota,Flu,2020-12-01,111.58
+North Dakota,Flu,2021-01-01,102.31
+North Dakota,Flu,2021-02-01,122.39
+North Dakota,Flu,2021-03-01,120.96
+North Dakota,Flu,2021-04-01,101.08
+North Dakota,Flu,2021-05-01,129.17
+North Dakota,Flu,2021-06-01,126.97
+North Dakota,Flu,2021-07-01,115.17
+North Dakota,Flu,2021-08-01,112.92
+North Dakota,Flu,2021-09-01,105.5
+North Dakota,Flu,2021-10-01,109.06
+North Dakota,Flu,2021-11-01,108.8
+North Dakota,Flu,2021-12-01,104.67
+North Dakota,Flu,2022-01-01,119.53
+North Dakota,Flu,2022-02-01,127.34
+North Dakota,Flu,2022-03-01,125.18
+North Dakota,Flu,2022-04-01,137.99
+North Dakota,Flu,2022-05-01,136.26
+North Dakota,Flu,2022-06-01,121.02
+North Dakota,Flu,2022-07-01,118.34
+North Dakota,Flu,2022-08-01,123.34
+North Dakota,Flu,2022-09-01,126.35
+North Dakota,Flu,2022-10-01,105.67
+North Dakota,Flu,2022-11-01,115.97
+North Dakota,Flu,2022-12-01,110.52
+North Dakota,Flu,2023-01-01,106.9
+North Dakota,Flu,2023-02-01,138.49
+North Dakota,Flu,2023-03-01,136.45
+North Dakota,Flu,2023-04-01,134.21
+North Dakota,Flu,2023-05-01,157.86
+North Dakota,Flu,2023-06-01,146.01
+North Dakota,Flu,2023-07-01,129.54
+North Dakota,Flu,2023-08-01,126.57
+North Dakota,Flu,2023-09-01,132.17
+North Dakota,Flu,2023-10-01,120.56
+North Dakota,Flu,2023-11-01,121.97
+North Dakota,Flu,2023-12-01,132.35
+North Dakota,Flu,2024-01-01,142.94
+North Dakota,Flu,2024-02-01,120.98
+North Dakota,Flu,2024-03-01,149.54
+North Dakota,Flu,2024-04-01,142.44
+North Dakota,Flu,2024-05-01,141.85
+North Dakota,Flu,2024-06-01,124.45
+North Dakota,Flu,2024-07-01,145.46
+North Dakota,Flu,2024-08-01,112.55
+North Dakota,Flu,2024-09-01,131.8
+North Dakota,Flu,2024-10-01,115.16
+North Dakota,Flu,2024-11-01,132.13
+North Dakota,Flu,2024-12-01,143.15
+North Dakota,Covid,2020-01-01,96.62
+North Dakota,Covid,2020-02-01,113.35
+North Dakota,Covid,2020-03-01,106.27
+North Dakota,Covid,2020-04-01,120.86
+North Dakota,Covid,2020-05-01,113.72
+North Dakota,Covid,2020-06-01,121.35
+North Dakota,Covid,2020-07-01,112.76
+North Dakota,Covid,2020-08-01,107.41
+North Dakota,Covid,2020-09-01,113.72
+North Dakota,Covid,2020-10-01,92.34
+North Dakota,Covid,2020-11-01,109.34
+North Dakota,Covid,2020-12-01,120.15
+North Dakota,Covid,2021-01-01,105.78
+North Dakota,Covid,2021-02-01,99.05
+North Dakota,Covid,2021-03-01,136.69
+North Dakota,Covid,2021-04-01,134.79
+North Dakota,Covid,2021-05-01,122.86
+North Dakota,Covid,2021-06-01,118.94
+North Dakota,Covid,2021-07-01,98.2
+North Dakota,Covid,2021-08-01,109.65
+North Dakota,Covid,2021-09-01,122.66
+North Dakota,Covid,2021-10-01,94.32
+North Dakota,Covid,2021-11-01,127.96
+North Dakota,Covid,2021-12-01,121.13
+North Dakota,Covid,2022-01-01,120.53
+North Dakota,Covid,2022-02-01,126.73
+North Dakota,Covid,2022-03-01,129.15
+North Dakota,Covid,2022-04-01,119.25
+North Dakota,Covid,2022-05-01,136.94
+North Dakota,Covid,2022-06-01,135.82
+North Dakota,Covid,2022-07-01,130.84
+North Dakota,Covid,2022-08-01,109.97
+North Dakota,Covid,2022-09-01,112.97
+North Dakota,Covid,2022-10-01,105.76
+North Dakota,Covid,2022-11-01,117.06
+North Dakota,Covid,2022-12-01,115.08
+North Dakota,Covid,2023-01-01,104.86
+North Dakota,Covid,2023-02-01,136.26
+North Dakota,Covid,2023-03-01,143.3
+North Dakota,Covid,2023-04-01,147.91
+North Dakota,Covid,2023-05-01,141.81
+North Dakota,Covid,2023-06-01,113.96
+North Dakota,Covid,2023-07-01,107.77
+North Dakota,Covid,2023-08-01,131.3
+North Dakota,Covid,2023-09-01,140.17
+North Dakota,Covid,2023-10-01,121.92
+North Dakota,Covid,2023-11-01,117.42
+North Dakota,Covid,2023-12-01,119.0
+North Dakota,Covid,2024-01-01,110.78
+North Dakota,Covid,2024-02-01,148.28
+North Dakota,Covid,2024-03-01,146.79
+North Dakota,Covid,2024-04-01,141.91
+North Dakota,Covid,2024-05-01,134.46
+North Dakota,Covid,2024-06-01,144.77
+North Dakota,Covid,2024-07-01,131.64
+North Dakota,Covid,2024-08-01,121.74
+North Dakota,Covid,2024-09-01,138.42
+North Dakota,Covid,2024-10-01,127.27
+North Dakota,Covid,2024-11-01,113.71
+North Dakota,Covid,2024-12-01,141.69
+Ohio,Flu,2020-01-01,97.54
+Ohio,Flu,2020-02-01,120.32
+Ohio,Flu,2020-03-01,113.98
+Ohio,Flu,2020-04-01,128.55
+Ohio,Flu,2020-05-01,118.02
+Ohio,Flu,2020-06-01,92.43
+Ohio,Flu,2020-07-01,113.74
+Ohio,Flu,2020-08-01,119.87
+Ohio,Flu,2020-09-01,116.97
+Ohio,Flu,2020-10-01,120.36
+Ohio,Flu,2020-11-01,95.75
+Ohio,Flu,2020-12-01,106.55
+Ohio,Flu,2021-01-01,115.17
+Ohio,Flu,2021-02-01,101.4
+Ohio,Flu,2021-03-01,107.1
+Ohio,Flu,2021-04-01,125.53
+Ohio,Flu,2021-05-01,123.48
+Ohio,Flu,2021-06-01,104.4
+Ohio,Flu,2021-07-01,107.79
+Ohio,Flu,2021-08-01,112.96
+Ohio,Flu,2021-09-01,116.95
+Ohio,Flu,2021-10-01,109.68
+Ohio,Flu,2021-11-01,103.42
+Ohio,Flu,2021-12-01,112.59
+Ohio,Flu,2022-01-01,127.09
+Ohio,Flu,2022-02-01,128.99
+Ohio,Flu,2022-03-01,145.51
+Ohio,Flu,2022-04-01,105.12
+Ohio,Flu,2022-05-01,120.59
+Ohio,Flu,2022-06-01,150.52
+Ohio,Flu,2022-07-01,120.25
+Ohio,Flu,2022-08-01,113.53
+Ohio,Flu,2022-09-01,112.06
+Ohio,Flu,2022-10-01,102.55
+Ohio,Flu,2022-11-01,120.26
+Ohio,Flu,2022-12-01,130.13
+Ohio,Flu,2023-01-01,126.39
+Ohio,Flu,2023-02-01,111.63
+Ohio,Flu,2023-03-01,132.43
+Ohio,Flu,2023-04-01,119.18
+Ohio,Flu,2023-05-01,131.42
+Ohio,Flu,2023-06-01,128.78
+Ohio,Flu,2023-07-01,121.06
+Ohio,Flu,2023-08-01,129.99
+Ohio,Flu,2023-09-01,112.9
+Ohio,Flu,2023-10-01,94.32
+Ohio,Flu,2023-11-01,125.67
+Ohio,Flu,2023-12-01,112.89
+Ohio,Flu,2024-01-01,130.27
+Ohio,Flu,2024-02-01,136.89
+Ohio,Flu,2024-03-01,132.04
+Ohio,Flu,2024-04-01,130.21
+Ohio,Flu,2024-05-01,137.38
+Ohio,Flu,2024-06-01,127.74
+Ohio,Flu,2024-07-01,113.5
+Ohio,Flu,2024-08-01,109.41
+Ohio,Flu,2024-09-01,120.81
+Ohio,Flu,2024-10-01,124.52
+Ohio,Flu,2024-11-01,130.83
+Ohio,Flu,2024-12-01,124.92
+Ohio,Covid,2020-01-01,114.03
+Ohio,Covid,2020-02-01,117.74
+Ohio,Covid,2020-03-01,111.41
+Ohio,Covid,2020-04-01,126.14
+Ohio,Covid,2020-05-01,132.83
+Ohio,Covid,2020-06-01,112.95
+Ohio,Covid,2020-07-01,118.26
+Ohio,Covid,2020-08-01,107.25
+Ohio,Covid,2020-09-01,101.42
+Ohio,Covid,2020-10-01,111.24
+Ohio,Covid,2020-11-01,97.22
+Ohio,Covid,2020-12-01,104.43
+Ohio,Covid,2021-01-01,108.57
+Ohio,Covid,2021-02-01,126.08
+Ohio,Covid,2021-03-01,98.28
+Ohio,Covid,2021-04-01,126.04
+Ohio,Covid,2021-05-01,126.43
+Ohio,Covid,2021-06-01,130.57
+Ohio,Covid,2021-07-01,117.37
+Ohio,Covid,2021-08-01,115.75
+Ohio,Covid,2021-09-01,114.81
+Ohio,Covid,2021-10-01,93.17
+Ohio,Covid,2021-11-01,93.1
+Ohio,Covid,2021-12-01,95.02
+Ohio,Covid,2022-01-01,103.59
+Ohio,Covid,2022-02-01,115.03
+Ohio,Covid,2022-03-01,130.72
+Ohio,Covid,2022-04-01,114.27
+Ohio,Covid,2022-05-01,119.04
+Ohio,Covid,2022-06-01,131.09
+Ohio,Covid,2022-07-01,120.32
+Ohio,Covid,2022-08-01,118.42
+Ohio,Covid,2022-09-01,104.11
+Ohio,Covid,2022-10-01,118.45
+Ohio,Covid,2022-11-01,112.91
+Ohio,Covid,2022-12-01,101.45
+Ohio,Covid,2023-01-01,115.56
+Ohio,Covid,2023-02-01,117.27
+Ohio,Covid,2023-03-01,129.54
+Ohio,Covid,2023-04-01,123.08
+Ohio,Covid,2023-05-01,130.52
+Ohio,Covid,2023-06-01,106.81
+Ohio,Covid,2023-07-01,123.16
+Ohio,Covid,2023-08-01,111.93
+Ohio,Covid,2023-09-01,124.72
+Ohio,Covid,2023-10-01,115.55
+Ohio,Covid,2023-11-01,109.34
+Ohio,Covid,2023-12-01,128.2
+Ohio,Covid,2024-01-01,123.44
+Ohio,Covid,2024-02-01,134.94
+Ohio,Covid,2024-03-01,127.96
+Ohio,Covid,2024-04-01,122.46
+Ohio,Covid,2024-05-01,126.82
+Ohio,Covid,2024-06-01,141.55
+Ohio,Covid,2024-07-01,127.99
+Ohio,Covid,2024-08-01,109.21
+Ohio,Covid,2024-09-01,115.89
+Ohio,Covid,2024-10-01,125.7
+Ohio,Covid,2024-11-01,127.95
+Ohio,Covid,2024-12-01,127.78
+Oklahoma,Flu,2020-01-01,87.4
+Oklahoma,Flu,2020-02-01,93.26
+Oklahoma,Flu,2020-03-01,90.77
+Oklahoma,Flu,2020-04-01,83.98
+Oklahoma,Flu,2020-05-01,91.79
+Oklahoma,Flu,2020-06-01,107.16
+Oklahoma,Flu,2020-07-01,79.33
+Oklahoma,Flu,2020-08-01,65.11
+Oklahoma,Flu,2020-09-01,73.33
+Oklahoma,Flu,2020-10-01,68.62
+Oklahoma,Flu,2020-11-01,67.21
+Oklahoma,Flu,2020-12-01,74.58
+Oklahoma,Flu,2021-01-01,91.31
+Oklahoma,Flu,2021-02-01,96.58
+Oklahoma,Flu,2021-03-01,103.93
+Oklahoma,Flu,2021-04-01,109.84
+Oklahoma,Flu,2021-05-01,88.71
+Oklahoma,Flu,2021-06-01,77.07
+Oklahoma,Flu,2021-07-01,100.44
+Oklahoma,Flu,2021-08-01,75.4
+Oklahoma,Flu,2021-09-01,73.83
+Oklahoma,Flu,2021-10-01,68.66
+Oklahoma,Flu,2021-11-01,67.31
+Oklahoma,Flu,2021-12-01,67.81
+Oklahoma,Flu,2022-01-01,85.05
+Oklahoma,Flu,2022-02-01,92.25
+Oklahoma,Flu,2022-03-01,83.46
+Oklahoma,Flu,2022-04-01,85.53
+Oklahoma,Flu,2022-05-01,90.11
+Oklahoma,Flu,2022-06-01,91.0
+Oklahoma,Flu,2022-07-01,108.69
+Oklahoma,Flu,2022-08-01,64.18
+Oklahoma,Flu,2022-09-01,69.88
+Oklahoma,Flu,2022-10-01,61.55
+Oklahoma,Flu,2022-11-01,73.42
+Oklahoma,Flu,2022-12-01,66.72
+Oklahoma,Flu,2023-01-01,98.22
+Oklahoma,Flu,2023-02-01,85.12
+Oklahoma,Flu,2023-03-01,91.53
+Oklahoma,Flu,2023-04-01,103.22
+Oklahoma,Flu,2023-05-01,92.17
+Oklahoma,Flu,2023-06-01,84.85
+Oklahoma,Flu,2023-07-01,79.81
+Oklahoma,Flu,2023-08-01,75.84
+Oklahoma,Flu,2023-09-01,78.27
+Oklahoma,Flu,2023-10-01,66.45
+Oklahoma,Flu,2023-11-01,74.19
+Oklahoma,Flu,2023-12-01,65.16
+Oklahoma,Flu,2024-01-01,74.12
+Oklahoma,Flu,2024-02-01,83.66
+Oklahoma,Flu,2024-03-01,106.15
+Oklahoma,Flu,2024-04-01,93.29
+Oklahoma,Flu,2024-05-01,102.01
+Oklahoma,Flu,2024-06-01,107.96
+Oklahoma,Flu,2024-07-01,83.98
+Oklahoma,Flu,2024-08-01,82.29
+Oklahoma,Flu,2024-09-01,84.25
+Oklahoma,Flu,2024-10-01,89.61
+Oklahoma,Flu,2024-11-01,77.48
+Oklahoma,Flu,2024-12-01,83.27
+Oklahoma,Covid,2020-01-01,88.38
+Oklahoma,Covid,2020-02-01,95.22
+Oklahoma,Covid,2020-03-01,65.85
+Oklahoma,Covid,2020-04-01,81.31
+Oklahoma,Covid,2020-05-01,82.8
+Oklahoma,Covid,2020-06-01,86.51
+Oklahoma,Covid,2020-07-01,75.41
+Oklahoma,Covid,2020-08-01,94.25
+Oklahoma,Covid,2020-09-01,77.12
+Oklahoma,Covid,2020-10-01,58.86
+Oklahoma,Covid,2020-11-01,72.66
+Oklahoma,Covid,2020-12-01,74.11
+Oklahoma,Covid,2021-01-01,85.93
+Oklahoma,Covid,2021-02-01,92.26
+Oklahoma,Covid,2021-03-01,89.78
+Oklahoma,Covid,2021-04-01,96.95
+Oklahoma,Covid,2021-05-01,104.42
+Oklahoma,Covid,2021-06-01,95.12
+Oklahoma,Covid,2021-07-01,52.99
+Oklahoma,Covid,2021-08-01,75.09
+Oklahoma,Covid,2021-09-01,85.9
+Oklahoma,Covid,2021-10-01,64.52
+Oklahoma,Covid,2021-11-01,63.91
+Oklahoma,Covid,2021-12-01,66.59
+Oklahoma,Covid,2022-01-01,67.66
+Oklahoma,Covid,2022-02-01,104.6
+Oklahoma,Covid,2022-03-01,95.81
+Oklahoma,Covid,2022-04-01,100.13
+Oklahoma,Covid,2022-05-01,78.19
+Oklahoma,Covid,2022-06-01,84.32
+Oklahoma,Covid,2022-07-01,92.06
+Oklahoma,Covid,2022-08-01,67.47
+Oklahoma,Covid,2022-09-01,75.72
+Oklahoma,Covid,2022-10-01,83.35
+Oklahoma,Covid,2022-11-01,69.2
+Oklahoma,Covid,2022-12-01,81.62
+Oklahoma,Covid,2023-01-01,67.49
+Oklahoma,Covid,2023-02-01,78.78
+Oklahoma,Covid,2023-03-01,104.4
+Oklahoma,Covid,2023-04-01,108.61
+Oklahoma,Covid,2023-05-01,94.84
+Oklahoma,Covid,2023-06-01,68.76
+Oklahoma,Covid,2023-07-01,79.27
+Oklahoma,Covid,2023-08-01,74.48
+Oklahoma,Covid,2023-09-01,76.05
+Oklahoma,Covid,2023-10-01,48.25
+Oklahoma,Covid,2023-11-01,73.34
+Oklahoma,Covid,2023-12-01,66.83
+Oklahoma,Covid,2024-01-01,77.94
+Oklahoma,Covid,2024-02-01,72.39
+Oklahoma,Covid,2024-03-01,100.23
+Oklahoma,Covid,2024-04-01,93.8
+Oklahoma,Covid,2024-05-01,101.14
+Oklahoma,Covid,2024-06-01,91.8
+Oklahoma,Covid,2024-07-01,71.89
+Oklahoma,Covid,2024-08-01,76.45
+Oklahoma,Covid,2024-09-01,70.62
+Oklahoma,Covid,2024-10-01,53.94
+Oklahoma,Covid,2024-11-01,78.03
+Oklahoma,Covid,2024-12-01,82.21
+Oregon,Flu,2020-01-01,104.24
+Oregon,Flu,2020-02-01,111.99
+Oregon,Flu,2020-03-01,106.46
+Oregon,Flu,2020-04-01,113.77
+Oregon,Flu,2020-05-01,103.42
+Oregon,Flu,2020-06-01,91.48
+Oregon,Flu,2020-07-01,108.84
+Oregon,Flu,2020-08-01,84.21
+Oregon,Flu,2020-09-01,92.23
+Oregon,Flu,2020-10-01,98.77
+Oregon,Flu,2020-11-01,106.59
+Oregon,Flu,2020-12-01,102.98
+Oregon,Flu,2021-01-01,109.79
+Oregon,Flu,2021-02-01,101.58
+Oregon,Flu,2021-03-01,94.26
+Oregon,Flu,2021-04-01,132.4
+Oregon,Flu,2021-05-01,127.9
+Oregon,Flu,2021-06-01,111.12
+Oregon,Flu,2021-07-01,121.16
+Oregon,Flu,2021-08-01,99.31
+Oregon,Flu,2021-09-01,107.76
+Oregon,Flu,2021-10-01,102.0
+Oregon,Flu,2021-11-01,108.63
+Oregon,Flu,2021-12-01,113.76
+Oregon,Flu,2022-01-01,114.16
+Oregon,Flu,2022-02-01,90.14
+Oregon,Flu,2022-03-01,118.06
+Oregon,Flu,2022-04-01,133.41
+Oregon,Flu,2022-05-01,115.39
+Oregon,Flu,2022-06-01,114.22
+Oregon,Flu,2022-07-01,146.82
+Oregon,Flu,2022-08-01,108.25
+Oregon,Flu,2022-09-01,95.07
+Oregon,Flu,2022-10-01,98.8
+Oregon,Flu,2022-11-01,115.02
+Oregon,Flu,2022-12-01,97.64
+Oregon,Flu,2023-01-01,118.7
+Oregon,Flu,2023-02-01,113.34
+Oregon,Flu,2023-03-01,124.63
+Oregon,Flu,2023-04-01,112.06
+Oregon,Flu,2023-05-01,116.96
+Oregon,Flu,2023-06-01,128.08
+Oregon,Flu,2023-07-01,121.45
+Oregon,Flu,2023-08-01,137.52
+Oregon,Flu,2023-09-01,128.43
+Oregon,Flu,2023-10-01,107.53
+Oregon,Flu,2023-11-01,101.07
+Oregon,Flu,2023-12-01,113.75
+Oregon,Flu,2024-01-01,154.53
+Oregon,Flu,2024-02-01,120.7
+Oregon,Flu,2024-03-01,133.11
+Oregon,Flu,2024-04-01,143.41
+Oregon,Flu,2024-05-01,129.47
+Oregon,Flu,2024-06-01,116.59
+Oregon,Flu,2024-07-01,119.88
+Oregon,Flu,2024-08-01,123.62
+Oregon,Flu,2024-09-01,125.94
+Oregon,Flu,2024-10-01,104.22
+Oregon,Flu,2024-11-01,114.04
+Oregon,Flu,2024-12-01,123.79
+Oregon,Covid,2020-01-01,99.13
+Oregon,Covid,2020-02-01,90.22
+Oregon,Covid,2020-03-01,113.6
+Oregon,Covid,2020-04-01,134.96
+Oregon,Covid,2020-05-01,112.97
+Oregon,Covid,2020-06-01,107.83
+Oregon,Covid,2020-07-01,97.25
+Oregon,Covid,2020-08-01,92.98
+Oregon,Covid,2020-09-01,77.63
+Oregon,Covid,2020-10-01,93.49
+Oregon,Covid,2020-11-01,94.72
+Oregon,Covid,2020-12-01,99.61
+Oregon,Covid,2021-01-01,107.69
+Oregon,Covid,2021-02-01,109.13
+Oregon,Covid,2021-03-01,107.93
+Oregon,Covid,2021-04-01,104.66
+Oregon,Covid,2021-05-01,127.61
+Oregon,Covid,2021-06-01,123.26
+Oregon,Covid,2021-07-01,127.29
+Oregon,Covid,2021-08-01,117.23
+Oregon,Covid,2021-09-01,101.58
+Oregon,Covid,2021-10-01,97.38
+Oregon,Covid,2021-11-01,111.39
+Oregon,Covid,2021-12-01,112.86
+Oregon,Covid,2022-01-01,117.19
+Oregon,Covid,2022-02-01,108.14
+Oregon,Covid,2022-03-01,125.83
+Oregon,Covid,2022-04-01,138.11
+Oregon,Covid,2022-05-01,133.19
+Oregon,Covid,2022-06-01,111.28
+Oregon,Covid,2022-07-01,112.45
+Oregon,Covid,2022-08-01,108.91
+Oregon,Covid,2022-09-01,129.85
+Oregon,Covid,2022-10-01,102.64
+Oregon,Covid,2022-11-01,108.49
+Oregon,Covid,2022-12-01,105.8
+Oregon,Covid,2023-01-01,110.87
+Oregon,Covid,2023-02-01,123.59
+Oregon,Covid,2023-03-01,142.87
+Oregon,Covid,2023-04-01,148.19
+Oregon,Covid,2023-05-01,137.2
+Oregon,Covid,2023-06-01,111.48
+Oregon,Covid,2023-07-01,133.05
+Oregon,Covid,2023-08-01,112.58
+Oregon,Covid,2023-09-01,110.1
+Oregon,Covid,2023-10-01,116.77
+Oregon,Covid,2023-11-01,108.36
+Oregon,Covid,2023-12-01,114.69
+Oregon,Covid,2024-01-01,118.99
+Oregon,Covid,2024-02-01,129.38
+Oregon,Covid,2024-03-01,113.45
+Oregon,Covid,2024-04-01,135.35
+Oregon,Covid,2024-05-01,133.72
+Oregon,Covid,2024-06-01,129.45
+Oregon,Covid,2024-07-01,121.99
+Oregon,Covid,2024-08-01,115.27
+Oregon,Covid,2024-09-01,112.22
+Oregon,Covid,2024-10-01,110.51
+Oregon,Covid,2024-11-01,86.75
+Oregon,Covid,2024-12-01,99.58
+Pennsylvania,Flu,2020-01-01,112.23
+Pennsylvania,Flu,2020-02-01,115.46
+Pennsylvania,Flu,2020-03-01,124.05
+Pennsylvania,Flu,2020-04-01,109.01
+Pennsylvania,Flu,2020-05-01,110.63
+Pennsylvania,Flu,2020-06-01,132.14
+Pennsylvania,Flu,2020-07-01,112.74
+Pennsylvania,Flu,2020-08-01,103.43
+Pennsylvania,Flu,2020-09-01,94.36
+Pennsylvania,Flu,2020-10-01,107.46
+Pennsylvania,Flu,2020-11-01,116.27
+Pennsylvania,Flu,2020-12-01,93.9
+Pennsylvania,Flu,2021-01-01,126.97
+Pennsylvania,Flu,2021-02-01,129.25
+Pennsylvania,Flu,2021-03-01,128.37
+Pennsylvania,Flu,2021-04-01,132.8
+Pennsylvania,Flu,2021-05-01,127.79
+Pennsylvania,Flu,2021-06-01,127.97
+Pennsylvania,Flu,2021-07-01,129.21
+Pennsylvania,Flu,2021-08-01,123.16
+Pennsylvania,Flu,2021-09-01,97.83
+Pennsylvania,Flu,2021-10-01,105.66
+Pennsylvania,Flu,2021-11-01,82.59
+Pennsylvania,Flu,2021-12-01,115.99
+Pennsylvania,Flu,2022-01-01,120.2
+Pennsylvania,Flu,2022-02-01,111.4
+Pennsylvania,Flu,2022-03-01,109.58
+Pennsylvania,Flu,2022-04-01,125.94
+Pennsylvania,Flu,2022-05-01,127.66
+Pennsylvania,Flu,2022-06-01,115.06
+Pennsylvania,Flu,2022-07-01,130.42
+Pennsylvania,Flu,2022-08-01,107.52
+Pennsylvania,Flu,2022-09-01,111.4
+Pennsylvania,Flu,2022-10-01,121.05
+Pennsylvania,Flu,2022-11-01,110.8
+Pennsylvania,Flu,2022-12-01,122.1
+Pennsylvania,Flu,2023-01-01,121.46
+Pennsylvania,Flu,2023-02-01,122.5
+Pennsylvania,Flu,2023-03-01,141.12
+Pennsylvania,Flu,2023-04-01,136.71
+Pennsylvania,Flu,2023-05-01,141.54
+Pennsylvania,Flu,2023-06-01,123.59
+Pennsylvania,Flu,2023-07-01,115.03
+Pennsylvania,Flu,2023-08-01,136.23
+Pennsylvania,Flu,2023-09-01,137.95
+Pennsylvania,Flu,2023-10-01,132.79
+Pennsylvania,Flu,2023-11-01,136.14
+Pennsylvania,Flu,2023-12-01,118.41
+Pennsylvania,Flu,2024-01-01,130.23
+Pennsylvania,Flu,2024-02-01,122.75
+Pennsylvania,Flu,2024-03-01,153.46
+Pennsylvania,Flu,2024-04-01,131.48
+Pennsylvania,Flu,2024-05-01,149.96
+Pennsylvania,Flu,2024-06-01,134.66
+Pennsylvania,Flu,2024-07-01,122.12
+Pennsylvania,Flu,2024-08-01,103.44
+Pennsylvania,Flu,2024-09-01,126.71
+Pennsylvania,Flu,2024-10-01,130.42
+Pennsylvania,Flu,2024-11-01,122.63
+Pennsylvania,Flu,2024-12-01,149.46
+Pennsylvania,Covid,2020-01-01,92.2
+Pennsylvania,Covid,2020-02-01,113.04
+Pennsylvania,Covid,2020-03-01,131.09
+Pennsylvania,Covid,2020-04-01,107.07
+Pennsylvania,Covid,2020-05-01,133.29
+Pennsylvania,Covid,2020-06-01,106.28
+Pennsylvania,Covid,2020-07-01,113.29
+Pennsylvania,Covid,2020-08-01,100.69
+Pennsylvania,Covid,2020-09-01,113.25
+Pennsylvania,Covid,2020-10-01,88.56
+Pennsylvania,Covid,2020-11-01,98.29
+Pennsylvania,Covid,2020-12-01,119.07
+Pennsylvania,Covid,2021-01-01,104.19
+Pennsylvania,Covid,2021-02-01,119.34
+Pennsylvania,Covid,2021-03-01,116.04
+Pennsylvania,Covid,2021-04-01,112.23
+Pennsylvania,Covid,2021-05-01,114.01
+Pennsylvania,Covid,2021-06-01,111.46
+Pennsylvania,Covid,2021-07-01,104.62
+Pennsylvania,Covid,2021-08-01,106.75
+Pennsylvania,Covid,2021-09-01,105.87
+Pennsylvania,Covid,2021-10-01,98.17
+Pennsylvania,Covid,2021-11-01,109.5
+Pennsylvania,Covid,2021-12-01,111.36
+Pennsylvania,Covid,2022-01-01,119.28
+Pennsylvania,Covid,2022-02-01,130.31
+Pennsylvania,Covid,2022-03-01,140.52
+Pennsylvania,Covid,2022-04-01,125.6
+Pennsylvania,Covid,2022-05-01,137.86
+Pennsylvania,Covid,2022-06-01,124.51
+Pennsylvania,Covid,2022-07-01,134.83
+Pennsylvania,Covid,2022-08-01,123.01
+Pennsylvania,Covid,2022-09-01,116.33
+Pennsylvania,Covid,2022-10-01,107.65
+Pennsylvania,Covid,2022-11-01,111.52
+Pennsylvania,Covid,2022-12-01,135.86
+Pennsylvania,Covid,2023-01-01,122.1
+Pennsylvania,Covid,2023-02-01,126.65
+Pennsylvania,Covid,2023-03-01,136.82
+Pennsylvania,Covid,2023-04-01,127.61
+Pennsylvania,Covid,2023-05-01,128.83
+Pennsylvania,Covid,2023-06-01,125.0
+Pennsylvania,Covid,2023-07-01,105.96
+Pennsylvania,Covid,2023-08-01,122.48
+Pennsylvania,Covid,2023-09-01,115.7
+Pennsylvania,Covid,2023-10-01,113.95
+Pennsylvania,Covid,2023-11-01,105.0
+Pennsylvania,Covid,2023-12-01,109.7
+Pennsylvania,Covid,2024-01-01,123.34
+Pennsylvania,Covid,2024-02-01,137.1
+Pennsylvania,Covid,2024-03-01,135.71
+Pennsylvania,Covid,2024-04-01,138.24
+Pennsylvania,Covid,2024-05-01,143.46
+Pennsylvania,Covid,2024-06-01,133.9
+Pennsylvania,Covid,2024-07-01,121.96
+Pennsylvania,Covid,2024-08-01,126.89
+Pennsylvania,Covid,2024-09-01,114.4
+Pennsylvania,Covid,2024-10-01,122.94
+Pennsylvania,Covid,2024-11-01,130.83
+Pennsylvania,Covid,2024-12-01,132.14
+Rhode Island,Flu,2020-01-01,112.33
+Rhode Island,Flu,2020-02-01,124.44
+Rhode Island,Flu,2020-03-01,143.22
+Rhode Island,Flu,2020-04-01,123.16
+Rhode Island,Flu,2020-05-01,128.8
+Rhode Island,Flu,2020-06-01,118.11
+Rhode Island,Flu,2020-07-01,126.73
+Rhode Island,Flu,2020-08-01,107.79
+Rhode Island,Flu,2020-09-01,130.03
+Rhode Island,Flu,2020-10-01,123.46
+Rhode Island,Flu,2020-11-01,125.96
+Rhode Island,Flu,2020-12-01,120.03
+Rhode Island,Flu,2021-01-01,113.74
+Rhode Island,Flu,2021-02-01,116.36
+Rhode Island,Flu,2021-03-01,136.87
+Rhode Island,Flu,2021-04-01,119.14
+Rhode Island,Flu,2021-05-01,131.73
+Rhode Island,Flu,2021-06-01,135.12
+Rhode Island,Flu,2021-07-01,120.44
+Rhode Island,Flu,2021-08-01,130.54
+Rhode Island,Flu,2021-09-01,145.01
+Rhode Island,Flu,2021-10-01,125.94
+Rhode Island,Flu,2021-11-01,137.86
+Rhode Island,Flu,2021-12-01,134.44
+Rhode Island,Flu,2022-01-01,132.27
+Rhode Island,Flu,2022-02-01,127.39
+Rhode Island,Flu,2022-03-01,135.33
+Rhode Island,Flu,2022-04-01,163.55
+Rhode Island,Flu,2022-05-01,148.46
+Rhode Island,Flu,2022-06-01,138.51
+Rhode Island,Flu,2022-07-01,144.99
+Rhode Island,Flu,2022-08-01,121.21
+Rhode Island,Flu,2022-09-01,135.47
+Rhode Island,Flu,2022-10-01,123.7
+Rhode Island,Flu,2022-11-01,118.3
+Rhode Island,Flu,2022-12-01,126.29
+Rhode Island,Flu,2023-01-01,152.89
+Rhode Island,Flu,2023-02-01,137.12
+Rhode Island,Flu,2023-03-01,136.12
+Rhode Island,Flu,2023-04-01,160.18
+Rhode Island,Flu,2023-05-01,152.57
+Rhode Island,Flu,2023-06-01,151.33
+Rhode Island,Flu,2023-07-01,129.65
+Rhode Island,Flu,2023-08-01,123.04
+Rhode Island,Flu,2023-09-01,136.8
+Rhode Island,Flu,2023-10-01,132.52
+Rhode Island,Flu,2023-11-01,129.19
+Rhode Island,Flu,2023-12-01,148.53
+Rhode Island,Flu,2024-01-01,145.93
+Rhode Island,Flu,2024-02-01,157.28
+Rhode Island,Flu,2024-03-01,152.13
+Rhode Island,Flu,2024-04-01,146.22
+Rhode Island,Flu,2024-05-01,158.18
+Rhode Island,Flu,2024-06-01,146.47
+Rhode Island,Flu,2024-07-01,138.24
+Rhode Island,Flu,2024-08-01,118.81
+Rhode Island,Flu,2024-09-01,123.18
+Rhode Island,Flu,2024-10-01,136.09
+Rhode Island,Flu,2024-11-01,146.61
+Rhode Island,Flu,2024-12-01,118.15
+Rhode Island,Covid,2020-01-01,126.79
+Rhode Island,Covid,2020-02-01,126.46
+Rhode Island,Covid,2020-03-01,128.61
+Rhode Island,Covid,2020-04-01,133.11
+Rhode Island,Covid,2020-05-01,136.22
+Rhode Island,Covid,2020-06-01,131.3
+Rhode Island,Covid,2020-07-01,128.89
+Rhode Island,Covid,2020-08-01,106.98
+Rhode Island,Covid,2020-09-01,111.74
+Rhode Island,Covid,2020-10-01,106.63
+Rhode Island,Covid,2020-11-01,116.88
+Rhode Island,Covid,2020-12-01,129.83
+Rhode Island,Covid,2021-01-01,111.77
+Rhode Island,Covid,2021-02-01,122.83
+Rhode Island,Covid,2021-03-01,120.91
+Rhode Island,Covid,2021-04-01,110.64
+Rhode Island,Covid,2021-05-01,119.03
+Rhode Island,Covid,2021-06-01,134.92
+Rhode Island,Covid,2021-07-01,103.82
+Rhode Island,Covid,2021-08-01,116.61
+Rhode Island,Covid,2021-09-01,119.61
+Rhode Island,Covid,2021-10-01,131.15
+Rhode Island,Covid,2021-11-01,110.29
+Rhode Island,Covid,2021-12-01,137.09
+Rhode Island,Covid,2022-01-01,119.12
+Rhode Island,Covid,2022-02-01,118.83
+Rhode Island,Covid,2022-03-01,146.91
+Rhode Island,Covid,2022-04-01,120.88
+Rhode Island,Covid,2022-05-01,132.47
+Rhode Island,Covid,2022-06-01,141.36
+Rhode Island,Covid,2022-07-01,125.08
+Rhode Island,Covid,2022-08-01,117.57
+Rhode Island,Covid,2022-09-01,125.85
+Rhode Island,Covid,2022-10-01,106.96
+Rhode Island,Covid,2022-11-01,118.65
+Rhode Island,Covid,2022-12-01,135.41
+Rhode Island,Covid,2023-01-01,121.89
+Rhode Island,Covid,2023-02-01,148.3
+Rhode Island,Covid,2023-03-01,146.8
+Rhode Island,Covid,2023-04-01,143.04
+Rhode Island,Covid,2023-05-01,156.45
+Rhode Island,Covid,2023-06-01,140.73
+Rhode Island,Covid,2023-07-01,131.1
+Rhode Island,Covid,2023-08-01,127.85
+Rhode Island,Covid,2023-09-01,133.45
+Rhode Island,Covid,2023-10-01,123.75
+Rhode Island,Covid,2023-11-01,142.21
+Rhode Island,Covid,2023-12-01,152.92
+Rhode Island,Covid,2024-01-01,142.45
+Rhode Island,Covid,2024-02-01,147.5
+Rhode Island,Covid,2024-03-01,154.9
+Rhode Island,Covid,2024-04-01,162.33
+Rhode Island,Covid,2024-05-01,147.63
+Rhode Island,Covid,2024-06-01,154.53
+Rhode Island,Covid,2024-07-01,151.92
+Rhode Island,Covid,2024-08-01,135.37
+Rhode Island,Covid,2024-09-01,130.01
+Rhode Island,Covid,2024-10-01,144.61
+Rhode Island,Covid,2024-11-01,156.08
+Rhode Island,Covid,2024-12-01,131.1
+South Carolina,Flu,2020-01-01,88.2
+South Carolina,Flu,2020-02-01,47.57
+South Carolina,Flu,2020-03-01,83.49
+South Carolina,Flu,2020-04-01,74.07
+South Carolina,Flu,2020-05-01,84.54
+South Carolina,Flu,2020-06-01,89.75
+South Carolina,Flu,2020-07-01,57.16
+South Carolina,Flu,2020-08-01,69.31
+South Carolina,Flu,2020-09-01,42.28
+South Carolina,Flu,2020-10-01,44.01
+South Carolina,Flu,2020-11-01,57.3
+South Carolina,Flu,2020-12-01,59.87
+South Carolina,Flu,2021-01-01,70.97
+South Carolina,Flu,2021-02-01,90.9
+South Carolina,Flu,2021-03-01,67.33
+South Carolina,Flu,2021-04-01,83.25
+South Carolina,Flu,2021-05-01,83.05
+South Carolina,Flu,2021-06-01,70.72
+South Carolina,Flu,2021-07-01,69.32
+South Carolina,Flu,2021-08-01,53.47
+South Carolina,Flu,2021-09-01,66.41
+South Carolina,Flu,2021-10-01,73.47
+South Carolina,Flu,2021-11-01,64.38
+South Carolina,Flu,2021-12-01,42.61
+South Carolina,Flu,2022-01-01,80.1
+South Carolina,Flu,2022-02-01,64.3
+South Carolina,Flu,2022-03-01,60.36
+South Carolina,Flu,2022-04-01,83.14
+South Carolina,Flu,2022-05-01,70.53
+South Carolina,Flu,2022-06-01,70.63
+South Carolina,Flu,2022-07-01,64.55
+South Carolina,Flu,2022-08-01,66.73
+South Carolina,Flu,2022-09-01,73.95
+South Carolina,Flu,2022-10-01,54.5
+South Carolina,Flu,2022-11-01,49.67
+South Carolina,Flu,2022-12-01,59.25
+South Carolina,Flu,2023-01-01,84.54
+South Carolina,Flu,2023-02-01,82.81
+South Carolina,Flu,2023-03-01,79.51
+South Carolina,Flu,2023-04-01,92.55
+South Carolina,Flu,2023-05-01,70.58
+South Carolina,Flu,2023-06-01,72.96
+South Carolina,Flu,2023-07-01,61.12
+South Carolina,Flu,2023-08-01,56.81
+South Carolina,Flu,2023-09-01,57.21
+South Carolina,Flu,2023-10-01,60.58
+South Carolina,Flu,2023-11-01,60.46
+South Carolina,Flu,2023-12-01,65.58
+South Carolina,Flu,2024-01-01,70.06
+South Carolina,Flu,2024-02-01,88.21
+South Carolina,Flu,2024-03-01,76.64
+South Carolina,Flu,2024-04-01,84.06
+South Carolina,Flu,2024-05-01,92.94
+South Carolina,Flu,2024-06-01,70.05
+South Carolina,Flu,2024-07-01,65.4
+South Carolina,Flu,2024-08-01,67.93
+South Carolina,Flu,2024-09-01,77.81
+South Carolina,Flu,2024-10-01,70.88
+South Carolina,Flu,2024-11-01,51.13
+South Carolina,Flu,2024-12-01,63.23
+South Carolina,Covid,2020-01-01,65.37
+South Carolina,Covid,2020-02-01,74.43
+South Carolina,Covid,2020-03-01,79.39
+South Carolina,Covid,2020-04-01,71.31
+South Carolina,Covid,2020-05-01,66.95
+South Carolina,Covid,2020-06-01,63.98
+South Carolina,Covid,2020-07-01,61.28
+South Carolina,Covid,2020-08-01,67.38
+South Carolina,Covid,2020-09-01,49.07
+South Carolina,Covid,2020-10-01,58.14
+South Carolina,Covid,2020-11-01,59.2
+South Carolina,Covid,2020-12-01,50.15
+South Carolina,Covid,2021-01-01,64.85
+South Carolina,Covid,2021-02-01,71.3
+South Carolina,Covid,2021-03-01,79.73
+South Carolina,Covid,2021-04-01,62.44
+South Carolina,Covid,2021-05-01,85.26
+South Carolina,Covid,2021-06-01,70.43
+South Carolina,Covid,2021-07-01,75.18
+South Carolina,Covid,2021-08-01,56.05
+South Carolina,Covid,2021-09-01,63.1
+South Carolina,Covid,2021-10-01,65.39
+South Carolina,Covid,2021-11-01,39.32
+South Carolina,Covid,2021-12-01,69.53
+South Carolina,Covid,2022-01-01,68.73
+South Carolina,Covid,2022-02-01,77.55
+South Carolina,Covid,2022-03-01,81.11
+South Carolina,Covid,2022-04-01,70.04
+South Carolina,Covid,2022-05-01,92.07
+South Carolina,Covid,2022-06-01,71.55
+South Carolina,Covid,2022-07-01,57.43
+South Carolina,Covid,2022-08-01,80.27
+South Carolina,Covid,2022-09-01,51.27
+South Carolina,Covid,2022-10-01,52.17
+South Carolina,Covid,2022-11-01,54.94
+South Carolina,Covid,2022-12-01,81.07
+South Carolina,Covid,2023-01-01,74.91
+South Carolina,Covid,2023-02-01,79.51
+South Carolina,Covid,2023-03-01,62.68
+South Carolina,Covid,2023-04-01,85.77
+South Carolina,Covid,2023-05-01,63.78
+South Carolina,Covid,2023-06-01,73.58
+South Carolina,Covid,2023-07-01,67.39
+South Carolina,Covid,2023-08-01,77.43
+South Carolina,Covid,2023-09-01,59.01
+South Carolina,Covid,2023-10-01,44.2
+South Carolina,Covid,2023-11-01,57.69
+South Carolina,Covid,2023-12-01,73.41
+South Carolina,Covid,2024-01-01,76.95
+South Carolina,Covid,2024-02-01,75.0
+South Carolina,Covid,2024-03-01,98.88
+South Carolina,Covid,2024-04-01,100.84
+South Carolina,Covid,2024-05-01,86.51
+South Carolina,Covid,2024-06-01,64.64
+South Carolina,Covid,2024-07-01,65.95
+South Carolina,Covid,2024-08-01,57.67
+South Carolina,Covid,2024-09-01,67.78
+South Carolina,Covid,2024-10-01,58.45
+South Carolina,Covid,2024-11-01,60.87
+South Carolina,Covid,2024-12-01,40.94
+South Dakota,Flu,2020-01-01,128.31
+South Dakota,Flu,2020-02-01,132.42
+South Dakota,Flu,2020-03-01,132.61
+South Dakota,Flu,2020-04-01,131.28
+South Dakota,Flu,2020-05-01,125.55
+South Dakota,Flu,2020-06-01,122.11
+South Dakota,Flu,2020-07-01,115.65
+South Dakota,Flu,2020-08-01,126.13
+South Dakota,Flu,2020-09-01,107.07
+South Dakota,Flu,2020-10-01,109.27
+South Dakota,Flu,2020-11-01,106.79
+South Dakota,Flu,2020-12-01,129.32
+South Dakota,Flu,2021-01-01,128.91
+South Dakota,Flu,2021-02-01,135.85
+South Dakota,Flu,2021-03-01,127.58
+South Dakota,Flu,2021-04-01,116.51
+South Dakota,Flu,2021-05-01,142.87
+South Dakota,Flu,2021-06-01,129.14
+South Dakota,Flu,2021-07-01,117.89
+South Dakota,Flu,2021-08-01,104.87
+South Dakota,Flu,2021-09-01,115.98
+South Dakota,Flu,2021-10-01,103.82
+South Dakota,Flu,2021-11-01,115.37
+South Dakota,Flu,2021-12-01,118.93
+South Dakota,Flu,2022-01-01,118.71
+South Dakota,Flu,2022-02-01,136.53
+South Dakota,Flu,2022-03-01,127.64
+South Dakota,Flu,2022-04-01,132.89
+South Dakota,Flu,2022-05-01,137.1
+South Dakota,Flu,2022-06-01,132.64
+South Dakota,Flu,2022-07-01,131.41
+South Dakota,Flu,2022-08-01,121.06
+South Dakota,Flu,2022-09-01,114.75
+South Dakota,Flu,2022-10-01,124.74
+South Dakota,Flu,2022-11-01,122.02
+South Dakota,Flu,2022-12-01,113.6
+South Dakota,Flu,2023-01-01,121.98
+South Dakota,Flu,2023-02-01,129.25
+South Dakota,Flu,2023-03-01,139.48
+South Dakota,Flu,2023-04-01,104.4
+South Dakota,Flu,2023-05-01,131.95
+South Dakota,Flu,2023-06-01,121.99
+South Dakota,Flu,2023-07-01,136.35
+South Dakota,Flu,2023-08-01,131.83
+South Dakota,Flu,2023-09-01,107.29
+South Dakota,Flu,2023-10-01,127.42
+South Dakota,Flu,2023-11-01,113.78
+South Dakota,Flu,2023-12-01,114.79
+South Dakota,Flu,2024-01-01,131.99
+South Dakota,Flu,2024-02-01,107.35
+South Dakota,Flu,2024-03-01,147.37
+South Dakota,Flu,2024-04-01,136.6
+South Dakota,Flu,2024-05-01,135.67
+South Dakota,Flu,2024-06-01,129.23
+South Dakota,Flu,2024-07-01,141.47
+South Dakota,Flu,2024-08-01,140.69
+South Dakota,Flu,2024-09-01,126.68
+South Dakota,Flu,2024-10-01,116.59
+South Dakota,Flu,2024-11-01,133.06
+South Dakota,Flu,2024-12-01,129.24
+South Dakota,Covid,2020-01-01,125.28
+South Dakota,Covid,2020-02-01,123.39
+South Dakota,Covid,2020-03-01,128.01
+South Dakota,Covid,2020-04-01,106.14
+South Dakota,Covid,2020-05-01,102.73
+South Dakota,Covid,2020-06-01,123.3
+South Dakota,Covid,2020-07-01,111.39
+South Dakota,Covid,2020-08-01,100.27
+South Dakota,Covid,2020-09-01,95.28
+South Dakota,Covid,2020-10-01,129.11
+South Dakota,Covid,2020-11-01,95.06
+South Dakota,Covid,2020-12-01,113.73
+South Dakota,Covid,2021-01-01,127.1
+South Dakota,Covid,2021-02-01,126.29
+South Dakota,Covid,2021-03-01,134.77
+South Dakota,Covid,2021-04-01,116.59
+South Dakota,Covid,2021-05-01,129.74
+South Dakota,Covid,2021-06-01,142.63
+South Dakota,Covid,2021-07-01,117.41
+South Dakota,Covid,2021-08-01,119.12
+South Dakota,Covid,2021-09-01,106.89
+South Dakota,Covid,2021-10-01,98.88
+South Dakota,Covid,2021-11-01,102.62
+South Dakota,Covid,2021-12-01,131.52
+South Dakota,Covid,2022-01-01,126.54
+South Dakota,Covid,2022-02-01,146.6
+South Dakota,Covid,2022-03-01,121.6
+South Dakota,Covid,2022-04-01,133.07
+South Dakota,Covid,2022-05-01,156.71
+South Dakota,Covid,2022-06-01,124.17
+South Dakota,Covid,2022-07-01,131.26
+South Dakota,Covid,2022-08-01,117.97
+South Dakota,Covid,2022-09-01,113.6
+South Dakota,Covid,2022-10-01,134.38
+South Dakota,Covid,2022-11-01,121.11
+South Dakota,Covid,2022-12-01,107.25
+South Dakota,Covid,2023-01-01,119.02
+South Dakota,Covid,2023-02-01,123.28
+South Dakota,Covid,2023-03-01,123.08
+South Dakota,Covid,2023-04-01,124.45
+South Dakota,Covid,2023-05-01,131.55
+South Dakota,Covid,2023-06-01,131.29
+South Dakota,Covid,2023-07-01,117.78
+South Dakota,Covid,2023-08-01,110.14
+South Dakota,Covid,2023-09-01,129.45
+South Dakota,Covid,2023-10-01,116.26
+South Dakota,Covid,2023-11-01,111.76
+South Dakota,Covid,2023-12-01,120.98
+South Dakota,Covid,2024-01-01,140.01
+South Dakota,Covid,2024-02-01,148.4
+South Dakota,Covid,2024-03-01,131.72
+South Dakota,Covid,2024-04-01,123.91
+South Dakota,Covid,2024-05-01,134.4
+South Dakota,Covid,2024-06-01,119.41
+South Dakota,Covid,2024-07-01,131.8
+South Dakota,Covid,2024-08-01,143.62
+South Dakota,Covid,2024-09-01,114.67
+South Dakota,Covid,2024-10-01,113.53
+South Dakota,Covid,2024-11-01,140.61
+South Dakota,Covid,2024-12-01,132.88
+Tennessee,Flu,2020-01-01,105.49
+Tennessee,Flu,2020-02-01,89.09
+Tennessee,Flu,2020-03-01,92.52
+Tennessee,Flu,2020-04-01,99.05
+Tennessee,Flu,2020-05-01,94.77
+Tennessee,Flu,2020-06-01,115.77
+Tennessee,Flu,2020-07-01,87.83
+Tennessee,Flu,2020-08-01,84.39
+Tennessee,Flu,2020-09-01,57.36
+Tennessee,Flu,2020-10-01,68.3
+Tennessee,Flu,2020-11-01,74.3
+Tennessee,Flu,2020-12-01,79.04
+Tennessee,Flu,2021-01-01,76.48
+Tennessee,Flu,2021-02-01,81.95
+Tennessee,Flu,2021-03-01,94.69
+Tennessee,Flu,2021-04-01,92.1
+Tennessee,Flu,2021-05-01,91.53
+Tennessee,Flu,2021-06-01,98.01
+Tennessee,Flu,2021-07-01,92.83
+Tennessee,Flu,2021-08-01,89.63
+Tennessee,Flu,2021-09-01,81.12
+Tennessee,Flu,2021-10-01,89.29
+Tennessee,Flu,2021-11-01,89.44
+Tennessee,Flu,2021-12-01,78.54
+Tennessee,Flu,2022-01-01,91.89
+Tennessee,Flu,2022-02-01,92.53
+Tennessee,Flu,2022-03-01,117.94
+Tennessee,Flu,2022-04-01,99.36
+Tennessee,Flu,2022-05-01,67.79
+Tennessee,Flu,2022-06-01,101.58
+Tennessee,Flu,2022-07-01,100.52
+Tennessee,Flu,2022-08-01,110.29
+Tennessee,Flu,2022-09-01,96.07
+Tennessee,Flu,2022-10-01,58.4
+Tennessee,Flu,2022-11-01,69.42
+Tennessee,Flu,2022-12-01,79.23
+Tennessee,Flu,2023-01-01,82.89
+Tennessee,Flu,2023-02-01,113.07
+Tennessee,Flu,2023-03-01,104.03
+Tennessee,Flu,2023-04-01,114.13
+Tennessee,Flu,2023-05-01,97.97
+Tennessee,Flu,2023-06-01,106.52
+Tennessee,Flu,2023-07-01,89.05
+Tennessee,Flu,2023-08-01,72.21
+Tennessee,Flu,2023-09-01,82.9
+Tennessee,Flu,2023-10-01,90.59
+Tennessee,Flu,2023-11-01,81.91
+Tennessee,Flu,2023-12-01,95.07
+Tennessee,Flu,2024-01-01,104.51
+Tennessee,Flu,2024-02-01,88.5
+Tennessee,Flu,2024-03-01,97.33
+Tennessee,Flu,2024-04-01,108.2
+Tennessee,Flu,2024-05-01,104.12
+Tennessee,Flu,2024-06-01,104.27
+Tennessee,Flu,2024-07-01,103.61
+Tennessee,Flu,2024-08-01,72.44
+Tennessee,Flu,2024-09-01,84.95
+Tennessee,Flu,2024-10-01,77.61
+Tennessee,Flu,2024-11-01,78.64
+Tennessee,Flu,2024-12-01,80.31
+Tennessee,Covid,2020-01-01,85.15
+Tennessee,Covid,2020-02-01,68.47
+Tennessee,Covid,2020-03-01,81.7
+Tennessee,Covid,2020-04-01,90.75
+Tennessee,Covid,2020-05-01,80.37
+Tennessee,Covid,2020-06-01,70.13
+Tennessee,Covid,2020-07-01,93.33
+Tennessee,Covid,2020-08-01,79.6
+Tennessee,Covid,2020-09-01,74.51
+Tennessee,Covid,2020-10-01,67.62
+Tennessee,Covid,2020-11-01,68.69
+Tennessee,Covid,2020-12-01,75.71
+Tennessee,Covid,2021-01-01,93.21
+Tennessee,Covid,2021-02-01,87.43
+Tennessee,Covid,2021-03-01,92.11
+Tennessee,Covid,2021-04-01,84.28
+Tennessee,Covid,2021-05-01,94.39
+Tennessee,Covid,2021-06-01,95.36
+Tennessee,Covid,2021-07-01,83.85
+Tennessee,Covid,2021-08-01,85.7
+Tennessee,Covid,2021-09-01,70.1
+Tennessee,Covid,2021-10-01,75.5
+Tennessee,Covid,2021-11-01,76.55
+Tennessee,Covid,2021-12-01,72.39
+Tennessee,Covid,2022-01-01,81.6
+Tennessee,Covid,2022-02-01,85.6
+Tennessee,Covid,2022-03-01,98.72
+Tennessee,Covid,2022-04-01,88.54
+Tennessee,Covid,2022-05-01,103.95
+Tennessee,Covid,2022-06-01,86.4
+Tennessee,Covid,2022-07-01,99.72
+Tennessee,Covid,2022-08-01,92.64
+Tennessee,Covid,2022-09-01,76.59
+Tennessee,Covid,2022-10-01,80.39
+Tennessee,Covid,2022-11-01,83.17
+Tennessee,Covid,2022-12-01,86.87
+Tennessee,Covid,2023-01-01,79.9
+Tennessee,Covid,2023-02-01,100.4
+Tennessee,Covid,2023-03-01,88.82
+Tennessee,Covid,2023-04-01,95.83
+Tennessee,Covid,2023-05-01,106.66
+Tennessee,Covid,2023-06-01,80.35
+Tennessee,Covid,2023-07-01,90.46
+Tennessee,Covid,2023-08-01,94.15
+Tennessee,Covid,2023-09-01,102.49
+Tennessee,Covid,2023-10-01,88.69
+Tennessee,Covid,2023-11-01,103.07
+Tennessee,Covid,2023-12-01,95.67
+Tennessee,Covid,2024-01-01,83.67
+Tennessee,Covid,2024-02-01,109.82
+Tennessee,Covid,2024-03-01,120.86
+Tennessee,Covid,2024-04-01,91.8
+Tennessee,Covid,2024-05-01,110.61
+Tennessee,Covid,2024-06-01,87.1
+Tennessee,Covid,2024-07-01,99.18
+Tennessee,Covid,2024-08-01,87.86
+Tennessee,Covid,2024-09-01,80.3
+Tennessee,Covid,2024-10-01,88.86
+Tennessee,Covid,2024-11-01,91.03
+Tennessee,Covid,2024-12-01,94.11
+Texas,Flu,2020-01-01,48.34
+Texas,Flu,2020-02-01,40.78
+Texas,Flu,2020-03-01,67.2
+Texas,Flu,2020-04-01,61.21
+Texas,Flu,2020-05-01,57.37
+Texas,Flu,2020-06-01,49.62
+Texas,Flu,2020-07-01,52.31
+Texas,Flu,2020-08-01,59.79
+Texas,Flu,2020-09-01,55.86
+Texas,Flu,2020-10-01,30.02
+Texas,Flu,2020-11-01,40.75
+Texas,Flu,2020-12-01,22.92
+Texas,Flu,2021-01-01,47.43
+Texas,Flu,2021-02-01,66.96
+Texas,Flu,2021-03-01,68.53
+Texas,Flu,2021-04-01,57.72
+Texas,Flu,2021-05-01,69.92
+Texas,Flu,2021-06-01,40.18
+Texas,Flu,2021-07-01,44.7
+Texas,Flu,2021-08-01,49.71
+Texas,Flu,2021-09-01,22.41
+Texas,Flu,2021-10-01,58.86
+Texas,Flu,2021-11-01,39.94
+Texas,Flu,2021-12-01,28.34
+Texas,Flu,2022-01-01,50.94
+Texas,Flu,2022-02-01,55.86
+Texas,Flu,2022-03-01,50.8
+Texas,Flu,2022-04-01,74.02
+Texas,Flu,2022-05-01,61.27
+Texas,Flu,2022-06-01,72.44
+Texas,Flu,2022-07-01,64.9
+Texas,Flu,2022-08-01,39.16
+Texas,Flu,2022-09-01,27.57
+Texas,Flu,2022-10-01,15.24
+Texas,Flu,2022-11-01,38.87
+Texas,Flu,2022-12-01,37.43
+Texas,Flu,2023-01-01,56.03
+Texas,Flu,2023-02-01,69.46
+Texas,Flu,2023-03-01,59.39
+Texas,Flu,2023-04-01,51.38
+Texas,Flu,2023-05-01,52.75
+Texas,Flu,2023-06-01,57.2
+Texas,Flu,2023-07-01,40.84
+Texas,Flu,2023-08-01,47.97
+Texas,Flu,2023-09-01,36.27
+Texas,Flu,2023-10-01,47.91
+Texas,Flu,2023-11-01,39.96
+Texas,Flu,2023-12-01,49.62
+Texas,Flu,2024-01-01,51.6
+Texas,Flu,2024-02-01,49.06
+Texas,Flu,2024-03-01,55.39
+Texas,Flu,2024-04-01,81.67
+Texas,Flu,2024-05-01,51.14
+Texas,Flu,2024-06-01,63.17
+Texas,Flu,2024-07-01,47.39
+Texas,Flu,2024-08-01,44.03
+Texas,Flu,2024-09-01,46.81
+Texas,Flu,2024-10-01,48.29
+Texas,Flu,2024-11-01,26.48
+Texas,Flu,2024-12-01,33.69
+Texas,Covid,2020-01-01,48.59
+Texas,Covid,2020-02-01,44.73
+Texas,Covid,2020-03-01,59.82
+Texas,Covid,2020-04-01,68.28
+Texas,Covid,2020-05-01,55.17
+Texas,Covid,2020-06-01,50.51
+Texas,Covid,2020-07-01,50.98
+Texas,Covid,2020-08-01,48.56
+Texas,Covid,2020-09-01,44.28
+Texas,Covid,2020-10-01,55.01
+Texas,Covid,2020-11-01,32.58
+Texas,Covid,2020-12-01,38.65
+Texas,Covid,2021-01-01,45.25
+Texas,Covid,2021-02-01,62.89
+Texas,Covid,2021-03-01,52.34
+Texas,Covid,2021-04-01,58.85
+Texas,Covid,2021-05-01,65.97
+Texas,Covid,2021-06-01,56.23
+Texas,Covid,2021-07-01,52.33
+Texas,Covid,2021-08-01,55.76
+Texas,Covid,2021-09-01,36.78
+Texas,Covid,2021-10-01,41.66
+Texas,Covid,2021-11-01,26.07
+Texas,Covid,2021-12-01,30.8
+Texas,Covid,2022-01-01,63.06
+Texas,Covid,2022-02-01,63.23
+Texas,Covid,2022-03-01,66.79
+Texas,Covid,2022-04-01,68.02
+Texas,Covid,2022-05-01,54.75
+Texas,Covid,2022-06-01,45.53
+Texas,Covid,2022-07-01,36.42
+Texas,Covid,2022-08-01,59.66
+Texas,Covid,2022-09-01,56.08
+Texas,Covid,2022-10-01,31.92
+Texas,Covid,2022-11-01,28.3
+Texas,Covid,2022-12-01,43.01
+Texas,Covid,2023-01-01,49.63
+Texas,Covid,2023-02-01,48.18
+Texas,Covid,2023-03-01,69.39
+Texas,Covid,2023-04-01,72.62
+Texas,Covid,2023-05-01,54.84
+Texas,Covid,2023-06-01,53.06
+Texas,Covid,2023-07-01,44.87
+Texas,Covid,2023-08-01,42.27
+Texas,Covid,2023-09-01,33.48
+Texas,Covid,2023-10-01,29.41
+Texas,Covid,2023-11-01,54.11
+Texas,Covid,2023-12-01,47.14
+Texas,Covid,2024-01-01,61.27
+Texas,Covid,2024-02-01,66.13
+Texas,Covid,2024-03-01,66.7
+Texas,Covid,2024-04-01,64.92
+Texas,Covid,2024-05-01,56.32
+Texas,Covid,2024-06-01,58.11
+Texas,Covid,2024-07-01,50.21
+Texas,Covid,2024-08-01,37.59
+Texas,Covid,2024-09-01,40.79
+Texas,Covid,2024-10-01,32.12
+Texas,Covid,2024-11-01,28.65
+Texas,Covid,2024-12-01,48.74
+Utah,Flu,2020-01-01,66.53
+Utah,Flu,2020-02-01,86.47
+Utah,Flu,2020-03-01,64.88
+Utah,Flu,2020-04-01,58.55
+Utah,Flu,2020-05-01,77.79
+Utah,Flu,2020-06-01,74.22
+Utah,Flu,2020-07-01,59.92
+Utah,Flu,2020-08-01,55.57
+Utah,Flu,2020-09-01,40.73
+Utah,Flu,2020-10-01,55.34
+Utah,Flu,2020-11-01,72.94
+Utah,Flu,2020-12-01,48.33
+Utah,Flu,2021-01-01,54.21
+Utah,Flu,2021-02-01,74.82
+Utah,Flu,2021-03-01,89.23
+Utah,Flu,2021-04-01,78.15
+Utah,Flu,2021-05-01,71.01
+Utah,Flu,2021-06-01,63.5
+Utah,Flu,2021-07-01,66.78
+Utah,Flu,2021-08-01,53.89
+Utah,Flu,2021-09-01,77.3
+Utah,Flu,2021-10-01,62.26
+Utah,Flu,2021-11-01,82.19
+Utah,Flu,2021-12-01,58.59
+Utah,Flu,2022-01-01,75.71
+Utah,Flu,2022-02-01,85.91
+Utah,Flu,2022-03-01,89.44
+Utah,Flu,2022-04-01,74.09
+Utah,Flu,2022-05-01,78.66
+Utah,Flu,2022-06-01,79.86
+Utah,Flu,2022-07-01,76.39
+Utah,Flu,2022-08-01,71.37
+Utah,Flu,2022-09-01,52.7
+Utah,Flu,2022-10-01,47.04
+Utah,Flu,2022-11-01,70.64
+Utah,Flu,2022-12-01,58.03
+Utah,Flu,2023-01-01,71.04
+Utah,Flu,2023-02-01,70.0
+Utah,Flu,2023-03-01,89.29
+Utah,Flu,2023-04-01,62.99
+Utah,Flu,2023-05-01,83.79
+Utah,Flu,2023-06-01,50.21
+Utah,Flu,2023-07-01,51.12
+Utah,Flu,2023-08-01,62.78
+Utah,Flu,2023-09-01,65.97
+Utah,Flu,2023-10-01,70.3
+Utah,Flu,2023-11-01,67.21
+Utah,Flu,2023-12-01,77.0
+Utah,Flu,2024-01-01,79.72
+Utah,Flu,2024-02-01,76.34
+Utah,Flu,2024-03-01,81.61
+Utah,Flu,2024-04-01,93.63
+Utah,Flu,2024-05-01,79.15
+Utah,Flu,2024-06-01,76.47
+Utah,Flu,2024-07-01,70.67
+Utah,Flu,2024-08-01,87.32
+Utah,Flu,2024-09-01,44.14
+Utah,Flu,2024-10-01,66.15
+Utah,Flu,2024-11-01,75.41
+Utah,Flu,2024-12-01,59.48
+Utah,Covid,2020-01-01,51.95
+Utah,Covid,2020-02-01,74.26
+Utah,Covid,2020-03-01,59.68
+Utah,Covid,2020-04-01,63.75
+Utah,Covid,2020-05-01,81.86
+Utah,Covid,2020-06-01,82.89
+Utah,Covid,2020-07-01,60.94
+Utah,Covid,2020-08-01,67.96
+Utah,Covid,2020-09-01,69.52
+Utah,Covid,2020-10-01,61.1
+Utah,Covid,2020-11-01,49.37
+Utah,Covid,2020-12-01,63.75
+Utah,Covid,2021-01-01,49.01
+Utah,Covid,2021-02-01,84.71
+Utah,Covid,2021-03-01,62.28
+Utah,Covid,2021-04-01,65.51
+Utah,Covid,2021-05-01,83.43
+Utah,Covid,2021-06-01,71.01
+Utah,Covid,2021-07-01,40.0
+Utah,Covid,2021-08-01,62.49
+Utah,Covid,2021-09-01,77.69
+Utah,Covid,2021-10-01,52.69
+Utah,Covid,2021-11-01,58.56
+Utah,Covid,2021-12-01,90.83
+Utah,Covid,2022-01-01,76.32
+Utah,Covid,2022-02-01,69.56
+Utah,Covid,2022-03-01,76.13
+Utah,Covid,2022-04-01,82.61
+Utah,Covid,2022-05-01,73.12
+Utah,Covid,2022-06-01,67.67
+Utah,Covid,2022-07-01,58.73
+Utah,Covid,2022-08-01,61.39
+Utah,Covid,2022-09-01,51.96
+Utah,Covid,2022-10-01,35.58
+Utah,Covid,2022-11-01,50.61
+Utah,Covid,2022-12-01,78.9
+Utah,Covid,2023-01-01,73.48
+Utah,Covid,2023-02-01,75.9
+Utah,Covid,2023-03-01,71.03
+Utah,Covid,2023-04-01,92.29
+Utah,Covid,2023-05-01,69.65
+Utah,Covid,2023-06-01,82.35
+Utah,Covid,2023-07-01,61.32
+Utah,Covid,2023-08-01,59.01
+Utah,Covid,2023-09-01,50.31
+Utah,Covid,2023-10-01,64.29
+Utah,Covid,2023-11-01,45.46
+Utah,Covid,2023-12-01,65.21
+Utah,Covid,2024-01-01,70.33
+Utah,Covid,2024-02-01,76.01
+Utah,Covid,2024-03-01,63.43
+Utah,Covid,2024-04-01,76.86
+Utah,Covid,2024-05-01,62.48
+Utah,Covid,2024-06-01,73.09
+Utah,Covid,2024-07-01,52.72
+Utah,Covid,2024-08-01,68.33
+Utah,Covid,2024-09-01,73.95
+Utah,Covid,2024-10-01,66.16
+Utah,Covid,2024-11-01,74.75
+Utah,Covid,2024-12-01,53.33
+Vermont,Flu,2020-01-01,80.3
+Vermont,Flu,2020-02-01,62.23
+Vermont,Flu,2020-03-01,78.78
+Vermont,Flu,2020-04-01,81.72
+Vermont,Flu,2020-05-01,81.6
+Vermont,Flu,2020-06-01,71.54
+Vermont,Flu,2020-07-01,58.95
+Vermont,Flu,2020-08-01,45.62
+Vermont,Flu,2020-09-01,58.53
+Vermont,Flu,2020-10-01,64.51
+Vermont,Flu,2020-11-01,70.6
+Vermont,Flu,2020-12-01,38.0
+Vermont,Flu,2021-01-01,60.97
+Vermont,Flu,2021-02-01,80.21
+Vermont,Flu,2021-03-01,82.53
+Vermont,Flu,2021-04-01,75.66
+Vermont,Flu,2021-05-01,72.75
+Vermont,Flu,2021-06-01,64.65
+Vermont,Flu,2021-07-01,59.23
+Vermont,Flu,2021-08-01,61.78
+Vermont,Flu,2021-09-01,52.55
+Vermont,Flu,2021-10-01,64.8
+Vermont,Flu,2021-11-01,31.43
+Vermont,Flu,2021-12-01,65.22
+Vermont,Flu,2022-01-01,62.47
+Vermont,Flu,2022-02-01,65.0
+Vermont,Flu,2022-03-01,79.19
+Vermont,Flu,2022-04-01,85.58
+Vermont,Flu,2022-05-01,71.68
+Vermont,Flu,2022-06-01,60.78
+Vermont,Flu,2022-07-01,76.04
+Vermont,Flu,2022-08-01,55.94
+Vermont,Flu,2022-09-01,39.02
+Vermont,Flu,2022-10-01,64.9
+Vermont,Flu,2022-11-01,68.57
+Vermont,Flu,2022-12-01,68.7
+Vermont,Flu,2023-01-01,61.67
+Vermont,Flu,2023-02-01,82.61
+Vermont,Flu,2023-03-01,91.12
+Vermont,Flu,2023-04-01,70.55
+Vermont,Flu,2023-05-01,73.96
+Vermont,Flu,2023-06-01,76.15
+Vermont,Flu,2023-07-01,71.82
+Vermont,Flu,2023-08-01,40.44
+Vermont,Flu,2023-09-01,51.15
+Vermont,Flu,2023-10-01,66.4
+Vermont,Flu,2023-11-01,57.67
+Vermont,Flu,2023-12-01,66.11
+Vermont,Flu,2024-01-01,50.95
+Vermont,Flu,2024-02-01,75.83
+Vermont,Flu,2024-03-01,64.94
+Vermont,Flu,2024-04-01,64.54
+Vermont,Flu,2024-05-01,67.53
+Vermont,Flu,2024-06-01,68.14
+Vermont,Flu,2024-07-01,51.55
+Vermont,Flu,2024-08-01,75.12
+Vermont,Flu,2024-09-01,59.65
+Vermont,Flu,2024-10-01,84.47
+Vermont,Flu,2024-11-01,64.2
+Vermont,Flu,2024-12-01,60.38
+Vermont,Covid,2020-01-01,65.88
+Vermont,Covid,2020-02-01,74.03
+Vermont,Covid,2020-03-01,57.81
+Vermont,Covid,2020-04-01,71.6
+Vermont,Covid,2020-05-01,83.8
+Vermont,Covid,2020-06-01,93.92
+Vermont,Covid,2020-07-01,59.79
+Vermont,Covid,2020-08-01,62.42
+Vermont,Covid,2020-09-01,62.61
+Vermont,Covid,2020-10-01,52.65
+Vermont,Covid,2020-11-01,76.51
+Vermont,Covid,2020-12-01,53.66
+Vermont,Covid,2021-01-01,64.87
+Vermont,Covid,2021-02-01,62.31
+Vermont,Covid,2021-03-01,74.82
+Vermont,Covid,2021-04-01,62.37
+Vermont,Covid,2021-05-01,85.32
+Vermont,Covid,2021-06-01,69.27
+Vermont,Covid,2021-07-01,75.15
+Vermont,Covid,2021-08-01,62.85
+Vermont,Covid,2021-09-01,47.99
+Vermont,Covid,2021-10-01,59.5
+Vermont,Covid,2021-11-01,60.48
+Vermont,Covid,2021-12-01,55.99
+Vermont,Covid,2022-01-01,62.55
+Vermont,Covid,2022-02-01,64.63
+Vermont,Covid,2022-03-01,68.28
+Vermont,Covid,2022-04-01,78.18
+Vermont,Covid,2022-05-01,80.61
+Vermont,Covid,2022-06-01,90.26
+Vermont,Covid,2022-07-01,65.44
+Vermont,Covid,2022-08-01,52.4
+Vermont,Covid,2022-09-01,67.14
+Vermont,Covid,2022-10-01,59.81
+Vermont,Covid,2022-11-01,63.48
+Vermont,Covid,2022-12-01,87.89
+Vermont,Covid,2023-01-01,80.91
+Vermont,Covid,2023-02-01,89.45
+Vermont,Covid,2023-03-01,63.72
+Vermont,Covid,2023-04-01,71.6
+Vermont,Covid,2023-05-01,70.93
+Vermont,Covid,2023-06-01,80.77
+Vermont,Covid,2023-07-01,62.85
+Vermont,Covid,2023-08-01,60.98
+Vermont,Covid,2023-09-01,51.08
+Vermont,Covid,2023-10-01,50.57
+Vermont,Covid,2023-11-01,59.72
+Vermont,Covid,2023-12-01,65.38
+Vermont,Covid,2024-01-01,64.32
+Vermont,Covid,2024-02-01,91.27
+Vermont,Covid,2024-03-01,80.01
+Vermont,Covid,2024-04-01,69.97
+Vermont,Covid,2024-05-01,71.38
+Vermont,Covid,2024-06-01,75.68
+Vermont,Covid,2024-07-01,48.29
+Vermont,Covid,2024-08-01,56.98
+Vermont,Covid,2024-09-01,60.68
+Vermont,Covid,2024-10-01,55.11
+Vermont,Covid,2024-11-01,73.14
+Vermont,Covid,2024-12-01,45.75
+Virginia,Flu,2020-01-01,106.88
+Virginia,Flu,2020-02-01,105.36
+Virginia,Flu,2020-03-01,89.95
+Virginia,Flu,2020-04-01,127.38
+Virginia,Flu,2020-05-01,99.26
+Virginia,Flu,2020-06-01,95.77
+Virginia,Flu,2020-07-01,100.67
+Virginia,Flu,2020-08-01,94.21
+Virginia,Flu,2020-09-01,96.63
+Virginia,Flu,2020-10-01,90.48
+Virginia,Flu,2020-11-01,104.08
+Virginia,Flu,2020-12-01,105.03
+Virginia,Flu,2021-01-01,98.19
+Virginia,Flu,2021-02-01,101.02
+Virginia,Flu,2021-03-01,97.84
+Virginia,Flu,2021-04-01,111.19
+Virginia,Flu,2021-05-01,101.34
+Virginia,Flu,2021-06-01,123.33
+Virginia,Flu,2021-07-01,121.68
+Virginia,Flu,2021-08-01,103.87
+Virginia,Flu,2021-09-01,111.66
+Virginia,Flu,2021-10-01,117.92
+Virginia,Flu,2021-11-01,86.35
+Virginia,Flu,2021-12-01,98.27
+Virginia,Flu,2022-01-01,100.15
+Virginia,Flu,2022-02-01,114.85
+Virginia,Flu,2022-03-01,124.47
+Virginia,Flu,2022-04-01,108.33
+Virginia,Flu,2022-05-01,118.47
+Virginia,Flu,2022-06-01,110.28
+Virginia,Flu,2022-07-01,104.54
+Virginia,Flu,2022-08-01,97.56
+Virginia,Flu,2022-09-01,99.19
+Virginia,Flu,2022-10-01,104.93
+Virginia,Flu,2022-11-01,99.35
+Virginia,Flu,2022-12-01,106.79
+Virginia,Flu,2023-01-01,113.52
+Virginia,Flu,2023-02-01,105.55
+Virginia,Flu,2023-03-01,119.15
+Virginia,Flu,2023-04-01,103.98
+Virginia,Flu,2023-05-01,113.71
+Virginia,Flu,2023-06-01,125.13
+Virginia,Flu,2023-07-01,102.2
+Virginia,Flu,2023-08-01,109.01
+Virginia,Flu,2023-09-01,101.37
+Virginia,Flu,2023-10-01,102.8
+Virginia,Flu,2023-11-01,91.47
+Virginia,Flu,2023-12-01,124.93
+Virginia,Flu,2024-01-01,99.36
+Virginia,Flu,2024-02-01,128.83
+Virginia,Flu,2024-03-01,115.01
+Virginia,Flu,2024-04-01,105.75
+Virginia,Flu,2024-05-01,122.5
+Virginia,Flu,2024-06-01,108.3
+Virginia,Flu,2024-07-01,118.4
+Virginia,Flu,2024-08-01,109.76
+Virginia,Flu,2024-09-01,119.26
+Virginia,Flu,2024-10-01,103.77
+Virginia,Flu,2024-11-01,116.09
+Virginia,Flu,2024-12-01,109.27
+Virginia,Covid,2020-01-01,109.93
+Virginia,Covid,2020-02-01,106.8
+Virginia,Covid,2020-03-01,103.54
+Virginia,Covid,2020-04-01,101.99
+Virginia,Covid,2020-05-01,110.6
+Virginia,Covid,2020-06-01,89.31
+Virginia,Covid,2020-07-01,102.59
+Virginia,Covid,2020-08-01,99.31
+Virginia,Covid,2020-09-01,95.61
+Virginia,Covid,2020-10-01,93.79
+Virginia,Covid,2020-11-01,78.32
+Virginia,Covid,2020-12-01,83.85
+Virginia,Covid,2021-01-01,106.98
+Virginia,Covid,2021-02-01,86.54
+Virginia,Covid,2021-03-01,109.01
+Virginia,Covid,2021-04-01,113.92
+Virginia,Covid,2021-05-01,108.37
+Virginia,Covid,2021-06-01,100.9
+Virginia,Covid,2021-07-01,93.77
+Virginia,Covid,2021-08-01,97.78
+Virginia,Covid,2021-09-01,87.47
+Virginia,Covid,2021-10-01,89.49
+Virginia,Covid,2021-11-01,98.45
+Virginia,Covid,2021-12-01,107.0
+Virginia,Covid,2022-01-01,88.56
+Virginia,Covid,2022-02-01,130.4
+Virginia,Covid,2022-03-01,96.41
+Virginia,Covid,2022-04-01,123.94
+Virginia,Covid,2022-05-01,118.64
+Virginia,Covid,2022-06-01,108.07
+Virginia,Covid,2022-07-01,120.76
+Virginia,Covid,2022-08-01,110.18
+Virginia,Covid,2022-09-01,94.87
+Virginia,Covid,2022-10-01,85.87
+Virginia,Covid,2022-11-01,107.66
+Virginia,Covid,2022-12-01,95.24
+Virginia,Covid,2023-01-01,99.33
+Virginia,Covid,2023-02-01,120.06
+Virginia,Covid,2023-03-01,120.5
+Virginia,Covid,2023-04-01,121.78
+Virginia,Covid,2023-05-01,113.26
+Virginia,Covid,2023-06-01,103.32
+Virginia,Covid,2023-07-01,95.52
+Virginia,Covid,2023-08-01,104.15
+Virginia,Covid,2023-09-01,108.73
+Virginia,Covid,2023-10-01,103.35
+Virginia,Covid,2023-11-01,89.15
+Virginia,Covid,2023-12-01,90.23
+Virginia,Covid,2024-01-01,110.96
+Virginia,Covid,2024-02-01,125.58
+Virginia,Covid,2024-03-01,125.35
+Virginia,Covid,2024-04-01,132.76
+Virginia,Covid,2024-05-01,121.96
+Virginia,Covid,2024-06-01,101.77
+Virginia,Covid,2024-07-01,114.35
+Virginia,Covid,2024-08-01,91.76
+Virginia,Covid,2024-09-01,106.96
+Virginia,Covid,2024-10-01,84.27
+Virginia,Covid,2024-11-01,88.31
+Virginia,Covid,2024-12-01,111.67
+Washington,Flu,2020-01-01,92.34
+Washington,Flu,2020-02-01,113.1
+Washington,Flu,2020-03-01,110.41
+Washington,Flu,2020-04-01,105.79
+Washington,Flu,2020-05-01,81.82
+Washington,Flu,2020-06-01,104.51
+Washington,Flu,2020-07-01,102.23
+Washington,Flu,2020-08-01,101.7
+Washington,Flu,2020-09-01,84.9
+Washington,Flu,2020-10-01,93.22
+Washington,Flu,2020-11-01,85.06
+Washington,Flu,2020-12-01,87.81
+Washington,Flu,2021-01-01,101.73
+Washington,Flu,2021-02-01,105.39
+Washington,Flu,2021-03-01,107.87
+Washington,Flu,2021-04-01,110.5
+Washington,Flu,2021-05-01,102.46
+Washington,Flu,2021-06-01,112.2
+Washington,Flu,2021-07-01,115.48
+Washington,Flu,2021-08-01,92.39
+Washington,Flu,2021-09-01,90.48
+Washington,Flu,2021-10-01,88.67
+Washington,Flu,2021-11-01,92.35
+Washington,Flu,2021-12-01,98.72
+Washington,Flu,2022-01-01,87.58
+Washington,Flu,2022-02-01,110.49
+Washington,Flu,2022-03-01,105.99
+Washington,Flu,2022-04-01,119.82
+Washington,Flu,2022-05-01,115.62
+Washington,Flu,2022-06-01,106.68
+Washington,Flu,2022-07-01,106.59
+Washington,Flu,2022-08-01,113.98
+Washington,Flu,2022-09-01,101.41
+Washington,Flu,2022-10-01,103.37
+Washington,Flu,2022-11-01,92.49
+Washington,Flu,2022-12-01,115.52
+Washington,Flu,2023-01-01,110.99
+Washington,Flu,2023-02-01,104.9
+Washington,Flu,2023-03-01,104.9
+Washington,Flu,2023-04-01,111.61
+Washington,Flu,2023-05-01,138.66
+Washington,Flu,2023-06-01,113.7
+Washington,Flu,2023-07-01,113.95
+Washington,Flu,2023-08-01,107.32
+Washington,Flu,2023-09-01,121.09
+Washington,Flu,2023-10-01,95.16
+Washington,Flu,2023-11-01,86.57
+Washington,Flu,2023-12-01,111.31
+Washington,Flu,2024-01-01,109.06
+Washington,Flu,2024-02-01,108.3
+Washington,Flu,2024-03-01,116.65
+Washington,Flu,2024-04-01,145.41
+Washington,Flu,2024-05-01,113.87
+Washington,Flu,2024-06-01,121.88
+Washington,Flu,2024-07-01,121.32
+Washington,Flu,2024-08-01,84.18
+Washington,Flu,2024-09-01,104.88
+Washington,Flu,2024-10-01,115.99
+Washington,Flu,2024-11-01,93.6
+Washington,Flu,2024-12-01,114.75
+Washington,Covid,2020-01-01,102.21
+Washington,Covid,2020-02-01,91.56
+Washington,Covid,2020-03-01,101.86
+Washington,Covid,2020-04-01,95.76
+Washington,Covid,2020-05-01,98.36
+Washington,Covid,2020-06-01,93.5
+Washington,Covid,2020-07-01,85.64
+Washington,Covid,2020-08-01,100.88
+Washington,Covid,2020-09-01,82.92
+Washington,Covid,2020-10-01,79.0
+Washington,Covid,2020-11-01,97.32
+Washington,Covid,2020-12-01,111.43
+Washington,Covid,2021-01-01,108.37
+Washington,Covid,2021-02-01,94.15
+Washington,Covid,2021-03-01,108.61
+Washington,Covid,2021-04-01,115.59
+Washington,Covid,2021-05-01,98.68
+Washington,Covid,2021-06-01,99.17
+Washington,Covid,2021-07-01,117.13
+Washington,Covid,2021-08-01,107.35
+Washington,Covid,2021-09-01,91.13
+Washington,Covid,2021-10-01,89.11
+Washington,Covid,2021-11-01,107.78
+Washington,Covid,2021-12-01,86.6
+Washington,Covid,2022-01-01,104.63
+Washington,Covid,2022-02-01,121.07
+Washington,Covid,2022-03-01,95.07
+Washington,Covid,2022-04-01,109.1
+Washington,Covid,2022-05-01,104.46
+Washington,Covid,2022-06-01,109.79
+Washington,Covid,2022-07-01,107.28
+Washington,Covid,2022-08-01,98.48
+Washington,Covid,2022-09-01,117.09
+Washington,Covid,2022-10-01,98.07
+Washington,Covid,2022-11-01,98.24
+Washington,Covid,2022-12-01,102.64
+Washington,Covid,2023-01-01,96.71
+Washington,Covid,2023-02-01,106.09
+Washington,Covid,2023-03-01,122.31
+Washington,Covid,2023-04-01,108.21
+Washington,Covid,2023-05-01,98.38
+Washington,Covid,2023-06-01,114.29
+Washington,Covid,2023-07-01,117.35
+Washington,Covid,2023-08-01,92.74
+Washington,Covid,2023-09-01,94.92
+Washington,Covid,2023-10-01,107.46
+Washington,Covid,2023-11-01,106.88
+Washington,Covid,2023-12-01,98.35
+Washington,Covid,2024-01-01,111.81
+Washington,Covid,2024-02-01,112.98
+Washington,Covid,2024-03-01,94.97
+Washington,Covid,2024-04-01,103.74
+Washington,Covid,2024-05-01,128.33
+Washington,Covid,2024-06-01,102.74
+Washington,Covid,2024-07-01,114.75
+Washington,Covid,2024-08-01,108.35
+Washington,Covid,2024-09-01,116.2
+Washington,Covid,2024-10-01,112.69
+Washington,Covid,2024-11-01,96.07
+Washington,Covid,2024-12-01,122.04
+West Virginia,Flu,2020-01-01,106.54
+West Virginia,Flu,2020-02-01,131.5
+West Virginia,Flu,2020-03-01,119.62
+West Virginia,Flu,2020-04-01,134.77
+West Virginia,Flu,2020-05-01,128.59
+West Virginia,Flu,2020-06-01,123.5
+West Virginia,Flu,2020-07-01,109.79
+West Virginia,Flu,2020-08-01,117.97
+West Virginia,Flu,2020-09-01,127.7
+West Virginia,Flu,2020-10-01,111.47
+West Virginia,Flu,2020-11-01,117.27
+West Virginia,Flu,2020-12-01,124.34
+West Virginia,Flu,2021-01-01,126.42
+West Virginia,Flu,2021-02-01,123.48
+West Virginia,Flu,2021-03-01,121.81
+West Virginia,Flu,2021-04-01,137.46
+West Virginia,Flu,2021-05-01,152.88
+West Virginia,Flu,2021-06-01,124.57
+West Virginia,Flu,2021-07-01,109.96
+West Virginia,Flu,2021-08-01,117.81
+West Virginia,Flu,2021-09-01,131.45
+West Virginia,Flu,2021-10-01,101.41
+West Virginia,Flu,2021-11-01,119.37
+West Virginia,Flu,2021-12-01,113.28
+West Virginia,Flu,2022-01-01,120.7
+West Virginia,Flu,2022-02-01,122.76
+West Virginia,Flu,2022-03-01,120.62
+West Virginia,Flu,2022-04-01,135.89
+West Virginia,Flu,2022-05-01,130.66
+West Virginia,Flu,2022-06-01,125.76
+West Virginia,Flu,2022-07-01,135.92
+West Virginia,Flu,2022-08-01,118.53
+West Virginia,Flu,2022-09-01,117.58
+West Virginia,Flu,2022-10-01,104.94
+West Virginia,Flu,2022-11-01,121.42
+West Virginia,Flu,2022-12-01,133.66
+West Virginia,Flu,2023-01-01,124.54
+West Virginia,Flu,2023-02-01,130.89
+West Virginia,Flu,2023-03-01,145.71
+West Virginia,Flu,2023-04-01,138.53
+West Virginia,Flu,2023-05-01,139.91
+West Virginia,Flu,2023-06-01,133.99
+West Virginia,Flu,2023-07-01,127.23
+West Virginia,Flu,2023-08-01,121.68
+West Virginia,Flu,2023-09-01,124.68
+West Virginia,Flu,2023-10-01,129.42
+West Virginia,Flu,2023-11-01,106.86
+West Virginia,Flu,2023-12-01,115.63
+West Virginia,Flu,2024-01-01,130.05
+West Virginia,Flu,2024-02-01,147.37
+West Virginia,Flu,2024-03-01,138.66
+West Virginia,Flu,2024-04-01,137.9
+West Virginia,Flu,2024-05-01,151.46
+West Virginia,Flu,2024-06-01,140.53
+West Virginia,Flu,2024-07-01,138.14
+West Virginia,Flu,2024-08-01,134.63
+West Virginia,Flu,2024-09-01,131.1
+West Virginia,Flu,2024-10-01,124.76
+West Virginia,Flu,2024-11-01,145.59
+West Virginia,Flu,2024-12-01,135.49
+West Virginia,Covid,2020-01-01,110.54
+West Virginia,Covid,2020-02-01,127.42
+West Virginia,Covid,2020-03-01,128.97
+West Virginia,Covid,2020-04-01,133.08
+West Virginia,Covid,2020-05-01,120.77
+West Virginia,Covid,2020-06-01,125.3
+West Virginia,Covid,2020-07-01,106.06
+West Virginia,Covid,2020-08-01,112.11
+West Virginia,Covid,2020-09-01,110.0
+West Virginia,Covid,2020-10-01,114.01
+West Virginia,Covid,2020-11-01,129.42
+West Virginia,Covid,2020-12-01,118.54
+West Virginia,Covid,2021-01-01,124.37
+West Virginia,Covid,2021-02-01,130.8
+West Virginia,Covid,2021-03-01,115.2
+West Virginia,Covid,2021-04-01,142.99
+West Virginia,Covid,2021-05-01,140.02
+West Virginia,Covid,2021-06-01,130.06
+West Virginia,Covid,2021-07-01,119.45
+West Virginia,Covid,2021-08-01,120.58
+West Virginia,Covid,2021-09-01,115.34
+West Virginia,Covid,2021-10-01,115.78
+West Virginia,Covid,2021-11-01,105.75
+West Virginia,Covid,2021-12-01,117.52
+West Virginia,Covid,2022-01-01,117.17
+West Virginia,Covid,2022-02-01,136.6
+West Virginia,Covid,2022-03-01,124.12
+West Virginia,Covid,2022-04-01,133.31
+West Virginia,Covid,2022-05-01,142.33
+West Virginia,Covid,2022-06-01,130.37
+West Virginia,Covid,2022-07-01,127.97
+West Virginia,Covid,2022-08-01,115.29
+West Virginia,Covid,2022-09-01,110.7
+West Virginia,Covid,2022-10-01,124.06
+West Virginia,Covid,2022-11-01,132.54
+West Virginia,Covid,2022-12-01,122.68
+West Virginia,Covid,2023-01-01,130.53
+West Virginia,Covid,2023-02-01,137.22
+West Virginia,Covid,2023-03-01,121.55
+West Virginia,Covid,2023-04-01,154.96
+West Virginia,Covid,2023-05-01,158.72
+West Virginia,Covid,2023-06-01,142.03
+West Virginia,Covid,2023-07-01,147.45
+West Virginia,Covid,2023-08-01,125.4
+West Virginia,Covid,2023-09-01,121.26
+West Virginia,Covid,2023-10-01,96.45
+West Virginia,Covid,2023-11-01,128.58
+West Virginia,Covid,2023-12-01,102.67
+West Virginia,Covid,2024-01-01,147.53
+West Virginia,Covid,2024-02-01,141.11
+West Virginia,Covid,2024-03-01,131.98
+West Virginia,Covid,2024-04-01,139.62
+West Virginia,Covid,2024-05-01,143.64
+West Virginia,Covid,2024-06-01,143.35
+West Virginia,Covid,2024-07-01,158.04
+West Virginia,Covid,2024-08-01,130.11
+West Virginia,Covid,2024-09-01,132.98
+West Virginia,Covid,2024-10-01,118.77
+West Virginia,Covid,2024-11-01,118.97
+West Virginia,Covid,2024-12-01,145.49
+Wisconsin,Flu,2020-01-01,86.2
+Wisconsin,Flu,2020-02-01,89.77
+Wisconsin,Flu,2020-03-01,103.73
+Wisconsin,Flu,2020-04-01,94.12
+Wisconsin,Flu,2020-05-01,95.8
+Wisconsin,Flu,2020-06-01,90.02
+Wisconsin,Flu,2020-07-01,83.89
+Wisconsin,Flu,2020-08-01,86.1
+Wisconsin,Flu,2020-09-01,71.81
+Wisconsin,Flu,2020-10-01,72.12
+Wisconsin,Flu,2020-11-01,68.18
+Wisconsin,Flu,2020-12-01,74.81
+Wisconsin,Flu,2021-01-01,86.04
+Wisconsin,Flu,2021-02-01,89.9
+Wisconsin,Flu,2021-03-01,87.27
+Wisconsin,Flu,2021-04-01,90.71
+Wisconsin,Flu,2021-05-01,80.8
+Wisconsin,Flu,2021-06-01,82.92
+Wisconsin,Flu,2021-07-01,79.78
+Wisconsin,Flu,2021-08-01,91.34
+Wisconsin,Flu,2021-09-01,68.3
+Wisconsin,Flu,2021-10-01,77.16
+Wisconsin,Flu,2021-11-01,76.2
+Wisconsin,Flu,2021-12-01,68.4
+Wisconsin,Flu,2022-01-01,85.25
+Wisconsin,Flu,2022-02-01,94.25
+Wisconsin,Flu,2022-03-01,92.61
+Wisconsin,Flu,2022-04-01,92.16
+Wisconsin,Flu,2022-05-01,103.89
+Wisconsin,Flu,2022-06-01,77.45
+Wisconsin,Flu,2022-07-01,90.75
+Wisconsin,Flu,2022-08-01,84.01
+Wisconsin,Flu,2022-09-01,70.99
+Wisconsin,Flu,2022-10-01,75.29
+Wisconsin,Flu,2022-11-01,76.79
+Wisconsin,Flu,2022-12-01,98.64
+Wisconsin,Flu,2023-01-01,88.36
+Wisconsin,Flu,2023-02-01,89.4
+Wisconsin,Flu,2023-03-01,105.84
+Wisconsin,Flu,2023-04-01,103.89
+Wisconsin,Flu,2023-05-01,107.62
+Wisconsin,Flu,2023-06-01,83.33
+Wisconsin,Flu,2023-07-01,97.67
+Wisconsin,Flu,2023-08-01,62.08
+Wisconsin,Flu,2023-09-01,90.68
+Wisconsin,Flu,2023-10-01,89.33
+Wisconsin,Flu,2023-11-01,80.25
+Wisconsin,Flu,2023-12-01,79.95
+Wisconsin,Flu,2024-01-01,75.22
+Wisconsin,Flu,2024-02-01,81.61
+Wisconsin,Flu,2024-03-01,86.92
+Wisconsin,Flu,2024-04-01,110.09
+Wisconsin,Flu,2024-05-01,89.5
+Wisconsin,Flu,2024-06-01,97.32
+Wisconsin,Flu,2024-07-01,69.46
+Wisconsin,Flu,2024-08-01,103.52
+Wisconsin,Flu,2024-09-01,78.26
+Wisconsin,Flu,2024-10-01,76.69
+Wisconsin,Flu,2024-11-01,88.96
+Wisconsin,Flu,2024-12-01,89.68
+Wisconsin,Covid,2020-01-01,98.04
+Wisconsin,Covid,2020-02-01,101.55
+Wisconsin,Covid,2020-03-01,101.88
+Wisconsin,Covid,2020-04-01,91.93
+Wisconsin,Covid,2020-05-01,111.82
+Wisconsin,Covid,2020-06-01,97.73
+Wisconsin,Covid,2020-07-01,96.54
+Wisconsin,Covid,2020-08-01,72.99
+Wisconsin,Covid,2020-09-01,65.02
+Wisconsin,Covid,2020-10-01,70.71
+Wisconsin,Covid,2020-11-01,69.87
+Wisconsin,Covid,2020-12-01,62.87
+Wisconsin,Covid,2021-01-01,86.69
+Wisconsin,Covid,2021-02-01,100.51
+Wisconsin,Covid,2021-03-01,95.9
+Wisconsin,Covid,2021-04-01,87.5
+Wisconsin,Covid,2021-05-01,99.5
+Wisconsin,Covid,2021-06-01,90.44
+Wisconsin,Covid,2021-07-01,91.8
+Wisconsin,Covid,2021-08-01,70.55
+Wisconsin,Covid,2021-09-01,82.84
+Wisconsin,Covid,2021-10-01,76.15
+Wisconsin,Covid,2021-11-01,90.6
+Wisconsin,Covid,2021-12-01,86.04
+Wisconsin,Covid,2022-01-01,96.53
+Wisconsin,Covid,2022-02-01,73.74
+Wisconsin,Covid,2022-03-01,104.2
+Wisconsin,Covid,2022-04-01,95.06
+Wisconsin,Covid,2022-05-01,108.93
+Wisconsin,Covid,2022-06-01,88.85
+Wisconsin,Covid,2022-07-01,85.69
+Wisconsin,Covid,2022-08-01,79.2
+Wisconsin,Covid,2022-09-01,75.11
+Wisconsin,Covid,2022-10-01,81.7
+Wisconsin,Covid,2022-11-01,77.57
+Wisconsin,Covid,2022-12-01,68.39
+Wisconsin,Covid,2023-01-01,82.27
+Wisconsin,Covid,2023-02-01,99.07
+Wisconsin,Covid,2023-03-01,112.08
+Wisconsin,Covid,2023-04-01,86.3
+Wisconsin,Covid,2023-05-01,90.42
+Wisconsin,Covid,2023-06-01,97.16
+Wisconsin,Covid,2023-07-01,76.75
+Wisconsin,Covid,2023-08-01,75.02
+Wisconsin,Covid,2023-09-01,108.39
+Wisconsin,Covid,2023-10-01,80.77
+Wisconsin,Covid,2023-11-01,77.72
+Wisconsin,Covid,2023-12-01,83.21
+Wisconsin,Covid,2024-01-01,82.32
+Wisconsin,Covid,2024-02-01,88.57
+Wisconsin,Covid,2024-03-01,88.34
+Wisconsin,Covid,2024-04-01,105.33
+Wisconsin,Covid,2024-05-01,105.21
+Wisconsin,Covid,2024-06-01,94.93
+Wisconsin,Covid,2024-07-01,91.23
+Wisconsin,Covid,2024-08-01,104.78
+Wisconsin,Covid,2024-09-01,87.7
+Wisconsin,Covid,2024-10-01,87.51
+Wisconsin,Covid,2024-11-01,92.32
+Wisconsin,Covid,2024-12-01,88.09
+Wyoming,Flu,2020-01-01,107.88
+Wyoming,Flu,2020-02-01,99.66
+Wyoming,Flu,2020-03-01,95.91
+Wyoming,Flu,2020-04-01,110.87
+Wyoming,Flu,2020-05-01,119.37
+Wyoming,Flu,2020-06-01,108.52
+Wyoming,Flu,2020-07-01,104.29
+Wyoming,Flu,2020-08-01,84.23
+Wyoming,Flu,2020-09-01,95.37
+Wyoming,Flu,2020-10-01,96.92
+Wyoming,Flu,2020-11-01,79.14
+Wyoming,Flu,2020-12-01,118.9
+Wyoming,Flu,2021-01-01,109.27
+Wyoming,Flu,2021-02-01,130.22
+Wyoming,Flu,2021-03-01,125.56
+Wyoming,Flu,2021-04-01,115.34
+Wyoming,Flu,2021-05-01,122.13
+Wyoming,Flu,2021-06-01,118.82
+Wyoming,Flu,2021-07-01,106.48
+Wyoming,Flu,2021-08-01,104.07
+Wyoming,Flu,2021-09-01,109.27
+Wyoming,Flu,2021-10-01,94.43
+Wyoming,Flu,2021-11-01,114.96
+Wyoming,Flu,2021-12-01,81.86
+Wyoming,Flu,2022-01-01,106.56
+Wyoming,Flu,2022-02-01,115.06
+Wyoming,Flu,2022-03-01,114.17
+Wyoming,Flu,2022-04-01,107.01
+Wyoming,Flu,2022-05-01,121.43
+Wyoming,Flu,2022-06-01,126.51
+Wyoming,Flu,2022-07-01,104.02
+Wyoming,Flu,2022-08-01,95.08
+Wyoming,Flu,2022-09-01,80.41
+Wyoming,Flu,2022-10-01,99.07
+Wyoming,Flu,2022-11-01,111.07
+Wyoming,Flu,2022-12-01,77.68
+Wyoming,Flu,2023-01-01,102.24
+Wyoming,Flu,2023-02-01,110.22
+Wyoming,Flu,2023-03-01,109.65
+Wyoming,Flu,2023-04-01,135.51
+Wyoming,Flu,2023-05-01,129.23
+Wyoming,Flu,2023-06-01,108.91
+Wyoming,Flu,2023-07-01,75.95
+Wyoming,Flu,2023-08-01,92.42
+Wyoming,Flu,2023-09-01,112.99
+Wyoming,Flu,2023-10-01,68.52
+Wyoming,Flu,2023-11-01,101.22
+Wyoming,Flu,2023-12-01,90.63
+Wyoming,Flu,2024-01-01,117.06
+Wyoming,Flu,2024-02-01,120.42
+Wyoming,Flu,2024-03-01,108.39
+Wyoming,Flu,2024-04-01,121.15
+Wyoming,Flu,2024-05-01,118.23
+Wyoming,Flu,2024-06-01,113.58
+Wyoming,Flu,2024-07-01,118.05
+Wyoming,Flu,2024-08-01,93.97
+Wyoming,Flu,2024-09-01,95.85
+Wyoming,Flu,2024-10-01,101.75
+Wyoming,Flu,2024-11-01,97.97
+Wyoming,Flu,2024-12-01,101.89
+Wyoming,Covid,2020-01-01,102.15
+Wyoming,Covid,2020-02-01,113.35
+Wyoming,Covid,2020-03-01,125.16
+Wyoming,Covid,2020-04-01,117.27
+Wyoming,Covid,2020-05-01,108.85
+Wyoming,Covid,2020-06-01,118.07
+Wyoming,Covid,2020-07-01,118.13
+Wyoming,Covid,2020-08-01,103.42
+Wyoming,Covid,2020-09-01,111.0
+Wyoming,Covid,2020-10-01,85.26
+Wyoming,Covid,2020-11-01,112.64
+Wyoming,Covid,2020-12-01,93.35
+Wyoming,Covid,2021-01-01,108.08
+Wyoming,Covid,2021-02-01,114.05
+Wyoming,Covid,2021-03-01,101.81
+Wyoming,Covid,2021-04-01,123.1
+Wyoming,Covid,2021-05-01,103.27
+Wyoming,Covid,2021-06-01,125.45
+Wyoming,Covid,2021-07-01,121.22
+Wyoming,Covid,2021-08-01,89.07
+Wyoming,Covid,2021-09-01,102.86
+Wyoming,Covid,2021-10-01,95.86
+Wyoming,Covid,2021-11-01,84.11
+Wyoming,Covid,2021-12-01,107.02
+Wyoming,Covid,2022-01-01,98.99
+Wyoming,Covid,2022-02-01,111.89
+Wyoming,Covid,2022-03-01,117.91
+Wyoming,Covid,2022-04-01,113.37
+Wyoming,Covid,2022-05-01,108.12
+Wyoming,Covid,2022-06-01,106.47
+Wyoming,Covid,2022-07-01,112.13
+Wyoming,Covid,2022-08-01,114.29
+Wyoming,Covid,2022-09-01,112.65
+Wyoming,Covid,2022-10-01,88.0
+Wyoming,Covid,2022-11-01,106.14
+Wyoming,Covid,2022-12-01,103.31
+Wyoming,Covid,2023-01-01,111.73
+Wyoming,Covid,2023-02-01,123.75
+Wyoming,Covid,2023-03-01,129.09
+Wyoming,Covid,2023-04-01,131.94
+Wyoming,Covid,2023-05-01,128.87
+Wyoming,Covid,2023-06-01,136.5
+Wyoming,Covid,2023-07-01,97.76
+Wyoming,Covid,2023-08-01,93.48
+Wyoming,Covid,2023-09-01,105.88
+Wyoming,Covid,2023-10-01,108.33
+Wyoming,Covid,2023-11-01,96.16
+Wyoming,Covid,2023-12-01,118.79
+Wyoming,Covid,2024-01-01,124.77
+Wyoming,Covid,2024-02-01,109.61
+Wyoming,Covid,2024-03-01,114.45
+Wyoming,Covid,2024-04-01,121.98
+Wyoming,Covid,2024-05-01,133.19
+Wyoming,Covid,2024-06-01,109.31
+Wyoming,Covid,2024-07-01,133.04
+Wyoming,Covid,2024-08-01,89.45
+Wyoming,Covid,2024-09-01,108.86
+Wyoming,Covid,2024-10-01,112.25
+Wyoming,Covid,2024-11-01,119.46
+Wyoming,Covid,2024-12-01,108.53
+US,Flu,2020-01-01,93.12
+US,Flu,2020-02-01,103.53
+US,Flu,2020-03-01,121.8
+US,Flu,2020-04-01,126.83
+US,Flu,2020-05-01,117.39
+US,Flu,2020-06-01,117.49
+US,Flu,2020-07-01,105.58
+US,Flu,2020-08-01,107.11
+US,Flu,2020-09-01,122.5
+US,Flu,2020-10-01,66.74
+US,Flu,2020-11-01,115.09
+US,Flu,2020-12-01,101.41
+US,Flu,2021-01-01,116.19
+US,Flu,2021-02-01,120.0
+US,Flu,2021-03-01,125.66
+US,Flu,2021-04-01,117.6
+US,Flu,2021-05-01,113.34
+US,Flu,2021-06-01,104.0
+US,Flu,2021-07-01,104.56
+US,Flu,2021-08-01,108.44
+US,Flu,2021-09-01,125.15
+US,Flu,2021-10-01,93.39
+US,Flu,2021-11-01,104.22
+US,Flu,2021-12-01,96.77
+US,Flu,2022-01-01,113.4
+US,Flu,2022-02-01,123.95
+US,Flu,2022-03-01,123.28
+US,Flu,2022-04-01,123.9
+US,Flu,2022-05-01,131.12
+US,Flu,2022-06-01,113.91
+US,Flu,2022-07-01,102.62
+US,Flu,2022-08-01,114.71
+US,Flu,2022-09-01,119.86
+US,Flu,2022-10-01,106.3
+US,Flu,2022-11-01,102.14
+US,Flu,2022-12-01,108.17
+US,Flu,2023-01-01,112.91
+US,Flu,2023-02-01,125.42
+US,Flu,2023-03-01,125.95
+US,Flu,2023-04-01,122.35
+US,Flu,2023-05-01,131.83
+US,Flu,2023-06-01,125.34
+US,Flu,2023-07-01,118.08
+US,Flu,2023-08-01,107.4
+US,Flu,2023-09-01,100.08
+US,Flu,2023-10-01,113.75
+US,Flu,2023-11-01,112.14
+US,Flu,2023-12-01,113.92
+US,Flu,2024-01-01,105.89
+US,Flu,2024-02-01,123.35
+US,Flu,2024-03-01,132.56
+US,Flu,2024-04-01,113.97
+US,Flu,2024-05-01,124.07
+US,Flu,2024-06-01,113.0
+US,Flu,2024-07-01,100.43
+US,Flu,2024-08-01,101.42
+US,Flu,2024-09-01,86.98
+US,Flu,2024-10-01,105.98
+US,Flu,2024-11-01,104.24
+US,Flu,2024-12-01,120.44
+US,Covid,2020-01-01,111.77
+US,Covid,2020-02-01,100.94
+US,Covid,2020-03-01,112.54
+US,Covid,2020-04-01,106.0
+US,Covid,2020-05-01,111.74
+US,Covid,2020-06-01,115.73
+US,Covid,2020-07-01,95.03
+US,Covid,2020-08-01,99.93
+US,Covid,2020-09-01,96.65
+US,Covid,2020-10-01,107.33
+US,Covid,2020-11-01,109.54
+US,Covid,2020-12-01,93.5
+US,Covid,2021-01-01,112.05
+US,Covid,2021-02-01,113.86
+US,Covid,2021-03-01,111.88
+US,Covid,2021-04-01,116.95
+US,Covid,2021-05-01,124.05
+US,Covid,2021-06-01,111.05
+US,Covid,2021-07-01,95.93
+US,Covid,2021-08-01,103.21
+US,Covid,2021-09-01,114.47
+US,Covid,2021-10-01,97.54
+US,Covid,2021-11-01,106.8
+US,Covid,2021-12-01,126.07
+US,Covid,2022-01-01,122.63
+US,Covid,2022-02-01,106.52
+US,Covid,2022-03-01,112.17
+US,Covid,2022-04-01,125.64
+US,Covid,2022-05-01,135.12
+US,Covid,2022-06-01,127.55
+US,Covid,2022-07-01,122.97
+US,Covid,2022-08-01,114.17
+US,Covid,2022-09-01,92.4
+US,Covid,2022-10-01,130.35
+US,Covid,2022-11-01,111.66
+US,Covid,2022-12-01,98.56
+US,Covid,2023-01-01,134.24
+US,Covid,2023-02-01,119.35
+US,Covid,2023-03-01,130.24
+US,Covid,2023-04-01,137.7
+US,Covid,2023-05-01,120.68
+US,Covid,2023-06-01,132.96
+US,Covid,2023-07-01,101.41
+US,Covid,2023-08-01,110.13
+US,Covid,2023-09-01,93.26
+US,Covid,2023-10-01,104.32
+US,Covid,2023-11-01,83.06
+US,Covid,2023-12-01,98.76
+US,Covid,2024-01-01,129.54
+US,Covid,2024-02-01,122.23
+US,Covid,2024-03-01,124.56
+US,Covid,2024-04-01,116.5
+US,Covid,2024-05-01,132.47
+US,Covid,2024-06-01,115.02
+US,Covid,2024-07-01,136.02
+US,Covid,2024-08-01,121.06
+US,Covid,2024-09-01,86.72
+US,Covid,2024-10-01,104.07
+US,Covid,2024-11-01,109.52
+US,Covid,2024-12-01,102.61
