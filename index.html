@@ -580,11 +580,6 @@
                 .attr("y1", 0)
                 .attr("y2", height);
 
-            const handleRadius = 8;
-            const timeMarkerHandle = timeMarkerGroup.append("circle")
-                .attr("class", "time-marker-handle")
-                .attr("r", handleRadius)
-                .attr("cy", height + 10);
 
             // Invisible drag area for easier interaction
             const dragArea = timeMarkerGroup.append("rect")
