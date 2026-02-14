@@ -1,0 +1,14 @@
+markdown: kramdown
+encoding: utf-8
+exclude:
+ - run.sh
+ - 'README*'
+ - LICENSE
+ - TODO.md
+ - '*.out'
+ - '*.tgz'
+ - '*.py'
+ - '*.csv'
+ - '*.txt'
+ - '*.bac'
+ - '*.orig'
