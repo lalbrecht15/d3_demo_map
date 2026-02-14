@@ -36,13 +36,11 @@
             margin: 20px 0;
         }
 
-         #dateDisplay {
-            font-size: 16px;
+        #dateDisplay {
+            font-size: 18px;
             font-weight: bold;
             color: #555;
-            position: absolute;
-            left: 20px;
-            top: 50px;
+            margin: 10px 0;
         }
 
         #timeSeries {
@@ -96,20 +94,6 @@
             pointer-events: none;
             opacity: 0;
             font-size: 14px;
-        }
-
-           #dateTooltip {
-            position: absolute;
-            padding: 8px 12px;
-            background: rgba(0, 0, 0, 0.8);
-            color: white;
-            border-radius: 4px;
-            pointer-events: none;
-            opacity: 0;
-            font-size: 14px;
-            font-weight: bold;
-            white-space: nowrap;
-            transition: opacity 0.2s;
         }
 
         .legend {
@@ -216,7 +200,6 @@
         </div>
 
         <div id="tooltip"></div>
-        <div id="dateTooltip"></div>
     </div>
 
     <script>
@@ -606,22 +589,6 @@
                 .attr("height", height + 20)
                 .attr("x", -10)
                 .attr("y", 0);
-                 .on("mouseenter", function(event) {
-                    const currentDate = dates[currentDateIndex];
-                    d3.select("#dateTooltip")
-                        .style("opacity", 1)
-                        .html(currentDate);
-                })
-                .on("mousemove", function(event) {
-                    d3.select("#dateTooltip")
-                        .style("left", (event.pageX + 10) + "px")
-                        .style("top", (event.pageY - 28) + "px");
-                })
-                .on("mouseleave", function() {
-                    d3.select("#dateTooltip")
-                        .style("opacity", 0);
-                });
-            
 
             // Drag behavior
             const drag = d3.drag()
