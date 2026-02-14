@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+</head>
+<body>
+    {{ content }}
+</body>
+</html>
+```
+
+### 2. **Data Files**
+Place your CSV and TopoJSON files in the appropriate location:
+```
+your-repo/
+├── data/
+│   ├── fake_data_map1.csv
+│   ├── fake_data_map2.csv
+│   ├── fake_data_linechart.csv
+│   └── us_states_shifted.topojson
+├── _layouts/
+│   └── default.html
+├── dashboard_rt_hosp_fixed.html
+└── _config.yml
