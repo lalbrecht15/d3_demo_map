@@ -625,7 +625,6 @@
             // Store for updates
             window.timeSeriesScale = xScale;
             window.timeMarker = timeMarker;
-            window.timeMarkerHandle = timeMarkerHandle;
             window.timeSeriesGenerator = line;
             window.timeSeriesDataLong = timeSeriesData; // Store long format data
             window.timeSeriesColorScale = colorScale; // Store color scale for hover lines
@@ -786,10 +785,6 @@
                     .attr("x1", x)
                     .attr("x2", x);
 
-                window.timeMarkerHandle
-                    .transition()
-                    .duration(200)
-                    .attr("cx", x);
 
                 d3.select(".time-marker-drag-area")
                     .transition()
