@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covid-19 and Flu Rt Dashboard</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        #container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            position: relative;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 5px;
+            margin-top: 5px;
+            font-size: 16px;
+            font-weight: normal;
+        }
+
+        #controls {
+            text-align: center;
+            margin: 10px 0;
+        }
+
+        #dateDisplay {
+            font-size: 14px;
+            font-weight: bold;
+            color: #555;
+            margin-left: 80px;
+            margin-bottom: 5px;
+            text-align: left;
+        }
+
+        #timeSeries {
+            margin: 0 auto;
+            display: block;
+        }
+
+        #mapsContainer {
+            display: flex;
+            justify-content: space-around;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .map-wrapper {
+            flex: 1 1 320px;
+            text-align: center;
+            min-width: 280px;
+        }
+
+        .map-title {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        .state {
+            stroke: #fff;
+            stroke-width: 1px;
+            cursor: pointer;
+        }
+
+        .state:hover {
+            stroke: #333;
+            stroke-width: 2px;
+        }
+
+        .state.selected {
+            stroke: #ff6b6b;
+            stroke-width: 3px;
+        }
+
+        #tooltip {
+            position: absolute;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            border-radius: 4px;
+            pointer-events: none;
+            opacity: 0;
+            font-size: 14px;
+        }
+
+        #dateTooltip {
+            position: absolute;
+            padding: 8px 12px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            border-radius: 4px;
+            pointer-events: none;
+            opacity: 0;
+            font-size: 14px;
+            font-weight: bold;
+            white-space: nowrap;
+            transition: opacity 0.2s;
+        }
+
+        .legend {
+            font-size: 12px;
+        }
+
+        .play-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+
+        .play-button:hover {
+            background-color: #45a049;
+        }
+
+        .axis-label {
+            font-size: 12px;
+        }
+
+        .line {
+            fill: none;
+            stroke-width: 2;
+            opacity: 0.8;
+        }
+
+        .line.highlighted {
+            stroke-width: 3;
+            opacity: 1;
+        }
+
+        .line.hover-line {
+            stroke-width: 2;
+            opacity: 0.5;
+            stroke-dasharray: 4, 4;
+        }
+
+        .time-marker-group {
+            cursor: grab;
+        }
+
+        .time-marker-group:active {
+            cursor: grabbing;
+        }
+
+        .time-marker {
+            stroke: #ff6b6b;
+            stroke-width: 4;
+            stroke-dasharray: 5, 5;
+            pointer-events: none;
+            opacity: 0.4;
+        }
+
+        .time-marker-handle {
+            fill: #ff6b6b;
+            cursor: grab;
+        }
+
+        .time-marker-handle:active {
+            cursor: grabbing;
+        }
+
+        .time-marker-drag-area {
+            fill: transparent;
+            cursor: grab;
+        }
+
+        #timeSeries,
+        #map1,
+        #map2 {
+            width: 100%;
+            height: auto;
+            display: block;
+            max-width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h1>Rt Interactive Dashboard</h1>
+
+        <div id="controls">
+            <button class="play-button" id="playButton">▶ Play</button>
+        </div>
+
+        <div id="dateDisplay">Select a date</div>
+        <svg id="timeSeries"></svg>
+
+        <div id="mapsContainer">
+            <div class="map-wrapper">
+                <div class="map-title">Covid-19 Rt Estimate</div>
+                <svg id="map1"></svg>
+            </div>
+            <div class="map-wrapper">
+                <div class="map-title">Influenza Rt Estimate</div>
+                <svg id="map2"></svg>
+            </div>
+        </div>
+
+        <div id="tooltip"></div>
+        <div id="dateTooltip"></div>
+    </div>
+
+    <script>
+        // Configuration
+        const mapWidth = 600;
+        const mapHeight = 400;
+        const timeSeriesWidth = 1200;
+        const timeSeriesHeight = 125;
+        const margin = { top: 20, right: 100, bottom: 40, left: 60 };
+
+        // Create SVGs
+        const timeSeriesSvg = d3.select("#timeSeries")
+            .attr("viewBox", `0 0 ${timeSeriesWidth} ${timeSeriesHeight}`)
+            .attr("preserveAspectRatio", "xMidYMid meet")
+            .attr("width", "100%")
+            .attr("height", "auto");
+
+        const map1Svg = d3.select("#map1")
+            .attr("viewBox", `0 0 ${mapWidth} ${mapHeight}`)
+            .attr("preserveAspectRatio", "xMidYMid meet")
+            .attr("width", "100%")
+            .attr("height", "auto");
+
+        const map2Svg = d3.select("#map2")
+            .attr("viewBox", `0 0 ${mapWidth} ${mapHeight}`)
+            .attr("preserveAspectRatio", "xMidYMid meet")
+            .attr("width", "100%")
+            .attr("height", "auto");
+
+        // Tooltip
+        const tooltip = d3.select("#tooltip");
+
+        // Data storage
+        let timeSeriesData = [];
+        let dates = [];
+        let currentDateIndex = 0;
+        let isPlaying = false;
+        let playInterval;
+        let selectedState = null;
+        let currentHoverState = null;
+
+        // Color scale
+        window.rtGradientColors = [
+            "#006166", "#3bbbb0", "#bdbdbd", "#b83d93", "#6d085a"
+        ];
+
+        window.colorScalemap1 = d3.scaleLinear()
+            .domain([0, 0.25, 0.5, 0.75, 1])
+            .range(window.rtGradientColors)
+            .clamp(true);
+
+        window.colorScalemap2 = window.colorScalemap1;
+
+        async function loadDataFromCSV(covidCsvPath, fluCsvPath, hospTimeSeriesPath) {
+            const [covidCsv, fluCsv, hospTimeSeriesCsv] = await Promise.all([
+                d3.csv(covidCsvPath),
+                d3.csv(fluCsvPath),
+                d3.csv(hospTimeSeriesPath)
+            ]);
+
+            const covidMapData = processMapCSVData(covidCsv);
+            const fluMapData = processMapCSVData(fluCsv);
+            const timeSeriesData = processTimeSeriesCSVDataLong(hospTimeSeriesCsv);
+
+            const allDates = new Set();
+            covidCsv.forEach(d => allDates.add(d.date));
+            fluCsv.forEach(d => allDates.add(d.date));
+            hospTimeSeriesCsv.forEach(d => allDates.add(d.date));
+            dates = Array.from(allDates).sort();
+
+            return {
+                dates: dates,
+                covidMapData: covidMapData,
+                fluMapData: fluMapData,
+                timeSeriesData: timeSeriesData
+            };
+        }
+
+        function processMapCSVData(csvData) {
+            const dataByState = {};
+            csvData.forEach(row => {
+                const state = row.state;
+                const date = row.date;
+                const value = parseFloat(row.value);
+
+                if (!dataByState[state]) {
+                    dataByState[state] = [];
+                }
+
+                dataByState[state].push({
+                    date: date,
+                    value: value,
+                    state: state
+                });
+            });
+
+            Object.keys(dataByState).forEach(state => {
+                dataByState[state].sort((a, b) => new Date(a.date) - new Date(b.date));
+            });
+
+            return dataByState;
+        }
+
+        function processTimeSeriesCSVDataLong(csvData) {
+            const longData = [];
+            csvData.forEach(row => {
+                const state = row.state;
+                const date = row.date;
+                const disease = row.disease;
+                const value = parseFloat(row.value);
+                const stateName = state === "US" ? "National" : state;
+
+                longData.push({
+                    date: date,
+                    state: stateName,
+                    disease: disease,
+                    value: value
+                });
+            });
+
+            return longData;
+        }
+
+        function getDataForState(dataDict, stateName) {
+            const stateData = dataDict[stateName];
+            if (!stateData) return null;
+            return stateData[currentDateIndex];
+        }
+
+        async function initialize() {
+            const config = {
+                topoJsonPath: 'https://raw.githubusercontent.com/lalbrecht15/d3_demo_map/main/us_states_shifted.topojson',
+                covidCsvPath: 'https://raw.githubusercontent.com/lalbrecht15/d3_demo_map/main/fake_data_map1.csv',
+                fluCsvPath: 'https://raw.githubusercontent.com/lalbrecht15/d3_demo_map/main/fake_data_map2.csv',
+                hospTimeSeriesPath: 'https://raw.githubusercontent.com/lalbrecht15/d3_demo_map/main/fake_data_linechart.csv'
+            };
+
+            try {
+                const [topoJsonData, csvData] = await Promise.all([
+                    d3.json(config.topoJsonPath),
+                    loadDataFromCSV(config.covidCsvPath, config.fluCsvPath, config.hospTimeSeriesPath)
+                ]);
+
+                const states = topojson.feature(topoJsonData, topoJsonData.objects.data);
+
+                states.features.forEach(feature => {
+                    feature.properties.state = feature.properties.name || feature.properties.state || feature.id;
+                });
+
+                initializeVisualization(csvData, states);
+            } catch (error) {
+                console.error("Error loading data:", error);
+                d3.select("#container").append("p")
+                    .style("color", "red")
+                    .text(`Error loading data: ${error.message}. Please check that your data files are in the correct location.`);
+            }
+        }
+
+        function initializeVisualization(data, states) {
+            dates = data.dates;
+            currentDateIndex = 0;
+
+            drawTimeSeries(data.timeSeriesData);
+            drawMap(map1Svg, states, "map1", data.covidMapData, window.colorScalemap1);
+            drawMap(map2Svg, states, "map2", data.fluMapData, window.colorScalemap2);
+
+            d3.select("#playButton").on("click", function () {
+                if (isPlaying) {
+                    clearInterval(playInterval);
+                    this.textContent = "▶ Play";
+                    isPlaying = false;
+                } else {
+                    this.textContent = "⏸ Pause";
+                    isPlaying = true;
+                    playInterval = setInterval(() => {
+                        currentDateIndex = (currentDateIndex + 1) % dates.length;
+                        updateVisualizations();
+                    }, 500);
+                }
+            });
+
+            updateVisualizations();
+        }
+
+        function drawTimeSeries(timeSeriesData) {
+            const width = timeSeriesWidth - margin.left - margin.right;
+            const height = timeSeriesHeight - margin.top - margin.bottom;
+
+            const chartG = timeSeriesSvg.append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            const nationalData = timeSeriesData.filter(d => d.state === 'National');
+
+            nationalData.forEach(d => {
+                d.parsedDate = new Date(d.date);
+            });
+
+            const parsedDates = dates.map(d => new Date(d));
+            const xScale = d3.scaleTime()
+                .domain(d3.extent(parsedDates))
+                .range([0, width]);
+
+            const yScale = d3.scaleLinear()
+                .domain([0, d3.max(timeSeriesData, d => d.value)])
+                .range([height, 0]);
+
+            const line = d3.line()
+                .x(d => xScale(d.parsedDate))
+                .y(d => yScale(d.value));
+
+            const dataByDisease = d3.group(nationalData, d => d.disease);
+
+            const colorBlindPalette = [
+                '#0077BB', '#EE7733', '#009988', '#CC3311', '#33BBEE', '#EE3377', '#BBBBBB'
+            ];
+
+            const diseases = Array.from(dataByDisease.keys()).sort();
+            const colorScale = d3.scaleOrdinal()
+                .domain(diseases)
+                .range(colorBlindPalette);
+
+            dataByDisease.forEach((values, disease) => {
+                const sortedValues = values.sort((a, b) => a.parsedDate - b.parsedDate);
+                
+                chartG.append("path")
+                    .datum(sortedValues)
+                    .attr("class", `line ${disease.toLowerCase().replace(/[^a-z0-9]/g, '-')}`)
+                    .attr("d", line)
+                    .style("stroke", colorScale(disease));
+            });
+
+            const diseaseArray = Array.from(diseases);
+            chartG.append("path")
+                .attr("class", "line hover-line hover-0")
+                .style("display", "none")
+                .style("stroke", diseaseArray[0] ? colorScale(diseaseArray[0]) : colorBlindPalette[0]);
+
+            if (diseaseArray.length > 1) {
+                chartG.append("path")
+                    .attr("class", "line hover-line hover-1")
+                    .style("display", "none")
+                    .style("stroke", colorScale(diseaseArray[1]));
+            }
+
+            const xAxis = d3.axisBottom(xScale);
+            const yAxis = d3.axisLeft(yScale);
+
+            chartG.append("g")
+                .attr("class", "x-axis")
+                .attr("transform", `translate(0,${height})`)
+                .call(xAxis);
+
+            chartG.append("g")
+                .attr("class", "y-axis")
+                .call(yAxis);
+
+            chartG.append("text")
+                .attr("class", "axis-label")
+                .attr("x", width / 2)
+                .attr("y", height + 35)
+                .style("text-anchor", "middle")
+                .text("Date");
+
+            chartG.append("text")
+                .attr("class", "axis-label")
+                .attr("transform", "rotate(-90)")
+                .attr("x", -height / 2)
+                .attr("y", -45)
+                .style("text-anchor", "middle")
+                .text("Hospitalizations");
+
+            const legend = chartG.append("g")
+                .attr("class", "legend")
+                .attr("transform", `translate(${width + 10}, 20)`);
+
+            let yOffset = 0;
+            dataByDisease.forEach((values, disease) => {
+                legend.append("line")
+                    .attr("x1", 0)
+                    .attr("x2", 20)
+                    .attr("y1", yOffset)
+                    .attr("y2", yOffset)
+                    .attr("stroke", colorScale(disease))
+                    .attr("stroke-width", 2);
+
+                legend.append("text")
+                    .attr("x", 25)
+                    .attr("y", yOffset + 4)
+                    .style("font-size", "12px")
+                    .text(disease);
+
+                yOffset += 20;
+            });
+
+            const timeMarkerGroup = chartG.append("g")
+                .attr("class", "time-marker-group");
+
+            const timeMarker = timeMarkerGroup.append("line")
+                .attr("class", "time-marker")
+                .attr("y1", 0)
+                .attr("y2", height);
+
+            const dragArea = timeMarkerGroup.append("rect")
+                .attr("class", "time-marker-drag-area")
+                .attr("width", 20)
+                .attr("height", height + 20)
+                .attr("x", -10)
+                .attr("y", 0)
+                .on("mouseenter", function(event) {
+                    const currentDate = dates[currentDateIndex];
+                    d3.select("#dateTooltip")
+                        .style("opacity", 1)
+                        .html(currentDate);
+                })
+                .on("mousemove", function(event) {
+                    d3.select("#dateTooltip")
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mouseleave", function() {
+                    d3.select("#dateTooltip")
+                        .style("opacity", 0);
+                });
+
+            const drag = d3.drag()
+                .on("start", function() {
+                    if (isPlaying) {
+                        clearInterval(playInterval);
+                        d3.select("#playButton").text("▶ Play");
+                        isPlaying = false;
+                    }
+                })
+                .on("drag", function(event) {
+                    const x = Math.max(0, Math.min(width, event.x));
+                    const date = xScale.invert(x);
+                    
+                    let minDiff = Infinity;
+                    let closestIndex = 0;
+                    parsedDates.forEach((d, i) => {
+                        const diff = Math.abs(d - date);
+                        if (diff < minDiff) {
+                            minDiff = diff;
+                            closestIndex = i;
+                        }
+                    });
+                    
+                    currentDateIndex = closestIndex;
+                    updateVisualizations();
+                });
+
+            timeMarkerGroup.call(drag);
+
+            window.timeSeriesScale = xScale;
+            window.timeMarker = timeMarker;
+            window.timeSeriesGenerator = line;
+            window.timeSeriesDataLong = timeSeriesData;
+            window.timeSeriesColorScale = colorScale;
+            window.timeSeriesDiseases = diseaseArray;
+        }
+
+        function drawMap(svg, states, mapId, mapData, mapColorScale) {
+            const path = d3.geoPath()
+                .projection(d3.geoIdentity()
+                    .reflectY(true)
+                    .fitSize([mapWidth, mapHeight], states));
+
+            const statePaths = svg.selectAll(`.state-${mapId}`)
+                .data(states.features)
+                .enter()
+                .append("path")
+                .attr("class", `state state-${mapId}`)
+                .attr("d", path)
+                .on("mouseover", function (event, d) {
+                    const stateName = d.properties.state;
+                    const currentData = getDataForState(mapData, stateName);
+
+                    tooltip
+                        .style("opacity", 1)
+                        .html(`<strong>${stateName}</strong><br/>Value: ${currentData ? currentData.value.toFixed(2) : 'N/A'}`)
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+
+                    currentHoverState = stateName;
+                    
+                    const stateData = window.timeSeriesDataLong.filter(d => d.state === stateName);
+                    const stateDataByDisease = d3.group(stateData, d => d.disease);
+
+                    const diseases = window.timeSeriesDiseases || [];
+                    
+                    let hoverIndex = 0;
+                    stateDataByDisease.forEach((values, disease) => {
+                        values.forEach(d => d.parsedDate = new Date(d.date));
+                        const sortedValues = values.sort((a, b) => a.parsedDate - b.parsedDate);
+
+                        if (hoverIndex < 2) {
+                            d3.select(`.hover-${hoverIndex}`)
+                                .datum(sortedValues)
+                                .attr("d", window.timeSeriesGenerator)
+                                .style("display", null)
+                                .style("stroke", window.timeSeriesColorScale(disease));
+                            hoverIndex++;
+                        }
+                    });
+                })
+                .on("mouseout", function () {
+                    tooltip.style("opacity", 0);
+                    currentHoverState = null;
+                    d3.selectAll(".hover-line").style("display", "none");
+                })
+                .on("click", function (event, d) {
+                    const stateName = d.properties.state;
+
+                    if (selectedState === stateName) {
+                        selectedState = null;
+                        d3.selectAll(".state").classed("selected", false);
+                    } else {
+                        selectedState = stateName;
+                        d3.selectAll(".state").classed("selected", false);
+                        d3.selectAll(`.state`).filter(s => s.properties.state === stateName)
+                            .classed("selected", true);
+                    }
+                });
+
+            const legendWidth = 200;
+            const legendHeight = 10;
+
+            const legendSvg = svg.append("g")
+                .attr("class", "legend")
+                .attr("transform", `translate(${mapWidth - legendWidth - 20}, ${mapHeight - 40})`);
+
+            const domainVals = mapColorScale.domain();
+            const legendDomain = d3.extent(domainVals);
+
+            const legendScale = d3.scaleLinear()
+                .domain(legendDomain)
+                .range([0, legendWidth]);
+
+            const legendAxis = d3.axisBottom(legendScale)
+                .ticks(5)
+                .tickFormat(d3.format(".1f"));
+
+            const defs = svg.append("defs");
+            const linearGradient = defs.append("linearGradient")
+                .attr("id", `legend-gradient-${mapId}`);
+
+            const domainMin = domainVals[0];
+            const domainMax = domainVals[domainVals.length - 1];
+
+            linearGradient.selectAll("stop")
+                .data(d3.range(0, 1.0001, 0.1))
+                .enter()
+                .append("stop")
+                .attr("offset", d => `${d * 100}%`)
+                .attr("stop-color", d => mapColorScale(domainMin + d * (domainMax - domainMin)));
+
+            legendSvg.append("rect")
+                .attr("width", legendWidth)
+                .attr("height", legendHeight)
+                .style("fill", `url(#legend-gradient-${mapId})`);
+
+            legendSvg.append("g")
+                .attr("transform", `translate(0, ${legendHeight})`)
+                .call(legendAxis);
+
+            window[`statePaths${mapId}`] = statePaths;
+            window[`mapData${mapId}`] = mapData;
+            window[`colorScale${mapId}`] = mapColorScale;
+        }
+
+        function updateVisualizations() {
+            const currentDate = dates[currentDateIndex];
+            d3.select("#dateDisplay").text(currentDate);
+
+            if (window.statePathsmap1) {
+                window.statePathsmap1.transition()
+                    .duration(200)
+                    .style("fill", d => {
+                        const stateName = d.properties.state;
+                        const data = getDataForState(window.mapDatamap1, stateName);
+                        const v = data ? data.value : null;
+                        return (v == null || Number.isNaN(v)) ? "#ffffff" : window.colorScalemap1(v);
+                    });
+            }
+
+            if (window.statePathsmap2) {
+                window.statePathsmap2.transition()
+                    .duration(200)
+                    .style("fill", d => {
+                        const stateName = d.properties.state;
+                        const data = getDataForState(window.mapDatamap2, stateName);
+                        const v = data ? data.value : null;
+                        return (v == null || Number.isNaN(v)) ? "#ffffff" : window.colorScalemap2(v);
+                    });
+            }
+
+            if (window.timeMarker && window.timeSeriesScale) {
+                const currentDateObj = new Date(currentDate);
+                const x = window.timeSeriesScale(currentDateObj);
+
+                window.timeMarker
+                    .transition()
+                    .duration(200)
+                    .attr("x1", x)
+                    .attr("x2", x);
+
+                d3.select(".time-marker-drag-area")
+                    .transition()
+                    .duration(200)
+                    .attr("x", x - 10);
+            }
+        }
+
+        initialize();
+    </script>
+</body>
+
+</html>
