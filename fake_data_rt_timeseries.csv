@@ -1,0 +1,6121 @@
+state,date,value,disease
+Alabama,2020-01-01,0.02,Flu
+Alabama,2020-02-01,0.17,Flu
+Alabama,2020-03-01,0.51,Flu
+Alabama,2020-04-01,0.91,Flu
+Alabama,2020-05-01,0.85,Flu
+Alabama,2020-06-01,1.0,Flu
+Alabama,2020-07-01,0.96,Flu
+Alabama,2020-08-01,0.95,Flu
+Alabama,2020-09-01,0.61,Flu
+Alabama,2020-10-01,0.69,Flu
+Alabama,2020-11-01,0.33,Flu
+Alabama,2020-12-01,0.23,Flu
+Alabama,2021-01-01,0.52,Flu
+Alabama,2021-02-01,0.6,Flu
+Alabama,2021-03-01,0.08,Flu
+Alabama,2021-04-01,0.55,Flu
+Alabama,2021-05-01,0.84,Flu
+Alabama,2021-06-01,0.1,Flu
+Alabama,2021-07-01,0.22,Flu
+Alabama,2021-08-01,0.09,Flu
+Alabama,2021-09-01,0.77,Flu
+Alabama,2021-10-01,0.01,Flu
+Alabama,2021-11-01,0.89,Flu
+Alabama,2021-12-01,0.74,Flu
+Alabama,2022-01-01,0.88,Flu
+Alabama,2022-02-01,0.02,Flu
+Alabama,2022-03-01,0.83,Flu
+Alabama,2022-04-01,0.17,Flu
+Alabama,2022-05-01,0.97,Flu
+Alabama,2022-06-01,0.29,Flu
+Alabama,2022-07-01,0.0,Flu
+Alabama,2022-08-01,0.39,Flu
+Alabama,2022-09-01,0.45,Flu
+Alabama,2022-10-01,0.03,Flu
+Alabama,2022-11-01,0.04,Flu
+Alabama,2022-12-01,0.14,Flu
+Alabama,2023-01-01,0.95,Flu
+Alabama,2023-02-01,0.07,Flu
+Alabama,2023-03-01,0.57,Flu
+Alabama,2023-04-01,0.53,Flu
+Alabama,2023-05-01,0.69,Flu
+Alabama,2023-06-01,0.27,Flu
+Alabama,2023-07-01,0.41,Flu
+Alabama,2023-08-01,0.83,Flu
+Alabama,2023-09-01,0.93,Flu
+Alabama,2023-10-01,0.23,Flu
+Alabama,2023-11-01,0.73,Flu
+Alabama,2023-12-01,0.42,Flu
+Alabama,2024-01-01,0.6,Flu
+Alabama,2024-02-01,0.66,Flu
+Alabama,2024-03-01,0.62,Flu
+Alabama,2024-04-01,0.09,Flu
+Alabama,2024-05-01,0.46,Flu
+Alabama,2024-06-01,0.1,Flu
+Alabama,2024-07-01,0.27,Flu
+Alabama,2024-08-01,0.95,Flu
+Alabama,2024-09-01,0.53,Flu
+Alabama,2024-10-01,0.39,Flu
+Alabama,2024-11-01,0.75,Flu
+Alabama,2024-12-01,0.66,Flu
+Alaska,2020-01-01,0.02,Flu
+Alaska,2020-02-01,0.5,Flu
+Alaska,2020-03-01,0.18,Flu
+Alaska,2020-04-01,0.57,Flu
+Alaska,2020-05-01,0.89,Flu
+Alaska,2020-06-01,0.18,Flu
+Alaska,2020-07-01,0.96,Flu
+Alaska,2020-08-01,0.05,Flu
+Alaska,2020-09-01,0.62,Flu
+Alaska,2020-10-01,0.61,Flu
+Alaska,2020-11-01,0.91,Flu
+Alaska,2020-12-01,0.49,Flu
+Alaska,2021-01-01,0.41,Flu
+Alaska,2021-02-01,0.12,Flu
+Alaska,2021-03-01,0.79,Flu
+Alaska,2021-04-01,0.45,Flu
+Alaska,2021-05-01,0.56,Flu
+Alaska,2021-06-01,0.47,Flu
+Alaska,2021-07-01,0.95,Flu
+Alaska,2021-08-01,0.73,Flu
+Alaska,2021-09-01,0.67,Flu
+Alaska,2021-10-01,0.96,Flu
+Alaska,2021-11-01,0.72,Flu
+Alaska,2021-12-01,0.97,Flu
+Alaska,2022-01-01,0.99,Flu
+Alaska,2022-02-01,0.28,Flu
+Alaska,2022-03-01,0.48,Flu
+Alaska,2022-04-01,0.84,Flu
+Alaska,2022-05-01,0.8,Flu
+Alaska,2022-06-01,0.89,Flu
+Alaska,2022-07-01,0.16,Flu
+Alaska,2022-08-01,0.69,Flu
+Alaska,2022-09-01,0.97,Flu
+Alaska,2022-10-01,0.97,Flu
+Alaska,2022-11-01,0.7,Flu
+Alaska,2022-12-01,0.46,Flu
+Alaska,2023-01-01,0.35,Flu
+Alaska,2023-02-01,0.05,Flu
+Alaska,2023-03-01,0.78,Flu
+Alaska,2023-04-01,0.42,Flu
+Alaska,2023-05-01,0.95,Flu
+Alaska,2023-06-01,0.86,Flu
+Alaska,2023-07-01,0.72,Flu
+Alaska,2023-08-01,0.74,Flu
+Alaska,2023-09-01,0.32,Flu
+Alaska,2023-10-01,0.79,Flu
+Alaska,2023-11-01,0.32,Flu
+Alaska,2023-12-01,0.77,Flu
+Alaska,2024-01-01,0.71,Flu
+Alaska,2024-02-01,0.53,Flu
+Alaska,2024-03-01,0.03,Flu
+Alaska,2024-04-01,0.68,Flu
+Alaska,2024-05-01,0.08,Flu
+Alaska,2024-06-01,0.15,Flu
+Alaska,2024-07-01,0.8,Flu
+Alaska,2024-08-01,0.67,Flu
+Alaska,2024-09-01,0.87,Flu
+Alaska,2024-10-01,0.17,Flu
+Alaska,2024-11-01,0.78,Flu
+Alaska,2024-12-01,0.41,Flu
+Arizona,2020-01-01,0.43,Flu
+Arizona,2020-02-01,0.78,Flu
+Arizona,2020-03-01,0.19,Flu
+Arizona,2020-04-01,0.72,Flu
+Arizona,2020-05-01,0.85,Flu
+Arizona,2020-06-01,0.27,Flu
+Arizona,2020-07-01,0.63,Flu
+Arizona,2020-08-01,0.9,Flu
+Arizona,2020-09-01,0.13,Flu
+Arizona,2020-10-01,0.7,Flu
+Arizona,2020-11-01,0.85,Flu
+Arizona,2020-12-01,0.33,Flu
+Arizona,2021-01-01,0.43,Flu
+Arizona,2021-02-01,0.03,Flu
+Arizona,2021-03-01,0.82,Flu
+Arizona,2021-04-01,0.45,Flu
+Arizona,2021-05-01,0.13,Flu
+Arizona,2021-06-01,0.86,Flu
+Arizona,2021-07-01,0.59,Flu
+Arizona,2021-08-01,0.34,Flu
+Arizona,2021-09-01,0.54,Flu
+Arizona,2021-10-01,0.71,Flu
+Arizona,2021-11-01,0.24,Flu
+Arizona,2021-12-01,0.82,Flu
+Arizona,2022-01-01,0.61,Flu
+Arizona,2022-02-01,0.63,Flu
+Arizona,2022-03-01,0.67,Flu
+Arizona,2022-04-01,0.54,Flu
+Arizona,2022-05-01,0.17,Flu
+Arizona,2022-06-01,0.54,Flu
+Arizona,2022-07-01,0.34,Flu
+Arizona,2022-08-01,0.58,Flu
+Arizona,2022-09-01,0.98,Flu
+Arizona,2022-10-01,0.99,Flu
+Arizona,2022-11-01,0.38,Flu
+Arizona,2022-12-01,0.15,Flu
+Arizona,2023-01-01,0.69,Flu
+Arizona,2023-02-01,0.56,Flu
+Arizona,2023-03-01,0.89,Flu
+Arizona,2023-04-01,0.82,Flu
+Arizona,2023-05-01,0.45,Flu
+Arizona,2023-06-01,0.09,Flu
+Arizona,2023-07-01,0.21,Flu
+Arizona,2023-08-01,0.42,Flu
+Arizona,2023-09-01,0.62,Flu
+Arizona,2023-10-01,0.65,Flu
+Arizona,2023-11-01,0.54,Flu
+Arizona,2023-12-01,0.3,Flu
+Arizona,2024-01-01,0.5,Flu
+Arizona,2024-02-01,0.23,Flu
+Arizona,2024-03-01,0.1,Flu
+Arizona,2024-04-01,0.87,Flu
+Arizona,2024-05-01,0.82,Flu
+Arizona,2024-06-01,0.18,Flu
+Arizona,2024-07-01,0.55,Flu
+Arizona,2024-08-01,0.01,Flu
+Arizona,2024-09-01,0.65,Flu
+Arizona,2024-10-01,0.05,Flu
+Arizona,2024-11-01,0.59,Flu
+Arizona,2024-12-01,0.54,Flu
+Arkansas,2020-01-01,0.31,Flu
+Arkansas,2020-02-01,0.31,Flu
+Arkansas,2020-03-01,0.12,Flu
+Arkansas,2020-04-01,0.21,Flu
+Arkansas,2020-05-01,0.7,Flu
+Arkansas,2020-06-01,0.06,Flu
+Arkansas,2020-07-01,0.63,Flu
+Arkansas,2020-08-01,0.46,Flu
+Arkansas,2020-09-01,0.95,Flu
+Arkansas,2020-10-01,0.66,Flu
+Arkansas,2020-11-01,0.17,Flu
+Arkansas,2020-12-01,0.95,Flu
+Arkansas,2021-01-01,0.61,Flu
+Arkansas,2021-02-01,0.57,Flu
+Arkansas,2021-03-01,0.34,Flu
+Arkansas,2021-04-01,0.88,Flu
+Arkansas,2021-05-01,0.83,Flu
+Arkansas,2021-06-01,0.45,Flu
+Arkansas,2021-07-01,0.68,Flu
+Arkansas,2021-08-01,0.23,Flu
+Arkansas,2021-09-01,0.62,Flu
+Arkansas,2021-10-01,0.77,Flu
+Arkansas,2021-11-01,0.25,Flu
+Arkansas,2021-12-01,0.78,Flu
+Arkansas,2022-01-01,0.61,Flu
+Arkansas,2022-02-01,0.75,Flu
+Arkansas,2022-03-01,0.62,Flu
+Arkansas,2022-04-01,0.99,Flu
+Arkansas,2022-05-01,0.14,Flu
+Arkansas,2022-06-01,0.65,Flu
+Arkansas,2022-07-01,0.66,Flu
+Arkansas,2022-08-01,0.76,Flu
+Arkansas,2022-09-01,0.89,Flu
+Arkansas,2022-10-01,0.02,Flu
+Arkansas,2022-11-01,0.04,Flu
+Arkansas,2022-12-01,0.12,Flu
+Arkansas,2023-01-01,0.59,Flu
+Arkansas,2023-02-01,0.54,Flu
+Arkansas,2023-03-01,0.71,Flu
+Arkansas,2023-04-01,0.35,Flu
+Arkansas,2023-05-01,0.67,Flu
+Arkansas,2023-06-01,0.69,Flu
+Arkansas,2023-07-01,0.08,Flu
+Arkansas,2023-08-01,0.79,Flu
+Arkansas,2023-09-01,0.94,Flu
+Arkansas,2023-10-01,0.77,Flu
+Arkansas,2023-11-01,0.3,Flu
+Arkansas,2023-12-01,0.02,Flu
+Arkansas,2024-01-01,0.69,Flu
+Arkansas,2024-02-01,0.18,Flu
+Arkansas,2024-03-01,0.98,Flu
+Arkansas,2024-04-01,0.6,Flu
+Arkansas,2024-05-01,0.17,Flu
+Arkansas,2024-06-01,0.45,Flu
+Arkansas,2024-07-01,0.25,Flu
+Arkansas,2024-08-01,0.25,Flu
+Arkansas,2024-09-01,0.27,Flu
+Arkansas,2024-10-01,0.9,Flu
+Arkansas,2024-11-01,0.35,Flu
+Arkansas,2024-12-01,0.69,Flu
+California,2020-01-01,0.77,Flu
+California,2020-02-01,0.64,Flu
+California,2020-03-01,0.71,Flu
+California,2020-04-01,0.15,Flu
+California,2020-05-01,0.63,Flu
+California,2020-06-01,0.27,Flu
+California,2020-07-01,0.92,Flu
+California,2020-08-01,0.47,Flu
+California,2020-09-01,0.74,Flu
+California,2020-10-01,0.86,Flu
+California,2020-11-01,0.4,Flu
+California,2020-12-01,0.51,Flu
+California,2021-01-01,0.69,Flu
+California,2021-02-01,0.4,Flu
+California,2021-03-01,0.06,Flu
+California,2021-04-01,0.01,Flu
+California,2021-05-01,0.41,Flu
+California,2021-06-01,0.28,Flu
+California,2021-07-01,0.66,Flu
+California,2021-08-01,0.66,Flu
+California,2021-09-01,0.94,Flu
+California,2021-10-01,0.73,Flu
+California,2021-11-01,0.3,Flu
+California,2021-12-01,0.6,Flu
+California,2022-01-01,0.63,Flu
+California,2022-02-01,0.09,Flu
+California,2022-03-01,0.41,Flu
+California,2022-04-01,0.95,Flu
+California,2022-05-01,0.77,Flu
+California,2022-06-01,0.85,Flu
+California,2022-07-01,0.62,Flu
+California,2022-08-01,0.7,Flu
+California,2022-09-01,0.27,Flu
+California,2022-10-01,0.09,Flu
+California,2022-11-01,0.96,Flu
+California,2022-12-01,0.95,Flu
+California,2023-01-01,0.45,Flu
+California,2023-02-01,0.15,Flu
+California,2023-03-01,0.01,Flu
+California,2023-04-01,0.92,Flu
+California,2023-05-01,0.82,Flu
+California,2023-06-01,0.52,Flu
+California,2023-07-01,0.06,Flu
+California,2023-08-01,0.3,Flu
+California,2023-09-01,0.16,Flu
+California,2023-10-01,0.67,Flu
+California,2023-11-01,0.01,Flu
+California,2023-12-01,0.58,Flu
+California,2024-01-01,0.72,Flu
+California,2024-02-01,0.39,Flu
+California,2024-03-01,0.08,Flu
+California,2024-04-01,0.85,Flu
+California,2024-05-01,0.7,Flu
+California,2024-06-01,0.4,Flu
+California,2024-07-01,0.52,Flu
+California,2024-08-01,0.07,Flu
+California,2024-09-01,0.02,Flu
+California,2024-10-01,0.84,Flu
+California,2024-11-01,0.03,Flu
+California,2024-12-01,0.64,Flu
+Colorado,2020-01-01,0.55,Flu
+Colorado,2020-02-01,0.68,Flu
+Colorado,2020-03-01,0.58,Flu
+Colorado,2020-04-01,0.05,Flu
+Colorado,2020-05-01,0.37,Flu
+Colorado,2020-06-01,0.04,Flu
+Colorado,2020-07-01,0.07,Flu
+Colorado,2020-08-01,0.24,Flu
+Colorado,2020-09-01,0.2,Flu
+Colorado,2020-10-01,0.11,Flu
+Colorado,2020-11-01,0.28,Flu
+Colorado,2020-12-01,0.9,Flu
+Colorado,2021-01-01,0.97,Flu
+Colorado,2021-02-01,0.33,Flu
+Colorado,2021-03-01,0.06,Flu
+Colorado,2021-04-01,0.53,Flu
+Colorado,2021-05-01,0.58,Flu
+Colorado,2021-06-01,0.96,Flu
+Colorado,2021-07-01,0.98,Flu
+Colorado,2021-08-01,0.47,Flu
+Colorado,2021-09-01,0.99,Flu
+Colorado,2021-10-01,0.12,Flu
+Colorado,2021-11-01,0.41,Flu
+Colorado,2021-12-01,0.35,Flu
+Colorado,2022-01-01,0.12,Flu
+Colorado,2022-02-01,0.85,Flu
+Colorado,2022-03-01,0.28,Flu
+Colorado,2022-04-01,0.34,Flu
+Colorado,2022-05-01,0.05,Flu
+Colorado,2022-06-01,0.41,Flu
+Colorado,2022-07-01,0.52,Flu
+Colorado,2022-08-01,0.19,Flu
+Colorado,2022-09-01,0.39,Flu
+Colorado,2022-10-01,0.91,Flu
+Colorado,2022-11-01,0.58,Flu
+Colorado,2022-12-01,0.27,Flu
+Colorado,2023-01-01,0.02,Flu
+Colorado,2023-02-01,0.95,Flu
+Colorado,2023-03-01,0.65,Flu
+Colorado,2023-04-01,0.37,Flu
+Colorado,2023-05-01,0.59,Flu
+Colorado,2023-06-01,0.61,Flu
+Colorado,2023-07-01,0.5,Flu
+Colorado,2023-08-01,0.79,Flu
+Colorado,2023-09-01,0.55,Flu
+Colorado,2023-10-01,0.89,Flu
+Colorado,2023-11-01,0.46,Flu
+Colorado,2023-12-01,0.27,Flu
+Colorado,2024-01-01,0.58,Flu
+Colorado,2024-02-01,0.03,Flu
+Colorado,2024-03-01,0.26,Flu
+Colorado,2024-04-01,0.76,Flu
+Colorado,2024-05-01,0.45,Flu
+Colorado,2024-06-01,0.36,Flu
+Colorado,2024-07-01,0.02,Flu
+Colorado,2024-08-01,0.21,Flu
+Colorado,2024-09-01,0.26,Flu
+Colorado,2024-10-01,0.84,Flu
+Colorado,2024-11-01,0.78,Flu
+Colorado,2024-12-01,0.77,Flu
+Connecticut,2020-01-01,0.4,Flu
+Connecticut,2020-02-01,0.63,Flu
+Connecticut,2020-03-01,0.93,Flu
+Connecticut,2020-04-01,0.34,Flu
+Connecticut,2020-05-01,0.76,Flu
+Connecticut,2020-06-01,0.04,Flu
+Connecticut,2020-07-01,0.93,Flu
+Connecticut,2020-08-01,0.11,Flu
+Connecticut,2020-09-01,0.73,Flu
+Connecticut,2020-10-01,0.94,Flu
+Connecticut,2020-11-01,0.18,Flu
+Connecticut,2020-12-01,0.99,Flu
+Connecticut,2021-01-01,0.5,Flu
+Connecticut,2021-02-01,0.88,Flu
+Connecticut,2021-03-01,0.99,Flu
+Connecticut,2021-04-01,0.15,Flu
+Connecticut,2021-05-01,0.12,Flu
+Connecticut,2021-06-01,0.1,Flu
+Connecticut,2021-07-01,0.81,Flu
+Connecticut,2021-08-01,0.92,Flu
+Connecticut,2021-09-01,0.01,Flu
+Connecticut,2021-10-01,0.89,Flu
+Connecticut,2021-11-01,0.63,Flu
+Connecticut,2021-12-01,0.07,Flu
+Connecticut,2022-01-01,0.41,Flu
+Connecticut,2022-02-01,0.7,Flu
+Connecticut,2022-03-01,0.73,Flu
+Connecticut,2022-04-01,0.3,Flu
+Connecticut,2022-05-01,0.47,Flu
+Connecticut,2022-06-01,0.9,Flu
+Connecticut,2022-07-01,0.96,Flu
+Connecticut,2022-08-01,0.5,Flu
+Connecticut,2022-09-01,0.03,Flu
+Connecticut,2022-10-01,0.82,Flu
+Connecticut,2022-11-01,0.62,Flu
+Connecticut,2022-12-01,0.78,Flu
+Connecticut,2023-01-01,0.84,Flu
+Connecticut,2023-02-01,0.91,Flu
+Connecticut,2023-03-01,0.36,Flu
+Connecticut,2023-04-01,0.16,Flu
+Connecticut,2023-05-01,0.02,Flu
+Connecticut,2023-06-01,0.22,Flu
+Connecticut,2023-07-01,0.82,Flu
+Connecticut,2023-08-01,0.99,Flu
+Connecticut,2023-09-01,0.43,Flu
+Connecticut,2023-10-01,0.06,Flu
+Connecticut,2023-11-01,0.35,Flu
+Connecticut,2023-12-01,0.18,Flu
+Connecticut,2024-01-01,0.02,Flu
+Connecticut,2024-02-01,0.16,Flu
+Connecticut,2024-03-01,0.63,Flu
+Connecticut,2024-04-01,0.36,Flu
+Connecticut,2024-05-01,0.09,Flu
+Connecticut,2024-06-01,0.17,Flu
+Connecticut,2024-07-01,0.73,Flu
+Connecticut,2024-08-01,0.28,Flu
+Connecticut,2024-09-01,0.83,Flu
+Connecticut,2024-10-01,0.29,Flu
+Connecticut,2024-11-01,0.56,Flu
+Connecticut,2024-12-01,0.05,Flu
+Delaware,2020-01-01,0.04,Flu
+Delaware,2020-02-01,0.88,Flu
+Delaware,2020-03-01,0.15,Flu
+Delaware,2020-04-01,0.96,Flu
+Delaware,2020-05-01,0.07,Flu
+Delaware,2020-06-01,0.63,Flu
+Delaware,2020-07-01,0.91,Flu
+Delaware,2020-08-01,0.97,Flu
+Delaware,2020-09-01,0.43,Flu
+Delaware,2020-10-01,0.4,Flu
+Delaware,2020-11-01,0.92,Flu
+Delaware,2020-12-01,0.76,Flu
+Delaware,2021-01-01,0.06,Flu
+Delaware,2021-02-01,0.45,Flu
+Delaware,2021-03-01,0.91,Flu
+Delaware,2021-04-01,0.93,Flu
+Delaware,2021-05-01,0.4,Flu
+Delaware,2021-06-01,0.97,Flu
+Delaware,2021-07-01,0.75,Flu
+Delaware,2021-08-01,0.0,Flu
+Delaware,2021-09-01,0.56,Flu
+Delaware,2021-10-01,0.14,Flu
+Delaware,2021-11-01,0.62,Flu
+Delaware,2021-12-01,0.87,Flu
+Delaware,2022-01-01,0.18,Flu
+Delaware,2022-02-01,0.1,Flu
+Delaware,2022-03-01,0.84,Flu
+Delaware,2022-04-01,0.2,Flu
+Delaware,2022-05-01,0.12,Flu
+Delaware,2022-06-01,0.18,Flu
+Delaware,2022-07-01,0.71,Flu
+Delaware,2022-08-01,0.66,Flu
+Delaware,2022-09-01,0.0,Flu
+Delaware,2022-10-01,0.61,Flu
+Delaware,2022-11-01,0.5,Flu
+Delaware,2022-12-01,0.15,Flu
+Delaware,2023-01-01,0.46,Flu
+Delaware,2023-02-01,0.2,Flu
+Delaware,2023-03-01,0.38,Flu
+Delaware,2023-04-01,0.13,Flu
+Delaware,2023-05-01,0.25,Flu
+Delaware,2023-06-01,0.17,Flu
+Delaware,2023-07-01,0.96,Flu
+Delaware,2023-08-01,0.57,Flu
+Delaware,2023-09-01,0.78,Flu
+Delaware,2023-10-01,0.26,Flu
+Delaware,2023-11-01,0.65,Flu
+Delaware,2023-12-01,0.03,Flu
+Delaware,2024-01-01,0.21,Flu
+Delaware,2024-02-01,0.04,Flu
+Delaware,2024-03-01,0.41,Flu
+Delaware,2024-04-01,0.45,Flu
+Delaware,2024-05-01,0.82,Flu
+Delaware,2024-06-01,0.04,Flu
+Delaware,2024-07-01,0.02,Flu
+Delaware,2024-08-01,0.08,Flu
+Delaware,2024-09-01,0.34,Flu
+Delaware,2024-10-01,0.53,Flu
+Delaware,2024-11-01,0.66,Flu
+Delaware,2024-12-01,0.96,Flu
+Florida,2020-01-01,0.12,Flu
+Florida,2020-02-01,0.38,Flu
+Florida,2020-03-01,0.72,Flu
+Florida,2020-04-01,0.29,Flu
+Florida,2020-05-01,0.2,Flu
+Florida,2020-06-01,0.48,Flu
+Florida,2020-07-01,0.79,Flu
+Florida,2020-08-01,0.49,Flu
+Florida,2020-09-01,0.87,Flu
+Florida,2020-10-01,0.93,Flu
+Florida,2020-11-01,0.16,Flu
+Florida,2020-12-01,0.93,Flu
+Florida,2021-01-01,0.99,Flu
+Florida,2021-02-01,0.54,Flu
+Florida,2021-03-01,0.31,Flu
+Florida,2021-04-01,0.23,Flu
+Florida,2021-05-01,0.12,Flu
+Florida,2021-06-01,0.53,Flu
+Florida,2021-07-01,0.66,Flu
+Florida,2021-08-01,0.22,Flu
+Florida,2021-09-01,0.01,Flu
+Florida,2021-10-01,0.41,Flu
+Florida,2021-11-01,0.43,Flu
+Florida,2021-12-01,1.0,Flu
+Florida,2022-01-01,0.38,Flu
+Florida,2022-02-01,0.23,Flu
+Florida,2022-03-01,0.39,Flu
+Florida,2022-04-01,0.64,Flu
+Florida,2022-05-01,0.1,Flu
+Florida,2022-06-01,0.58,Flu
+Florida,2022-07-01,0.61,Flu
+Florida,2022-08-01,0.49,Flu
+Florida,2022-09-01,0.66,Flu
+Florida,2022-10-01,0.99,Flu
+Florida,2022-11-01,0.49,Flu
+Florida,2022-12-01,0.23,Flu
+Florida,2023-01-01,0.63,Flu
+Florida,2023-02-01,0.49,Flu
+Florida,2023-03-01,0.64,Flu
+Florida,2023-04-01,0.77,Flu
+Florida,2023-05-01,0.04,Flu
+Florida,2023-06-01,0.37,Flu
+Florida,2023-07-01,0.24,Flu
+Florida,2023-08-01,0.43,Flu
+Florida,2023-09-01,0.46,Flu
+Florida,2023-10-01,0.46,Flu
+Florida,2023-11-01,0.76,Flu
+Florida,2023-12-01,0.77,Flu
+Florida,2024-01-01,0.66,Flu
+Florida,2024-02-01,0.46,Flu
+Florida,2024-03-01,0.24,Flu
+Florida,2024-04-01,0.71,Flu
+Florida,2024-05-01,0.82,Flu
+Florida,2024-06-01,0.27,Flu
+Florida,2024-07-01,0.23,Flu
+Florida,2024-08-01,0.85,Flu
+Florida,2024-09-01,0.05,Flu
+Florida,2024-10-01,0.11,Flu
+Florida,2024-11-01,0.74,Flu
+Florida,2024-12-01,0.27,Flu
+Georgia,2020-01-01,0.11,Flu
+Georgia,2020-02-01,0.63,Flu
+Georgia,2020-03-01,0.24,Flu
+Georgia,2020-04-01,0.18,Flu
+Georgia,2020-05-01,0.82,Flu
+Georgia,2020-06-01,0.46,Flu
+Georgia,2020-07-01,0.33,Flu
+Georgia,2020-08-01,0.16,Flu
+Georgia,2020-09-01,0.09,Flu
+Georgia,2020-10-01,0.95,Flu
+Georgia,2020-11-01,0.4,Flu
+Georgia,2020-12-01,0.36,Flu
+Georgia,2021-01-01,0.82,Flu
+Georgia,2021-02-01,0.04,Flu
+Georgia,2021-03-01,0.87,Flu
+Georgia,2021-04-01,0.61,Flu
+Georgia,2021-05-01,0.25,Flu
+Georgia,2021-06-01,0.8,Flu
+Georgia,2021-07-01,0.72,Flu
+Georgia,2021-08-01,0.17,Flu
+Georgia,2021-09-01,0.34,Flu
+Georgia,2021-10-01,0.38,Flu
+Georgia,2021-11-01,0.66,Flu
+Georgia,2021-12-01,0.32,Flu
+Georgia,2022-01-01,0.47,Flu
+Georgia,2022-02-01,0.25,Flu
+Georgia,2022-03-01,0.87,Flu
+Georgia,2022-04-01,0.08,Flu
+Georgia,2022-05-01,0.57,Flu
+Georgia,2022-06-01,0.51,Flu
+Georgia,2022-07-01,0.04,Flu
+Georgia,2022-08-01,0.14,Flu
+Georgia,2022-09-01,0.32,Flu
+Georgia,2022-10-01,0.99,Flu
+Georgia,2022-11-01,0.21,Flu
+Georgia,2022-12-01,0.41,Flu
+Georgia,2023-01-01,0.14,Flu
+Georgia,2023-02-01,0.56,Flu
+Georgia,2023-03-01,0.57,Flu
+Georgia,2023-04-01,0.05,Flu
+Georgia,2023-05-01,0.42,Flu
+Georgia,2023-06-01,0.42,Flu
+Georgia,2023-07-01,0.0,Flu
+Georgia,2023-08-01,0.35,Flu
+Georgia,2023-09-01,0.03,Flu
+Georgia,2023-10-01,0.54,Flu
+Georgia,2023-11-01,0.1,Flu
+Georgia,2023-12-01,0.84,Flu
+Georgia,2024-01-01,0.71,Flu
+Georgia,2024-02-01,0.76,Flu
+Georgia,2024-03-01,0.51,Flu
+Georgia,2024-04-01,0.42,Flu
+Georgia,2024-05-01,0.24,Flu
+Georgia,2024-06-01,0.56,Flu
+Georgia,2024-07-01,0.63,Flu
+Georgia,2024-08-01,0.69,Flu
+Georgia,2024-09-01,0.52,Flu
+Georgia,2024-10-01,0.88,Flu
+Georgia,2024-11-01,0.5,Flu
+Georgia,2024-12-01,0.84,Flu
+Hawaii,2020-01-01,0.47,Flu
+Hawaii,2020-02-01,0.43,Flu
+Hawaii,2020-03-01,0.0,Flu
+Hawaii,2020-04-01,0.2,Flu
+Hawaii,2020-05-01,0.54,Flu
+Hawaii,2020-06-01,0.51,Flu
+Hawaii,2020-07-01,0.29,Flu
+Hawaii,2020-08-01,0.67,Flu
+Hawaii,2020-09-01,0.65,Flu
+Hawaii,2020-10-01,0.91,Flu
+Hawaii,2020-11-01,0.28,Flu
+Hawaii,2020-12-01,0.2,Flu
+Hawaii,2021-01-01,0.62,Flu
+Hawaii,2021-02-01,0.85,Flu
+Hawaii,2021-03-01,0.17,Flu
+Hawaii,2021-04-01,0.55,Flu
+Hawaii,2021-05-01,0.69,Flu
+Hawaii,2021-06-01,0.65,Flu
+Hawaii,2021-07-01,0.87,Flu
+Hawaii,2021-08-01,0.61,Flu
+Hawaii,2021-09-01,0.29,Flu
+Hawaii,2021-10-01,0.07,Flu
+Hawaii,2021-11-01,0.42,Flu
+Hawaii,2021-12-01,0.93,Flu
+Hawaii,2022-01-01,0.19,Flu
+Hawaii,2022-02-01,0.51,Flu
+Hawaii,2022-03-01,0.19,Flu
+Hawaii,2022-04-01,0.31,Flu
+Hawaii,2022-05-01,0.97,Flu
+Hawaii,2022-06-01,0.3,Flu
+Hawaii,2022-07-01,0.27,Flu
+Hawaii,2022-08-01,0.46,Flu
+Hawaii,2022-09-01,0.74,Flu
+Hawaii,2022-10-01,0.3,Flu
+Hawaii,2022-11-01,0.53,Flu
+Hawaii,2022-12-01,0.72,Flu
+Hawaii,2023-01-01,0.42,Flu
+Hawaii,2023-02-01,0.49,Flu
+Hawaii,2023-03-01,0.17,Flu
+Hawaii,2023-04-01,0.4,Flu
+Hawaii,2023-05-01,0.87,Flu
+Hawaii,2023-06-01,0.0,Flu
+Hawaii,2023-07-01,0.39,Flu
+Hawaii,2023-08-01,0.01,Flu
+Hawaii,2023-09-01,0.96,Flu
+Hawaii,2023-10-01,0.13,Flu
+Hawaii,2023-11-01,0.87,Flu
+Hawaii,2023-12-01,0.19,Flu
+Hawaii,2024-01-01,0.58,Flu
+Hawaii,2024-02-01,0.6,Flu
+Hawaii,2024-03-01,0.41,Flu
+Hawaii,2024-04-01,0.66,Flu
+Hawaii,2024-05-01,0.84,Flu
+Hawaii,2024-06-01,0.48,Flu
+Hawaii,2024-07-01,0.37,Flu
+Hawaii,2024-08-01,0.95,Flu
+Hawaii,2024-09-01,0.53,Flu
+Hawaii,2024-10-01,0.86,Flu
+Hawaii,2024-11-01,0.55,Flu
+Hawaii,2024-12-01,0.78,Flu
+Idaho,2020-01-01,0.75,Flu
+Idaho,2020-02-01,0.74,Flu
+Idaho,2020-03-01,0.15,Flu
+Idaho,2020-04-01,0.43,Flu
+Idaho,2020-05-01,0.54,Flu
+Idaho,2020-06-01,0.9,Flu
+Idaho,2020-07-01,0.22,Flu
+Idaho,2020-08-01,0.28,Flu
+Idaho,2020-09-01,0.54,Flu
+Idaho,2020-10-01,0.5,Flu
+Idaho,2020-11-01,0.22,Flu
+Idaho,2020-12-01,0.46,Flu
+Idaho,2021-01-01,0.59,Flu
+Idaho,2021-02-01,0.09,Flu
+Idaho,2021-03-01,0.08,Flu
+Idaho,2021-04-01,0.34,Flu
+Idaho,2021-05-01,0.03,Flu
+Idaho,2021-06-01,0.86,Flu
+Idaho,2021-07-01,0.58,Flu
+Idaho,2021-08-01,0.67,Flu
+Idaho,2021-09-01,0.99,Flu
+Idaho,2021-10-01,0.38,Flu
+Idaho,2021-11-01,0.62,Flu
+Idaho,2021-12-01,0.1,Flu
+Idaho,2022-01-01,0.02,Flu
+Idaho,2022-02-01,0.97,Flu
+Idaho,2022-03-01,0.94,Flu
+Idaho,2022-04-01,0.63,Flu
+Idaho,2022-05-01,0.68,Flu
+Idaho,2022-06-01,0.23,Flu
+Idaho,2022-07-01,0.62,Flu
+Idaho,2022-08-01,0.35,Flu
+Idaho,2022-09-01,0.88,Flu
+Idaho,2022-10-01,0.9,Flu
+Idaho,2022-11-01,0.14,Flu
+Idaho,2022-12-01,0.68,Flu
+Idaho,2023-01-01,0.29,Flu
+Idaho,2023-02-01,0.59,Flu
+Idaho,2023-03-01,0.45,Flu
+Idaho,2023-04-01,0.03,Flu
+Idaho,2023-05-01,0.98,Flu
+Idaho,2023-06-01,0.03,Flu
+Idaho,2023-07-01,0.01,Flu
+Idaho,2023-08-01,0.5,Flu
+Idaho,2023-09-01,0.9,Flu
+Idaho,2023-10-01,0.22,Flu
+Idaho,2023-11-01,0.15,Flu
+Idaho,2023-12-01,0.41,Flu
+Idaho,2024-01-01,0.23,Flu
+Idaho,2024-02-01,0.66,Flu
+Idaho,2024-03-01,0.1,Flu
+Idaho,2024-04-01,0.82,Flu
+Idaho,2024-05-01,0.94,Flu
+Idaho,2024-06-01,0.51,Flu
+Idaho,2024-07-01,0.06,Flu
+Idaho,2024-08-01,0.53,Flu
+Idaho,2024-09-01,0.43,Flu
+Idaho,2024-10-01,0.08,Flu
+Idaho,2024-11-01,0.38,Flu
+Idaho,2024-12-01,0.36,Flu
+Illinois,2020-01-01,0.39,Flu
+Illinois,2020-02-01,0.16,Flu
+Illinois,2020-03-01,0.13,Flu
+Illinois,2020-04-01,0.92,Flu
+Illinois,2020-05-01,0.57,Flu
+Illinois,2020-06-01,1.0,Flu
+Illinois,2020-07-01,0.03,Flu
+Illinois,2020-08-01,0.41,Flu
+Illinois,2020-09-01,0.25,Flu
+Illinois,2020-10-01,0.37,Flu
+Illinois,2020-11-01,0.85,Flu
+Illinois,2020-12-01,0.15,Flu
+Illinois,2021-01-01,0.52,Flu
+Illinois,2021-02-01,0.32,Flu
+Illinois,2021-03-01,0.39,Flu
+Illinois,2021-04-01,0.18,Flu
+Illinois,2021-05-01,0.61,Flu
+Illinois,2021-06-01,0.37,Flu
+Illinois,2021-07-01,0.65,Flu
+Illinois,2021-08-01,0.79,Flu
+Illinois,2021-09-01,0.45,Flu
+Illinois,2021-10-01,0.71,Flu
+Illinois,2021-11-01,0.08,Flu
+Illinois,2021-12-01,0.57,Flu
+Illinois,2022-01-01,0.96,Flu
+Illinois,2022-02-01,0.28,Flu
+Illinois,2022-03-01,0.21,Flu
+Illinois,2022-04-01,0.59,Flu
+Illinois,2022-05-01,0.28,Flu
+Illinois,2022-06-01,0.74,Flu
+Illinois,2022-07-01,0.2,Flu
+Illinois,2022-08-01,0.64,Flu
+Illinois,2022-09-01,0.79,Flu
+Illinois,2022-10-01,0.58,Flu
+Illinois,2022-11-01,0.08,Flu
+Illinois,2022-12-01,0.61,Flu
+Illinois,2023-01-01,0.65,Flu
+Illinois,2023-02-01,0.45,Flu
+Illinois,2023-03-01,0.87,Flu
+Illinois,2023-04-01,0.39,Flu
+Illinois,2023-05-01,0.16,Flu
+Illinois,2023-06-01,0.86,Flu
+Illinois,2023-07-01,0.8,Flu
+Illinois,2023-08-01,0.36,Flu
+Illinois,2023-09-01,0.83,Flu
+Illinois,2023-10-01,0.91,Flu
+Illinois,2023-11-01,0.32,Flu
+Illinois,2023-12-01,0.44,Flu
+Illinois,2024-01-01,0.57,Flu
+Illinois,2024-02-01,0.21,Flu
+Illinois,2024-03-01,0.55,Flu
+Illinois,2024-04-01,0.91,Flu
+Illinois,2024-05-01,0.11,Flu
+Illinois,2024-06-01,0.89,Flu
+Illinois,2024-07-01,0.26,Flu
+Illinois,2024-08-01,0.82,Flu
+Illinois,2024-09-01,0.5,Flu
+Illinois,2024-10-01,0.94,Flu
+Illinois,2024-11-01,0.07,Flu
+Illinois,2024-12-01,0.09,Flu
+Indiana,2020-01-01,0.77,Flu
+Indiana,2020-02-01,0.76,Flu
+Indiana,2020-03-01,0.27,Flu
+Indiana,2020-04-01,0.06,Flu
+Indiana,2020-05-01,0.82,Flu
+Indiana,2020-06-01,0.82,Flu
+Indiana,2020-07-01,0.92,Flu
+Indiana,2020-08-01,0.62,Flu
+Indiana,2020-09-01,0.07,Flu
+Indiana,2020-10-01,0.94,Flu
+Indiana,2020-11-01,0.22,Flu
+Indiana,2020-12-01,0.0,Flu
+Indiana,2021-01-01,0.61,Flu
+Indiana,2021-02-01,0.3,Flu
+Indiana,2021-03-01,0.75,Flu
+Indiana,2021-04-01,0.62,Flu
+Indiana,2021-05-01,0.42,Flu
+Indiana,2021-06-01,0.74,Flu
+Indiana,2021-07-01,0.28,Flu
+Indiana,2021-08-01,0.94,Flu
+Indiana,2021-09-01,0.99,Flu
+Indiana,2021-10-01,0.05,Flu
+Indiana,2021-11-01,0.4,Flu
+Indiana,2021-12-01,0.75,Flu
+Indiana,2022-01-01,0.59,Flu
+Indiana,2022-02-01,0.52,Flu
+Indiana,2022-03-01,0.74,Flu
+Indiana,2022-04-01,0.92,Flu
+Indiana,2022-05-01,0.63,Flu
+Indiana,2022-06-01,0.0,Flu
+Indiana,2022-07-01,0.59,Flu
+Indiana,2022-08-01,0.17,Flu
+Indiana,2022-09-01,0.59,Flu
+Indiana,2022-10-01,0.68,Flu
+Indiana,2022-11-01,0.08,Flu
+Indiana,2022-12-01,0.6,Flu
+Indiana,2023-01-01,0.19,Flu
+Indiana,2023-02-01,0.22,Flu
+Indiana,2023-03-01,0.84,Flu
+Indiana,2023-04-01,0.28,Flu
+Indiana,2023-05-01,0.03,Flu
+Indiana,2023-06-01,0.85,Flu
+Indiana,2023-07-01,0.34,Flu
+Indiana,2023-08-01,0.02,Flu
+Indiana,2023-09-01,0.57,Flu
+Indiana,2023-10-01,0.96,Flu
+Indiana,2023-11-01,0.33,Flu
+Indiana,2023-12-01,0.59,Flu
+Indiana,2024-01-01,0.53,Flu
+Indiana,2024-02-01,0.5,Flu
+Indiana,2024-03-01,0.37,Flu
+Indiana,2024-04-01,0.64,Flu
+Indiana,2024-05-01,0.75,Flu
+Indiana,2024-06-01,0.65,Flu
+Indiana,2024-07-01,0.01,Flu
+Indiana,2024-08-01,0.68,Flu
+Indiana,2024-09-01,0.96,Flu
+Indiana,2024-10-01,0.93,Flu
+Indiana,2024-11-01,0.83,Flu
+Indiana,2024-12-01,0.11,Flu
+Iowa,2020-01-01,0.44,Flu
+Iowa,2020-02-01,0.49,Flu
+Iowa,2020-03-01,0.09,Flu
+Iowa,2020-04-01,0.08,Flu
+Iowa,2020-05-01,0.16,Flu
+Iowa,2020-06-01,0.23,Flu
+Iowa,2020-07-01,0.01,Flu
+Iowa,2020-08-01,0.91,Flu
+Iowa,2020-09-01,0.3,Flu
+Iowa,2020-10-01,0.0,Flu
+Iowa,2020-11-01,0.31,Flu
+Iowa,2020-12-01,0.3,Flu
+Iowa,2021-01-01,0.45,Flu
+Iowa,2021-02-01,0.12,Flu
+Iowa,2021-03-01,0.6,Flu
+Iowa,2021-04-01,0.81,Flu
+Iowa,2021-05-01,0.4,Flu
+Iowa,2021-06-01,0.82,Flu
+Iowa,2021-07-01,0.31,Flu
+Iowa,2021-08-01,0.06,Flu
+Iowa,2021-09-01,0.29,Flu
+Iowa,2021-10-01,0.65,Flu
+Iowa,2021-11-01,0.75,Flu
+Iowa,2021-12-01,0.53,Flu
+Iowa,2022-01-01,0.69,Flu
+Iowa,2022-02-01,0.38,Flu
+Iowa,2022-03-01,0.6,Flu
+Iowa,2022-04-01,0.53,Flu
+Iowa,2022-05-01,0.16,Flu
+Iowa,2022-06-01,0.37,Flu
+Iowa,2022-07-01,0.4,Flu
+Iowa,2022-08-01,0.24,Flu
+Iowa,2022-09-01,0.35,Flu
+Iowa,2022-10-01,0.77,Flu
+Iowa,2022-11-01,0.64,Flu
+Iowa,2022-12-01,0.8,Flu
+Iowa,2023-01-01,0.68,Flu
+Iowa,2023-02-01,0.84,Flu
+Iowa,2023-03-01,0.3,Flu
+Iowa,2023-04-01,0.95,Flu
+Iowa,2023-05-01,0.08,Flu
+Iowa,2023-06-01,0.29,Flu
+Iowa,2023-07-01,0.41,Flu
+Iowa,2023-08-01,0.83,Flu
+Iowa,2023-09-01,0.07,Flu
+Iowa,2023-10-01,0.4,Flu
+Iowa,2023-11-01,0.82,Flu
+Iowa,2023-12-01,0.42,Flu
+Iowa,2024-01-01,0.91,Flu
+Iowa,2024-02-01,0.69,Flu
+Iowa,2024-03-01,0.01,Flu
+Iowa,2024-04-01,0.98,Flu
+Iowa,2024-05-01,0.54,Flu
+Iowa,2024-06-01,0.84,Flu
+Iowa,2024-07-01,0.59,Flu
+Iowa,2024-08-01,0.5,Flu
+Iowa,2024-09-01,0.56,Flu
+Iowa,2024-10-01,0.42,Flu
+Iowa,2024-11-01,0.88,Flu
+Iowa,2024-12-01,0.17,Flu
+Kansas,2020-01-01,0.05,Flu
+Kansas,2020-02-01,0.6,Flu
+Kansas,2020-03-01,0.5,Flu
+Kansas,2020-04-01,0.37,Flu
+Kansas,2020-05-01,0.81,Flu
+Kansas,2020-06-01,0.34,Flu
+Kansas,2020-07-01,0.18,Flu
+Kansas,2020-08-01,0.06,Flu
+Kansas,2020-09-01,0.72,Flu
+Kansas,2020-10-01,0.43,Flu
+Kansas,2020-11-01,0.73,Flu
+Kansas,2020-12-01,0.38,Flu
+Kansas,2021-01-01,0.53,Flu
+Kansas,2021-02-01,0.58,Flu
+Kansas,2021-03-01,0.17,Flu
+Kansas,2021-04-01,0.81,Flu
+Kansas,2021-05-01,0.5,Flu
+Kansas,2021-06-01,0.84,Flu
+Kansas,2021-07-01,0.49,Flu
+Kansas,2021-08-01,1.0,Flu
+Kansas,2021-09-01,0.42,Flu
+Kansas,2021-10-01,0.58,Flu
+Kansas,2021-11-01,0.09,Flu
+Kansas,2021-12-01,0.31,Flu
+Kansas,2022-01-01,0.81,Flu
+Kansas,2022-02-01,0.99,Flu
+Kansas,2022-03-01,0.04,Flu
+Kansas,2022-04-01,0.43,Flu
+Kansas,2022-05-01,0.36,Flu
+Kansas,2022-06-01,0.78,Flu
+Kansas,2022-07-01,0.58,Flu
+Kansas,2022-08-01,0.18,Flu
+Kansas,2022-09-01,0.92,Flu
+Kansas,2022-10-01,0.12,Flu
+Kansas,2022-11-01,0.58,Flu
+Kansas,2022-12-01,0.17,Flu
+Kansas,2023-01-01,0.25,Flu
+Kansas,2023-02-01,0.41,Flu
+Kansas,2023-03-01,0.79,Flu
+Kansas,2023-04-01,0.67,Flu
+Kansas,2023-05-01,0.63,Flu
+Kansas,2023-06-01,0.11,Flu
+Kansas,2023-07-01,0.06,Flu
+Kansas,2023-08-01,0.66,Flu
+Kansas,2023-09-01,0.86,Flu
+Kansas,2023-10-01,0.03,Flu
+Kansas,2023-11-01,0.43,Flu
+Kansas,2023-12-01,0.19,Flu
+Kansas,2024-01-01,0.69,Flu
+Kansas,2024-02-01,0.12,Flu
+Kansas,2024-03-01,0.13,Flu
+Kansas,2024-04-01,0.57,Flu
+Kansas,2024-05-01,0.98,Flu
+Kansas,2024-06-01,0.3,Flu
+Kansas,2024-07-01,0.71,Flu
+Kansas,2024-08-01,0.68,Flu
+Kansas,2024-09-01,0.5,Flu
+Kansas,2024-10-01,0.1,Flu
+Kansas,2024-11-01,0.4,Flu
+Kansas,2024-12-01,0.65,Flu
+Kentucky,2020-01-01,0.82,Flu
+Kentucky,2020-02-01,0.28,Flu
+Kentucky,2020-03-01,0.98,Flu
+Kentucky,2020-04-01,0.83,Flu
+Kentucky,2020-05-01,0.58,Flu
+Kentucky,2020-06-01,0.28,Flu
+Kentucky,2020-07-01,0.11,Flu
+Kentucky,2020-08-01,0.0,Flu
+Kentucky,2020-09-01,0.94,Flu
+Kentucky,2020-10-01,0.72,Flu
+Kentucky,2020-11-01,0.93,Flu
+Kentucky,2020-12-01,0.92,Flu
+Kentucky,2021-01-01,0.76,Flu
+Kentucky,2021-02-01,0.71,Flu
+Kentucky,2021-03-01,0.81,Flu
+Kentucky,2021-04-01,0.73,Flu
+Kentucky,2021-05-01,0.1,Flu
+Kentucky,2021-06-01,0.85,Flu
+Kentucky,2021-07-01,0.23,Flu
+Kentucky,2021-08-01,0.86,Flu
+Kentucky,2021-09-01,0.09,Flu
+Kentucky,2021-10-01,0.3,Flu
+Kentucky,2021-11-01,0.78,Flu
+Kentucky,2021-12-01,0.39,Flu
+Kentucky,2022-01-01,0.66,Flu
+Kentucky,2022-02-01,0.71,Flu
+Kentucky,2022-03-01,0.54,Flu
+Kentucky,2022-04-01,0.04,Flu
+Kentucky,2022-05-01,0.1,Flu
+Kentucky,2022-06-01,0.12,Flu
+Kentucky,2022-07-01,0.64,Flu
+Kentucky,2022-08-01,0.28,Flu
+Kentucky,2022-09-01,0.42,Flu
+Kentucky,2022-10-01,0.4,Flu
+Kentucky,2022-11-01,0.07,Flu
+Kentucky,2022-12-01,0.17,Flu
+Kentucky,2023-01-01,0.31,Flu
+Kentucky,2023-02-01,0.33,Flu
+Kentucky,2023-03-01,0.7,Flu
+Kentucky,2023-04-01,0.03,Flu
+Kentucky,2023-05-01,0.61,Flu
+Kentucky,2023-06-01,0.59,Flu
+Kentucky,2023-07-01,0.51,Flu
+Kentucky,2023-08-01,0.75,Flu
+Kentucky,2023-09-01,0.13,Flu
+Kentucky,2023-10-01,0.33,Flu
+Kentucky,2023-11-01,0.68,Flu
+Kentucky,2023-12-01,0.35,Flu
+Kentucky,2024-01-01,0.77,Flu
+Kentucky,2024-02-01,0.67,Flu
+Kentucky,2024-03-01,0.25,Flu
+Kentucky,2024-04-01,0.1,Flu
+Kentucky,2024-05-01,0.95,Flu
+Kentucky,2024-06-01,0.46,Flu
+Kentucky,2024-07-01,0.53,Flu
+Kentucky,2024-08-01,0.96,Flu
+Kentucky,2024-09-01,0.71,Flu
+Kentucky,2024-10-01,0.81,Flu
+Kentucky,2024-11-01,0.95,Flu
+Kentucky,2024-12-01,0.63,Flu
+Louisiana,2020-01-01,0.12,Flu
+Louisiana,2020-02-01,0.58,Flu
+Louisiana,2020-03-01,0.93,Flu
+Louisiana,2020-04-01,0.12,Flu
+Louisiana,2020-05-01,0.28,Flu
+Louisiana,2020-06-01,0.65,Flu
+Louisiana,2020-07-01,0.49,Flu
+Louisiana,2020-08-01,0.56,Flu
+Louisiana,2020-09-01,0.01,Flu
+Louisiana,2020-10-01,0.23,Flu
+Louisiana,2020-11-01,0.02,Flu
+Louisiana,2020-12-01,0.33,Flu
+Louisiana,2021-01-01,0.7,Flu
+Louisiana,2021-02-01,0.95,Flu
+Louisiana,2021-03-01,0.73,Flu
+Louisiana,2021-04-01,0.44,Flu
+Louisiana,2021-05-01,0.24,Flu
+Louisiana,2021-06-01,0.74,Flu
+Louisiana,2021-07-01,0.47,Flu
+Louisiana,2021-08-01,0.72,Flu
+Louisiana,2021-09-01,0.16,Flu
+Louisiana,2021-10-01,0.24,Flu
+Louisiana,2021-11-01,0.9,Flu
+Louisiana,2021-12-01,0.77,Flu
+Louisiana,2022-01-01,0.84,Flu
+Louisiana,2022-02-01,0.04,Flu
+Louisiana,2022-03-01,0.1,Flu
+Louisiana,2022-04-01,0.36,Flu
+Louisiana,2022-05-01,0.77,Flu
+Louisiana,2022-06-01,0.8,Flu
+Louisiana,2022-07-01,0.94,Flu
+Louisiana,2022-08-01,0.88,Flu
+Louisiana,2022-09-01,0.41,Flu
+Louisiana,2022-10-01,0.97,Flu
+Louisiana,2022-11-01,0.4,Flu
+Louisiana,2022-12-01,0.38,Flu
+Louisiana,2023-01-01,0.81,Flu
+Louisiana,2023-02-01,0.13,Flu
+Louisiana,2023-03-01,0.91,Flu
+Louisiana,2023-04-01,0.72,Flu
+Louisiana,2023-05-01,0.1,Flu
+Louisiana,2023-06-01,0.01,Flu
+Louisiana,2023-07-01,0.0,Flu
+Louisiana,2023-08-01,0.25,Flu
+Louisiana,2023-09-01,0.87,Flu
+Louisiana,2023-10-01,0.64,Flu
+Louisiana,2023-11-01,0.52,Flu
+Louisiana,2023-12-01,0.68,Flu
+Louisiana,2024-01-01,0.8,Flu
+Louisiana,2024-02-01,0.8,Flu
+Louisiana,2024-03-01,0.4,Flu
+Louisiana,2024-04-01,0.9,Flu
+Louisiana,2024-05-01,0.97,Flu
+Louisiana,2024-06-01,0.17,Flu
+Louisiana,2024-07-01,0.03,Flu
+Louisiana,2024-08-01,0.41,Flu
+Louisiana,2024-09-01,0.46,Flu
+Louisiana,2024-10-01,0.38,Flu
+Louisiana,2024-11-01,0.12,Flu
+Louisiana,2024-12-01,0.51,Flu
+Maine,2020-01-01,0.5,Flu
+Maine,2020-02-01,0.56,Flu
+Maine,2020-03-01,0.97,Flu
+Maine,2020-04-01,0.79,Flu
+Maine,2020-05-01,0.1,Flu
+Maine,2020-06-01,0.3,Flu
+Maine,2020-07-01,0.74,Flu
+Maine,2020-08-01,0.81,Flu
+Maine,2020-09-01,0.37,Flu
+Maine,2020-10-01,0.17,Flu
+Maine,2020-11-01,0.45,Flu
+Maine,2020-12-01,0.42,Flu
+Maine,2021-01-01,0.66,Flu
+Maine,2021-02-01,0.69,Flu
+Maine,2021-03-01,0.83,Flu
+Maine,2021-04-01,0.02,Flu
+Maine,2021-05-01,0.32,Flu
+Maine,2021-06-01,0.57,Flu
+Maine,2021-07-01,0.49,Flu
+Maine,2021-08-01,0.95,Flu
+Maine,2021-09-01,0.42,Flu
+Maine,2021-10-01,0.96,Flu
+Maine,2021-11-01,0.86,Flu
+Maine,2021-12-01,0.77,Flu
+Maine,2022-01-01,0.22,Flu
+Maine,2022-02-01,0.36,Flu
+Maine,2022-03-01,0.91,Flu
+Maine,2022-04-01,0.24,Flu
+Maine,2022-05-01,0.93,Flu
+Maine,2022-06-01,0.33,Flu
+Maine,2022-07-01,0.41,Flu
+Maine,2022-08-01,0.69,Flu
+Maine,2022-09-01,0.85,Flu
+Maine,2022-10-01,0.21,Flu
+Maine,2022-11-01,0.9,Flu
+Maine,2022-12-01,0.22,Flu
+Maine,2023-01-01,0.71,Flu
+Maine,2023-02-01,0.34,Flu
+Maine,2023-03-01,0.66,Flu
+Maine,2023-04-01,0.56,Flu
+Maine,2023-05-01,0.97,Flu
+Maine,2023-06-01,0.93,Flu
+Maine,2023-07-01,0.72,Flu
+Maine,2023-08-01,0.57,Flu
+Maine,2023-09-01,0.41,Flu
+Maine,2023-10-01,0.88,Flu
+Maine,2023-11-01,0.91,Flu
+Maine,2023-12-01,0.53,Flu
+Maine,2024-01-01,0.1,Flu
+Maine,2024-02-01,0.26,Flu
+Maine,2024-03-01,0.38,Flu
+Maine,2024-04-01,0.41,Flu
+Maine,2024-05-01,0.58,Flu
+Maine,2024-06-01,0.3,Flu
+Maine,2024-07-01,0.11,Flu
+Maine,2024-08-01,0.73,Flu
+Maine,2024-09-01,0.46,Flu
+Maine,2024-10-01,0.4,Flu
+Maine,2024-11-01,0.58,Flu
+Maine,2024-12-01,0.91,Flu
+Maryland,2020-01-01,0.09,Flu
+Maryland,2020-02-01,0.14,Flu
+Maryland,2020-03-01,0.1,Flu
+Maryland,2020-04-01,0.61,Flu
+Maryland,2020-05-01,0.48,Flu
+Maryland,2020-06-01,0.04,Flu
+Maryland,2020-07-01,0.27,Flu
+Maryland,2020-08-01,0.27,Flu
+Maryland,2020-09-01,0.56,Flu
+Maryland,2020-10-01,0.2,Flu
+Maryland,2020-11-01,0.24,Flu
+Maryland,2020-12-01,0.15,Flu
+Maryland,2021-01-01,1.0,Flu
+Maryland,2021-02-01,0.18,Flu
+Maryland,2021-03-01,0.49,Flu
+Maryland,2021-04-01,0.64,Flu
+Maryland,2021-05-01,0.01,Flu
+Maryland,2021-06-01,0.53,Flu
+Maryland,2021-07-01,0.69,Flu
+Maryland,2021-08-01,0.7,Flu
+Maryland,2021-09-01,0.72,Flu
+Maryland,2021-10-01,0.98,Flu
+Maryland,2021-11-01,0.69,Flu
+Maryland,2021-12-01,0.52,Flu
+Maryland,2022-01-01,0.83,Flu
+Maryland,2022-02-01,0.23,Flu
+Maryland,2022-03-01,0.43,Flu
+Maryland,2022-04-01,0.04,Flu
+Maryland,2022-05-01,0.71,Flu
+Maryland,2022-06-01,0.81,Flu
+Maryland,2022-07-01,0.99,Flu
+Maryland,2022-08-01,0.86,Flu
+Maryland,2022-09-01,0.93,Flu
+Maryland,2022-10-01,0.97,Flu
+Maryland,2022-11-01,0.86,Flu
+Maryland,2022-12-01,0.68,Flu
+Maryland,2023-01-01,0.47,Flu
+Maryland,2023-02-01,0.39,Flu
+Maryland,2023-03-01,0.19,Flu
+Maryland,2023-04-01,0.27,Flu
+Maryland,2023-05-01,0.41,Flu
+Maryland,2023-06-01,0.82,Flu
+Maryland,2023-07-01,0.51,Flu
+Maryland,2023-08-01,0.73,Flu
+Maryland,2023-09-01,0.99,Flu
+Maryland,2023-10-01,0.62,Flu
+Maryland,2023-11-01,0.4,Flu
+Maryland,2023-12-01,0.28,Flu
+Maryland,2024-01-01,0.28,Flu
+Maryland,2024-02-01,0.81,Flu
+Maryland,2024-03-01,0.01,Flu
+Maryland,2024-04-01,0.86,Flu
+Maryland,2024-05-01,0.5,Flu
+Maryland,2024-06-01,0.3,Flu
+Maryland,2024-07-01,0.83,Flu
+Maryland,2024-08-01,0.39,Flu
+Maryland,2024-09-01,0.3,Flu
+Maryland,2024-10-01,0.87,Flu
+Maryland,2024-11-01,0.15,Flu
+Maryland,2024-12-01,0.35,Flu
+Massachusetts,2020-01-01,0.89,Flu
+Massachusetts,2020-02-01,0.54,Flu
+Massachusetts,2020-03-01,0.4,Flu
+Massachusetts,2020-04-01,0.91,Flu
+Massachusetts,2020-05-01,0.69,Flu
+Massachusetts,2020-06-01,0.35,Flu
+Massachusetts,2020-07-01,0.63,Flu
+Massachusetts,2020-08-01,0.53,Flu
+Massachusetts,2020-09-01,0.98,Flu
+Massachusetts,2020-10-01,0.43,Flu
+Massachusetts,2020-11-01,0.34,Flu
+Massachusetts,2020-12-01,0.76,Flu
+Massachusetts,2021-01-01,0.82,Flu
+Massachusetts,2021-02-01,0.72,Flu
+Massachusetts,2021-03-01,0.24,Flu
+Massachusetts,2021-04-01,0.47,Flu
+Massachusetts,2021-05-01,1.0,Flu
+Massachusetts,2021-06-01,0.66,Flu
+Massachusetts,2021-07-01,0.25,Flu
+Massachusetts,2021-08-01,0.35,Flu
+Massachusetts,2021-09-01,0.3,Flu
+Massachusetts,2021-10-01,0.05,Flu
+Massachusetts,2021-11-01,0.24,Flu
+Massachusetts,2021-12-01,0.01,Flu
+Massachusetts,2022-01-01,0.32,Flu
+Massachusetts,2022-02-01,0.64,Flu
+Massachusetts,2022-03-01,0.62,Flu
+Massachusetts,2022-04-01,0.95,Flu
+Massachusetts,2022-05-01,0.34,Flu
+Massachusetts,2022-06-01,0.6,Flu
+Massachusetts,2022-07-01,0.03,Flu
+Massachusetts,2022-08-01,0.81,Flu
+Massachusetts,2022-09-01,0.35,Flu
+Massachusetts,2022-10-01,0.88,Flu
+Massachusetts,2022-11-01,0.57,Flu
+Massachusetts,2022-12-01,0.76,Flu
+Massachusetts,2023-01-01,0.54,Flu
+Massachusetts,2023-02-01,0.48,Flu
+Massachusetts,2023-03-01,0.77,Flu
+Massachusetts,2023-04-01,0.38,Flu
+Massachusetts,2023-05-01,0.34,Flu
+Massachusetts,2023-06-01,0.56,Flu
+Massachusetts,2023-07-01,0.69,Flu
+Massachusetts,2023-08-01,0.45,Flu
+Massachusetts,2023-09-01,0.97,Flu
+Massachusetts,2023-10-01,0.23,Flu
+Massachusetts,2023-11-01,0.79,Flu
+Massachusetts,2023-12-01,0.77,Flu
+Massachusetts,2024-01-01,0.2,Flu
+Massachusetts,2024-02-01,0.01,Flu
+Massachusetts,2024-03-01,0.3,Flu
+Massachusetts,2024-04-01,0.29,Flu
+Massachusetts,2024-05-01,0.47,Flu
+Massachusetts,2024-06-01,1.0,Flu
+Massachusetts,2024-07-01,0.22,Flu
+Massachusetts,2024-08-01,0.07,Flu
+Massachusetts,2024-09-01,0.35,Flu
+Massachusetts,2024-10-01,0.6,Flu
+Massachusetts,2024-11-01,0.84,Flu
+Massachusetts,2024-12-01,0.64,Flu
+Michigan,2020-01-01,0.68,Flu
+Michigan,2020-02-01,0.44,Flu
+Michigan,2020-03-01,0.26,Flu
+Michigan,2020-04-01,0.85,Flu
+Michigan,2020-05-01,0.99,Flu
+Michigan,2020-06-01,0.37,Flu
+Michigan,2020-07-01,0.29,Flu
+Michigan,2020-08-01,0.55,Flu
+Michigan,2020-09-01,0.89,Flu
+Michigan,2020-10-01,0.66,Flu
+Michigan,2020-11-01,0.31,Flu
+Michigan,2020-12-01,0.35,Flu
+Michigan,2021-01-01,0.02,Flu
+Michigan,2021-02-01,0.51,Flu
+Michigan,2021-03-01,0.5,Flu
+Michigan,2021-04-01,0.25,Flu
+Michigan,2021-05-01,0.43,Flu
+Michigan,2021-06-01,0.36,Flu
+Michigan,2021-07-01,0.01,Flu
+Michigan,2021-08-01,0.79,Flu
+Michigan,2021-09-01,0.07,Flu
+Michigan,2021-10-01,0.27,Flu
+Michigan,2021-11-01,0.21,Flu
+Michigan,2021-12-01,0.09,Flu
+Michigan,2022-01-01,0.09,Flu
+Michigan,2022-02-01,0.29,Flu
+Michigan,2022-03-01,0.53,Flu
+Michigan,2022-04-01,0.89,Flu
+Michigan,2022-05-01,0.75,Flu
+Michigan,2022-06-01,0.83,Flu
+Michigan,2022-07-01,0.93,Flu
+Michigan,2022-08-01,0.31,Flu
+Michigan,2022-09-01,0.81,Flu
+Michigan,2022-10-01,1.0,Flu
+Michigan,2022-11-01,0.64,Flu
+Michigan,2022-12-01,0.35,Flu
+Michigan,2023-01-01,0.28,Flu
+Michigan,2023-02-01,0.35,Flu
+Michigan,2023-03-01,0.19,Flu
+Michigan,2023-04-01,0.93,Flu
+Michigan,2023-05-01,0.26,Flu
+Michigan,2023-06-01,0.06,Flu
+Michigan,2023-07-01,0.53,Flu
+Michigan,2023-08-01,0.58,Flu
+Michigan,2023-09-01,0.38,Flu
+Michigan,2023-10-01,0.45,Flu
+Michigan,2023-11-01,0.81,Flu
+Michigan,2023-12-01,0.01,Flu
+Michigan,2024-01-01,0.21,Flu
+Michigan,2024-02-01,0.2,Flu
+Michigan,2024-03-01,0.24,Flu
+Michigan,2024-04-01,0.88,Flu
+Michigan,2024-05-01,0.22,Flu
+Michigan,2024-06-01,0.29,Flu
+Michigan,2024-07-01,0.75,Flu
+Michigan,2024-08-01,0.53,Flu
+Michigan,2024-09-01,0.54,Flu
+Michigan,2024-10-01,0.5,Flu
+Michigan,2024-11-01,0.18,Flu
+Michigan,2024-12-01,0.56,Flu
+Minnesota,2020-01-01,0.21,Flu
+Minnesota,2020-02-01,0.31,Flu
+Minnesota,2020-03-01,0.39,Flu
+Minnesota,2020-04-01,0.21,Flu
+Minnesota,2020-05-01,0.71,Flu
+Minnesota,2020-06-01,0.6,Flu
+Minnesota,2020-07-01,0.62,Flu
+Minnesota,2020-08-01,0.86,Flu
+Minnesota,2020-09-01,0.78,Flu
+Minnesota,2020-10-01,0.15,Flu
+Minnesota,2020-11-01,0.38,Flu
+Minnesota,2020-12-01,0.56,Flu
+Minnesota,2021-01-01,0.82,Flu
+Minnesota,2021-02-01,0.71,Flu
+Minnesota,2021-03-01,0.84,Flu
+Minnesota,2021-04-01,0.04,Flu
+Minnesota,2021-05-01,0.84,Flu
+Minnesota,2021-06-01,0.23,Flu
+Minnesota,2021-07-01,0.74,Flu
+Minnesota,2021-08-01,0.43,Flu
+Minnesota,2021-09-01,0.31,Flu
+Minnesota,2021-10-01,0.91,Flu
+Minnesota,2021-11-01,0.4,Flu
+Minnesota,2021-12-01,0.65,Flu
+Minnesota,2022-01-01,0.4,Flu
+Minnesota,2022-02-01,0.85,Flu
+Minnesota,2022-03-01,0.48,Flu
+Minnesota,2022-04-01,0.67,Flu
+Minnesota,2022-05-01,0.25,Flu
+Minnesota,2022-06-01,0.39,Flu
+Minnesota,2022-07-01,0.89,Flu
+Minnesota,2022-08-01,0.84,Flu
+Minnesota,2022-09-01,0.31,Flu
+Minnesota,2022-10-01,0.89,Flu
+Minnesota,2022-11-01,0.16,Flu
+Minnesota,2022-12-01,0.19,Flu
+Minnesota,2023-01-01,0.5,Flu
+Minnesota,2023-02-01,0.51,Flu
+Minnesota,2023-03-01,0.76,Flu
+Minnesota,2023-04-01,0.45,Flu
+Minnesota,2023-05-01,0.65,Flu
+Minnesota,2023-06-01,0.09,Flu
+Minnesota,2023-07-01,0.92,Flu
+Minnesota,2023-08-01,0.06,Flu
+Minnesota,2023-09-01,0.25,Flu
+Minnesota,2023-10-01,0.03,Flu
+Minnesota,2023-11-01,0.2,Flu
+Minnesota,2023-12-01,0.63,Flu
+Minnesota,2024-01-01,0.55,Flu
+Minnesota,2024-02-01,0.73,Flu
+Minnesota,2024-03-01,0.04,Flu
+Minnesota,2024-04-01,0.75,Flu
+Minnesota,2024-05-01,0.62,Flu
+Minnesota,2024-06-01,0.25,Flu
+Minnesota,2024-07-01,1.0,Flu
+Minnesota,2024-08-01,0.24,Flu
+Minnesota,2024-09-01,0.25,Flu
+Minnesota,2024-10-01,0.43,Flu
+Minnesota,2024-11-01,0.56,Flu
+Minnesota,2024-12-01,0.7,Flu
+Mississippi,2020-01-01,0.43,Flu
+Mississippi,2020-02-01,0.87,Flu
+Mississippi,2020-03-01,0.4,Flu
+Mississippi,2020-04-01,0.73,Flu
+Mississippi,2020-05-01,0.62,Flu
+Mississippi,2020-06-01,0.55,Flu
+Mississippi,2020-07-01,0.18,Flu
+Mississippi,2020-08-01,0.18,Flu
+Mississippi,2020-09-01,0.08,Flu
+Mississippi,2020-10-01,0.78,Flu
+Mississippi,2020-11-01,0.93,Flu
+Mississippi,2020-12-01,0.74,Flu
+Mississippi,2021-01-01,0.03,Flu
+Mississippi,2021-02-01,0.14,Flu
+Mississippi,2021-03-01,0.9,Flu
+Mississippi,2021-04-01,0.12,Flu
+Mississippi,2021-05-01,0.44,Flu
+Mississippi,2021-06-01,0.53,Flu
+Mississippi,2021-07-01,0.33,Flu
+Mississippi,2021-08-01,0.43,Flu
+Mississippi,2021-09-01,0.64,Flu
+Mississippi,2021-10-01,0.58,Flu
+Mississippi,2021-11-01,0.91,Flu
+Mississippi,2021-12-01,0.89,Flu
+Mississippi,2022-01-01,0.02,Flu
+Mississippi,2022-02-01,0.06,Flu
+Mississippi,2022-03-01,0.01,Flu
+Mississippi,2022-04-01,0.21,Flu
+Mississippi,2022-05-01,0.65,Flu
+Mississippi,2022-06-01,0.85,Flu
+Mississippi,2022-07-01,0.61,Flu
+Mississippi,2022-08-01,0.51,Flu
+Mississippi,2022-09-01,0.85,Flu
+Mississippi,2022-10-01,0.27,Flu
+Mississippi,2022-11-01,0.14,Flu
+Mississippi,2022-12-01,0.59,Flu
+Mississippi,2023-01-01,0.28,Flu
+Mississippi,2023-02-01,0.22,Flu
+Mississippi,2023-03-01,0.53,Flu
+Mississippi,2023-04-01,0.44,Flu
+Mississippi,2023-05-01,0.87,Flu
+Mississippi,2023-06-01,0.28,Flu
+Mississippi,2023-07-01,0.61,Flu
+Mississippi,2023-08-01,0.38,Flu
+Mississippi,2023-09-01,0.56,Flu
+Mississippi,2023-10-01,1.0,Flu
+Mississippi,2023-11-01,0.93,Flu
+Mississippi,2023-12-01,0.12,Flu
+Mississippi,2024-01-01,0.0,Flu
+Mississippi,2024-02-01,0.11,Flu
+Mississippi,2024-03-01,0.73,Flu
+Mississippi,2024-04-01,0.54,Flu
+Mississippi,2024-05-01,0.69,Flu
+Mississippi,2024-06-01,0.05,Flu
+Mississippi,2024-07-01,0.73,Flu
+Mississippi,2024-08-01,0.47,Flu
+Mississippi,2024-09-01,0.41,Flu
+Mississippi,2024-10-01,0.9,Flu
+Mississippi,2024-11-01,0.62,Flu
+Mississippi,2024-12-01,0.23,Flu
+Missouri,2020-01-01,0.72,Flu
+Missouri,2020-02-01,0.87,Flu
+Missouri,2020-03-01,0.44,Flu
+Missouri,2020-04-01,0.36,Flu
+Missouri,2020-05-01,0.45,Flu
+Missouri,2020-06-01,0.32,Flu
+Missouri,2020-07-01,0.42,Flu
+Missouri,2020-08-01,0.51,Flu
+Missouri,2020-09-01,0.72,Flu
+Missouri,2020-10-01,0.49,Flu
+Missouri,2020-11-01,0.7,Flu
+Missouri,2020-12-01,0.08,Flu
+Missouri,2021-01-01,0.29,Flu
+Missouri,2021-02-01,0.09,Flu
+Missouri,2021-03-01,0.24,Flu
+Missouri,2021-04-01,0.53,Flu
+Missouri,2021-05-01,0.74,Flu
+Missouri,2021-06-01,0.27,Flu
+Missouri,2021-07-01,0.35,Flu
+Missouri,2021-08-01,0.88,Flu
+Missouri,2021-09-01,0.46,Flu
+Missouri,2021-10-01,0.36,Flu
+Missouri,2021-11-01,0.41,Flu
+Missouri,2021-12-01,0.46,Flu
+Missouri,2022-01-01,0.35,Flu
+Missouri,2022-02-01,0.77,Flu
+Missouri,2022-03-01,0.69,Flu
+Missouri,2022-04-01,0.18,Flu
+Missouri,2022-05-01,0.36,Flu
+Missouri,2022-06-01,0.25,Flu
+Missouri,2022-07-01,0.15,Flu
+Missouri,2022-08-01,0.56,Flu
+Missouri,2022-09-01,0.43,Flu
+Missouri,2022-10-01,0.37,Flu
+Missouri,2022-11-01,0.75,Flu
+Missouri,2022-12-01,0.51,Flu
+Missouri,2023-01-01,0.51,Flu
+Missouri,2023-02-01,0.5,Flu
+Missouri,2023-03-01,0.87,Flu
+Missouri,2023-04-01,0.29,Flu
+Missouri,2023-05-01,0.93,Flu
+Missouri,2023-06-01,0.99,Flu
+Missouri,2023-07-01,0.74,Flu
+Missouri,2023-08-01,0.24,Flu
+Missouri,2023-09-01,0.86,Flu
+Missouri,2023-10-01,0.23,Flu
+Missouri,2023-11-01,0.6,Flu
+Missouri,2023-12-01,0.38,Flu
+Missouri,2024-01-01,0.99,Flu
+Missouri,2024-02-01,0.43,Flu
+Missouri,2024-03-01,0.93,Flu
+Missouri,2024-04-01,0.9,Flu
+Missouri,2024-05-01,0.68,Flu
+Missouri,2024-06-01,0.85,Flu
+Missouri,2024-07-01,0.45,Flu
+Missouri,2024-08-01,0.15,Flu
+Missouri,2024-09-01,0.99,Flu
+Missouri,2024-10-01,0.49,Flu
+Missouri,2024-11-01,0.54,Flu
+Missouri,2024-12-01,0.9,Flu
+Montana,2020-01-01,0.44,Flu
+Montana,2020-02-01,0.6,Flu
+Montana,2020-03-01,0.84,Flu
+Montana,2020-04-01,0.46,Flu
+Montana,2020-05-01,0.92,Flu
+Montana,2020-06-01,0.54,Flu
+Montana,2020-07-01,0.97,Flu
+Montana,2020-08-01,0.55,Flu
+Montana,2020-09-01,0.24,Flu
+Montana,2020-10-01,0.49,Flu
+Montana,2020-11-01,0.89,Flu
+Montana,2020-12-01,0.94,Flu
+Montana,2021-01-01,0.19,Flu
+Montana,2021-02-01,0.81,Flu
+Montana,2021-03-01,0.71,Flu
+Montana,2021-04-01,0.56,Flu
+Montana,2021-05-01,0.18,Flu
+Montana,2021-06-01,0.16,Flu
+Montana,2021-07-01,0.33,Flu
+Montana,2021-08-01,0.66,Flu
+Montana,2021-09-01,0.87,Flu
+Montana,2021-10-01,0.53,Flu
+Montana,2021-11-01,0.99,Flu
+Montana,2021-12-01,0.35,Flu
+Montana,2022-01-01,0.06,Flu
+Montana,2022-02-01,0.15,Flu
+Montana,2022-03-01,0.15,Flu
+Montana,2022-04-01,0.41,Flu
+Montana,2022-05-01,0.1,Flu
+Montana,2022-06-01,0.31,Flu
+Montana,2022-07-01,1.0,Flu
+Montana,2022-08-01,0.56,Flu
+Montana,2022-09-01,0.4,Flu
+Montana,2022-10-01,0.12,Flu
+Montana,2022-11-01,0.18,Flu
+Montana,2022-12-01,0.27,Flu
+Montana,2023-01-01,0.59,Flu
+Montana,2023-02-01,0.98,Flu
+Montana,2023-03-01,0.89,Flu
+Montana,2023-04-01,0.87,Flu
+Montana,2023-05-01,0.07,Flu
+Montana,2023-06-01,0.07,Flu
+Montana,2023-07-01,0.76,Flu
+Montana,2023-08-01,0.23,Flu
+Montana,2023-09-01,0.79,Flu
+Montana,2023-10-01,0.44,Flu
+Montana,2023-11-01,0.98,Flu
+Montana,2023-12-01,0.35,Flu
+Montana,2024-01-01,0.29,Flu
+Montana,2024-02-01,0.65,Flu
+Montana,2024-03-01,0.66,Flu
+Montana,2024-04-01,0.0,Flu
+Montana,2024-05-01,0.73,Flu
+Montana,2024-06-01,0.12,Flu
+Montana,2024-07-01,0.86,Flu
+Montana,2024-08-01,0.51,Flu
+Montana,2024-09-01,0.33,Flu
+Montana,2024-10-01,0.37,Flu
+Montana,2024-11-01,0.95,Flu
+Montana,2024-12-01,1.0,Flu
+Nebraska,2020-01-01,0.79,Flu
+Nebraska,2020-02-01,0.02,Flu
+Nebraska,2020-03-01,0.05,Flu
+Nebraska,2020-04-01,0.23,Flu
+Nebraska,2020-05-01,0.38,Flu
+Nebraska,2020-06-01,0.63,Flu
+Nebraska,2020-07-01,0.03,Flu
+Nebraska,2020-08-01,0.19,Flu
+Nebraska,2020-09-01,0.94,Flu
+Nebraska,2020-10-01,0.76,Flu
+Nebraska,2020-11-01,0.59,Flu
+Nebraska,2020-12-01,0.51,Flu
+Nebraska,2021-01-01,0.37,Flu
+Nebraska,2021-02-01,0.79,Flu
+Nebraska,2021-03-01,0.27,Flu
+Nebraska,2021-04-01,0.86,Flu
+Nebraska,2021-05-01,0.07,Flu
+Nebraska,2021-06-01,0.79,Flu
+Nebraska,2021-07-01,0.9,Flu
+Nebraska,2021-08-01,0.05,Flu
+Nebraska,2021-09-01,0.41,Flu
+Nebraska,2021-10-01,0.37,Flu
+Nebraska,2021-11-01,0.59,Flu
+Nebraska,2021-12-01,0.85,Flu
+Nebraska,2022-01-01,0.69,Flu
+Nebraska,2022-02-01,0.53,Flu
+Nebraska,2022-03-01,0.51,Flu
+Nebraska,2022-04-01,0.67,Flu
+Nebraska,2022-05-01,0.69,Flu
+Nebraska,2022-06-01,0.65,Flu
+Nebraska,2022-07-01,0.39,Flu
+Nebraska,2022-08-01,0.36,Flu
+Nebraska,2022-09-01,0.91,Flu
+Nebraska,2022-10-01,0.84,Flu
+Nebraska,2022-11-01,0.42,Flu
+Nebraska,2022-12-01,0.49,Flu
+Nebraska,2023-01-01,0.74,Flu
+Nebraska,2023-02-01,0.4,Flu
+Nebraska,2023-03-01,0.8,Flu
+Nebraska,2023-04-01,0.33,Flu
+Nebraska,2023-05-01,0.24,Flu
+Nebraska,2023-06-01,0.32,Flu
+Nebraska,2023-07-01,0.9,Flu
+Nebraska,2023-08-01,0.65,Flu
+Nebraska,2023-09-01,0.79,Flu
+Nebraska,2023-10-01,0.17,Flu
+Nebraska,2023-11-01,0.12,Flu
+Nebraska,2023-12-01,0.78,Flu
+Nebraska,2024-01-01,0.94,Flu
+Nebraska,2024-02-01,0.82,Flu
+Nebraska,2024-03-01,0.53,Flu
+Nebraska,2024-04-01,0.63,Flu
+Nebraska,2024-05-01,0.68,Flu
+Nebraska,2024-06-01,0.82,Flu
+Nebraska,2024-07-01,0.83,Flu
+Nebraska,2024-08-01,0.37,Flu
+Nebraska,2024-09-01,0.18,Flu
+Nebraska,2024-10-01,0.44,Flu
+Nebraska,2024-11-01,0.42,Flu
+Nebraska,2024-12-01,0.68,Flu
+Nevada,2020-01-01,0.19,Flu
+Nevada,2020-02-01,0.71,Flu
+Nevada,2020-03-01,0.13,Flu
+Nevada,2020-04-01,0.08,Flu
+Nevada,2020-05-01,0.04,Flu
+Nevada,2020-06-01,0.63,Flu
+Nevada,2020-07-01,0.39,Flu
+Nevada,2020-08-01,0.82,Flu
+Nevada,2020-09-01,0.52,Flu
+Nevada,2020-10-01,0.31,Flu
+Nevada,2020-11-01,0.49,Flu
+Nevada,2020-12-01,0.25,Flu
+Nevada,2021-01-01,0.68,Flu
+Nevada,2021-02-01,0.26,Flu
+Nevada,2021-03-01,0.08,Flu
+Nevada,2021-04-01,0.45,Flu
+Nevada,2021-05-01,0.31,Flu
+Nevada,2021-06-01,0.96,Flu
+Nevada,2021-07-01,0.59,Flu
+Nevada,2021-08-01,0.89,Flu
+Nevada,2021-09-01,0.35,Flu
+Nevada,2021-10-01,0.76,Flu
+Nevada,2021-11-01,0.78,Flu
+Nevada,2021-12-01,0.57,Flu
+Nevada,2022-01-01,0.66,Flu
+Nevada,2022-02-01,0.1,Flu
+Nevada,2022-03-01,0.24,Flu
+Nevada,2022-04-01,0.82,Flu
+Nevada,2022-05-01,0.2,Flu
+Nevada,2022-06-01,0.35,Flu
+Nevada,2022-07-01,0.03,Flu
+Nevada,2022-08-01,0.05,Flu
+Nevada,2022-09-01,0.92,Flu
+Nevada,2022-10-01,0.04,Flu
+Nevada,2022-11-01,0.86,Flu
+Nevada,2022-12-01,0.7,Flu
+Nevada,2023-01-01,0.93,Flu
+Nevada,2023-02-01,0.71,Flu
+Nevada,2023-03-01,0.23,Flu
+Nevada,2023-04-01,0.77,Flu
+Nevada,2023-05-01,0.18,Flu
+Nevada,2023-06-01,0.28,Flu
+Nevada,2023-07-01,0.62,Flu
+Nevada,2023-08-01,0.86,Flu
+Nevada,2023-09-01,0.42,Flu
+Nevada,2023-10-01,0.15,Flu
+Nevada,2023-11-01,0.82,Flu
+Nevada,2023-12-01,0.87,Flu
+Nevada,2024-01-01,0.75,Flu
+Nevada,2024-02-01,0.43,Flu
+Nevada,2024-03-01,0.14,Flu
+Nevada,2024-04-01,0.7,Flu
+Nevada,2024-05-01,0.99,Flu
+Nevada,2024-06-01,0.41,Flu
+Nevada,2024-07-01,0.82,Flu
+Nevada,2024-08-01,0.27,Flu
+Nevada,2024-09-01,0.05,Flu
+Nevada,2024-10-01,0.5,Flu
+Nevada,2024-11-01,0.99,Flu
+Nevada,2024-12-01,0.36,Flu
+New Hampshire,2020-01-01,0.5,Flu
+New Hampshire,2020-02-01,0.68,Flu
+New Hampshire,2020-03-01,0.08,Flu
+New Hampshire,2020-04-01,0.95,Flu
+New Hampshire,2020-05-01,0.48,Flu
+New Hampshire,2020-06-01,0.09,Flu
+New Hampshire,2020-07-01,0.75,Flu
+New Hampshire,2020-08-01,0.05,Flu
+New Hampshire,2020-09-01,0.29,Flu
+New Hampshire,2020-10-01,0.77,Flu
+New Hampshire,2020-11-01,0.25,Flu
+New Hampshire,2020-12-01,0.14,Flu
+New Hampshire,2021-01-01,0.49,Flu
+New Hampshire,2021-02-01,0.32,Flu
+New Hampshire,2021-03-01,0.23,Flu
+New Hampshire,2021-04-01,0.59,Flu
+New Hampshire,2021-05-01,0.39,Flu
+New Hampshire,2021-06-01,0.96,Flu
+New Hampshire,2021-07-01,0.1,Flu
+New Hampshire,2021-08-01,0.78,Flu
+New Hampshire,2021-09-01,0.0,Flu
+New Hampshire,2021-10-01,1.0,Flu
+New Hampshire,2021-11-01,0.34,Flu
+New Hampshire,2021-12-01,0.61,Flu
+New Hampshire,2022-01-01,0.12,Flu
+New Hampshire,2022-02-01,0.92,Flu
+New Hampshire,2022-03-01,0.25,Flu
+New Hampshire,2022-04-01,0.7,Flu
+New Hampshire,2022-05-01,0.69,Flu
+New Hampshire,2022-06-01,0.35,Flu
+New Hampshire,2022-07-01,0.9,Flu
+New Hampshire,2022-08-01,0.21,Flu
+New Hampshire,2022-09-01,0.38,Flu
+New Hampshire,2022-10-01,0.4,Flu
+New Hampshire,2022-11-01,0.06,Flu
+New Hampshire,2022-12-01,0.22,Flu
+New Hampshire,2023-01-01,0.9,Flu
+New Hampshire,2023-02-01,0.01,Flu
+New Hampshire,2023-03-01,0.83,Flu
+New Hampshire,2023-04-01,0.19,Flu
+New Hampshire,2023-05-01,0.76,Flu
+New Hampshire,2023-06-01,0.63,Flu
+New Hampshire,2023-07-01,0.46,Flu
+New Hampshire,2023-08-01,0.86,Flu
+New Hampshire,2023-09-01,0.38,Flu
+New Hampshire,2023-10-01,0.44,Flu
+New Hampshire,2023-11-01,0.96,Flu
+New Hampshire,2023-12-01,0.64,Flu
+New Hampshire,2024-01-01,0.18,Flu
+New Hampshire,2024-02-01,0.51,Flu
+New Hampshire,2024-03-01,0.77,Flu
+New Hampshire,2024-04-01,0.65,Flu
+New Hampshire,2024-05-01,0.03,Flu
+New Hampshire,2024-06-01,0.42,Flu
+New Hampshire,2024-07-01,0.3,Flu
+New Hampshire,2024-08-01,0.34,Flu
+New Hampshire,2024-09-01,0.88,Flu
+New Hampshire,2024-10-01,0.61,Flu
+New Hampshire,2024-11-01,1.0,Flu
+New Hampshire,2024-12-01,0.77,Flu
+New Jersey,2020-01-01,0.49,Flu
+New Jersey,2020-02-01,0.83,Flu
+New Jersey,2020-03-01,0.28,Flu
+New Jersey,2020-04-01,0.32,Flu
+New Jersey,2020-05-01,0.26,Flu
+New Jersey,2020-06-01,0.46,Flu
+New Jersey,2020-07-01,0.64,Flu
+New Jersey,2020-08-01,0.31,Flu
+New Jersey,2020-09-01,0.18,Flu
+New Jersey,2020-10-01,0.67,Flu
+New Jersey,2020-11-01,0.82,Flu
+New Jersey,2020-12-01,0.71,Flu
+New Jersey,2021-01-01,0.69,Flu
+New Jersey,2021-02-01,0.24,Flu
+New Jersey,2021-03-01,0.21,Flu
+New Jersey,2021-04-01,0.49,Flu
+New Jersey,2021-05-01,0.57,Flu
+New Jersey,2021-06-01,0.66,Flu
+New Jersey,2021-07-01,0.22,Flu
+New Jersey,2021-08-01,0.59,Flu
+New Jersey,2021-09-01,0.36,Flu
+New Jersey,2021-10-01,0.89,Flu
+New Jersey,2021-11-01,0.45,Flu
+New Jersey,2021-12-01,0.41,Flu
+New Jersey,2022-01-01,0.82,Flu
+New Jersey,2022-02-01,0.74,Flu
+New Jersey,2022-03-01,0.65,Flu
+New Jersey,2022-04-01,0.69,Flu
+New Jersey,2022-05-01,0.94,Flu
+New Jersey,2022-06-01,0.46,Flu
+New Jersey,2022-07-01,0.86,Flu
+New Jersey,2022-08-01,0.66,Flu
+New Jersey,2022-09-01,0.18,Flu
+New Jersey,2022-10-01,0.6,Flu
+New Jersey,2022-11-01,0.89,Flu
+New Jersey,2022-12-01,0.97,Flu
+New Jersey,2023-01-01,0.23,Flu
+New Jersey,2023-02-01,0.21,Flu
+New Jersey,2023-03-01,0.01,Flu
+New Jersey,2023-04-01,0.8,Flu
+New Jersey,2023-05-01,0.44,Flu
+New Jersey,2023-06-01,0.07,Flu
+New Jersey,2023-07-01,0.5,Flu
+New Jersey,2023-08-01,0.34,Flu
+New Jersey,2023-09-01,0.22,Flu
+New Jersey,2023-10-01,0.46,Flu
+New Jersey,2023-11-01,0.01,Flu
+New Jersey,2023-12-01,0.92,Flu
+New Jersey,2024-01-01,0.24,Flu
+New Jersey,2024-02-01,0.76,Flu
+New Jersey,2024-03-01,0.59,Flu
+New Jersey,2024-04-01,0.7,Flu
+New Jersey,2024-05-01,0.32,Flu
+New Jersey,2024-06-01,0.68,Flu
+New Jersey,2024-07-01,0.04,Flu
+New Jersey,2024-08-01,0.91,Flu
+New Jersey,2024-09-01,0.1,Flu
+New Jersey,2024-10-01,0.04,Flu
+New Jersey,2024-11-01,0.42,Flu
+New Jersey,2024-12-01,0.35,Flu
+New Mexico,2020-01-01,0.47,Flu
+New Mexico,2020-02-01,0.7,Flu
+New Mexico,2020-03-01,0.25,Flu
+New Mexico,2020-04-01,0.05,Flu
+New Mexico,2020-05-01,0.55,Flu
+New Mexico,2020-06-01,0.32,Flu
+New Mexico,2020-07-01,0.12,Flu
+New Mexico,2020-08-01,0.6,Flu
+New Mexico,2020-09-01,0.67,Flu
+New Mexico,2020-10-01,0.28,Flu
+New Mexico,2020-11-01,0.19,Flu
+New Mexico,2020-12-01,0.63,Flu
+New Mexico,2021-01-01,0.79,Flu
+New Mexico,2021-02-01,0.88,Flu
+New Mexico,2021-03-01,0.75,Flu
+New Mexico,2021-04-01,0.27,Flu
+New Mexico,2021-05-01,0.39,Flu
+New Mexico,2021-06-01,0.96,Flu
+New Mexico,2021-07-01,0.05,Flu
+New Mexico,2021-08-01,0.51,Flu
+New Mexico,2021-09-01,0.26,Flu
+New Mexico,2021-10-01,0.7,Flu
+New Mexico,2021-11-01,0.28,Flu
+New Mexico,2021-12-01,0.96,Flu
+New Mexico,2022-01-01,0.67,Flu
+New Mexico,2022-02-01,0.16,Flu
+New Mexico,2022-03-01,0.32,Flu
+New Mexico,2022-04-01,0.42,Flu
+New Mexico,2022-05-01,0.32,Flu
+New Mexico,2022-06-01,0.17,Flu
+New Mexico,2022-07-01,0.21,Flu
+New Mexico,2022-08-01,0.65,Flu
+New Mexico,2022-09-01,0.91,Flu
+New Mexico,2022-10-01,0.12,Flu
+New Mexico,2022-11-01,0.8,Flu
+New Mexico,2022-12-01,0.6,Flu
+New Mexico,2023-01-01,0.31,Flu
+New Mexico,2023-02-01,0.89,Flu
+New Mexico,2023-03-01,0.83,Flu
+New Mexico,2023-04-01,0.77,Flu
+New Mexico,2023-05-01,0.61,Flu
+New Mexico,2023-06-01,0.49,Flu
+New Mexico,2023-07-01,0.46,Flu
+New Mexico,2023-08-01,0.89,Flu
+New Mexico,2023-09-01,0.66,Flu
+New Mexico,2023-10-01,0.93,Flu
+New Mexico,2023-11-01,0.31,Flu
+New Mexico,2023-12-01,0.32,Flu
+New Mexico,2024-01-01,0.03,Flu
+New Mexico,2024-02-01,0.81,Flu
+New Mexico,2024-03-01,0.88,Flu
+New Mexico,2024-04-01,0.98,Flu
+New Mexico,2024-05-01,0.61,Flu
+New Mexico,2024-06-01,0.48,Flu
+New Mexico,2024-07-01,0.77,Flu
+New Mexico,2024-08-01,0.73,Flu
+New Mexico,2024-09-01,0.21,Flu
+New Mexico,2024-10-01,0.29,Flu
+New Mexico,2024-11-01,1.0,Flu
+New Mexico,2024-12-01,0.42,Flu
+New York,2020-01-01,0.23,Flu
+New York,2020-02-01,0.25,Flu
+New York,2020-03-01,0.02,Flu
+New York,2020-04-01,0.39,Flu
+New York,2020-05-01,0.82,Flu
+New York,2020-06-01,0.47,Flu
+New York,2020-07-01,0.81,Flu
+New York,2020-08-01,0.04,Flu
+New York,2020-09-01,0.24,Flu
+New York,2020-10-01,0.11,Flu
+New York,2020-11-01,0.47,Flu
+New York,2020-12-01,0.67,Flu
+New York,2021-01-01,0.01,Flu
+New York,2021-02-01,0.27,Flu
+New York,2021-03-01,0.33,Flu
+New York,2021-04-01,0.84,Flu
+New York,2021-05-01,0.41,Flu
+New York,2021-06-01,0.19,Flu
+New York,2021-07-01,0.28,Flu
+New York,2021-08-01,0.94,Flu
+New York,2021-09-01,0.46,Flu
+New York,2021-10-01,0.07,Flu
+New York,2021-11-01,0.44,Flu
+New York,2021-12-01,0.39,Flu
+New York,2022-01-01,0.12,Flu
+New York,2022-02-01,0.21,Flu
+New York,2022-03-01,0.41,Flu
+New York,2022-04-01,0.81,Flu
+New York,2022-05-01,0.16,Flu
+New York,2022-06-01,0.63,Flu
+New York,2022-07-01,0.55,Flu
+New York,2022-08-01,0.72,Flu
+New York,2022-09-01,0.17,Flu
+New York,2022-10-01,0.95,Flu
+New York,2022-11-01,0.81,Flu
+New York,2022-12-01,0.27,Flu
+New York,2023-01-01,0.15,Flu
+New York,2023-02-01,0.54,Flu
+New York,2023-03-01,0.26,Flu
+New York,2023-04-01,0.16,Flu
+New York,2023-05-01,0.29,Flu
+New York,2023-06-01,0.6,Flu
+New York,2023-07-01,0.28,Flu
+New York,2023-08-01,0.3,Flu
+New York,2023-09-01,0.5,Flu
+New York,2023-10-01,0.79,Flu
+New York,2023-11-01,0.47,Flu
+New York,2023-12-01,0.12,Flu
+New York,2024-01-01,0.93,Flu
+New York,2024-02-01,0.64,Flu
+New York,2024-03-01,0.92,Flu
+New York,2024-04-01,0.39,Flu
+New York,2024-05-01,0.86,Flu
+New York,2024-06-01,0.74,Flu
+New York,2024-07-01,0.6,Flu
+New York,2024-08-01,0.81,Flu
+New York,2024-09-01,0.55,Flu
+New York,2024-10-01,0.27,Flu
+New York,2024-11-01,0.87,Flu
+New York,2024-12-01,0.65,Flu
+North Carolina,2020-01-01,0.45,Flu
+North Carolina,2020-02-01,0.8,Flu
+North Carolina,2020-03-01,0.59,Flu
+North Carolina,2020-04-01,0.07,Flu
+North Carolina,2020-05-01,0.71,Flu
+North Carolina,2020-06-01,0.81,Flu
+North Carolina,2020-07-01,0.51,Flu
+North Carolina,2020-08-01,0.1,Flu
+North Carolina,2020-09-01,0.77,Flu
+North Carolina,2020-10-01,0.56,Flu
+North Carolina,2020-11-01,0.14,Flu
+North Carolina,2020-12-01,0.45,Flu
+North Carolina,2021-01-01,0.86,Flu
+North Carolina,2021-02-01,0.92,Flu
+North Carolina,2021-03-01,0.71,Flu
+North Carolina,2021-04-01,0.9,Flu
+North Carolina,2021-05-01,0.84,Flu
+North Carolina,2021-06-01,0.33,Flu
+North Carolina,2021-07-01,0.93,Flu
+North Carolina,2021-08-01,0.09,Flu
+North Carolina,2021-09-01,0.82,Flu
+North Carolina,2021-10-01,0.09,Flu
+North Carolina,2021-11-01,0.57,Flu
+North Carolina,2021-12-01,0.21,Flu
+North Carolina,2022-01-01,0.49,Flu
+North Carolina,2022-02-01,0.17,Flu
+North Carolina,2022-03-01,0.67,Flu
+North Carolina,2022-04-01,0.28,Flu
+North Carolina,2022-05-01,0.89,Flu
+North Carolina,2022-06-01,0.89,Flu
+North Carolina,2022-07-01,0.11,Flu
+North Carolina,2022-08-01,0.84,Flu
+North Carolina,2022-09-01,0.28,Flu
+North Carolina,2022-10-01,0.62,Flu
+North Carolina,2022-11-01,0.47,Flu
+North Carolina,2022-12-01,0.43,Flu
+North Carolina,2023-01-01,0.94,Flu
+North Carolina,2023-02-01,0.02,Flu
+North Carolina,2023-03-01,0.85,Flu
+North Carolina,2023-04-01,0.84,Flu
+North Carolina,2023-05-01,0.99,Flu
+North Carolina,2023-06-01,0.24,Flu
+North Carolina,2023-07-01,0.53,Flu
+North Carolina,2023-08-01,0.63,Flu
+North Carolina,2023-09-01,0.5,Flu
+North Carolina,2023-10-01,0.96,Flu
+North Carolina,2023-11-01,0.73,Flu
+North Carolina,2023-12-01,0.34,Flu
+North Carolina,2024-01-01,0.49,Flu
+North Carolina,2024-02-01,0.16,Flu
+North Carolina,2024-03-01,0.58,Flu
+North Carolina,2024-04-01,0.87,Flu
+North Carolina,2024-05-01,0.34,Flu
+North Carolina,2024-06-01,0.96,Flu
+North Carolina,2024-07-01,0.82,Flu
+North Carolina,2024-08-01,0.0,Flu
+North Carolina,2024-09-01,0.52,Flu
+North Carolina,2024-10-01,0.98,Flu
+North Carolina,2024-11-01,0.87,Flu
+North Carolina,2024-12-01,0.05,Flu
+North Dakota,2020-01-01,0.54,Flu
+North Dakota,2020-02-01,0.25,Flu
+North Dakota,2020-03-01,0.36,Flu
+North Dakota,2020-04-01,0.93,Flu
+North Dakota,2020-05-01,0.58,Flu
+North Dakota,2020-06-01,0.41,Flu
+North Dakota,2020-07-01,0.24,Flu
+North Dakota,2020-08-01,0.85,Flu
+North Dakota,2020-09-01,0.26,Flu
+North Dakota,2020-10-01,0.92,Flu
+North Dakota,2020-11-01,0.89,Flu
+North Dakota,2020-12-01,0.2,Flu
+North Dakota,2021-01-01,0.08,Flu
+North Dakota,2021-02-01,0.31,Flu
+North Dakota,2021-03-01,0.85,Flu
+North Dakota,2021-04-01,0.69,Flu
+North Dakota,2021-05-01,0.52,Flu
+North Dakota,2021-06-01,0.18,Flu
+North Dakota,2021-07-01,0.38,Flu
+North Dakota,2021-08-01,0.24,Flu
+North Dakota,2021-09-01,0.84,Flu
+North Dakota,2021-10-01,0.35,Flu
+North Dakota,2021-11-01,0.63,Flu
+North Dakota,2021-12-01,0.55,Flu
+North Dakota,2022-01-01,0.62,Flu
+North Dakota,2022-02-01,0.5,Flu
+North Dakota,2022-03-01,0.87,Flu
+North Dakota,2022-04-01,0.0,Flu
+North Dakota,2022-05-01,0.2,Flu
+North Dakota,2022-06-01,0.72,Flu
+North Dakota,2022-07-01,0.14,Flu
+North Dakota,2022-08-01,0.49,Flu
+North Dakota,2022-09-01,0.51,Flu
+North Dakota,2022-10-01,0.48,Flu
+North Dakota,2022-11-01,0.95,Flu
+North Dakota,2022-12-01,0.74,Flu
+North Dakota,2023-01-01,0.39,Flu
+North Dakota,2023-02-01,0.52,Flu
+North Dakota,2023-03-01,0.85,Flu
+North Dakota,2023-04-01,0.88,Flu
+North Dakota,2023-05-01,0.43,Flu
+North Dakota,2023-06-01,0.57,Flu
+North Dakota,2023-07-01,0.74,Flu
+North Dakota,2023-08-01,0.74,Flu
+North Dakota,2023-09-01,0.48,Flu
+North Dakota,2023-10-01,0.17,Flu
+North Dakota,2023-11-01,0.8,Flu
+North Dakota,2023-12-01,0.24,Flu
+North Dakota,2024-01-01,0.39,Flu
+North Dakota,2024-02-01,0.87,Flu
+North Dakota,2024-03-01,0.41,Flu
+North Dakota,2024-04-01,0.2,Flu
+North Dakota,2024-05-01,0.18,Flu
+North Dakota,2024-06-01,0.4,Flu
+North Dakota,2024-07-01,0.66,Flu
+North Dakota,2024-08-01,0.35,Flu
+North Dakota,2024-09-01,0.97,Flu
+North Dakota,2024-10-01,0.31,Flu
+North Dakota,2024-11-01,0.05,Flu
+North Dakota,2024-12-01,0.38,Flu
+Ohio,2020-01-01,0.28,Flu
+Ohio,2020-02-01,0.99,Flu
+Ohio,2020-03-01,0.0,Flu
+Ohio,2020-04-01,0.24,Flu
+Ohio,2020-05-01,0.47,Flu
+Ohio,2020-06-01,0.82,Flu
+Ohio,2020-07-01,0.39,Flu
+Ohio,2020-08-01,0.86,Flu
+Ohio,2020-09-01,0.57,Flu
+Ohio,2020-10-01,0.18,Flu
+Ohio,2020-11-01,0.84,Flu
+Ohio,2020-12-01,0.72,Flu
+Ohio,2021-01-01,0.34,Flu
+Ohio,2021-02-01,0.72,Flu
+Ohio,2021-03-01,0.46,Flu
+Ohio,2021-04-01,0.53,Flu
+Ohio,2021-05-01,0.17,Flu
+Ohio,2021-06-01,0.62,Flu
+Ohio,2021-07-01,0.58,Flu
+Ohio,2021-08-01,0.98,Flu
+Ohio,2021-09-01,0.49,Flu
+Ohio,2021-10-01,0.85,Flu
+Ohio,2021-11-01,0.8,Flu
+Ohio,2021-12-01,0.07,Flu
+Ohio,2022-01-01,0.27,Flu
+Ohio,2022-02-01,0.81,Flu
+Ohio,2022-03-01,0.49,Flu
+Ohio,2022-04-01,0.28,Flu
+Ohio,2022-05-01,0.08,Flu
+Ohio,2022-06-01,0.68,Flu
+Ohio,2022-07-01,0.56,Flu
+Ohio,2022-08-01,0.01,Flu
+Ohio,2022-09-01,0.39,Flu
+Ohio,2022-10-01,0.88,Flu
+Ohio,2022-11-01,0.75,Flu
+Ohio,2022-12-01,0.04,Flu
+Ohio,2023-01-01,0.86,Flu
+Ohio,2023-02-01,0.89,Flu
+Ohio,2023-03-01,0.44,Flu
+Ohio,2023-04-01,0.76,Flu
+Ohio,2023-05-01,0.41,Flu
+Ohio,2023-06-01,0.52,Flu
+Ohio,2023-07-01,0.96,Flu
+Ohio,2023-08-01,0.9,Flu
+Ohio,2023-09-01,0.24,Flu
+Ohio,2023-10-01,0.66,Flu
+Ohio,2023-11-01,0.77,Flu
+Ohio,2023-12-01,0.5,Flu
+Ohio,2024-01-01,0.57,Flu
+Ohio,2024-02-01,0.47,Flu
+Ohio,2024-03-01,0.89,Flu
+Ohio,2024-04-01,0.84,Flu
+Ohio,2024-05-01,0.75,Flu
+Ohio,2024-06-01,0.56,Flu
+Ohio,2024-07-01,0.93,Flu
+Ohio,2024-08-01,0.6,Flu
+Ohio,2024-09-01,0.66,Flu
+Ohio,2024-10-01,0.47,Flu
+Ohio,2024-11-01,0.01,Flu
+Ohio,2024-12-01,0.69,Flu
+Oklahoma,2020-01-01,0.86,Flu
+Oklahoma,2020-02-01,0.39,Flu
+Oklahoma,2020-03-01,0.26,Flu
+Oklahoma,2020-04-01,0.48,Flu
+Oklahoma,2020-05-01,0.97,Flu
+Oklahoma,2020-06-01,0.01,Flu
+Oklahoma,2020-07-01,0.57,Flu
+Oklahoma,2020-08-01,0.06,Flu
+Oklahoma,2020-09-01,0.06,Flu
+Oklahoma,2020-10-01,0.87,Flu
+Oklahoma,2020-11-01,0.83,Flu
+Oklahoma,2020-12-01,0.93,Flu
+Oklahoma,2021-01-01,0.98,Flu
+Oklahoma,2021-02-01,0.48,Flu
+Oklahoma,2021-03-01,0.35,Flu
+Oklahoma,2021-04-01,0.27,Flu
+Oklahoma,2021-05-01,0.27,Flu
+Oklahoma,2021-06-01,0.63,Flu
+Oklahoma,2021-07-01,0.24,Flu
+Oklahoma,2021-08-01,0.34,Flu
+Oklahoma,2021-09-01,0.99,Flu
+Oklahoma,2021-10-01,0.25,Flu
+Oklahoma,2021-11-01,0.09,Flu
+Oklahoma,2021-12-01,0.55,Flu
+Oklahoma,2022-01-01,0.45,Flu
+Oklahoma,2022-02-01,0.47,Flu
+Oklahoma,2022-03-01,0.89,Flu
+Oklahoma,2022-04-01,0.07,Flu
+Oklahoma,2022-05-01,0.74,Flu
+Oklahoma,2022-06-01,0.87,Flu
+Oklahoma,2022-07-01,0.12,Flu
+Oklahoma,2022-08-01,0.01,Flu
+Oklahoma,2022-09-01,0.81,Flu
+Oklahoma,2022-10-01,0.19,Flu
+Oklahoma,2022-11-01,0.97,Flu
+Oklahoma,2022-12-01,0.82,Flu
+Oklahoma,2023-01-01,0.03,Flu
+Oklahoma,2023-02-01,0.51,Flu
+Oklahoma,2023-03-01,0.42,Flu
+Oklahoma,2023-04-01,0.01,Flu
+Oklahoma,2023-05-01,0.91,Flu
+Oklahoma,2023-06-01,0.01,Flu
+Oklahoma,2023-07-01,0.38,Flu
+Oklahoma,2023-08-01,0.85,Flu
+Oklahoma,2023-09-01,0.06,Flu
+Oklahoma,2023-10-01,0.49,Flu
+Oklahoma,2023-11-01,0.71,Flu
+Oklahoma,2023-12-01,0.27,Flu
+Oklahoma,2024-01-01,0.25,Flu
+Oklahoma,2024-02-01,0.76,Flu
+Oklahoma,2024-03-01,0.01,Flu
+Oklahoma,2024-04-01,0.11,Flu
+Oklahoma,2024-05-01,0.08,Flu
+Oklahoma,2024-06-01,0.33,Flu
+Oklahoma,2024-07-01,0.0,Flu
+Oklahoma,2024-08-01,0.69,Flu
+Oklahoma,2024-09-01,0.04,Flu
+Oklahoma,2024-10-01,0.88,Flu
+Oklahoma,2024-11-01,0.0,Flu
+Oklahoma,2024-12-01,0.73,Flu
+Oregon,2020-01-01,0.48,Flu
+Oregon,2020-02-01,1.0,Flu
+Oregon,2020-03-01,0.49,Flu
+Oregon,2020-04-01,0.72,Flu
+Oregon,2020-05-01,0.32,Flu
+Oregon,2020-06-01,0.06,Flu
+Oregon,2020-07-01,0.95,Flu
+Oregon,2020-08-01,0.33,Flu
+Oregon,2020-09-01,0.78,Flu
+Oregon,2020-10-01,0.7,Flu
+Oregon,2020-11-01,0.79,Flu
+Oregon,2020-12-01,0.52,Flu
+Oregon,2021-01-01,0.34,Flu
+Oregon,2021-02-01,0.31,Flu
+Oregon,2021-03-01,0.39,Flu
+Oregon,2021-04-01,0.28,Flu
+Oregon,2021-05-01,0.34,Flu
+Oregon,2021-06-01,0.21,Flu
+Oregon,2021-07-01,0.81,Flu
+Oregon,2021-08-01,0.83,Flu
+Oregon,2021-09-01,0.31,Flu
+Oregon,2021-10-01,0.38,Flu
+Oregon,2021-11-01,0.45,Flu
+Oregon,2021-12-01,0.2,Flu
+Oregon,2022-01-01,0.97,Flu
+Oregon,2022-02-01,0.5,Flu
+Oregon,2022-03-01,0.25,Flu
+Oregon,2022-04-01,0.92,Flu
+Oregon,2022-05-01,0.12,Flu
+Oregon,2022-06-01,0.68,Flu
+Oregon,2022-07-01,0.04,Flu
+Oregon,2022-08-01,0.08,Flu
+Oregon,2022-09-01,0.31,Flu
+Oregon,2022-10-01,0.97,Flu
+Oregon,2022-11-01,0.65,Flu
+Oregon,2022-12-01,0.4,Flu
+Oregon,2023-01-01,0.64,Flu
+Oregon,2023-02-01,0.13,Flu
+Oregon,2023-03-01,0.43,Flu
+Oregon,2023-04-01,0.57,Flu
+Oregon,2023-05-01,0.45,Flu
+Oregon,2023-06-01,0.39,Flu
+Oregon,2023-07-01,0.48,Flu
+Oregon,2023-08-01,0.88,Flu
+Oregon,2023-09-01,0.97,Flu
+Oregon,2023-10-01,0.39,Flu
+Oregon,2023-11-01,0.39,Flu
+Oregon,2023-12-01,0.36,Flu
+Oregon,2024-01-01,0.39,Flu
+Oregon,2024-02-01,0.51,Flu
+Oregon,2024-03-01,0.39,Flu
+Oregon,2024-04-01,0.32,Flu
+Oregon,2024-05-01,0.18,Flu
+Oregon,2024-06-01,0.5,Flu
+Oregon,2024-07-01,0.6,Flu
+Oregon,2024-08-01,0.14,Flu
+Oregon,2024-09-01,0.56,Flu
+Oregon,2024-10-01,0.06,Flu
+Oregon,2024-11-01,0.91,Flu
+Oregon,2024-12-01,0.88,Flu
+Pennsylvania,2020-01-01,0.9,Flu
+Pennsylvania,2020-02-01,0.17,Flu
+Pennsylvania,2020-03-01,0.83,Flu
+Pennsylvania,2020-04-01,0.76,Flu
+Pennsylvania,2020-05-01,0.59,Flu
+Pennsylvania,2020-06-01,0.77,Flu
+Pennsylvania,2020-07-01,0.45,Flu
+Pennsylvania,2020-08-01,0.17,Flu
+Pennsylvania,2020-09-01,0.03,Flu
+Pennsylvania,2020-10-01,0.33,Flu
+Pennsylvania,2020-11-01,0.82,Flu
+Pennsylvania,2020-12-01,0.34,Flu
+Pennsylvania,2021-01-01,0.44,Flu
+Pennsylvania,2021-02-01,0.55,Flu
+Pennsylvania,2021-03-01,0.05,Flu
+Pennsylvania,2021-04-01,0.05,Flu
+Pennsylvania,2021-05-01,0.38,Flu
+Pennsylvania,2021-06-01,0.21,Flu
+Pennsylvania,2021-07-01,0.47,Flu
+Pennsylvania,2021-08-01,0.15,Flu
+Pennsylvania,2021-09-01,0.68,Flu
+Pennsylvania,2021-10-01,0.82,Flu
+Pennsylvania,2021-11-01,0.68,Flu
+Pennsylvania,2021-12-01,0.18,Flu
+Pennsylvania,2022-01-01,0.31,Flu
+Pennsylvania,2022-02-01,0.45,Flu
+Pennsylvania,2022-03-01,0.02,Flu
+Pennsylvania,2022-04-01,0.72,Flu
+Pennsylvania,2022-05-01,0.33,Flu
+Pennsylvania,2022-06-01,0.54,Flu
+Pennsylvania,2022-07-01,0.86,Flu
+Pennsylvania,2022-08-01,0.92,Flu
+Pennsylvania,2022-09-01,0.22,Flu
+Pennsylvania,2022-10-01,0.66,Flu
+Pennsylvania,2022-11-01,0.14,Flu
+Pennsylvania,2022-12-01,0.09,Flu
+Pennsylvania,2023-01-01,0.35,Flu
+Pennsylvania,2023-02-01,0.68,Flu
+Pennsylvania,2023-03-01,0.27,Flu
+Pennsylvania,2023-04-01,0.31,Flu
+Pennsylvania,2023-05-01,0.96,Flu
+Pennsylvania,2023-06-01,0.99,Flu
+Pennsylvania,2023-07-01,0.83,Flu
+Pennsylvania,2023-08-01,0.39,Flu
+Pennsylvania,2023-09-01,0.53,Flu
+Pennsylvania,2023-10-01,0.04,Flu
+Pennsylvania,2023-11-01,0.05,Flu
+Pennsylvania,2023-12-01,0.66,Flu
+Pennsylvania,2024-01-01,0.27,Flu
+Pennsylvania,2024-02-01,0.6,Flu
+Pennsylvania,2024-03-01,0.04,Flu
+Pennsylvania,2024-04-01,0.44,Flu
+Pennsylvania,2024-05-01,0.16,Flu
+Pennsylvania,2024-06-01,0.24,Flu
+Pennsylvania,2024-07-01,0.92,Flu
+Pennsylvania,2024-08-01,0.54,Flu
+Pennsylvania,2024-09-01,0.75,Flu
+Pennsylvania,2024-10-01,0.2,Flu
+Pennsylvania,2024-11-01,0.82,Flu
+Pennsylvania,2024-12-01,0.13,Flu
+Rhode Island,2020-01-01,0.21,Flu
+Rhode Island,2020-02-01,0.65,Flu
+Rhode Island,2020-03-01,0.55,Flu
+Rhode Island,2020-04-01,0.17,Flu
+Rhode Island,2020-05-01,0.91,Flu
+Rhode Island,2020-06-01,0.44,Flu
+Rhode Island,2020-07-01,0.94,Flu
+Rhode Island,2020-08-01,0.07,Flu
+Rhode Island,2020-09-01,0.53,Flu
+Rhode Island,2020-10-01,0.04,Flu
+Rhode Island,2020-11-01,0.52,Flu
+Rhode Island,2020-12-01,0.75,Flu
+Rhode Island,2021-01-01,0.08,Flu
+Rhode Island,2021-02-01,0.27,Flu
+Rhode Island,2021-03-01,0.89,Flu
+Rhode Island,2021-04-01,0.66,Flu
+Rhode Island,2021-05-01,0.32,Flu
+Rhode Island,2021-06-01,0.21,Flu
+Rhode Island,2021-07-01,0.87,Flu
+Rhode Island,2021-08-01,0.88,Flu
+Rhode Island,2021-09-01,0.13,Flu
+Rhode Island,2021-10-01,0.47,Flu
+Rhode Island,2021-11-01,0.75,Flu
+Rhode Island,2021-12-01,0.52,Flu
+Rhode Island,2022-01-01,0.99,Flu
+Rhode Island,2022-02-01,0.63,Flu
+Rhode Island,2022-03-01,0.04,Flu
+Rhode Island,2022-04-01,0.02,Flu
+Rhode Island,2022-05-01,0.99,Flu
+Rhode Island,2022-06-01,0.42,Flu
+Rhode Island,2022-07-01,0.09,Flu
+Rhode Island,2022-08-01,0.57,Flu
+Rhode Island,2022-09-01,0.36,Flu
+Rhode Island,2022-10-01,0.4,Flu
+Rhode Island,2022-11-01,0.96,Flu
+Rhode Island,2022-12-01,0.01,Flu
+Rhode Island,2023-01-01,0.96,Flu
+Rhode Island,2023-02-01,0.21,Flu
+Rhode Island,2023-03-01,0.64,Flu
+Rhode Island,2023-04-01,0.9,Flu
+Rhode Island,2023-05-01,0.14,Flu
+Rhode Island,2023-06-01,0.43,Flu
+Rhode Island,2023-07-01,0.69,Flu
+Rhode Island,2023-08-01,0.88,Flu
+Rhode Island,2023-09-01,0.05,Flu
+Rhode Island,2023-10-01,0.04,Flu
+Rhode Island,2023-11-01,0.47,Flu
+Rhode Island,2023-12-01,0.1,Flu
+Rhode Island,2024-01-01,0.1,Flu
+Rhode Island,2024-02-01,0.79,Flu
+Rhode Island,2024-03-01,0.98,Flu
+Rhode Island,2024-04-01,0.13,Flu
+Rhode Island,2024-05-01,0.68,Flu
+Rhode Island,2024-06-01,0.1,Flu
+Rhode Island,2024-07-01,0.48,Flu
+Rhode Island,2024-08-01,0.21,Flu
+Rhode Island,2024-09-01,0.8,Flu
+Rhode Island,2024-10-01,0.56,Flu
+Rhode Island,2024-11-01,0.63,Flu
+Rhode Island,2024-12-01,0.17,Flu
+South Carolina,2020-01-01,0.27,Flu
+South Carolina,2020-02-01,0.91,Flu
+South Carolina,2020-03-01,0.33,Flu
+South Carolina,2020-04-01,0.43,Flu
+South Carolina,2020-05-01,0.59,Flu
+South Carolina,2020-06-01,0.17,Flu
+South Carolina,2020-07-01,0.93,Flu
+South Carolina,2020-08-01,0.77,Flu
+South Carolina,2020-09-01,0.93,Flu
+South Carolina,2020-10-01,0.88,Flu
+South Carolina,2020-11-01,0.02,Flu
+South Carolina,2020-12-01,0.87,Flu
+South Carolina,2021-01-01,0.56,Flu
+South Carolina,2021-02-01,0.37,Flu
+South Carolina,2021-03-01,0.63,Flu
+South Carolina,2021-04-01,0.66,Flu
+South Carolina,2021-05-01,0.43,Flu
+South Carolina,2021-06-01,0.37,Flu
+South Carolina,2021-07-01,0.61,Flu
+South Carolina,2021-08-01,0.23,Flu
+South Carolina,2021-09-01,0.82,Flu
+South Carolina,2021-10-01,0.89,Flu
+South Carolina,2021-11-01,0.32,Flu
+South Carolina,2021-12-01,0.89,Flu
+South Carolina,2022-01-01,0.79,Flu
+South Carolina,2022-02-01,0.49,Flu
+South Carolina,2022-03-01,0.92,Flu
+South Carolina,2022-04-01,0.28,Flu
+South Carolina,2022-05-01,0.78,Flu
+South Carolina,2022-06-01,0.42,Flu
+South Carolina,2022-07-01,0.1,Flu
+South Carolina,2022-08-01,0.21,Flu
+South Carolina,2022-09-01,0.71,Flu
+South Carolina,2022-10-01,0.8,Flu
+South Carolina,2022-11-01,0.42,Flu
+South Carolina,2022-12-01,0.28,Flu
+South Carolina,2023-01-01,0.02,Flu
+South Carolina,2023-02-01,0.69,Flu
+South Carolina,2023-03-01,0.75,Flu
+South Carolina,2023-04-01,0.24,Flu
+South Carolina,2023-05-01,0.54,Flu
+South Carolina,2023-06-01,0.92,Flu
+South Carolina,2023-07-01,0.29,Flu
+South Carolina,2023-08-01,0.51,Flu
+South Carolina,2023-09-01,0.76,Flu
+South Carolina,2023-10-01,0.45,Flu
+South Carolina,2023-11-01,0.33,Flu
+South Carolina,2023-12-01,0.47,Flu
+South Carolina,2024-01-01,0.89,Flu
+South Carolina,2024-02-01,0.19,Flu
+South Carolina,2024-03-01,0.67,Flu
+South Carolina,2024-04-01,0.23,Flu
+South Carolina,2024-05-01,0.98,Flu
+South Carolina,2024-06-01,0.81,Flu
+South Carolina,2024-07-01,0.43,Flu
+South Carolina,2024-08-01,0.84,Flu
+South Carolina,2024-09-01,0.55,Flu
+South Carolina,2024-10-01,0.72,Flu
+South Carolina,2024-11-01,0.24,Flu
+South Carolina,2024-12-01,0.19,Flu
+South Dakota,2020-01-01,0.19,Flu
+South Dakota,2020-02-01,0.67,Flu
+South Dakota,2020-03-01,0.38,Flu
+South Dakota,2020-04-01,0.8,Flu
+South Dakota,2020-05-01,0.11,Flu
+South Dakota,2020-06-01,0.08,Flu
+South Dakota,2020-07-01,0.72,Flu
+South Dakota,2020-08-01,0.73,Flu
+South Dakota,2020-09-01,0.44,Flu
+South Dakota,2020-10-01,0.67,Flu
+South Dakota,2020-11-01,0.56,Flu
+South Dakota,2020-12-01,0.19,Flu
+South Dakota,2021-01-01,0.61,Flu
+South Dakota,2021-02-01,0.98,Flu
+South Dakota,2021-03-01,0.6,Flu
+South Dakota,2021-04-01,0.74,Flu
+South Dakota,2021-05-01,0.89,Flu
+South Dakota,2021-06-01,0.99,Flu
+South Dakota,2021-07-01,0.02,Flu
+South Dakota,2021-08-01,0.82,Flu
+South Dakota,2021-09-01,0.46,Flu
+South Dakota,2021-10-01,0.74,Flu
+South Dakota,2021-11-01,0.65,Flu
+South Dakota,2021-12-01,0.12,Flu
+South Dakota,2022-01-01,0.49,Flu
+South Dakota,2022-02-01,0.58,Flu
+South Dakota,2022-03-01,0.86,Flu
+South Dakota,2022-04-01,0.02,Flu
+South Dakota,2022-05-01,0.43,Flu
+South Dakota,2022-06-01,0.88,Flu
+South Dakota,2022-07-01,0.62,Flu
+South Dakota,2022-08-01,0.13,Flu
+South Dakota,2022-09-01,0.72,Flu
+South Dakota,2022-10-01,0.35,Flu
+South Dakota,2022-11-01,0.14,Flu
+South Dakota,2022-12-01,0.09,Flu
+South Dakota,2023-01-01,0.8,Flu
+South Dakota,2023-02-01,0.09,Flu
+South Dakota,2023-03-01,0.64,Flu
+South Dakota,2023-04-01,0.22,Flu
+South Dakota,2023-05-01,0.36,Flu
+South Dakota,2023-06-01,0.71,Flu
+South Dakota,2023-07-01,0.34,Flu
+South Dakota,2023-08-01,0.71,Flu
+South Dakota,2023-09-01,0.26,Flu
+South Dakota,2023-10-01,0.93,Flu
+South Dakota,2023-11-01,0.69,Flu
+South Dakota,2023-12-01,0.57,Flu
+South Dakota,2024-01-01,0.51,Flu
+South Dakota,2024-02-01,0.48,Flu
+South Dakota,2024-03-01,0.45,Flu
+South Dakota,2024-04-01,0.86,Flu
+South Dakota,2024-05-01,0.31,Flu
+South Dakota,2024-06-01,0.36,Flu
+South Dakota,2024-07-01,0.6,Flu
+South Dakota,2024-08-01,0.18,Flu
+South Dakota,2024-09-01,0.72,Flu
+South Dakota,2024-10-01,0.76,Flu
+South Dakota,2024-11-01,0.28,Flu
+South Dakota,2024-12-01,0.8,Flu
+Tennessee,2020-01-01,0.62,Flu
+Tennessee,2020-02-01,0.05,Flu
+Tennessee,2020-03-01,0.02,Flu
+Tennessee,2020-04-01,0.75,Flu
+Tennessee,2020-05-01,0.77,Flu
+Tennessee,2020-06-01,0.09,Flu
+Tennessee,2020-07-01,0.29,Flu
+Tennessee,2020-08-01,0.04,Flu
+Tennessee,2020-09-01,0.02,Flu
+Tennessee,2020-10-01,0.01,Flu
+Tennessee,2020-11-01,0.11,Flu
+Tennessee,2020-12-01,0.59,Flu
+Tennessee,2021-01-01,0.37,Flu
+Tennessee,2021-02-01,0.79,Flu
+Tennessee,2021-03-01,0.48,Flu
+Tennessee,2021-04-01,0.26,Flu
+Tennessee,2021-05-01,0.33,Flu
+Tennessee,2021-06-01,0.91,Flu
+Tennessee,2021-07-01,0.14,Flu
+Tennessee,2021-08-01,0.7,Flu
+Tennessee,2021-09-01,0.26,Flu
+Tennessee,2021-10-01,0.88,Flu
+Tennessee,2021-11-01,0.25,Flu
+Tennessee,2021-12-01,0.34,Flu
+Tennessee,2022-01-01,0.65,Flu
+Tennessee,2022-02-01,0.36,Flu
+Tennessee,2022-03-01,0.74,Flu
+Tennessee,2022-04-01,0.75,Flu
+Tennessee,2022-05-01,0.03,Flu
+Tennessee,2022-06-01,0.95,Flu
+Tennessee,2022-07-01,0.99,Flu
+Tennessee,2022-08-01,0.49,Flu
+Tennessee,2022-09-01,0.16,Flu
+Tennessee,2022-10-01,0.47,Flu
+Tennessee,2022-11-01,0.5,Flu
+Tennessee,2022-12-01,0.34,Flu
+Tennessee,2023-01-01,0.07,Flu
+Tennessee,2023-02-01,0.82,Flu
+Tennessee,2023-03-01,0.16,Flu
+Tennessee,2023-04-01,0.61,Flu
+Tennessee,2023-05-01,0.03,Flu
+Tennessee,2023-06-01,0.18,Flu
+Tennessee,2023-07-01,0.16,Flu
+Tennessee,2023-08-01,0.2,Flu
+Tennessee,2023-09-01,0.22,Flu
+Tennessee,2023-10-01,0.04,Flu
+Tennessee,2023-11-01,0.33,Flu
+Tennessee,2023-12-01,0.03,Flu
+Tennessee,2024-01-01,0.04,Flu
+Tennessee,2024-02-01,0.8,Flu
+Tennessee,2024-03-01,0.83,Flu
+Tennessee,2024-04-01,0.74,Flu
+Tennessee,2024-05-01,0.62,Flu
+Tennessee,2024-06-01,0.76,Flu
+Tennessee,2024-07-01,0.35,Flu
+Tennessee,2024-08-01,0.29,Flu
+Tennessee,2024-09-01,0.44,Flu
+Tennessee,2024-10-01,0.02,Flu
+Tennessee,2024-11-01,0.53,Flu
+Tennessee,2024-12-01,0.35,Flu
+Texas,2020-01-01,0.2,Flu
+Texas,2020-02-01,0.23,Flu
+Texas,2020-03-01,0.51,Flu
+Texas,2020-04-01,0.22,Flu
+Texas,2020-05-01,0.79,Flu
+Texas,2020-06-01,0.77,Flu
+Texas,2020-07-01,0.86,Flu
+Texas,2020-08-01,0.11,Flu
+Texas,2020-09-01,0.8,Flu
+Texas,2020-10-01,0.09,Flu
+Texas,2020-11-01,0.08,Flu
+Texas,2020-12-01,0.69,Flu
+Texas,2021-01-01,0.72,Flu
+Texas,2021-02-01,0.5,Flu
+Texas,2021-03-01,0.4,Flu
+Texas,2021-04-01,0.97,Flu
+Texas,2021-05-01,0.92,Flu
+Texas,2021-06-01,0.95,Flu
+Texas,2021-07-01,0.55,Flu
+Texas,2021-08-01,0.21,Flu
+Texas,2021-09-01,0.07,Flu
+Texas,2021-10-01,0.64,Flu
+Texas,2021-11-01,0.26,Flu
+Texas,2021-12-01,0.6,Flu
+Texas,2022-01-01,0.13,Flu
+Texas,2022-02-01,0.15,Flu
+Texas,2022-03-01,0.47,Flu
+Texas,2022-04-01,0.01,Flu
+Texas,2022-05-01,0.85,Flu
+Texas,2022-06-01,0.94,Flu
+Texas,2022-07-01,0.7,Flu
+Texas,2022-08-01,0.12,Flu
+Texas,2022-09-01,0.99,Flu
+Texas,2022-10-01,0.36,Flu
+Texas,2022-11-01,0.62,Flu
+Texas,2022-12-01,0.93,Flu
+Texas,2023-01-01,0.93,Flu
+Texas,2023-02-01,0.35,Flu
+Texas,2023-03-01,0.76,Flu
+Texas,2023-04-01,0.56,Flu
+Texas,2023-05-01,0.21,Flu
+Texas,2023-06-01,0.33,Flu
+Texas,2023-07-01,0.13,Flu
+Texas,2023-08-01,0.62,Flu
+Texas,2023-09-01,0.26,Flu
+Texas,2023-10-01,0.21,Flu
+Texas,2023-11-01,0.99,Flu
+Texas,2023-12-01,0.25,Flu
+Texas,2024-01-01,0.35,Flu
+Texas,2024-02-01,0.54,Flu
+Texas,2024-03-01,0.09,Flu
+Texas,2024-04-01,0.84,Flu
+Texas,2024-05-01,0.52,Flu
+Texas,2024-06-01,0.99,Flu
+Texas,2024-07-01,0.78,Flu
+Texas,2024-08-01,0.28,Flu
+Texas,2024-09-01,0.41,Flu
+Texas,2024-10-01,0.03,Flu
+Texas,2024-11-01,0.91,Flu
+Texas,2024-12-01,0.62,Flu
+Utah,2020-01-01,0.18,Flu
+Utah,2020-02-01,0.88,Flu
+Utah,2020-03-01,0.08,Flu
+Utah,2020-04-01,0.14,Flu
+Utah,2020-05-01,0.27,Flu
+Utah,2020-06-01,0.87,Flu
+Utah,2020-07-01,0.39,Flu
+Utah,2020-08-01,0.39,Flu
+Utah,2020-09-01,0.31,Flu
+Utah,2020-10-01,0.52,Flu
+Utah,2020-11-01,0.71,Flu
+Utah,2020-12-01,0.46,Flu
+Utah,2021-01-01,0.8,Flu
+Utah,2021-02-01,0.71,Flu
+Utah,2021-03-01,0.07,Flu
+Utah,2021-04-01,0.83,Flu
+Utah,2021-05-01,0.75,Flu
+Utah,2021-06-01,0.77,Flu
+Utah,2021-07-01,0.99,Flu
+Utah,2021-08-01,0.23,Flu
+Utah,2021-09-01,0.96,Flu
+Utah,2021-10-01,0.33,Flu
+Utah,2021-11-01,0.93,Flu
+Utah,2021-12-01,0.98,Flu
+Utah,2022-01-01,0.4,Flu
+Utah,2022-02-01,0.78,Flu
+Utah,2022-03-01,0.77,Flu
+Utah,2022-04-01,0.33,Flu
+Utah,2022-05-01,0.54,Flu
+Utah,2022-06-01,0.17,Flu
+Utah,2022-07-01,0.41,Flu
+Utah,2022-08-01,0.19,Flu
+Utah,2022-09-01,0.31,Flu
+Utah,2022-10-01,0.53,Flu
+Utah,2022-11-01,0.96,Flu
+Utah,2022-12-01,0.38,Flu
+Utah,2023-01-01,0.97,Flu
+Utah,2023-02-01,0.44,Flu
+Utah,2023-03-01,0.1,Flu
+Utah,2023-04-01,0.86,Flu
+Utah,2023-05-01,0.18,Flu
+Utah,2023-06-01,0.15,Flu
+Utah,2023-07-01,0.82,Flu
+Utah,2023-08-01,0.33,Flu
+Utah,2023-09-01,0.73,Flu
+Utah,2023-10-01,0.49,Flu
+Utah,2023-11-01,0.78,Flu
+Utah,2023-12-01,0.83,Flu
+Utah,2024-01-01,0.91,Flu
+Utah,2024-02-01,0.49,Flu
+Utah,2024-03-01,0.8,Flu
+Utah,2024-04-01,0.99,Flu
+Utah,2024-05-01,0.25,Flu
+Utah,2024-06-01,0.23,Flu
+Utah,2024-07-01,0.7,Flu
+Utah,2024-08-01,0.8,Flu
+Utah,2024-09-01,0.03,Flu
+Utah,2024-10-01,0.96,Flu
+Utah,2024-11-01,0.19,Flu
+Utah,2024-12-01,0.57,Flu
+Vermont,2020-01-01,0.54,Flu
+Vermont,2020-02-01,0.23,Flu
+Vermont,2020-03-01,0.49,Flu
+Vermont,2020-04-01,0.66,Flu
+Vermont,2020-05-01,0.9,Flu
+Vermont,2020-06-01,0.11,Flu
+Vermont,2020-07-01,0.56,Flu
+Vermont,2020-08-01,0.55,Flu
+Vermont,2020-09-01,0.04,Flu
+Vermont,2020-10-01,0.83,Flu
+Vermont,2020-11-01,0.38,Flu
+Vermont,2020-12-01,0.31,Flu
+Vermont,2021-01-01,0.42,Flu
+Vermont,2021-02-01,0.26,Flu
+Vermont,2021-03-01,0.13,Flu
+Vermont,2021-04-01,0.54,Flu
+Vermont,2021-05-01,0.04,Flu
+Vermont,2021-06-01,0.73,Flu
+Vermont,2021-07-01,0.33,Flu
+Vermont,2021-08-01,0.19,Flu
+Vermont,2021-09-01,0.05,Flu
+Vermont,2021-10-01,0.13,Flu
+Vermont,2021-11-01,0.12,Flu
+Vermont,2021-12-01,0.86,Flu
+Vermont,2022-01-01,0.85,Flu
+Vermont,2022-02-01,0.19,Flu
+Vermont,2022-03-01,0.93,Flu
+Vermont,2022-04-01,0.06,Flu
+Vermont,2022-05-01,0.04,Flu
+Vermont,2022-06-01,0.77,Flu
+Vermont,2022-07-01,0.0,Flu
+Vermont,2022-08-01,0.54,Flu
+Vermont,2022-09-01,0.79,Flu
+Vermont,2022-10-01,0.6,Flu
+Vermont,2022-11-01,0.93,Flu
+Vermont,2022-12-01,0.15,Flu
+Vermont,2023-01-01,0.55,Flu
+Vermont,2023-02-01,0.85,Flu
+Vermont,2023-03-01,0.73,Flu
+Vermont,2023-04-01,0.01,Flu
+Vermont,2023-05-01,0.2,Flu
+Vermont,2023-06-01,0.81,Flu
+Vermont,2023-07-01,0.35,Flu
+Vermont,2023-08-01,0.27,Flu
+Vermont,2023-09-01,0.15,Flu
+Vermont,2023-10-01,0.9,Flu
+Vermont,2023-11-01,0.86,Flu
+Vermont,2023-12-01,0.77,Flu
+Vermont,2024-01-01,0.18,Flu
+Vermont,2024-02-01,0.04,Flu
+Vermont,2024-03-01,0.15,Flu
+Vermont,2024-04-01,0.98,Flu
+Vermont,2024-05-01,0.87,Flu
+Vermont,2024-06-01,0.42,Flu
+Vermont,2024-07-01,0.04,Flu
+Vermont,2024-08-01,0.19,Flu
+Vermont,2024-09-01,0.9,Flu
+Vermont,2024-10-01,0.99,Flu
+Vermont,2024-11-01,0.53,Flu
+Vermont,2024-12-01,0.89,Flu
+Virginia,2020-01-01,0.1,Flu
+Virginia,2020-02-01,0.98,Flu
+Virginia,2020-03-01,0.6,Flu
+Virginia,2020-04-01,0.59,Flu
+Virginia,2020-05-01,0.88,Flu
+Virginia,2020-06-01,0.93,Flu
+Virginia,2020-07-01,0.4,Flu
+Virginia,2020-08-01,0.01,Flu
+Virginia,2020-09-01,0.5,Flu
+Virginia,2020-10-01,0.09,Flu
+Virginia,2020-11-01,0.25,Flu
+Virginia,2020-12-01,0.21,Flu
+Virginia,2021-01-01,0.43,Flu
+Virginia,2021-02-01,0.26,Flu
+Virginia,2021-03-01,0.47,Flu
+Virginia,2021-04-01,0.87,Flu
+Virginia,2021-05-01,0.7,Flu
+Virginia,2021-06-01,0.86,Flu
+Virginia,2021-07-01,0.65,Flu
+Virginia,2021-08-01,0.71,Flu
+Virginia,2021-09-01,0.71,Flu
+Virginia,2021-10-01,0.22,Flu
+Virginia,2021-11-01,0.93,Flu
+Virginia,2021-12-01,0.19,Flu
+Virginia,2022-01-01,0.14,Flu
+Virginia,2022-02-01,0.14,Flu
+Virginia,2022-03-01,0.44,Flu
+Virginia,2022-04-01,0.36,Flu
+Virginia,2022-05-01,0.04,Flu
+Virginia,2022-06-01,0.1,Flu
+Virginia,2022-07-01,0.96,Flu
+Virginia,2022-08-01,0.16,Flu
+Virginia,2022-09-01,0.58,Flu
+Virginia,2022-10-01,0.97,Flu
+Virginia,2022-11-01,0.05,Flu
+Virginia,2022-12-01,0.59,Flu
+Virginia,2023-01-01,0.42,Flu
+Virginia,2023-02-01,0.64,Flu
+Virginia,2023-03-01,0.77,Flu
+Virginia,2023-04-01,0.1,Flu
+Virginia,2023-05-01,0.02,Flu
+Virginia,2023-06-01,0.04,Flu
+Virginia,2023-07-01,0.57,Flu
+Virginia,2023-08-01,0.36,Flu
+Virginia,2023-09-01,0.23,Flu
+Virginia,2023-10-01,0.65,Flu
+Virginia,2023-11-01,0.8,Flu
+Virginia,2023-12-01,0.26,Flu
+Virginia,2024-01-01,0.38,Flu
+Virginia,2024-02-01,0.88,Flu
+Virginia,2024-03-01,0.65,Flu
+Virginia,2024-04-01,0.43,Flu
+Virginia,2024-05-01,0.97,Flu
+Virginia,2024-06-01,0.81,Flu
+Virginia,2024-07-01,0.22,Flu
+Virginia,2024-08-01,0.47,Flu
+Virginia,2024-09-01,0.12,Flu
+Virginia,2024-10-01,0.79,Flu
+Virginia,2024-11-01,0.67,Flu
+Virginia,2024-12-01,0.19,Flu
+Washington,2020-01-01,0.75,Flu
+Washington,2020-02-01,0.73,Flu
+Washington,2020-03-01,0.23,Flu
+Washington,2020-04-01,0.68,Flu
+Washington,2020-05-01,0.78,Flu
+Washington,2020-06-01,0.24,Flu
+Washington,2020-07-01,0.98,Flu
+Washington,2020-08-01,0.37,Flu
+Washington,2020-09-01,0.2,Flu
+Washington,2020-10-01,0.66,Flu
+Washington,2020-11-01,0.51,Flu
+Washington,2020-12-01,0.08,Flu
+Washington,2021-01-01,0.11,Flu
+Washington,2021-02-01,0.53,Flu
+Washington,2021-03-01,0.73,Flu
+Washington,2021-04-01,0.02,Flu
+Washington,2021-05-01,0.52,Flu
+Washington,2021-06-01,0.32,Flu
+Washington,2021-07-01,0.75,Flu
+Washington,2021-08-01,0.31,Flu
+Washington,2021-09-01,0.98,Flu
+Washington,2021-10-01,0.38,Flu
+Washington,2021-11-01,0.73,Flu
+Washington,2021-12-01,0.56,Flu
+Washington,2022-01-01,0.56,Flu
+Washington,2022-02-01,0.61,Flu
+Washington,2022-03-01,0.18,Flu
+Washington,2022-04-01,0.95,Flu
+Washington,2022-05-01,0.58,Flu
+Washington,2022-06-01,0.27,Flu
+Washington,2022-07-01,0.49,Flu
+Washington,2022-08-01,0.46,Flu
+Washington,2022-09-01,0.51,Flu
+Washington,2022-10-01,0.41,Flu
+Washington,2022-11-01,0.73,Flu
+Washington,2022-12-01,0.36,Flu
+Washington,2023-01-01,0.02,Flu
+Washington,2023-02-01,0.59,Flu
+Washington,2023-03-01,0.37,Flu
+Washington,2023-04-01,0.66,Flu
+Washington,2023-05-01,0.02,Flu
+Washington,2023-06-01,0.64,Flu
+Washington,2023-07-01,0.06,Flu
+Washington,2023-08-01,0.7,Flu
+Washington,2023-09-01,0.1,Flu
+Washington,2023-10-01,0.6,Flu
+Washington,2023-11-01,0.18,Flu
+Washington,2023-12-01,0.11,Flu
+Washington,2024-01-01,0.19,Flu
+Washington,2024-02-01,0.62,Flu
+Washington,2024-03-01,0.38,Flu
+Washington,2024-04-01,0.63,Flu
+Washington,2024-05-01,0.92,Flu
+Washington,2024-06-01,0.22,Flu
+Washington,2024-07-01,0.51,Flu
+Washington,2024-08-01,0.42,Flu
+Washington,2024-09-01,0.87,Flu
+Washington,2024-10-01,0.45,Flu
+Washington,2024-11-01,0.74,Flu
+Washington,2024-12-01,0.13,Flu
+West Virginia,2020-01-01,0.15,Flu
+West Virginia,2020-02-01,0.48,Flu
+West Virginia,2020-03-01,0.98,Flu
+West Virginia,2020-04-01,0.52,Flu
+West Virginia,2020-05-01,0.5,Flu
+West Virginia,2020-06-01,0.62,Flu
+West Virginia,2020-07-01,0.82,Flu
+West Virginia,2020-08-01,0.42,Flu
+West Virginia,2020-09-01,0.05,Flu
+West Virginia,2020-10-01,0.0,Flu
+West Virginia,2020-11-01,0.82,Flu
+West Virginia,2020-12-01,0.21,Flu
+West Virginia,2021-01-01,0.52,Flu
+West Virginia,2021-02-01,0.92,Flu
+West Virginia,2021-03-01,0.45,Flu
+West Virginia,2021-04-01,0.49,Flu
+West Virginia,2021-05-01,0.37,Flu
+West Virginia,2021-06-01,0.35,Flu
+West Virginia,2021-07-01,0.55,Flu
+West Virginia,2021-08-01,0.15,Flu
+West Virginia,2021-09-01,0.61,Flu
+West Virginia,2021-10-01,0.97,Flu
+West Virginia,2021-11-01,0.54,Flu
+West Virginia,2021-12-01,0.68,Flu
+West Virginia,2022-01-01,0.85,Flu
+West Virginia,2022-02-01,0.8,Flu
+West Virginia,2022-03-01,0.54,Flu
+West Virginia,2022-04-01,0.33,Flu
+West Virginia,2022-05-01,0.81,Flu
+West Virginia,2022-06-01,0.38,Flu
+West Virginia,2022-07-01,0.09,Flu
+West Virginia,2022-08-01,0.49,Flu
+West Virginia,2022-09-01,0.55,Flu
+West Virginia,2022-10-01,0.09,Flu
+West Virginia,2022-11-01,0.52,Flu
+West Virginia,2022-12-01,0.4,Flu
+West Virginia,2023-01-01,0.28,Flu
+West Virginia,2023-02-01,0.45,Flu
+West Virginia,2023-03-01,0.74,Flu
+West Virginia,2023-04-01,0.19,Flu
+West Virginia,2023-05-01,0.41,Flu
+West Virginia,2023-06-01,0.72,Flu
+West Virginia,2023-07-01,0.84,Flu
+West Virginia,2023-08-01,0.48,Flu
+West Virginia,2023-09-01,0.14,Flu
+West Virginia,2023-10-01,0.02,Flu
+West Virginia,2023-11-01,0.83,Flu
+West Virginia,2023-12-01,0.33,Flu
+West Virginia,2024-01-01,0.77,Flu
+West Virginia,2024-02-01,0.18,Flu
+West Virginia,2024-03-01,0.82,Flu
+West Virginia,2024-04-01,0.6,Flu
+West Virginia,2024-05-01,0.89,Flu
+West Virginia,2024-06-01,0.93,Flu
+West Virginia,2024-07-01,0.21,Flu
+West Virginia,2024-08-01,0.4,Flu
+West Virginia,2024-09-01,0.87,Flu
+West Virginia,2024-10-01,0.62,Flu
+West Virginia,2024-11-01,0.66,Flu
+West Virginia,2024-12-01,0.99,Flu
+Wisconsin,2020-01-01,0.3,Flu
+Wisconsin,2020-02-01,0.39,Flu
+Wisconsin,2020-03-01,0.3,Flu
+Wisconsin,2020-04-01,0.76,Flu
+Wisconsin,2020-05-01,0.84,Flu
+Wisconsin,2020-06-01,0.57,Flu
+Wisconsin,2020-07-01,0.51,Flu
+Wisconsin,2020-08-01,0.22,Flu
+Wisconsin,2020-09-01,0.79,Flu
+Wisconsin,2020-10-01,0.29,Flu
+Wisconsin,2020-11-01,0.73,Flu
+Wisconsin,2020-12-01,0.21,Flu
+Wisconsin,2021-01-01,0.47,Flu
+Wisconsin,2021-02-01,0.1,Flu
+Wisconsin,2021-03-01,0.76,Flu
+Wisconsin,2021-04-01,0.97,Flu
+Wisconsin,2021-05-01,0.79,Flu
+Wisconsin,2021-06-01,1.0,Flu
+Wisconsin,2021-07-01,0.14,Flu
+Wisconsin,2021-08-01,0.25,Flu
+Wisconsin,2021-09-01,0.54,Flu
+Wisconsin,2021-10-01,0.22,Flu
+Wisconsin,2021-11-01,0.12,Flu
+Wisconsin,2021-12-01,0.71,Flu
+Wisconsin,2022-01-01,0.54,Flu
+Wisconsin,2022-02-01,0.24,Flu
+Wisconsin,2022-03-01,0.02,Flu
+Wisconsin,2022-04-01,0.91,Flu
+Wisconsin,2022-05-01,0.37,Flu
+Wisconsin,2022-06-01,0.06,Flu
+Wisconsin,2022-07-01,0.57,Flu
+Wisconsin,2022-08-01,0.52,Flu
+Wisconsin,2022-09-01,0.43,Flu
+Wisconsin,2022-10-01,0.35,Flu
+Wisconsin,2022-11-01,0.24,Flu
+Wisconsin,2022-12-01,0.52,Flu
+Wisconsin,2023-01-01,0.95,Flu
+Wisconsin,2023-02-01,0.92,Flu
+Wisconsin,2023-03-01,0.81,Flu
+Wisconsin,2023-04-01,0.55,Flu
+Wisconsin,2023-05-01,0.42,Flu
+Wisconsin,2023-06-01,0.63,Flu
+Wisconsin,2023-07-01,0.85,Flu
+Wisconsin,2023-08-01,0.8,Flu
+Wisconsin,2023-09-01,0.53,Flu
+Wisconsin,2023-10-01,0.08,Flu
+Wisconsin,2023-11-01,0.44,Flu
+Wisconsin,2023-12-01,0.04,Flu
+Wisconsin,2024-01-01,0.74,Flu
+Wisconsin,2024-02-01,0.76,Flu
+Wisconsin,2024-03-01,0.22,Flu
+Wisconsin,2024-04-01,0.52,Flu
+Wisconsin,2024-05-01,0.69,Flu
+Wisconsin,2024-06-01,0.1,Flu
+Wisconsin,2024-07-01,0.25,Flu
+Wisconsin,2024-08-01,0.18,Flu
+Wisconsin,2024-09-01,0.59,Flu
+Wisconsin,2024-10-01,0.68,Flu
+Wisconsin,2024-11-01,0.06,Flu
+Wisconsin,2024-12-01,0.65,Flu
+Wyoming,2020-01-01,0.06,Flu
+Wyoming,2020-02-01,0.56,Flu
+Wyoming,2020-03-01,0.05,Flu
+Wyoming,2020-04-01,0.62,Flu
+Wyoming,2020-05-01,0.13,Flu
+Wyoming,2020-06-01,0.5,Flu
+Wyoming,2020-07-01,0.57,Flu
+Wyoming,2020-08-01,0.13,Flu
+Wyoming,2020-09-01,0.4,Flu
+Wyoming,2020-10-01,0.64,Flu
+Wyoming,2020-11-01,0.03,Flu
+Wyoming,2020-12-01,0.04,Flu
+Wyoming,2021-01-01,0.09,Flu
+Wyoming,2021-02-01,0.35,Flu
+Wyoming,2021-03-01,0.99,Flu
+Wyoming,2021-04-01,0.67,Flu
+Wyoming,2021-05-01,0.21,Flu
+Wyoming,2021-06-01,0.76,Flu
+Wyoming,2021-07-01,0.14,Flu
+Wyoming,2021-08-01,0.73,Flu
+Wyoming,2021-09-01,0.03,Flu
+Wyoming,2021-10-01,0.96,Flu
+Wyoming,2021-11-01,0.01,Flu
+Wyoming,2021-12-01,0.85,Flu
+Wyoming,2022-01-01,0.94,Flu
+Wyoming,2022-02-01,0.02,Flu
+Wyoming,2022-03-01,0.52,Flu
+Wyoming,2022-04-01,0.98,Flu
+Wyoming,2022-05-01,0.76,Flu
+Wyoming,2022-06-01,0.92,Flu
+Wyoming,2022-07-01,0.42,Flu
+Wyoming,2022-08-01,0.78,Flu
+Wyoming,2022-09-01,0.4,Flu
+Wyoming,2022-10-01,0.83,Flu
+Wyoming,2022-11-01,0.68,Flu
+Wyoming,2022-12-01,0.62,Flu
+Wyoming,2023-01-01,0.38,Flu
+Wyoming,2023-02-01,0.65,Flu
+Wyoming,2023-03-01,0.22,Flu
+Wyoming,2023-04-01,0.54,Flu
+Wyoming,2023-05-01,0.4,Flu
+Wyoming,2023-06-01,0.34,Flu
+Wyoming,2023-07-01,0.44,Flu
+Wyoming,2023-08-01,0.68,Flu
+Wyoming,2023-09-01,0.91,Flu
+Wyoming,2023-10-01,0.25,Flu
+Wyoming,2023-11-01,0.37,Flu
+Wyoming,2023-12-01,0.77,Flu
+Wyoming,2024-01-01,0.51,Flu
+Wyoming,2024-02-01,0.82,Flu
+Wyoming,2024-03-01,0.9,Flu
+Wyoming,2024-04-01,0.42,Flu
+Wyoming,2024-05-01,0.07,Flu
+Wyoming,2024-06-01,0.81,Flu
+Wyoming,2024-07-01,0.37,Flu
+Wyoming,2024-08-01,0.43,Flu
+Wyoming,2024-09-01,0.91,Flu
+Wyoming,2024-10-01,0.68,Flu
+Wyoming,2024-11-01,0.23,Flu
+Wyoming,2024-12-01,0.66,Flu
+US,2020-01-01,0.52,Flu
+US,2020-02-01,0.97,Flu
+US,2020-03-01,0.53,Flu
+US,2020-04-01,0.99,Flu
+US,2020-05-01,0.51,Flu
+US,2020-06-01,0.36,Flu
+US,2020-07-01,0.61,Flu
+US,2020-08-01,0.02,Flu
+US,2020-09-01,0.87,Flu
+US,2020-10-01,0.64,Flu
+US,2020-11-01,0.99,Flu
+US,2020-12-01,0.64,Flu
+US,2021-01-01,0.76,Flu
+US,2021-02-01,0.45,Flu
+US,2021-03-01,0.51,Flu
+US,2021-04-01,0.25,Flu
+US,2021-05-01,0.74,Flu
+US,2021-06-01,0.01,Flu
+US,2021-07-01,0.39,Flu
+US,2021-08-01,0.79,Flu
+US,2021-09-01,0.44,Flu
+US,2021-10-01,0.31,Flu
+US,2021-11-01,0.45,Flu
+US,2021-12-01,0.49,Flu
+US,2022-01-01,0.6,Flu
+US,2022-02-01,0.61,Flu
+US,2022-03-01,0.22,Flu
+US,2022-04-01,0.99,Flu
+US,2022-05-01,0.7,Flu
+US,2022-06-01,0.78,Flu
+US,2022-07-01,0.82,Flu
+US,2022-08-01,0.44,Flu
+US,2022-09-01,0.41,Flu
+US,2022-10-01,0.67,Flu
+US,2022-11-01,0.67,Flu
+US,2022-12-01,0.14,Flu
+US,2023-01-01,0.63,Flu
+US,2023-02-01,0.26,Flu
+US,2023-03-01,0.9,Flu
+US,2023-04-01,0.04,Flu
+US,2023-05-01,0.09,Flu
+US,2023-06-01,0.75,Flu
+US,2023-07-01,0.05,Flu
+US,2023-08-01,0.71,Flu
+US,2023-09-01,0.01,Flu
+US,2023-10-01,0.75,Flu
+US,2023-11-01,0.67,Flu
+US,2023-12-01,0.69,Flu
+US,2024-01-01,0.96,Flu
+US,2024-02-01,0.24,Flu
+US,2024-03-01,0.99,Flu
+US,2024-04-01,0.27,Flu
+US,2024-05-01,0.17,Flu
+US,2024-06-01,0.61,Flu
+US,2024-07-01,0.32,Flu
+US,2024-08-01,0.36,Flu
+US,2024-09-01,0.9,Flu
+US,2024-10-01,0.17,Flu
+US,2024-11-01,0.62,Flu
+US,2024-12-01,0.34,Flu
+Alabama,2020-01-01,0.37,Covid
+Alabama,2020-02-01,0.38,Covid
+Alabama,2020-03-01,0.54,Covid
+Alabama,2020-04-01,0.37,Covid
+Alabama,2020-05-01,0.28,Covid
+Alabama,2020-06-01,0.29,Covid
+Alabama,2020-07-01,0.98,Covid
+Alabama,2020-08-01,0.26,Covid
+Alabama,2020-09-01,0.93,Covid
+Alabama,2020-10-01,0.34,Covid
+Alabama,2020-11-01,0.12,Covid
+Alabama,2020-12-01,0.71,Covid
+Alabama,2021-01-01,0.92,Covid
+Alabama,2021-02-01,0.23,Covid
+Alabama,2021-03-01,0.3,Covid
+Alabama,2021-04-01,0.34,Covid
+Alabama,2021-05-01,0.63,Covid
+Alabama,2021-06-01,0.58,Covid
+Alabama,2021-07-01,0.69,Covid
+Alabama,2021-08-01,0.11,Covid
+Alabama,2021-09-01,0.43,Covid
+Alabama,2021-10-01,0.17,Covid
+Alabama,2021-11-01,0.56,Covid
+Alabama,2021-12-01,0.58,Covid
+Alabama,2022-01-01,0.17,Covid
+Alabama,2022-02-01,0.28,Covid
+Alabama,2022-03-01,0.52,Covid
+Alabama,2022-04-01,0.85,Covid
+Alabama,2022-05-01,0.22,Covid
+Alabama,2022-06-01,0.37,Covid
+Alabama,2022-07-01,0.05,Covid
+Alabama,2022-08-01,0.74,Covid
+Alabama,2022-09-01,0.07,Covid
+Alabama,2022-10-01,0.27,Covid
+Alabama,2022-11-01,0.57,Covid
+Alabama,2022-12-01,0.26,Covid
+Alabama,2023-01-01,0.2,Covid
+Alabama,2023-02-01,0.76,Covid
+Alabama,2023-03-01,0.9,Covid
+Alabama,2023-04-01,0.71,Covid
+Alabama,2023-05-01,0.3,Covid
+Alabama,2023-06-01,0.06,Covid
+Alabama,2023-07-01,0.07,Covid
+Alabama,2023-08-01,0.24,Covid
+Alabama,2023-09-01,0.2,Covid
+Alabama,2023-10-01,0.63,Covid
+Alabama,2023-11-01,0.2,Covid
+Alabama,2023-12-01,0.98,Covid
+Alabama,2024-01-01,0.22,Covid
+Alabama,2024-02-01,0.08,Covid
+Alabama,2024-03-01,0.4,Covid
+Alabama,2024-04-01,0.68,Covid
+Alabama,2024-05-01,0.16,Covid
+Alabama,2024-06-01,0.57,Covid
+Alabama,2024-07-01,0.3,Covid
+Alabama,2024-08-01,0.81,Covid
+Alabama,2024-09-01,0.58,Covid
+Alabama,2024-10-01,0.43,Covid
+Alabama,2024-11-01,0.41,Covid
+Alabama,2024-12-01,0.4,Covid
+Alaska,2020-01-01,0.68,Covid
+Alaska,2020-02-01,0.14,Covid
+Alaska,2020-03-01,0.82,Covid
+Alaska,2020-04-01,0.29,Covid
+Alaska,2020-05-01,0.85,Covid
+Alaska,2020-06-01,0.45,Covid
+Alaska,2020-07-01,0.69,Covid
+Alaska,2020-08-01,0.17,Covid
+Alaska,2020-09-01,0.22,Covid
+Alaska,2020-10-01,0.36,Covid
+Alaska,2020-11-01,0.34,Covid
+Alaska,2020-12-01,0.43,Covid
+Alaska,2021-01-01,0.82,Covid
+Alaska,2021-02-01,0.76,Covid
+Alaska,2021-03-01,0.4,Covid
+Alaska,2021-04-01,0.85,Covid
+Alaska,2021-05-01,0.31,Covid
+Alaska,2021-06-01,0.11,Covid
+Alaska,2021-07-01,0.22,Covid
+Alaska,2021-08-01,0.01,Covid
+Alaska,2021-09-01,0.69,Covid
+Alaska,2021-10-01,0.2,Covid
+Alaska,2021-11-01,0.69,Covid
+Alaska,2021-12-01,0.02,Covid
+Alaska,2022-01-01,0.81,Covid
+Alaska,2022-02-01,0.66,Covid
+Alaska,2022-03-01,0.65,Covid
+Alaska,2022-04-01,0.1,Covid
+Alaska,2022-05-01,0.03,Covid
+Alaska,2022-06-01,0.68,Covid
+Alaska,2022-07-01,0.96,Covid
+Alaska,2022-08-01,0.28,Covid
+Alaska,2022-09-01,0.22,Covid
+Alaska,2022-10-01,0.53,Covid
+Alaska,2022-11-01,0.25,Covid
+Alaska,2022-12-01,0.48,Covid
+Alaska,2023-01-01,0.92,Covid
+Alaska,2023-02-01,0.73,Covid
+Alaska,2023-03-01,0.04,Covid
+Alaska,2023-04-01,0.59,Covid
+Alaska,2023-05-01,0.59,Covid
+Alaska,2023-06-01,0.61,Covid
+Alaska,2023-07-01,0.02,Covid
+Alaska,2023-08-01,0.06,Covid
+Alaska,2023-09-01,0.16,Covid
+Alaska,2023-10-01,0.6,Covid
+Alaska,2023-11-01,0.95,Covid
+Alaska,2023-12-01,0.14,Covid
+Alaska,2024-01-01,0.25,Covid
+Alaska,2024-02-01,0.59,Covid
+Alaska,2024-03-01,0.68,Covid
+Alaska,2024-04-01,0.11,Covid
+Alaska,2024-05-01,0.02,Covid
+Alaska,2024-06-01,0.73,Covid
+Alaska,2024-07-01,0.37,Covid
+Alaska,2024-08-01,0.32,Covid
+Alaska,2024-09-01,0.46,Covid
+Alaska,2024-10-01,0.53,Covid
+Alaska,2024-11-01,0.5,Covid
+Alaska,2024-12-01,0.44,Covid
+Arizona,2020-01-01,0.8,Covid
+Arizona,2020-02-01,0.22,Covid
+Arizona,2020-03-01,1.0,Covid
+Arizona,2020-04-01,0.87,Covid
+Arizona,2020-05-01,0.67,Covid
+Arizona,2020-06-01,0.94,Covid
+Arizona,2020-07-01,0.45,Covid
+Arizona,2020-08-01,0.77,Covid
+Arizona,2020-09-01,0.11,Covid
+Arizona,2020-10-01,0.56,Covid
+Arizona,2020-11-01,0.55,Covid
+Arizona,2020-12-01,0.69,Covid
+Arizona,2021-01-01,0.86,Covid
+Arizona,2021-02-01,0.54,Covid
+Arizona,2021-03-01,0.9,Covid
+Arizona,2021-04-01,0.36,Covid
+Arizona,2021-05-01,0.27,Covid
+Arizona,2021-06-01,0.45,Covid
+Arizona,2021-07-01,0.39,Covid
+Arizona,2021-08-01,0.18,Covid
+Arizona,2021-09-01,0.41,Covid
+Arizona,2021-10-01,0.7,Covid
+Arizona,2021-11-01,0.12,Covid
+Arizona,2021-12-01,0.61,Covid
+Arizona,2022-01-01,0.73,Covid
+Arizona,2022-02-01,0.6,Covid
+Arizona,2022-03-01,0.17,Covid
+Arizona,2022-04-01,0.21,Covid
+Arizona,2022-05-01,0.16,Covid
+Arizona,2022-06-01,0.43,Covid
+Arizona,2022-07-01,0.23,Covid
+Arizona,2022-08-01,0.18,Covid
+Arizona,2022-09-01,0.08,Covid
+Arizona,2022-10-01,0.52,Covid
+Arizona,2022-11-01,0.72,Covid
+Arizona,2022-12-01,0.97,Covid
+Arizona,2023-01-01,0.88,Covid
+Arizona,2023-02-01,0.87,Covid
+Arizona,2023-03-01,0.2,Covid
+Arizona,2023-04-01,0.81,Covid
+Arizona,2023-05-01,0.49,Covid
+Arizona,2023-06-01,0.34,Covid
+Arizona,2023-07-01,0.31,Covid
+Arizona,2023-08-01,0.5,Covid
+Arizona,2023-09-01,0.32,Covid
+Arizona,2023-10-01,0.69,Covid
+Arizona,2023-11-01,0.4,Covid
+Arizona,2023-12-01,0.26,Covid
+Arizona,2024-01-01,0.7,Covid
+Arizona,2024-02-01,0.04,Covid
+Arizona,2024-03-01,1.0,Covid
+Arizona,2024-04-01,0.37,Covid
+Arizona,2024-05-01,0.63,Covid
+Arizona,2024-06-01,0.31,Covid
+Arizona,2024-07-01,0.15,Covid
+Arizona,2024-08-01,0.14,Covid
+Arizona,2024-09-01,0.27,Covid
+Arizona,2024-10-01,0.18,Covid
+Arizona,2024-11-01,0.29,Covid
+Arizona,2024-12-01,0.1,Covid
+Arkansas,2020-01-01,0.79,Covid
+Arkansas,2020-02-01,0.81,Covid
+Arkansas,2020-03-01,0.73,Covid
+Arkansas,2020-04-01,0.07,Covid
+Arkansas,2020-05-01,0.61,Covid
+Arkansas,2020-06-01,0.86,Covid
+Arkansas,2020-07-01,0.59,Covid
+Arkansas,2020-08-01,0.29,Covid
+Arkansas,2020-09-01,0.88,Covid
+Arkansas,2020-10-01,0.07,Covid
+Arkansas,2020-11-01,0.26,Covid
+Arkansas,2020-12-01,0.83,Covid
+Arkansas,2021-01-01,0.52,Covid
+Arkansas,2021-02-01,0.8,Covid
+Arkansas,2021-03-01,0.62,Covid
+Arkansas,2021-04-01,0.65,Covid
+Arkansas,2021-05-01,0.56,Covid
+Arkansas,2021-06-01,0.9,Covid
+Arkansas,2021-07-01,0.95,Covid
+Arkansas,2021-08-01,0.19,Covid
+Arkansas,2021-09-01,0.86,Covid
+Arkansas,2021-10-01,0.81,Covid
+Arkansas,2021-11-01,0.6,Covid
+Arkansas,2021-12-01,0.75,Covid
+Arkansas,2022-01-01,0.65,Covid
+Arkansas,2022-02-01,0.73,Covid
+Arkansas,2022-03-01,0.53,Covid
+Arkansas,2022-04-01,0.65,Covid
+Arkansas,2022-05-01,0.19,Covid
+Arkansas,2022-06-01,0.63,Covid
+Arkansas,2022-07-01,0.01,Covid
+Arkansas,2022-08-01,0.83,Covid
+Arkansas,2022-09-01,0.69,Covid
+Arkansas,2022-10-01,0.7,Covid
+Arkansas,2022-11-01,0.98,Covid
+Arkansas,2022-12-01,0.35,Covid
+Arkansas,2023-01-01,0.57,Covid
+Arkansas,2023-02-01,0.59,Covid
+Arkansas,2023-03-01,0.39,Covid
+Arkansas,2023-04-01,0.32,Covid
+Arkansas,2023-05-01,0.46,Covid
+Arkansas,2023-06-01,0.14,Covid
+Arkansas,2023-07-01,0.14,Covid
+Arkansas,2023-08-01,0.47,Covid
+Arkansas,2023-09-01,0.01,Covid
+Arkansas,2023-10-01,0.64,Covid
+Arkansas,2023-11-01,0.11,Covid
+Arkansas,2023-12-01,0.89,Covid
+Arkansas,2024-01-01,0.29,Covid
+Arkansas,2024-02-01,0.86,Covid
+Arkansas,2024-03-01,0.4,Covid
+Arkansas,2024-04-01,0.42,Covid
+Arkansas,2024-05-01,0.22,Covid
+Arkansas,2024-06-01,0.78,Covid
+Arkansas,2024-07-01,0.5,Covid
+Arkansas,2024-08-01,0.2,Covid
+Arkansas,2024-09-01,0.38,Covid
+Arkansas,2024-10-01,0.79,Covid
+Arkansas,2024-11-01,0.65,Covid
+Arkansas,2024-12-01,0.72,Covid
+California,2020-01-01,0.42,Covid
+California,2020-02-01,0.78,Covid
+California,2020-03-01,0.17,Covid
+California,2020-04-01,0.81,Covid
+California,2020-05-01,0.23,Covid
+California,2020-06-01,0.89,Covid
+California,2020-07-01,0.43,Covid
+California,2020-08-01,0.47,Covid
+California,2020-09-01,0.85,Covid
+California,2020-10-01,0.15,Covid
+California,2020-11-01,0.07,Covid
+California,2020-12-01,0.36,Covid
+California,2021-01-01,0.6,Covid
+California,2021-02-01,0.44,Covid
+California,2021-03-01,0.95,Covid
+California,2021-04-01,0.87,Covid
+California,2021-05-01,0.91,Covid
+California,2021-06-01,0.91,Covid
+California,2021-07-01,0.63,Covid
+California,2021-08-01,0.28,Covid
+California,2021-09-01,0.22,Covid
+California,2021-10-01,0.37,Covid
+California,2021-11-01,0.98,Covid
+California,2021-12-01,0.49,Covid
+California,2022-01-01,0.74,Covid
+California,2022-02-01,0.67,Covid
+California,2022-03-01,0.18,Covid
+California,2022-04-01,0.56,Covid
+California,2022-05-01,0.98,Covid
+California,2022-06-01,0.21,Covid
+California,2022-07-01,0.26,Covid
+California,2022-08-01,0.14,Covid
+California,2022-09-01,0.09,Covid
+California,2022-10-01,0.91,Covid
+California,2022-11-01,0.59,Covid
+California,2022-12-01,0.43,Covid
+California,2023-01-01,0.37,Covid
+California,2023-02-01,0.37,Covid
+California,2023-03-01,0.27,Covid
+California,2023-04-01,0.1,Covid
+California,2023-05-01,0.95,Covid
+California,2023-06-01,0.63,Covid
+California,2023-07-01,0.93,Covid
+California,2023-08-01,0.74,Covid
+California,2023-09-01,0.96,Covid
+California,2023-10-01,0.76,Covid
+California,2023-11-01,0.08,Covid
+California,2023-12-01,0.58,Covid
+California,2024-01-01,0.18,Covid
+California,2024-02-01,0.68,Covid
+California,2024-03-01,0.21,Covid
+California,2024-04-01,0.42,Covid
+California,2024-05-01,0.87,Covid
+California,2024-06-01,0.08,Covid
+California,2024-07-01,0.37,Covid
+California,2024-08-01,0.48,Covid
+California,2024-09-01,0.61,Covid
+California,2024-10-01,0.58,Covid
+California,2024-11-01,0.9,Covid
+California,2024-12-01,0.33,Covid
+Colorado,2020-01-01,0.06,Covid
+Colorado,2020-02-01,0.08,Covid
+Colorado,2020-03-01,0.64,Covid
+Colorado,2020-04-01,0.21,Covid
+Colorado,2020-05-01,0.35,Covid
+Colorado,2020-06-01,0.48,Covid
+Colorado,2020-07-01,0.47,Covid
+Colorado,2020-08-01,0.8,Covid
+Colorado,2020-09-01,0.31,Covid
+Colorado,2020-10-01,0.85,Covid
+Colorado,2020-11-01,0.61,Covid
+Colorado,2020-12-01,0.76,Covid
+Colorado,2021-01-01,0.69,Covid
+Colorado,2021-02-01,0.98,Covid
+Colorado,2021-03-01,0.92,Covid
+Colorado,2021-04-01,0.58,Covid
+Colorado,2021-05-01,0.13,Covid
+Colorado,2021-06-01,0.67,Covid
+Colorado,2021-07-01,0.73,Covid
+Colorado,2021-08-01,0.85,Covid
+Colorado,2021-09-01,0.87,Covid
+Colorado,2021-10-01,0.12,Covid
+Colorado,2021-11-01,0.56,Covid
+Colorado,2021-12-01,0.82,Covid
+Colorado,2022-01-01,0.88,Covid
+Colorado,2022-02-01,0.17,Covid
+Colorado,2022-03-01,0.57,Covid
+Colorado,2022-04-01,0.4,Covid
+Colorado,2022-05-01,0.67,Covid
+Colorado,2022-06-01,0.35,Covid
+Colorado,2022-07-01,0.03,Covid
+Colorado,2022-08-01,0.19,Covid
+Colorado,2022-09-01,0.78,Covid
+Colorado,2022-10-01,0.14,Covid
+Colorado,2022-11-01,0.44,Covid
+Colorado,2022-12-01,0.57,Covid
+Colorado,2023-01-01,0.35,Covid
+Colorado,2023-02-01,0.5,Covid
+Colorado,2023-03-01,0.65,Covid
+Colorado,2023-04-01,0.39,Covid
+Colorado,2023-05-01,0.63,Covid
+Colorado,2023-06-01,0.03,Covid
+Colorado,2023-07-01,0.96,Covid
+Colorado,2023-08-01,0.07,Covid
+Colorado,2023-09-01,0.33,Covid
+Colorado,2023-10-01,0.39,Covid
+Colorado,2023-11-01,0.21,Covid
+Colorado,2023-12-01,0.67,Covid
+Colorado,2024-01-01,0.42,Covid
+Colorado,2024-02-01,0.67,Covid
+Colorado,2024-03-01,0.91,Covid
+Colorado,2024-04-01,0.26,Covid
+Colorado,2024-05-01,0.3,Covid
+Colorado,2024-06-01,0.2,Covid
+Colorado,2024-07-01,0.45,Covid
+Colorado,2024-08-01,0.59,Covid
+Colorado,2024-09-01,0.05,Covid
+Colorado,2024-10-01,0.85,Covid
+Colorado,2024-11-01,0.07,Covid
+Colorado,2024-12-01,0.8,Covid
+Connecticut,2020-01-01,0.68,Covid
+Connecticut,2020-02-01,0.24,Covid
+Connecticut,2020-03-01,0.55,Covid
+Connecticut,2020-04-01,0.16,Covid
+Connecticut,2020-05-01,0.28,Covid
+Connecticut,2020-06-01,0.5,Covid
+Connecticut,2020-07-01,0.06,Covid
+Connecticut,2020-08-01,0.68,Covid
+Connecticut,2020-09-01,0.39,Covid
+Connecticut,2020-10-01,0.12,Covid
+Connecticut,2020-11-01,0.2,Covid
+Connecticut,2020-12-01,0.36,Covid
+Connecticut,2021-01-01,0.9,Covid
+Connecticut,2021-02-01,0.05,Covid
+Connecticut,2021-03-01,0.9,Covid
+Connecticut,2021-04-01,0.15,Covid
+Connecticut,2021-05-01,0.15,Covid
+Connecticut,2021-06-01,0.42,Covid
+Connecticut,2021-07-01,0.77,Covid
+Connecticut,2021-08-01,0.04,Covid
+Connecticut,2021-09-01,0.32,Covid
+Connecticut,2021-10-01,0.48,Covid
+Connecticut,2021-11-01,0.71,Covid
+Connecticut,2021-12-01,0.68,Covid
+Connecticut,2022-01-01,0.78,Covid
+Connecticut,2022-02-01,0.07,Covid
+Connecticut,2022-03-01,0.91,Covid
+Connecticut,2022-04-01,0.01,Covid
+Connecticut,2022-05-01,0.37,Covid
+Connecticut,2022-06-01,0.51,Covid
+Connecticut,2022-07-01,0.41,Covid
+Connecticut,2022-08-01,0.43,Covid
+Connecticut,2022-09-01,0.61,Covid
+Connecticut,2022-10-01,0.34,Covid
+Connecticut,2022-11-01,0.81,Covid
+Connecticut,2022-12-01,0.55,Covid
+Connecticut,2023-01-01,0.09,Covid
+Connecticut,2023-02-01,0.77,Covid
+Connecticut,2023-03-01,0.19,Covid
+Connecticut,2023-04-01,0.69,Covid
+Connecticut,2023-05-01,0.63,Covid
+Connecticut,2023-06-01,0.05,Covid
+Connecticut,2023-07-01,0.85,Covid
+Connecticut,2023-08-01,0.88,Covid
+Connecticut,2023-09-01,0.61,Covid
+Connecticut,2023-10-01,0.3,Covid
+Connecticut,2023-11-01,0.8,Covid
+Connecticut,2023-12-01,0.38,Covid
+Connecticut,2024-01-01,0.15,Covid
+Connecticut,2024-02-01,0.43,Covid
+Connecticut,2024-03-01,0.72,Covid
+Connecticut,2024-04-01,0.09,Covid
+Connecticut,2024-05-01,0.19,Covid
+Connecticut,2024-06-01,0.17,Covid
+Connecticut,2024-07-01,0.45,Covid
+Connecticut,2024-08-01,0.07,Covid
+Connecticut,2024-09-01,0.48,Covid
+Connecticut,2024-10-01,0.8,Covid
+Connecticut,2024-11-01,0.2,Covid
+Connecticut,2024-12-01,0.81,Covid
+Delaware,2020-01-01,0.75,Covid
+Delaware,2020-02-01,0.67,Covid
+Delaware,2020-03-01,0.7,Covid
+Delaware,2020-04-01,0.85,Covid
+Delaware,2020-05-01,0.51,Covid
+Delaware,2020-06-01,0.27,Covid
+Delaware,2020-07-01,0.42,Covid
+Delaware,2020-08-01,0.85,Covid
+Delaware,2020-09-01,0.74,Covid
+Delaware,2020-10-01,0.08,Covid
+Delaware,2020-11-01,0.31,Covid
+Delaware,2020-12-01,0.56,Covid
+Delaware,2021-01-01,0.12,Covid
+Delaware,2021-02-01,0.68,Covid
+Delaware,2021-03-01,0.47,Covid
+Delaware,2021-04-01,0.85,Covid
+Delaware,2021-05-01,0.4,Covid
+Delaware,2021-06-01,0.06,Covid
+Delaware,2021-07-01,0.44,Covid
+Delaware,2021-08-01,0.06,Covid
+Delaware,2021-09-01,0.62,Covid
+Delaware,2021-10-01,0.08,Covid
+Delaware,2021-11-01,0.72,Covid
+Delaware,2021-12-01,0.35,Covid
+Delaware,2022-01-01,0.68,Covid
+Delaware,2022-02-01,0.51,Covid
+Delaware,2022-03-01,0.38,Covid
+Delaware,2022-04-01,0.86,Covid
+Delaware,2022-05-01,0.5,Covid
+Delaware,2022-06-01,0.16,Covid
+Delaware,2022-07-01,0.39,Covid
+Delaware,2022-08-01,0.0,Covid
+Delaware,2022-09-01,0.55,Covid
+Delaware,2022-10-01,0.82,Covid
+Delaware,2022-11-01,0.76,Covid
+Delaware,2022-12-01,0.89,Covid
+Delaware,2023-01-01,0.27,Covid
+Delaware,2023-02-01,0.94,Covid
+Delaware,2023-03-01,0.77,Covid
+Delaware,2023-04-01,0.59,Covid
+Delaware,2023-05-01,0.61,Covid
+Delaware,2023-06-01,0.55,Covid
+Delaware,2023-07-01,0.03,Covid
+Delaware,2023-08-01,0.78,Covid
+Delaware,2023-09-01,0.99,Covid
+Delaware,2023-10-01,0.03,Covid
+Delaware,2023-11-01,0.61,Covid
+Delaware,2023-12-01,0.96,Covid
+Delaware,2024-01-01,0.93,Covid
+Delaware,2024-02-01,0.05,Covid
+Delaware,2024-03-01,0.79,Covid
+Delaware,2024-04-01,0.18,Covid
+Delaware,2024-05-01,0.34,Covid
+Delaware,2024-06-01,0.86,Covid
+Delaware,2024-07-01,0.07,Covid
+Delaware,2024-08-01,0.58,Covid
+Delaware,2024-09-01,1.0,Covid
+Delaware,2024-10-01,0.75,Covid
+Delaware,2024-11-01,0.07,Covid
+Delaware,2024-12-01,0.54,Covid
+Florida,2020-01-01,0.8,Covid
+Florida,2020-02-01,0.52,Covid
+Florida,2020-03-01,0.99,Covid
+Florida,2020-04-01,0.22,Covid
+Florida,2020-05-01,0.62,Covid
+Florida,2020-06-01,0.89,Covid
+Florida,2020-07-01,0.38,Covid
+Florida,2020-08-01,0.75,Covid
+Florida,2020-09-01,0.79,Covid
+Florida,2020-10-01,0.24,Covid
+Florida,2020-11-01,0.36,Covid
+Florida,2020-12-01,0.94,Covid
+Florida,2021-01-01,0.99,Covid
+Florida,2021-02-01,0.85,Covid
+Florida,2021-03-01,0.62,Covid
+Florida,2021-04-01,0.28,Covid
+Florida,2021-05-01,0.78,Covid
+Florida,2021-06-01,0.14,Covid
+Florida,2021-07-01,0.35,Covid
+Florida,2021-08-01,0.75,Covid
+Florida,2021-09-01,0.83,Covid
+Florida,2021-10-01,0.07,Covid
+Florida,2021-11-01,0.03,Covid
+Florida,2021-12-01,0.09,Covid
+Florida,2022-01-01,0.77,Covid
+Florida,2022-02-01,0.65,Covid
+Florida,2022-03-01,0.31,Covid
+Florida,2022-04-01,0.74,Covid
+Florida,2022-05-01,0.02,Covid
+Florida,2022-06-01,0.41,Covid
+Florida,2022-07-01,0.39,Covid
+Florida,2022-08-01,0.77,Covid
+Florida,2022-09-01,0.88,Covid
+Florida,2022-10-01,0.91,Covid
+Florida,2022-11-01,0.24,Covid
+Florida,2022-12-01,0.14,Covid
+Florida,2023-01-01,0.4,Covid
+Florida,2023-02-01,0.11,Covid
+Florida,2023-03-01,0.02,Covid
+Florida,2023-04-01,0.9,Covid
+Florida,2023-05-01,0.63,Covid
+Florida,2023-06-01,0.03,Covid
+Florida,2023-07-01,0.16,Covid
+Florida,2023-08-01,0.66,Covid
+Florida,2023-09-01,0.85,Covid
+Florida,2023-10-01,0.79,Covid
+Florida,2023-11-01,0.27,Covid
+Florida,2023-12-01,0.27,Covid
+Florida,2024-01-01,0.08,Covid
+Florida,2024-02-01,0.31,Covid
+Florida,2024-03-01,0.39,Covid
+Florida,2024-04-01,0.91,Covid
+Florida,2024-05-01,0.56,Covid
+Florida,2024-06-01,0.45,Covid
+Florida,2024-07-01,0.84,Covid
+Florida,2024-08-01,0.64,Covid
+Florida,2024-09-01,0.09,Covid
+Florida,2024-10-01,0.77,Covid
+Florida,2024-11-01,0.48,Covid
+Florida,2024-12-01,0.71,Covid
+Georgia,2020-01-01,0.99,Covid
+Georgia,2020-02-01,0.83,Covid
+Georgia,2020-03-01,0.48,Covid
+Georgia,2020-04-01,0.04,Covid
+Georgia,2020-05-01,0.24,Covid
+Georgia,2020-06-01,0.12,Covid
+Georgia,2020-07-01,0.31,Covid
+Georgia,2020-08-01,0.23,Covid
+Georgia,2020-09-01,0.14,Covid
+Georgia,2020-10-01,0.74,Covid
+Georgia,2020-11-01,0.48,Covid
+Georgia,2020-12-01,0.36,Covid
+Georgia,2021-01-01,0.8,Covid
+Georgia,2021-02-01,0.03,Covid
+Georgia,2021-03-01,0.81,Covid
+Georgia,2021-04-01,0.08,Covid
+Georgia,2021-05-01,0.88,Covid
+Georgia,2021-06-01,0.18,Covid
+Georgia,2021-07-01,0.58,Covid
+Georgia,2021-08-01,0.43,Covid
+Georgia,2021-09-01,0.39,Covid
+Georgia,2021-10-01,0.97,Covid
+Georgia,2021-11-01,0.47,Covid
+Georgia,2021-12-01,0.46,Covid
+Georgia,2022-01-01,0.07,Covid
+Georgia,2022-02-01,0.44,Covid
+Georgia,2022-03-01,0.29,Covid
+Georgia,2022-04-01,0.78,Covid
+Georgia,2022-05-01,0.82,Covid
+Georgia,2022-06-01,0.08,Covid
+Georgia,2022-07-01,0.64,Covid
+Georgia,2022-08-01,0.39,Covid
+Georgia,2022-09-01,0.3,Covid
+Georgia,2022-10-01,0.91,Covid
+Georgia,2022-11-01,0.32,Covid
+Georgia,2022-12-01,0.35,Covid
+Georgia,2023-01-01,0.7,Covid
+Georgia,2023-02-01,0.93,Covid
+Georgia,2023-03-01,0.01,Covid
+Georgia,2023-04-01,0.91,Covid
+Georgia,2023-05-01,0.11,Covid
+Georgia,2023-06-01,0.65,Covid
+Georgia,2023-07-01,0.99,Covid
+Georgia,2023-08-01,0.07,Covid
+Georgia,2023-09-01,0.92,Covid
+Georgia,2023-10-01,0.89,Covid
+Georgia,2023-11-01,0.06,Covid
+Georgia,2023-12-01,0.88,Covid
+Georgia,2024-01-01,0.08,Covid
+Georgia,2024-02-01,0.64,Covid
+Georgia,2024-03-01,0.84,Covid
+Georgia,2024-04-01,0.44,Covid
+Georgia,2024-05-01,0.9,Covid
+Georgia,2024-06-01,0.61,Covid
+Georgia,2024-07-01,0.96,Covid
+Georgia,2024-08-01,0.76,Covid
+Georgia,2024-09-01,0.82,Covid
+Georgia,2024-10-01,0.25,Covid
+Georgia,2024-11-01,0.15,Covid
+Georgia,2024-12-01,0.17,Covid
+Hawaii,2020-01-01,0.83,Covid
+Hawaii,2020-02-01,0.45,Covid
+Hawaii,2020-03-01,0.75,Covid
+Hawaii,2020-04-01,0.52,Covid
+Hawaii,2020-05-01,0.14,Covid
+Hawaii,2020-06-01,0.28,Covid
+Hawaii,2020-07-01,0.34,Covid
+Hawaii,2020-08-01,0.29,Covid
+Hawaii,2020-09-01,0.82,Covid
+Hawaii,2020-10-01,0.45,Covid
+Hawaii,2020-11-01,0.99,Covid
+Hawaii,2020-12-01,0.58,Covid
+Hawaii,2021-01-01,0.44,Covid
+Hawaii,2021-02-01,0.26,Covid
+Hawaii,2021-03-01,0.9,Covid
+Hawaii,2021-04-01,0.5,Covid
+Hawaii,2021-05-01,0.87,Covid
+Hawaii,2021-06-01,0.87,Covid
+Hawaii,2021-07-01,0.24,Covid
+Hawaii,2021-08-01,0.76,Covid
+Hawaii,2021-09-01,0.89,Covid
+Hawaii,2021-10-01,0.97,Covid
+Hawaii,2021-11-01,0.91,Covid
+Hawaii,2021-12-01,0.89,Covid
+Hawaii,2022-01-01,0.25,Covid
+Hawaii,2022-02-01,0.5,Covid
+Hawaii,2022-03-01,0.35,Covid
+Hawaii,2022-04-01,0.69,Covid
+Hawaii,2022-05-01,0.56,Covid
+Hawaii,2022-06-01,0.33,Covid
+Hawaii,2022-07-01,0.15,Covid
+Hawaii,2022-08-01,0.44,Covid
+Hawaii,2022-09-01,0.93,Covid
+Hawaii,2022-10-01,0.07,Covid
+Hawaii,2022-11-01,0.01,Covid
+Hawaii,2022-12-01,0.31,Covid
+Hawaii,2023-01-01,0.61,Covid
+Hawaii,2023-02-01,0.87,Covid
+Hawaii,2023-03-01,0.82,Covid
+Hawaii,2023-04-01,0.95,Covid
+Hawaii,2023-05-01,0.52,Covid
+Hawaii,2023-06-01,0.75,Covid
+Hawaii,2023-07-01,0.41,Covid
+Hawaii,2023-08-01,0.37,Covid
+Hawaii,2023-09-01,0.9,Covid
+Hawaii,2023-10-01,0.15,Covid
+Hawaii,2023-11-01,0.78,Covid
+Hawaii,2023-12-01,0.43,Covid
+Hawaii,2024-01-01,0.88,Covid
+Hawaii,2024-02-01,0.55,Covid
+Hawaii,2024-03-01,0.52,Covid
+Hawaii,2024-04-01,0.1,Covid
+Hawaii,2024-05-01,0.38,Covid
+Hawaii,2024-06-01,0.18,Covid
+Hawaii,2024-07-01,0.13,Covid
+Hawaii,2024-08-01,0.68,Covid
+Hawaii,2024-09-01,0.74,Covid
+Hawaii,2024-10-01,0.93,Covid
+Hawaii,2024-11-01,0.07,Covid
+Hawaii,2024-12-01,0.09,Covid
+Idaho,2020-01-01,0.23,Covid
+Idaho,2020-02-01,0.96,Covid
+Idaho,2020-03-01,0.8,Covid
+Idaho,2020-04-01,0.37,Covid
+Idaho,2020-05-01,0.84,Covid
+Idaho,2020-06-01,0.12,Covid
+Idaho,2020-07-01,0.08,Covid
+Idaho,2020-08-01,0.34,Covid
+Idaho,2020-09-01,0.82,Covid
+Idaho,2020-10-01,0.2,Covid
+Idaho,2020-11-01,0.39,Covid
+Idaho,2020-12-01,0.28,Covid
+Idaho,2021-01-01,0.94,Covid
+Idaho,2021-02-01,0.73,Covid
+Idaho,2021-03-01,0.95,Covid
+Idaho,2021-04-01,0.81,Covid
+Idaho,2021-05-01,0.5,Covid
+Idaho,2021-06-01,0.85,Covid
+Idaho,2021-07-01,0.39,Covid
+Idaho,2021-08-01,0.84,Covid
+Idaho,2021-09-01,0.92,Covid
+Idaho,2021-10-01,0.76,Covid
+Idaho,2021-11-01,0.48,Covid
+Idaho,2021-12-01,0.37,Covid
+Idaho,2022-01-01,0.18,Covid
+Idaho,2022-02-01,0.29,Covid
+Idaho,2022-03-01,0.61,Covid
+Idaho,2022-04-01,0.69,Covid
+Idaho,2022-05-01,0.54,Covid
+Idaho,2022-06-01,0.25,Covid
+Idaho,2022-07-01,0.49,Covid
+Idaho,2022-08-01,0.46,Covid
+Idaho,2022-09-01,0.68,Covid
+Idaho,2022-10-01,0.22,Covid
+Idaho,2022-11-01,0.28,Covid
+Idaho,2022-12-01,0.96,Covid
+Idaho,2023-01-01,0.79,Covid
+Idaho,2023-02-01,0.35,Covid
+Idaho,2023-03-01,0.2,Covid
+Idaho,2023-04-01,0.17,Covid
+Idaho,2023-05-01,0.85,Covid
+Idaho,2023-06-01,0.71,Covid
+Idaho,2023-07-01,0.65,Covid
+Idaho,2023-08-01,0.28,Covid
+Idaho,2023-09-01,0.38,Covid
+Idaho,2023-10-01,0.5,Covid
+Idaho,2023-11-01,0.99,Covid
+Idaho,2023-12-01,0.89,Covid
+Idaho,2024-01-01,0.49,Covid
+Idaho,2024-02-01,0.75,Covid
+Idaho,2024-03-01,0.94,Covid
+Idaho,2024-04-01,0.37,Covid
+Idaho,2024-05-01,0.22,Covid
+Idaho,2024-06-01,0.46,Covid
+Idaho,2024-07-01,0.82,Covid
+Idaho,2024-08-01,0.99,Covid
+Idaho,2024-09-01,0.07,Covid
+Idaho,2024-10-01,0.6,Covid
+Idaho,2024-11-01,0.06,Covid
+Idaho,2024-12-01,0.78,Covid
+Illinois,2020-01-01,0.14,Covid
+Illinois,2020-02-01,0.53,Covid
+Illinois,2020-03-01,0.66,Covid
+Illinois,2020-04-01,0.98,Covid
+Illinois,2020-05-01,0.9,Covid
+Illinois,2020-06-01,0.33,Covid
+Illinois,2020-07-01,0.55,Covid
+Illinois,2020-08-01,0.51,Covid
+Illinois,2020-09-01,0.55,Covid
+Illinois,2020-10-01,0.49,Covid
+Illinois,2020-11-01,0.55,Covid
+Illinois,2020-12-01,0.41,Covid
+Illinois,2021-01-01,0.62,Covid
+Illinois,2021-02-01,0.65,Covid
+Illinois,2021-03-01,0.67,Covid
+Illinois,2021-04-01,0.01,Covid
+Illinois,2021-05-01,0.87,Covid
+Illinois,2021-06-01,0.68,Covid
+Illinois,2021-07-01,0.15,Covid
+Illinois,2021-08-01,0.57,Covid
+Illinois,2021-09-01,0.0,Covid
+Illinois,2021-10-01,0.06,Covid
+Illinois,2021-11-01,0.36,Covid
+Illinois,2021-12-01,0.11,Covid
+Illinois,2022-01-01,0.76,Covid
+Illinois,2022-02-01,0.42,Covid
+Illinois,2022-03-01,0.71,Covid
+Illinois,2022-04-01,0.66,Covid
+Illinois,2022-05-01,0.32,Covid
+Illinois,2022-06-01,0.22,Covid
+Illinois,2022-07-01,0.84,Covid
+Illinois,2022-08-01,0.4,Covid
+Illinois,2022-09-01,0.59,Covid
+Illinois,2022-10-01,0.28,Covid
+Illinois,2022-11-01,0.4,Covid
+Illinois,2022-12-01,0.39,Covid
+Illinois,2023-01-01,0.98,Covid
+Illinois,2023-02-01,0.51,Covid
+Illinois,2023-03-01,0.37,Covid
+Illinois,2023-04-01,0.52,Covid
+Illinois,2023-05-01,0.91,Covid
+Illinois,2023-06-01,0.7,Covid
+Illinois,2023-07-01,0.4,Covid
+Illinois,2023-08-01,0.16,Covid
+Illinois,2023-09-01,0.35,Covid
+Illinois,2023-10-01,0.52,Covid
+Illinois,2023-11-01,0.54,Covid
+Illinois,2023-12-01,0.36,Covid
+Illinois,2024-01-01,0.08,Covid
+Illinois,2024-02-01,0.28,Covid
+Illinois,2024-03-01,0.77,Covid
+Illinois,2024-04-01,0.48,Covid
+Illinois,2024-05-01,0.73,Covid
+Illinois,2024-06-01,0.57,Covid
+Illinois,2024-07-01,0.98,Covid
+Illinois,2024-08-01,0.46,Covid
+Illinois,2024-09-01,0.28,Covid
+Illinois,2024-10-01,0.12,Covid
+Illinois,2024-11-01,0.64,Covid
+Illinois,2024-12-01,0.21,Covid
+Indiana,2020-01-01,0.57,Covid
+Indiana,2020-02-01,0.46,Covid
+Indiana,2020-03-01,0.3,Covid
+Indiana,2020-04-01,0.81,Covid
+Indiana,2020-05-01,0.93,Covid
+Indiana,2020-06-01,0.89,Covid
+Indiana,2020-07-01,0.42,Covid
+Indiana,2020-08-01,0.79,Covid
+Indiana,2020-09-01,0.47,Covid
+Indiana,2020-10-01,0.98,Covid
+Indiana,2020-11-01,0.94,Covid
+Indiana,2020-12-01,0.04,Covid
+Indiana,2021-01-01,0.69,Covid
+Indiana,2021-02-01,0.68,Covid
+Indiana,2021-03-01,0.89,Covid
+Indiana,2021-04-01,0.29,Covid
+Indiana,2021-05-01,0.65,Covid
+Indiana,2021-06-01,0.52,Covid
+Indiana,2021-07-01,0.41,Covid
+Indiana,2021-08-01,0.42,Covid
+Indiana,2021-09-01,0.81,Covid
+Indiana,2021-10-01,0.4,Covid
+Indiana,2021-11-01,0.83,Covid
+Indiana,2021-12-01,0.75,Covid
+Indiana,2022-01-01,0.69,Covid
+Indiana,2022-02-01,1.0,Covid
+Indiana,2022-03-01,0.35,Covid
+Indiana,2022-04-01,0.8,Covid
+Indiana,2022-05-01,0.11,Covid
+Indiana,2022-06-01,0.09,Covid
+Indiana,2022-07-01,0.63,Covid
+Indiana,2022-08-01,0.56,Covid
+Indiana,2022-09-01,0.98,Covid
+Indiana,2022-10-01,0.86,Covid
+Indiana,2022-11-01,0.41,Covid
+Indiana,2022-12-01,0.63,Covid
+Indiana,2023-01-01,0.53,Covid
+Indiana,2023-02-01,0.55,Covid
+Indiana,2023-03-01,0.31,Covid
+Indiana,2023-04-01,0.31,Covid
+Indiana,2023-05-01,0.28,Covid
+Indiana,2023-06-01,0.38,Covid
+Indiana,2023-07-01,0.43,Covid
+Indiana,2023-08-01,0.12,Covid
+Indiana,2023-09-01,0.93,Covid
+Indiana,2023-10-01,0.23,Covid
+Indiana,2023-11-01,0.39,Covid
+Indiana,2023-12-01,0.27,Covid
+Indiana,2024-01-01,0.09,Covid
+Indiana,2024-02-01,0.51,Covid
+Indiana,2024-03-01,0.74,Covid
+Indiana,2024-04-01,0.76,Covid
+Indiana,2024-05-01,0.17,Covid
+Indiana,2024-06-01,0.21,Covid
+Indiana,2024-07-01,0.51,Covid
+Indiana,2024-08-01,0.04,Covid
+Indiana,2024-09-01,0.47,Covid
+Indiana,2024-10-01,0.8,Covid
+Indiana,2024-11-01,0.83,Covid
+Indiana,2024-12-01,0.71,Covid
+Iowa,2020-01-01,0.37,Covid
+Iowa,2020-02-01,0.52,Covid
+Iowa,2020-03-01,0.84,Covid
+Iowa,2020-04-01,0.41,Covid
+Iowa,2020-05-01,0.51,Covid
+Iowa,2020-06-01,0.22,Covid
+Iowa,2020-07-01,0.65,Covid
+Iowa,2020-08-01,0.08,Covid
+Iowa,2020-09-01,0.66,Covid
+Iowa,2020-10-01,0.53,Covid
+Iowa,2020-11-01,0.86,Covid
+Iowa,2020-12-01,0.63,Covid
+Iowa,2021-01-01,0.76,Covid
+Iowa,2021-02-01,0.56,Covid
+Iowa,2021-03-01,0.54,Covid
+Iowa,2021-04-01,0.09,Covid
+Iowa,2021-05-01,0.36,Covid
+Iowa,2021-06-01,0.82,Covid
+Iowa,2021-07-01,0.7,Covid
+Iowa,2021-08-01,0.47,Covid
+Iowa,2021-09-01,0.03,Covid
+Iowa,2021-10-01,0.96,Covid
+Iowa,2021-11-01,0.76,Covid
+Iowa,2021-12-01,0.26,Covid
+Iowa,2022-01-01,0.61,Covid
+Iowa,2022-02-01,0.06,Covid
+Iowa,2022-03-01,0.61,Covid
+Iowa,2022-04-01,0.73,Covid
+Iowa,2022-05-01,0.81,Covid
+Iowa,2022-06-01,0.53,Covid
+Iowa,2022-07-01,0.59,Covid
+Iowa,2022-08-01,0.9,Covid
+Iowa,2022-09-01,0.15,Covid
+Iowa,2022-10-01,0.53,Covid
+Iowa,2022-11-01,0.66,Covid
+Iowa,2022-12-01,0.99,Covid
+Iowa,2023-01-01,0.35,Covid
+Iowa,2023-02-01,0.76,Covid
+Iowa,2023-03-01,0.31,Covid
+Iowa,2023-04-01,0.02,Covid
+Iowa,2023-05-01,0.32,Covid
+Iowa,2023-06-01,0.33,Covid
+Iowa,2023-07-01,0.99,Covid
+Iowa,2023-08-01,0.55,Covid
+Iowa,2023-09-01,0.01,Covid
+Iowa,2023-10-01,0.8,Covid
+Iowa,2023-11-01,0.78,Covid
+Iowa,2023-12-01,0.76,Covid
+Iowa,2024-01-01,0.42,Covid
+Iowa,2024-02-01,0.67,Covid
+Iowa,2024-03-01,0.91,Covid
+Iowa,2024-04-01,0.15,Covid
+Iowa,2024-05-01,0.75,Covid
+Iowa,2024-06-01,0.84,Covid
+Iowa,2024-07-01,0.34,Covid
+Iowa,2024-08-01,0.54,Covid
+Iowa,2024-09-01,0.72,Covid
+Iowa,2024-10-01,0.36,Covid
+Iowa,2024-11-01,0.81,Covid
+Iowa,2024-12-01,0.41,Covid
+Kansas,2020-01-01,0.77,Covid
+Kansas,2020-02-01,0.3,Covid
+Kansas,2020-03-01,0.72,Covid
+Kansas,2020-04-01,0.65,Covid
+Kansas,2020-05-01,0.99,Covid
+Kansas,2020-06-01,0.45,Covid
+Kansas,2020-07-01,0.04,Covid
+Kansas,2020-08-01,0.34,Covid
+Kansas,2020-09-01,0.42,Covid
+Kansas,2020-10-01,0.75,Covid
+Kansas,2020-11-01,0.37,Covid
+Kansas,2020-12-01,0.56,Covid
+Kansas,2021-01-01,0.99,Covid
+Kansas,2021-02-01,0.53,Covid
+Kansas,2021-03-01,0.66,Covid
+Kansas,2021-04-01,0.14,Covid
+Kansas,2021-05-01,0.94,Covid
+Kansas,2021-06-01,0.65,Covid
+Kansas,2021-07-01,0.15,Covid
+Kansas,2021-08-01,0.8,Covid
+Kansas,2021-09-01,0.22,Covid
+Kansas,2021-10-01,0.98,Covid
+Kansas,2021-11-01,0.59,Covid
+Kansas,2021-12-01,0.48,Covid
+Kansas,2022-01-01,0.96,Covid
+Kansas,2022-02-01,0.47,Covid
+Kansas,2022-03-01,0.14,Covid
+Kansas,2022-04-01,0.8,Covid
+Kansas,2022-05-01,0.62,Covid
+Kansas,2022-06-01,0.61,Covid
+Kansas,2022-07-01,0.97,Covid
+Kansas,2022-08-01,0.77,Covid
+Kansas,2022-09-01,0.36,Covid
+Kansas,2022-10-01,0.85,Covid
+Kansas,2022-11-01,0.53,Covid
+Kansas,2022-12-01,0.53,Covid
+Kansas,2023-01-01,0.05,Covid
+Kansas,2023-02-01,0.78,Covid
+Kansas,2023-03-01,0.97,Covid
+Kansas,2023-04-01,0.42,Covid
+Kansas,2023-05-01,0.34,Covid
+Kansas,2023-06-01,0.48,Covid
+Kansas,2023-07-01,0.18,Covid
+Kansas,2023-08-01,0.05,Covid
+Kansas,2023-09-01,0.24,Covid
+Kansas,2023-10-01,0.57,Covid
+Kansas,2023-11-01,0.62,Covid
+Kansas,2023-12-01,0.21,Covid
+Kansas,2024-01-01,0.06,Covid
+Kansas,2024-02-01,0.14,Covid
+Kansas,2024-03-01,0.83,Covid
+Kansas,2024-04-01,0.54,Covid
+Kansas,2024-05-01,0.82,Covid
+Kansas,2024-06-01,0.37,Covid
+Kansas,2024-07-01,0.91,Covid
+Kansas,2024-08-01,0.49,Covid
+Kansas,2024-09-01,0.53,Covid
+Kansas,2024-10-01,0.35,Covid
+Kansas,2024-11-01,0.25,Covid
+Kansas,2024-12-01,0.76,Covid
+Kentucky,2020-01-01,0.95,Covid
+Kentucky,2020-02-01,0.51,Covid
+Kentucky,2020-03-01,0.96,Covid
+Kentucky,2020-04-01,0.73,Covid
+Kentucky,2020-05-01,0.41,Covid
+Kentucky,2020-06-01,0.82,Covid
+Kentucky,2020-07-01,0.9,Covid
+Kentucky,2020-08-01,0.85,Covid
+Kentucky,2020-09-01,0.75,Covid
+Kentucky,2020-10-01,0.9,Covid
+Kentucky,2020-11-01,0.37,Covid
+Kentucky,2020-12-01,0.52,Covid
+Kentucky,2021-01-01,0.76,Covid
+Kentucky,2021-02-01,0.87,Covid
+Kentucky,2021-03-01,0.14,Covid
+Kentucky,2021-04-01,0.15,Covid
+Kentucky,2021-05-01,0.06,Covid
+Kentucky,2021-06-01,0.47,Covid
+Kentucky,2021-07-01,0.35,Covid
+Kentucky,2021-08-01,0.98,Covid
+Kentucky,2021-09-01,0.6,Covid
+Kentucky,2021-10-01,0.21,Covid
+Kentucky,2021-11-01,0.42,Covid
+Kentucky,2021-12-01,0.56,Covid
+Kentucky,2022-01-01,0.64,Covid
+Kentucky,2022-02-01,0.57,Covid
+Kentucky,2022-03-01,0.53,Covid
+Kentucky,2022-04-01,0.36,Covid
+Kentucky,2022-05-01,0.53,Covid
+Kentucky,2022-06-01,0.51,Covid
+Kentucky,2022-07-01,0.68,Covid
+Kentucky,2022-08-01,0.44,Covid
+Kentucky,2022-09-01,0.05,Covid
+Kentucky,2022-10-01,0.42,Covid
+Kentucky,2022-11-01,0.82,Covid
+Kentucky,2022-12-01,0.59,Covid
+Kentucky,2023-01-01,0.48,Covid
+Kentucky,2023-02-01,0.33,Covid
+Kentucky,2023-03-01,0.64,Covid
+Kentucky,2023-04-01,0.95,Covid
+Kentucky,2023-05-01,0.58,Covid
+Kentucky,2023-06-01,0.82,Covid
+Kentucky,2023-07-01,0.96,Covid
+Kentucky,2023-08-01,0.52,Covid
+Kentucky,2023-09-01,0.82,Covid
+Kentucky,2023-10-01,0.61,Covid
+Kentucky,2023-11-01,0.18,Covid
+Kentucky,2023-12-01,0.01,Covid
+Kentucky,2024-01-01,0.29,Covid
+Kentucky,2024-02-01,0.42,Covid
+Kentucky,2024-03-01,1.0,Covid
+Kentucky,2024-04-01,0.56,Covid
+Kentucky,2024-05-01,0.41,Covid
+Kentucky,2024-06-01,0.83,Covid
+Kentucky,2024-07-01,0.64,Covid
+Kentucky,2024-08-01,0.33,Covid
+Kentucky,2024-09-01,0.33,Covid
+Kentucky,2024-10-01,0.14,Covid
+Kentucky,2024-11-01,0.29,Covid
+Kentucky,2024-12-01,0.06,Covid
+Louisiana,2020-01-01,0.05,Covid
+Louisiana,2020-02-01,0.26,Covid
+Louisiana,2020-03-01,0.66,Covid
+Louisiana,2020-04-01,0.96,Covid
+Louisiana,2020-05-01,0.87,Covid
+Louisiana,2020-06-01,0.8,Covid
+Louisiana,2020-07-01,0.65,Covid
+Louisiana,2020-08-01,0.2,Covid
+Louisiana,2020-09-01,0.34,Covid
+Louisiana,2020-10-01,0.16,Covid
+Louisiana,2020-11-01,0.96,Covid
+Louisiana,2020-12-01,0.31,Covid
+Louisiana,2021-01-01,0.02,Covid
+Louisiana,2021-02-01,0.89,Covid
+Louisiana,2021-03-01,0.32,Covid
+Louisiana,2021-04-01,1.0,Covid
+Louisiana,2021-05-01,0.65,Covid
+Louisiana,2021-06-01,0.9,Covid
+Louisiana,2021-07-01,0.99,Covid
+Louisiana,2021-08-01,0.52,Covid
+Louisiana,2021-09-01,0.16,Covid
+Louisiana,2021-10-01,0.95,Covid
+Louisiana,2021-11-01,0.47,Covid
+Louisiana,2021-12-01,0.91,Covid
+Louisiana,2022-01-01,0.74,Covid
+Louisiana,2022-02-01,0.62,Covid
+Louisiana,2022-03-01,0.41,Covid
+Louisiana,2022-04-01,0.09,Covid
+Louisiana,2022-05-01,0.6,Covid
+Louisiana,2022-06-01,0.38,Covid
+Louisiana,2022-07-01,0.59,Covid
+Louisiana,2022-08-01,0.88,Covid
+Louisiana,2022-09-01,0.33,Covid
+Louisiana,2022-10-01,0.63,Covid
+Louisiana,2022-11-01,0.76,Covid
+Louisiana,2022-12-01,0.18,Covid
+Louisiana,2023-01-01,0.5,Covid
+Louisiana,2023-02-01,0.09,Covid
+Louisiana,2023-03-01,0.2,Covid
+Louisiana,2023-04-01,0.56,Covid
+Louisiana,2023-05-01,0.82,Covid
+Louisiana,2023-06-01,0.26,Covid
+Louisiana,2023-07-01,0.83,Covid
+Louisiana,2023-08-01,0.87,Covid
+Louisiana,2023-09-01,0.53,Covid
+Louisiana,2023-10-01,0.81,Covid
+Louisiana,2023-11-01,0.33,Covid
+Louisiana,2023-12-01,0.64,Covid
+Louisiana,2024-01-01,0.52,Covid
+Louisiana,2024-02-01,0.2,Covid
+Louisiana,2024-03-01,0.77,Covid
+Louisiana,2024-04-01,0.37,Covid
+Louisiana,2024-05-01,0.57,Covid
+Louisiana,2024-06-01,0.52,Covid
+Louisiana,2024-07-01,0.58,Covid
+Louisiana,2024-08-01,0.76,Covid
+Louisiana,2024-09-01,0.11,Covid
+Louisiana,2024-10-01,0.37,Covid
+Louisiana,2024-11-01,0.04,Covid
+Louisiana,2024-12-01,0.97,Covid
+Maine,2020-01-01,0.58,Covid
+Maine,2020-02-01,0.3,Covid
+Maine,2020-03-01,0.65,Covid
+Maine,2020-04-01,0.14,Covid
+Maine,2020-05-01,0.55,Covid
+Maine,2020-06-01,0.44,Covid
+Maine,2020-07-01,0.61,Covid
+Maine,2020-08-01,0.55,Covid
+Maine,2020-09-01,0.62,Covid
+Maine,2020-10-01,0.07,Covid
+Maine,2020-11-01,0.39,Covid
+Maine,2020-12-01,0.81,Covid
+Maine,2021-01-01,0.71,Covid
+Maine,2021-02-01,0.71,Covid
+Maine,2021-03-01,0.07,Covid
+Maine,2021-04-01,0.12,Covid
+Maine,2021-05-01,0.02,Covid
+Maine,2021-06-01,0.15,Covid
+Maine,2021-07-01,0.4,Covid
+Maine,2021-08-01,0.7,Covid
+Maine,2021-09-01,0.23,Covid
+Maine,2021-10-01,0.56,Covid
+Maine,2021-11-01,0.66,Covid
+Maine,2021-12-01,0.06,Covid
+Maine,2022-01-01,0.29,Covid
+Maine,2022-02-01,0.54,Covid
+Maine,2022-03-01,0.44,Covid
+Maine,2022-04-01,0.27,Covid
+Maine,2022-05-01,0.5,Covid
+Maine,2022-06-01,0.23,Covid
+Maine,2022-07-01,0.24,Covid
+Maine,2022-08-01,0.74,Covid
+Maine,2022-09-01,0.07,Covid
+Maine,2022-10-01,0.43,Covid
+Maine,2022-11-01,0.75,Covid
+Maine,2022-12-01,0.89,Covid
+Maine,2023-01-01,0.41,Covid
+Maine,2023-02-01,0.55,Covid
+Maine,2023-03-01,0.36,Covid
+Maine,2023-04-01,0.48,Covid
+Maine,2023-05-01,0.15,Covid
+Maine,2023-06-01,0.98,Covid
+Maine,2023-07-01,0.89,Covid
+Maine,2023-08-01,0.7,Covid
+Maine,2023-09-01,0.33,Covid
+Maine,2023-10-01,0.7,Covid
+Maine,2023-11-01,0.85,Covid
+Maine,2023-12-01,0.02,Covid
+Maine,2024-01-01,0.06,Covid
+Maine,2024-02-01,0.11,Covid
+Maine,2024-03-01,0.54,Covid
+Maine,2024-04-01,0.26,Covid
+Maine,2024-05-01,0.39,Covid
+Maine,2024-06-01,0.9,Covid
+Maine,2024-07-01,0.59,Covid
+Maine,2024-08-01,0.67,Covid
+Maine,2024-09-01,0.23,Covid
+Maine,2024-10-01,0.84,Covid
+Maine,2024-11-01,0.13,Covid
+Maine,2024-12-01,0.34,Covid
+Maryland,2020-01-01,0.53,Covid
+Maryland,2020-02-01,0.45,Covid
+Maryland,2020-03-01,0.03,Covid
+Maryland,2020-04-01,0.02,Covid
+Maryland,2020-05-01,0.72,Covid
+Maryland,2020-06-01,0.88,Covid
+Maryland,2020-07-01,0.79,Covid
+Maryland,2020-08-01,0.43,Covid
+Maryland,2020-09-01,0.86,Covid
+Maryland,2020-10-01,0.55,Covid
+Maryland,2020-11-01,0.77,Covid
+Maryland,2020-12-01,0.49,Covid
+Maryland,2021-01-01,0.12,Covid
+Maryland,2021-02-01,0.29,Covid
+Maryland,2021-03-01,0.53,Covid
+Maryland,2021-04-01,0.16,Covid
+Maryland,2021-05-01,0.64,Covid
+Maryland,2021-06-01,0.09,Covid
+Maryland,2021-07-01,0.4,Covid
+Maryland,2021-08-01,0.48,Covid
+Maryland,2021-09-01,0.39,Covid
+Maryland,2021-10-01,0.0,Covid
+Maryland,2021-11-01,0.1,Covid
+Maryland,2021-12-01,0.36,Covid
+Maryland,2022-01-01,0.49,Covid
+Maryland,2022-02-01,0.52,Covid
+Maryland,2022-03-01,0.64,Covid
+Maryland,2022-04-01,0.74,Covid
+Maryland,2022-05-01,0.3,Covid
+Maryland,2022-06-01,0.43,Covid
+Maryland,2022-07-01,0.78,Covid
+Maryland,2022-08-01,0.88,Covid
+Maryland,2022-09-01,0.55,Covid
+Maryland,2022-10-01,0.35,Covid
+Maryland,2022-11-01,0.82,Covid
+Maryland,2022-12-01,0.63,Covid
+Maryland,2023-01-01,0.73,Covid
+Maryland,2023-02-01,0.16,Covid
+Maryland,2023-03-01,0.02,Covid
+Maryland,2023-04-01,0.34,Covid
+Maryland,2023-05-01,0.65,Covid
+Maryland,2023-06-01,0.39,Covid
+Maryland,2023-07-01,0.24,Covid
+Maryland,2023-08-01,0.53,Covid
+Maryland,2023-09-01,0.5,Covid
+Maryland,2023-10-01,0.71,Covid
+Maryland,2023-11-01,0.06,Covid
+Maryland,2023-12-01,0.28,Covid
+Maryland,2024-01-01,0.62,Covid
+Maryland,2024-02-01,0.93,Covid
+Maryland,2024-03-01,0.94,Covid
+Maryland,2024-04-01,0.23,Covid
+Maryland,2024-05-01,0.15,Covid
+Maryland,2024-06-01,0.91,Covid
+Maryland,2024-07-01,0.11,Covid
+Maryland,2024-08-01,0.65,Covid
+Maryland,2024-09-01,0.25,Covid
+Maryland,2024-10-01,0.83,Covid
+Maryland,2024-11-01,0.29,Covid
+Maryland,2024-12-01,0.98,Covid
+Massachusetts,2020-01-01,1.0,Covid
+Massachusetts,2020-02-01,0.74,Covid
+Massachusetts,2020-03-01,0.54,Covid
+Massachusetts,2020-04-01,0.81,Covid
+Massachusetts,2020-05-01,0.97,Covid
+Massachusetts,2020-06-01,0.94,Covid
+Massachusetts,2020-07-01,0.94,Covid
+Massachusetts,2020-08-01,0.69,Covid
+Massachusetts,2020-09-01,0.4,Covid
+Massachusetts,2020-10-01,0.04,Covid
+Massachusetts,2020-11-01,0.51,Covid
+Massachusetts,2020-12-01,0.67,Covid
+Massachusetts,2021-01-01,0.62,Covid
+Massachusetts,2021-02-01,0.11,Covid
+Massachusetts,2021-03-01,0.3,Covid
+Massachusetts,2021-04-01,0.01,Covid
+Massachusetts,2021-05-01,0.32,Covid
+Massachusetts,2021-06-01,0.98,Covid
+Massachusetts,2021-07-01,0.93,Covid
+Massachusetts,2021-08-01,0.13,Covid
+Massachusetts,2021-09-01,0.77,Covid
+Massachusetts,2021-10-01,0.63,Covid
+Massachusetts,2021-11-01,0.15,Covid
+Massachusetts,2021-12-01,0.23,Covid
+Massachusetts,2022-01-01,0.51,Covid
+Massachusetts,2022-02-01,0.73,Covid
+Massachusetts,2022-03-01,0.73,Covid
+Massachusetts,2022-04-01,0.34,Covid
+Massachusetts,2022-05-01,0.19,Covid
+Massachusetts,2022-06-01,0.46,Covid
+Massachusetts,2022-07-01,0.43,Covid
+Massachusetts,2022-08-01,0.71,Covid
+Massachusetts,2022-09-01,0.27,Covid
+Massachusetts,2022-10-01,0.36,Covid
+Massachusetts,2022-11-01,0.15,Covid
+Massachusetts,2022-12-01,0.18,Covid
+Massachusetts,2023-01-01,0.96,Covid
+Massachusetts,2023-02-01,0.68,Covid
+Massachusetts,2023-03-01,0.84,Covid
+Massachusetts,2023-04-01,0.75,Covid
+Massachusetts,2023-05-01,0.53,Covid
+Massachusetts,2023-06-01,0.79,Covid
+Massachusetts,2023-07-01,0.33,Covid
+Massachusetts,2023-08-01,0.96,Covid
+Massachusetts,2023-09-01,0.63,Covid
+Massachusetts,2023-10-01,0.76,Covid
+Massachusetts,2023-11-01,0.69,Covid
+Massachusetts,2023-12-01,0.21,Covid
+Massachusetts,2024-01-01,0.82,Covid
+Massachusetts,2024-02-01,0.47,Covid
+Massachusetts,2024-03-01,0.89,Covid
+Massachusetts,2024-04-01,0.66,Covid
+Massachusetts,2024-05-01,0.41,Covid
+Massachusetts,2024-06-01,0.43,Covid
+Massachusetts,2024-07-01,0.89,Covid
+Massachusetts,2024-08-01,0.05,Covid
+Massachusetts,2024-09-01,0.96,Covid
+Massachusetts,2024-10-01,0.25,Covid
+Massachusetts,2024-11-01,0.72,Covid
+Massachusetts,2024-12-01,0.56,Covid
+Michigan,2020-01-01,0.58,Covid
+Michigan,2020-02-01,0.74,Covid
+Michigan,2020-03-01,0.31,Covid
+Michigan,2020-04-01,0.26,Covid
+Michigan,2020-05-01,0.95,Covid
+Michigan,2020-06-01,0.06,Covid
+Michigan,2020-07-01,0.37,Covid
+Michigan,2020-08-01,0.05,Covid
+Michigan,2020-09-01,0.86,Covid
+Michigan,2020-10-01,0.41,Covid
+Michigan,2020-11-01,0.58,Covid
+Michigan,2020-12-01,0.85,Covid
+Michigan,2021-01-01,0.7,Covid
+Michigan,2021-02-01,0.56,Covid
+Michigan,2021-03-01,0.23,Covid
+Michigan,2021-04-01,0.84,Covid
+Michigan,2021-05-01,0.51,Covid
+Michigan,2021-06-01,0.38,Covid
+Michigan,2021-07-01,0.03,Covid
+Michigan,2021-08-01,0.33,Covid
+Michigan,2021-09-01,0.79,Covid
+Michigan,2021-10-01,0.66,Covid
+Michigan,2021-11-01,0.23,Covid
+Michigan,2021-12-01,0.14,Covid
+Michigan,2022-01-01,0.94,Covid
+Michigan,2022-02-01,0.81,Covid
+Michigan,2022-03-01,0.39,Covid
+Michigan,2022-04-01,0.11,Covid
+Michigan,2022-05-01,0.62,Covid
+Michigan,2022-06-01,0.19,Covid
+Michigan,2022-07-01,0.93,Covid
+Michigan,2022-08-01,0.16,Covid
+Michigan,2022-09-01,1.0,Covid
+Michigan,2022-10-01,0.42,Covid
+Michigan,2022-11-01,0.38,Covid
+Michigan,2022-12-01,0.76,Covid
+Michigan,2023-01-01,0.83,Covid
+Michigan,2023-02-01,0.67,Covid
+Michigan,2023-03-01,0.1,Covid
+Michigan,2023-04-01,0.01,Covid
+Michigan,2023-05-01,0.78,Covid
+Michigan,2023-06-01,0.42,Covid
+Michigan,2023-07-01,0.85,Covid
+Michigan,2023-08-01,0.25,Covid
+Michigan,2023-09-01,0.32,Covid
+Michigan,2023-10-01,0.79,Covid
+Michigan,2023-11-01,0.62,Covid
+Michigan,2023-12-01,0.67,Covid
+Michigan,2024-01-01,0.02,Covid
+Michigan,2024-02-01,0.35,Covid
+Michigan,2024-03-01,0.4,Covid
+Michigan,2024-04-01,0.18,Covid
+Michigan,2024-05-01,0.67,Covid
+Michigan,2024-06-01,0.33,Covid
+Michigan,2024-07-01,0.49,Covid
+Michigan,2024-08-01,0.63,Covid
+Michigan,2024-09-01,0.64,Covid
+Michigan,2024-10-01,0.32,Covid
+Michigan,2024-11-01,0.78,Covid
+Michigan,2024-12-01,0.98,Covid
+Minnesota,2020-01-01,0.32,Covid
+Minnesota,2020-02-01,0.67,Covid
+Minnesota,2020-03-01,0.78,Covid
+Minnesota,2020-04-01,0.36,Covid
+Minnesota,2020-05-01,0.19,Covid
+Minnesota,2020-06-01,0.36,Covid
+Minnesota,2020-07-01,0.32,Covid
+Minnesota,2020-08-01,0.67,Covid
+Minnesota,2020-09-01,0.09,Covid
+Minnesota,2020-10-01,0.29,Covid
+Minnesota,2020-11-01,0.89,Covid
+Minnesota,2020-12-01,0.88,Covid
+Minnesota,2021-01-01,0.2,Covid
+Minnesota,2021-02-01,0.06,Covid
+Minnesota,2021-03-01,0.47,Covid
+Minnesota,2021-04-01,0.24,Covid
+Minnesota,2021-05-01,0.53,Covid
+Minnesota,2021-06-01,0.91,Covid
+Minnesota,2021-07-01,0.88,Covid
+Minnesota,2021-08-01,0.8,Covid
+Minnesota,2021-09-01,0.73,Covid
+Minnesota,2021-10-01,0.62,Covid
+Minnesota,2021-11-01,0.71,Covid
+Minnesota,2021-12-01,0.56,Covid
+Minnesota,2022-01-01,0.25,Covid
+Minnesota,2022-02-01,0.39,Covid
+Minnesota,2022-03-01,0.99,Covid
+Minnesota,2022-04-01,0.76,Covid
+Minnesota,2022-05-01,0.65,Covid
+Minnesota,2022-06-01,0.37,Covid
+Minnesota,2022-07-01,0.35,Covid
+Minnesota,2022-08-01,0.71,Covid
+Minnesota,2022-09-01,0.94,Covid
+Minnesota,2022-10-01,0.36,Covid
+Minnesota,2022-11-01,0.24,Covid
+Minnesota,2022-12-01,0.16,Covid
+Minnesota,2023-01-01,0.46,Covid
+Minnesota,2023-02-01,0.7,Covid
+Minnesota,2023-03-01,0.89,Covid
+Minnesota,2023-04-01,0.39,Covid
+Minnesota,2023-05-01,0.3,Covid
+Minnesota,2023-06-01,0.95,Covid
+Minnesota,2023-07-01,0.05,Covid
+Minnesota,2023-08-01,0.94,Covid
+Minnesota,2023-09-01,0.88,Covid
+Minnesota,2023-10-01,0.51,Covid
+Minnesota,2023-11-01,0.28,Covid
+Minnesota,2023-12-01,0.37,Covid
+Minnesota,2024-01-01,0.15,Covid
+Minnesota,2024-02-01,0.43,Covid
+Minnesota,2024-03-01,0.42,Covid
+Minnesota,2024-04-01,0.36,Covid
+Minnesota,2024-05-01,0.33,Covid
+Minnesota,2024-06-01,0.13,Covid
+Minnesota,2024-07-01,0.35,Covid
+Minnesota,2024-08-01,0.93,Covid
+Minnesota,2024-09-01,0.22,Covid
+Minnesota,2024-10-01,0.44,Covid
+Minnesota,2024-11-01,0.7,Covid
+Minnesota,2024-12-01,0.74,Covid
+Mississippi,2020-01-01,0.45,Covid
+Mississippi,2020-02-01,0.38,Covid
+Mississippi,2020-03-01,0.24,Covid
+Mississippi,2020-04-01,0.4,Covid
+Mississippi,2020-05-01,0.75,Covid
+Mississippi,2020-06-01,0.85,Covid
+Mississippi,2020-07-01,0.42,Covid
+Mississippi,2020-08-01,0.07,Covid
+Mississippi,2020-09-01,0.78,Covid
+Mississippi,2020-10-01,0.75,Covid
+Mississippi,2020-11-01,0.17,Covid
+Mississippi,2020-12-01,0.35,Covid
+Mississippi,2021-01-01,0.32,Covid
+Mississippi,2021-02-01,0.79,Covid
+Mississippi,2021-03-01,0.22,Covid
+Mississippi,2021-04-01,0.39,Covid
+Mississippi,2021-05-01,0.77,Covid
+Mississippi,2021-06-01,0.49,Covid
+Mississippi,2021-07-01,0.6,Covid
+Mississippi,2021-08-01,0.95,Covid
+Mississippi,2021-09-01,0.33,Covid
+Mississippi,2021-10-01,0.33,Covid
+Mississippi,2021-11-01,0.07,Covid
+Mississippi,2021-12-01,0.61,Covid
+Mississippi,2022-01-01,0.1,Covid
+Mississippi,2022-02-01,0.43,Covid
+Mississippi,2022-03-01,0.25,Covid
+Mississippi,2022-04-01,0.22,Covid
+Mississippi,2022-05-01,0.54,Covid
+Mississippi,2022-06-01,0.86,Covid
+Mississippi,2022-07-01,0.11,Covid
+Mississippi,2022-08-01,0.0,Covid
+Mississippi,2022-09-01,0.36,Covid
+Mississippi,2022-10-01,0.18,Covid
+Mississippi,2022-11-01,0.54,Covid
+Mississippi,2022-12-01,0.77,Covid
+Mississippi,2023-01-01,0.74,Covid
+Mississippi,2023-02-01,0.69,Covid
+Mississippi,2023-03-01,0.3,Covid
+Mississippi,2023-04-01,0.68,Covid
+Mississippi,2023-05-01,0.48,Covid
+Mississippi,2023-06-01,0.19,Covid
+Mississippi,2023-07-01,0.63,Covid
+Mississippi,2023-08-01,0.04,Covid
+Mississippi,2023-09-01,0.65,Covid
+Mississippi,2023-10-01,0.6,Covid
+Mississippi,2023-11-01,0.18,Covid
+Mississippi,2023-12-01,0.48,Covid
+Mississippi,2024-01-01,0.18,Covid
+Mississippi,2024-02-01,0.42,Covid
+Mississippi,2024-03-01,0.26,Covid
+Mississippi,2024-04-01,0.19,Covid
+Mississippi,2024-05-01,0.49,Covid
+Mississippi,2024-06-01,0.9,Covid
+Mississippi,2024-07-01,0.28,Covid
+Mississippi,2024-08-01,0.03,Covid
+Mississippi,2024-09-01,0.18,Covid
+Mississippi,2024-10-01,0.6,Covid
+Mississippi,2024-11-01,0.75,Covid
+Mississippi,2024-12-01,0.54,Covid
+Missouri,2020-01-01,0.45,Covid
+Missouri,2020-02-01,0.95,Covid
+Missouri,2020-03-01,0.93,Covid
+Missouri,2020-04-01,0.06,Covid
+Missouri,2020-05-01,0.73,Covid
+Missouri,2020-06-01,0.48,Covid
+Missouri,2020-07-01,0.17,Covid
+Missouri,2020-08-01,0.26,Covid
+Missouri,2020-09-01,0.75,Covid
+Missouri,2020-10-01,0.08,Covid
+Missouri,2020-11-01,0.3,Covid
+Missouri,2020-12-01,0.84,Covid
+Missouri,2021-01-01,0.61,Covid
+Missouri,2021-02-01,0.77,Covid
+Missouri,2021-03-01,0.04,Covid
+Missouri,2021-04-01,0.73,Covid
+Missouri,2021-05-01,0.23,Covid
+Missouri,2021-06-01,0.85,Covid
+Missouri,2021-07-01,0.36,Covid
+Missouri,2021-08-01,0.83,Covid
+Missouri,2021-09-01,0.71,Covid
+Missouri,2021-10-01,0.53,Covid
+Missouri,2021-11-01,0.03,Covid
+Missouri,2021-12-01,0.92,Covid
+Missouri,2022-01-01,0.3,Covid
+Missouri,2022-02-01,0.45,Covid
+Missouri,2022-03-01,0.04,Covid
+Missouri,2022-04-01,0.52,Covid
+Missouri,2022-05-01,0.41,Covid
+Missouri,2022-06-01,0.11,Covid
+Missouri,2022-07-01,0.44,Covid
+Missouri,2022-08-01,0.83,Covid
+Missouri,2022-09-01,0.18,Covid
+Missouri,2022-10-01,0.87,Covid
+Missouri,2022-11-01,0.44,Covid
+Missouri,2022-12-01,0.11,Covid
+Missouri,2023-01-01,0.9,Covid
+Missouri,2023-02-01,0.72,Covid
+Missouri,2023-03-01,0.0,Covid
+Missouri,2023-04-01,0.24,Covid
+Missouri,2023-05-01,0.57,Covid
+Missouri,2023-06-01,0.59,Covid
+Missouri,2023-07-01,0.58,Covid
+Missouri,2023-08-01,0.55,Covid
+Missouri,2023-09-01,0.97,Covid
+Missouri,2023-10-01,0.97,Covid
+Missouri,2023-11-01,0.79,Covid
+Missouri,2023-12-01,0.93,Covid
+Missouri,2024-01-01,0.85,Covid
+Missouri,2024-02-01,0.87,Covid
+Missouri,2024-03-01,0.55,Covid
+Missouri,2024-04-01,0.93,Covid
+Missouri,2024-05-01,0.77,Covid
+Missouri,2024-06-01,0.67,Covid
+Missouri,2024-07-01,0.9,Covid
+Missouri,2024-08-01,0.56,Covid
+Missouri,2024-09-01,0.28,Covid
+Missouri,2024-10-01,0.62,Covid
+Missouri,2024-11-01,0.69,Covid
+Missouri,2024-12-01,0.95,Covid
+Montana,2020-01-01,0.28,Covid
+Montana,2020-02-01,0.71,Covid
+Montana,2020-03-01,0.04,Covid
+Montana,2020-04-01,0.78,Covid
+Montana,2020-05-01,0.83,Covid
+Montana,2020-06-01,0.43,Covid
+Montana,2020-07-01,0.94,Covid
+Montana,2020-08-01,0.25,Covid
+Montana,2020-09-01,0.24,Covid
+Montana,2020-10-01,0.05,Covid
+Montana,2020-11-01,0.48,Covid
+Montana,2020-12-01,0.1,Covid
+Montana,2021-01-01,0.09,Covid
+Montana,2021-02-01,0.32,Covid
+Montana,2021-03-01,0.13,Covid
+Montana,2021-04-01,0.02,Covid
+Montana,2021-05-01,0.85,Covid
+Montana,2021-06-01,0.3,Covid
+Montana,2021-07-01,0.49,Covid
+Montana,2021-08-01,0.07,Covid
+Montana,2021-09-01,0.6,Covid
+Montana,2021-10-01,0.44,Covid
+Montana,2021-11-01,0.72,Covid
+Montana,2021-12-01,0.56,Covid
+Montana,2022-01-01,0.53,Covid
+Montana,2022-02-01,0.39,Covid
+Montana,2022-03-01,0.36,Covid
+Montana,2022-04-01,0.36,Covid
+Montana,2022-05-01,0.64,Covid
+Montana,2022-06-01,0.26,Covid
+Montana,2022-07-01,0.42,Covid
+Montana,2022-08-01,0.16,Covid
+Montana,2022-09-01,0.32,Covid
+Montana,2022-10-01,0.99,Covid
+Montana,2022-11-01,0.67,Covid
+Montana,2022-12-01,0.66,Covid
+Montana,2023-01-01,0.98,Covid
+Montana,2023-02-01,0.43,Covid
+Montana,2023-03-01,0.96,Covid
+Montana,2023-04-01,0.4,Covid
+Montana,2023-05-01,0.39,Covid
+Montana,2023-06-01,0.71,Covid
+Montana,2023-07-01,0.63,Covid
+Montana,2023-08-01,0.57,Covid
+Montana,2023-09-01,0.05,Covid
+Montana,2023-10-01,0.73,Covid
+Montana,2023-11-01,0.33,Covid
+Montana,2023-12-01,0.14,Covid
+Montana,2024-01-01,0.85,Covid
+Montana,2024-02-01,0.63,Covid
+Montana,2024-03-01,0.12,Covid
+Montana,2024-04-01,0.65,Covid
+Montana,2024-05-01,0.95,Covid
+Montana,2024-06-01,0.15,Covid
+Montana,2024-07-01,0.55,Covid
+Montana,2024-08-01,0.59,Covid
+Montana,2024-09-01,0.59,Covid
+Montana,2024-10-01,0.51,Covid
+Montana,2024-11-01,0.27,Covid
+Montana,2024-12-01,0.8,Covid
+Nebraska,2020-01-01,0.71,Covid
+Nebraska,2020-02-01,0.37,Covid
+Nebraska,2020-03-01,0.98,Covid
+Nebraska,2020-04-01,0.89,Covid
+Nebraska,2020-05-01,0.58,Covid
+Nebraska,2020-06-01,0.11,Covid
+Nebraska,2020-07-01,0.36,Covid
+Nebraska,2020-08-01,0.07,Covid
+Nebraska,2020-09-01,0.93,Covid
+Nebraska,2020-10-01,0.28,Covid
+Nebraska,2020-11-01,0.06,Covid
+Nebraska,2020-12-01,0.22,Covid
+Nebraska,2021-01-01,0.15,Covid
+Nebraska,2021-02-01,0.07,Covid
+Nebraska,2021-03-01,0.98,Covid
+Nebraska,2021-04-01,0.7,Covid
+Nebraska,2021-05-01,0.75,Covid
+Nebraska,2021-06-01,0.84,Covid
+Nebraska,2021-07-01,0.69,Covid
+Nebraska,2021-08-01,0.28,Covid
+Nebraska,2021-09-01,0.79,Covid
+Nebraska,2021-10-01,0.41,Covid
+Nebraska,2021-11-01,0.64,Covid
+Nebraska,2021-12-01,0.52,Covid
+Nebraska,2022-01-01,0.89,Covid
+Nebraska,2022-02-01,0.09,Covid
+Nebraska,2022-03-01,0.22,Covid
+Nebraska,2022-04-01,0.18,Covid
+Nebraska,2022-05-01,0.85,Covid
+Nebraska,2022-06-01,0.04,Covid
+Nebraska,2022-07-01,0.66,Covid
+Nebraska,2022-08-01,0.2,Covid
+Nebraska,2022-09-01,0.09,Covid
+Nebraska,2022-10-01,0.31,Covid
+Nebraska,2022-11-01,0.05,Covid
+Nebraska,2022-12-01,0.43,Covid
+Nebraska,2023-01-01,0.68,Covid
+Nebraska,2023-02-01,0.11,Covid
+Nebraska,2023-03-01,0.92,Covid
+Nebraska,2023-04-01,0.75,Covid
+Nebraska,2023-05-01,0.37,Covid
+Nebraska,2023-06-01,0.14,Covid
+Nebraska,2023-07-01,0.56,Covid
+Nebraska,2023-08-01,0.51,Covid
+Nebraska,2023-09-01,0.12,Covid
+Nebraska,2023-10-01,0.25,Covid
+Nebraska,2023-11-01,0.92,Covid
+Nebraska,2023-12-01,0.62,Covid
+Nebraska,2024-01-01,0.09,Covid
+Nebraska,2024-02-01,0.55,Covid
+Nebraska,2024-03-01,0.41,Covid
+Nebraska,2024-04-01,0.07,Covid
+Nebraska,2024-05-01,0.81,Covid
+Nebraska,2024-06-01,0.02,Covid
+Nebraska,2024-07-01,0.86,Covid
+Nebraska,2024-08-01,0.97,Covid
+Nebraska,2024-09-01,0.95,Covid
+Nebraska,2024-10-01,0.65,Covid
+Nebraska,2024-11-01,0.86,Covid
+Nebraska,2024-12-01,0.99,Covid
+Nevada,2020-01-01,0.07,Covid
+Nevada,2020-02-01,0.61,Covid
+Nevada,2020-03-01,0.56,Covid
+Nevada,2020-04-01,0.25,Covid
+Nevada,2020-05-01,0.86,Covid
+Nevada,2020-06-01,0.11,Covid
+Nevada,2020-07-01,0.85,Covid
+Nevada,2020-08-01,0.52,Covid
+Nevada,2020-09-01,0.32,Covid
+Nevada,2020-10-01,0.95,Covid
+Nevada,2020-11-01,0.12,Covid
+Nevada,2020-12-01,0.38,Covid
+Nevada,2021-01-01,0.51,Covid
+Nevada,2021-02-01,0.31,Covid
+Nevada,2021-03-01,0.54,Covid
+Nevada,2021-04-01,0.47,Covid
+Nevada,2021-05-01,0.57,Covid
+Nevada,2021-06-01,0.83,Covid
+Nevada,2021-07-01,0.09,Covid
+Nevada,2021-08-01,0.21,Covid
+Nevada,2021-09-01,0.85,Covid
+Nevada,2021-10-01,0.2,Covid
+Nevada,2021-11-01,0.92,Covid
+Nevada,2021-12-01,0.92,Covid
+Nevada,2022-01-01,0.27,Covid
+Nevada,2022-02-01,0.34,Covid
+Nevada,2022-03-01,0.17,Covid
+Nevada,2022-04-01,0.21,Covid
+Nevada,2022-05-01,0.35,Covid
+Nevada,2022-06-01,0.75,Covid
+Nevada,2022-07-01,0.66,Covid
+Nevada,2022-08-01,0.58,Covid
+Nevada,2022-09-01,0.05,Covid
+Nevada,2022-10-01,0.52,Covid
+Nevada,2022-11-01,0.3,Covid
+Nevada,2022-12-01,0.67,Covid
+Nevada,2023-01-01,0.12,Covid
+Nevada,2023-02-01,0.72,Covid
+Nevada,2023-03-01,0.34,Covid
+Nevada,2023-04-01,0.23,Covid
+Nevada,2023-05-01,0.43,Covid
+Nevada,2023-06-01,0.34,Covid
+Nevada,2023-07-01,0.63,Covid
+Nevada,2023-08-01,0.89,Covid
+Nevada,2023-09-01,0.01,Covid
+Nevada,2023-10-01,0.62,Covid
+Nevada,2023-11-01,0.83,Covid
+Nevada,2023-12-01,0.71,Covid
+Nevada,2024-01-01,0.13,Covid
+Nevada,2024-02-01,0.5,Covid
+Nevada,2024-03-01,0.09,Covid
+Nevada,2024-04-01,0.32,Covid
+Nevada,2024-05-01,0.36,Covid
+Nevada,2024-06-01,0.54,Covid
+Nevada,2024-07-01,0.52,Covid
+Nevada,2024-08-01,0.03,Covid
+Nevada,2024-09-01,0.8,Covid
+Nevada,2024-10-01,0.39,Covid
+Nevada,2024-11-01,0.96,Covid
+Nevada,2024-12-01,0.73,Covid
+New Hampshire,2020-01-01,0.62,Covid
+New Hampshire,2020-02-01,0.34,Covid
+New Hampshire,2020-03-01,0.7,Covid
+New Hampshire,2020-04-01,0.56,Covid
+New Hampshire,2020-05-01,0.05,Covid
+New Hampshire,2020-06-01,0.23,Covid
+New Hampshire,2020-07-01,0.42,Covid
+New Hampshire,2020-08-01,0.75,Covid
+New Hampshire,2020-09-01,0.39,Covid
+New Hampshire,2020-10-01,0.4,Covid
+New Hampshire,2020-11-01,0.66,Covid
+New Hampshire,2020-12-01,0.25,Covid
+New Hampshire,2021-01-01,0.13,Covid
+New Hampshire,2021-02-01,0.49,Covid
+New Hampshire,2021-03-01,0.78,Covid
+New Hampshire,2021-04-01,0.08,Covid
+New Hampshire,2021-05-01,0.27,Covid
+New Hampshire,2021-06-01,0.41,Covid
+New Hampshire,2021-07-01,0.92,Covid
+New Hampshire,2021-08-01,0.03,Covid
+New Hampshire,2021-09-01,0.04,Covid
+New Hampshire,2021-10-01,0.07,Covid
+New Hampshire,2021-11-01,0.95,Covid
+New Hampshire,2021-12-01,0.42,Covid
+New Hampshire,2022-01-01,0.19,Covid
+New Hampshire,2022-02-01,0.61,Covid
+New Hampshire,2022-03-01,0.77,Covid
+New Hampshire,2022-04-01,0.64,Covid
+New Hampshire,2022-05-01,0.07,Covid
+New Hampshire,2022-06-01,0.09,Covid
+New Hampshire,2022-07-01,0.83,Covid
+New Hampshire,2022-08-01,0.45,Covid
+New Hampshire,2022-09-01,0.76,Covid
+New Hampshire,2022-10-01,0.49,Covid
+New Hampshire,2022-11-01,0.59,Covid
+New Hampshire,2022-12-01,0.69,Covid
+New Hampshire,2023-01-01,0.81,Covid
+New Hampshire,2023-02-01,0.08,Covid
+New Hampshire,2023-03-01,0.71,Covid
+New Hampshire,2023-04-01,0.39,Covid
+New Hampshire,2023-05-01,0.63,Covid
+New Hampshire,2023-06-01,0.76,Covid
+New Hampshire,2023-07-01,0.26,Covid
+New Hampshire,2023-08-01,0.68,Covid
+New Hampshire,2023-09-01,0.31,Covid
+New Hampshire,2023-10-01,0.51,Covid
+New Hampshire,2023-11-01,0.38,Covid
+New Hampshire,2023-12-01,0.81,Covid
+New Hampshire,2024-01-01,0.65,Covid
+New Hampshire,2024-02-01,0.22,Covid
+New Hampshire,2024-03-01,0.89,Covid
+New Hampshire,2024-04-01,0.14,Covid
+New Hampshire,2024-05-01,0.5,Covid
+New Hampshire,2024-06-01,0.72,Covid
+New Hampshire,2024-07-01,0.17,Covid
+New Hampshire,2024-08-01,0.32,Covid
+New Hampshire,2024-09-01,0.21,Covid
+New Hampshire,2024-10-01,0.23,Covid
+New Hampshire,2024-11-01,0.3,Covid
+New Hampshire,2024-12-01,0.87,Covid
+New Jersey,2020-01-01,0.26,Covid
+New Jersey,2020-02-01,0.26,Covid
+New Jersey,2020-03-01,0.75,Covid
+New Jersey,2020-04-01,0.39,Covid
+New Jersey,2020-05-01,0.69,Covid
+New Jersey,2020-06-01,0.66,Covid
+New Jersey,2020-07-01,0.24,Covid
+New Jersey,2020-08-01,0.4,Covid
+New Jersey,2020-09-01,0.24,Covid
+New Jersey,2020-10-01,0.4,Covid
+New Jersey,2020-11-01,0.64,Covid
+New Jersey,2020-12-01,0.66,Covid
+New Jersey,2021-01-01,0.53,Covid
+New Jersey,2021-02-01,0.02,Covid
+New Jersey,2021-03-01,0.22,Covid
+New Jersey,2021-04-01,0.52,Covid
+New Jersey,2021-05-01,0.66,Covid
+New Jersey,2021-06-01,0.2,Covid
+New Jersey,2021-07-01,0.19,Covid
+New Jersey,2021-08-01,0.68,Covid
+New Jersey,2021-09-01,0.85,Covid
+New Jersey,2021-10-01,0.72,Covid
+New Jersey,2021-11-01,0.24,Covid
+New Jersey,2021-12-01,0.51,Covid
+New Jersey,2022-01-01,0.41,Covid
+New Jersey,2022-02-01,0.18,Covid
+New Jersey,2022-03-01,0.61,Covid
+New Jersey,2022-04-01,0.73,Covid
+New Jersey,2022-05-01,0.03,Covid
+New Jersey,2022-06-01,0.79,Covid
+New Jersey,2022-07-01,0.29,Covid
+New Jersey,2022-08-01,0.52,Covid
+New Jersey,2022-09-01,0.15,Covid
+New Jersey,2022-10-01,0.53,Covid
+New Jersey,2022-11-01,0.83,Covid
+New Jersey,2022-12-01,0.7,Covid
+New Jersey,2023-01-01,0.71,Covid
+New Jersey,2023-02-01,0.26,Covid
+New Jersey,2023-03-01,0.86,Covid
+New Jersey,2023-04-01,0.96,Covid
+New Jersey,2023-05-01,0.49,Covid
+New Jersey,2023-06-01,0.29,Covid
+New Jersey,2023-07-01,0.28,Covid
+New Jersey,2023-08-01,0.87,Covid
+New Jersey,2023-09-01,0.87,Covid
+New Jersey,2023-10-01,0.27,Covid
+New Jersey,2023-11-01,0.04,Covid
+New Jersey,2023-12-01,0.91,Covid
+New Jersey,2024-01-01,0.89,Covid
+New Jersey,2024-02-01,0.28,Covid
+New Jersey,2024-03-01,0.66,Covid
+New Jersey,2024-04-01,0.25,Covid
+New Jersey,2024-05-01,0.41,Covid
+New Jersey,2024-06-01,0.97,Covid
+New Jersey,2024-07-01,0.29,Covid
+New Jersey,2024-08-01,0.88,Covid
+New Jersey,2024-09-01,0.84,Covid
+New Jersey,2024-10-01,0.69,Covid
+New Jersey,2024-11-01,0.76,Covid
+New Jersey,2024-12-01,0.03,Covid
+New Mexico,2020-01-01,0.41,Covid
+New Mexico,2020-02-01,0.16,Covid
+New Mexico,2020-03-01,0.48,Covid
+New Mexico,2020-04-01,0.27,Covid
+New Mexico,2020-05-01,0.21,Covid
+New Mexico,2020-06-01,0.77,Covid
+New Mexico,2020-07-01,0.23,Covid
+New Mexico,2020-08-01,0.65,Covid
+New Mexico,2020-09-01,0.5,Covid
+New Mexico,2020-10-01,0.84,Covid
+New Mexico,2020-11-01,0.52,Covid
+New Mexico,2020-12-01,0.91,Covid
+New Mexico,2021-01-01,0.15,Covid
+New Mexico,2021-02-01,1.0,Covid
+New Mexico,2021-03-01,0.7,Covid
+New Mexico,2021-04-01,0.09,Covid
+New Mexico,2021-05-01,0.94,Covid
+New Mexico,2021-06-01,0.0,Covid
+New Mexico,2021-07-01,0.33,Covid
+New Mexico,2021-08-01,0.5,Covid
+New Mexico,2021-09-01,0.7,Covid
+New Mexico,2021-10-01,0.85,Covid
+New Mexico,2021-11-01,0.57,Covid
+New Mexico,2021-12-01,0.92,Covid
+New Mexico,2022-01-01,0.37,Covid
+New Mexico,2022-02-01,0.87,Covid
+New Mexico,2022-03-01,0.13,Covid
+New Mexico,2022-04-01,0.35,Covid
+New Mexico,2022-05-01,0.43,Covid
+New Mexico,2022-06-01,0.42,Covid
+New Mexico,2022-07-01,0.54,Covid
+New Mexico,2022-08-01,0.87,Covid
+New Mexico,2022-09-01,0.84,Covid
+New Mexico,2022-10-01,0.37,Covid
+New Mexico,2022-11-01,0.45,Covid
+New Mexico,2022-12-01,0.69,Covid
+New Mexico,2023-01-01,0.79,Covid
+New Mexico,2023-02-01,0.62,Covid
+New Mexico,2023-03-01,0.91,Covid
+New Mexico,2023-04-01,0.71,Covid
+New Mexico,2023-05-01,0.87,Covid
+New Mexico,2023-06-01,0.15,Covid
+New Mexico,2023-07-01,0.52,Covid
+New Mexico,2023-08-01,0.63,Covid
+New Mexico,2023-09-01,0.19,Covid
+New Mexico,2023-10-01,0.02,Covid
+New Mexico,2023-11-01,0.78,Covid
+New Mexico,2023-12-01,0.79,Covid
+New Mexico,2024-01-01,1.0,Covid
+New Mexico,2024-02-01,0.53,Covid
+New Mexico,2024-03-01,0.19,Covid
+New Mexico,2024-04-01,0.81,Covid
+New Mexico,2024-05-01,0.59,Covid
+New Mexico,2024-06-01,0.72,Covid
+New Mexico,2024-07-01,0.12,Covid
+New Mexico,2024-08-01,0.02,Covid
+New Mexico,2024-09-01,0.91,Covid
+New Mexico,2024-10-01,0.56,Covid
+New Mexico,2024-11-01,0.34,Covid
+New Mexico,2024-12-01,0.41,Covid
+New York,2020-01-01,0.26,Covid
+New York,2020-02-01,0.64,Covid
+New York,2020-03-01,0.65,Covid
+New York,2020-04-01,0.52,Covid
+New York,2020-05-01,0.04,Covid
+New York,2020-06-01,0.56,Covid
+New York,2020-07-01,0.01,Covid
+New York,2020-08-01,0.77,Covid
+New York,2020-09-01,0.9,Covid
+New York,2020-10-01,0.85,Covid
+New York,2020-11-01,0.59,Covid
+New York,2020-12-01,0.26,Covid
+New York,2021-01-01,0.4,Covid
+New York,2021-02-01,0.23,Covid
+New York,2021-03-01,0.94,Covid
+New York,2021-04-01,0.24,Covid
+New York,2021-05-01,0.21,Covid
+New York,2021-06-01,0.72,Covid
+New York,2021-07-01,0.65,Covid
+New York,2021-08-01,0.4,Covid
+New York,2021-09-01,0.06,Covid
+New York,2021-10-01,0.68,Covid
+New York,2021-11-01,0.74,Covid
+New York,2021-12-01,0.4,Covid
+New York,2022-01-01,0.52,Covid
+New York,2022-02-01,0.82,Covid
+New York,2022-03-01,0.33,Covid
+New York,2022-04-01,0.43,Covid
+New York,2022-05-01,0.7,Covid
+New York,2022-06-01,0.98,Covid
+New York,2022-07-01,0.96,Covid
+New York,2022-08-01,0.73,Covid
+New York,2022-09-01,0.12,Covid
+New York,2022-10-01,0.79,Covid
+New York,2022-11-01,0.31,Covid
+New York,2022-12-01,0.03,Covid
+New York,2023-01-01,0.53,Covid
+New York,2023-02-01,0.34,Covid
+New York,2023-03-01,0.97,Covid
+New York,2023-04-01,0.27,Covid
+New York,2023-05-01,0.25,Covid
+New York,2023-06-01,0.35,Covid
+New York,2023-07-01,0.35,Covid
+New York,2023-08-01,0.36,Covid
+New York,2023-09-01,0.51,Covid
+New York,2023-10-01,0.12,Covid
+New York,2023-11-01,0.12,Covid
+New York,2023-12-01,0.71,Covid
+New York,2024-01-01,0.17,Covid
+New York,2024-02-01,0.22,Covid
+New York,2024-03-01,0.6,Covid
+New York,2024-04-01,0.85,Covid
+New York,2024-05-01,0.62,Covid
+New York,2024-06-01,0.35,Covid
+New York,2024-07-01,0.96,Covid
+New York,2024-08-01,0.06,Covid
+New York,2024-09-01,0.6,Covid
+New York,2024-10-01,0.37,Covid
+New York,2024-11-01,0.87,Covid
+New York,2024-12-01,0.98,Covid
+North Carolina,2020-01-01,0.61,Covid
+North Carolina,2020-02-01,0.17,Covid
+North Carolina,2020-03-01,0.4,Covid
+North Carolina,2020-04-01,0.29,Covid
+North Carolina,2020-05-01,0.49,Covid
+North Carolina,2020-06-01,0.05,Covid
+North Carolina,2020-07-01,0.89,Covid
+North Carolina,2020-08-01,0.05,Covid
+North Carolina,2020-09-01,0.69,Covid
+North Carolina,2020-10-01,0.28,Covid
+North Carolina,2020-11-01,0.76,Covid
+North Carolina,2020-12-01,0.84,Covid
+North Carolina,2021-01-01,0.54,Covid
+North Carolina,2021-02-01,0.17,Covid
+North Carolina,2021-03-01,0.53,Covid
+North Carolina,2021-04-01,0.8,Covid
+North Carolina,2021-05-01,0.37,Covid
+North Carolina,2021-06-01,0.7,Covid
+North Carolina,2021-07-01,0.76,Covid
+North Carolina,2021-08-01,0.64,Covid
+North Carolina,2021-09-01,0.1,Covid
+North Carolina,2021-10-01,0.75,Covid
+North Carolina,2021-11-01,0.85,Covid
+North Carolina,2021-12-01,0.99,Covid
+North Carolina,2022-01-01,0.04,Covid
+North Carolina,2022-02-01,0.86,Covid
+North Carolina,2022-03-01,0.34,Covid
+North Carolina,2022-04-01,0.28,Covid
+North Carolina,2022-05-01,0.83,Covid
+North Carolina,2022-06-01,0.9,Covid
+North Carolina,2022-07-01,0.41,Covid
+North Carolina,2022-08-01,0.37,Covid
+North Carolina,2022-09-01,0.52,Covid
+North Carolina,2022-10-01,0.76,Covid
+North Carolina,2022-11-01,0.63,Covid
+North Carolina,2022-12-01,0.03,Covid
+North Carolina,2023-01-01,0.57,Covid
+North Carolina,2023-02-01,0.01,Covid
+North Carolina,2023-03-01,0.66,Covid
+North Carolina,2023-04-01,0.99,Covid
+North Carolina,2023-05-01,0.94,Covid
+North Carolina,2023-06-01,0.83,Covid
+North Carolina,2023-07-01,0.38,Covid
+North Carolina,2023-08-01,0.28,Covid
+North Carolina,2023-09-01,0.42,Covid
+North Carolina,2023-10-01,0.24,Covid
+North Carolina,2023-11-01,0.41,Covid
+North Carolina,2023-12-01,0.24,Covid
+North Carolina,2024-01-01,0.0,Covid
+North Carolina,2024-02-01,0.98,Covid
+North Carolina,2024-03-01,0.97,Covid
+North Carolina,2024-04-01,0.47,Covid
+North Carolina,2024-05-01,0.23,Covid
+North Carolina,2024-06-01,0.39,Covid
+North Carolina,2024-07-01,0.82,Covid
+North Carolina,2024-08-01,0.26,Covid
+North Carolina,2024-09-01,0.22,Covid
+North Carolina,2024-10-01,0.98,Covid
+North Carolina,2024-11-01,0.28,Covid
+North Carolina,2024-12-01,0.2,Covid
+North Dakota,2020-01-01,0.39,Covid
+North Dakota,2020-02-01,0.27,Covid
+North Dakota,2020-03-01,0.74,Covid
+North Dakota,2020-04-01,0.54,Covid
+North Dakota,2020-05-01,0.83,Covid
+North Dakota,2020-06-01,0.62,Covid
+North Dakota,2020-07-01,0.27,Covid
+North Dakota,2020-08-01,0.73,Covid
+North Dakota,2020-09-01,0.69,Covid
+North Dakota,2020-10-01,0.7,Covid
+North Dakota,2020-11-01,0.28,Covid
+North Dakota,2020-12-01,0.88,Covid
+North Dakota,2021-01-01,0.15,Covid
+North Dakota,2021-02-01,0.37,Covid
+North Dakota,2021-03-01,0.11,Covid
+North Dakota,2021-04-01,0.97,Covid
+North Dakota,2021-05-01,0.6,Covid
+North Dakota,2021-06-01,0.28,Covid
+North Dakota,2021-07-01,0.37,Covid
+North Dakota,2021-08-01,0.41,Covid
+North Dakota,2021-09-01,0.01,Covid
+North Dakota,2021-10-01,0.06,Covid
+North Dakota,2021-11-01,0.73,Covid
+North Dakota,2021-12-01,0.14,Covid
+North Dakota,2022-01-01,0.92,Covid
+North Dakota,2022-02-01,0.65,Covid
+North Dakota,2022-03-01,0.6,Covid
+North Dakota,2022-04-01,0.58,Covid
+North Dakota,2022-05-01,0.41,Covid
+North Dakota,2022-06-01,0.57,Covid
+North Dakota,2022-07-01,0.67,Covid
+North Dakota,2022-08-01,0.49,Covid
+North Dakota,2022-09-01,0.38,Covid
+North Dakota,2022-10-01,0.99,Covid
+North Dakota,2022-11-01,0.99,Covid
+North Dakota,2022-12-01,1.0,Covid
+North Dakota,2023-01-01,0.59,Covid
+North Dakota,2023-02-01,0.62,Covid
+North Dakota,2023-03-01,0.36,Covid
+North Dakota,2023-04-01,0.73,Covid
+North Dakota,2023-05-01,0.39,Covid
+North Dakota,2023-06-01,0.16,Covid
+North Dakota,2023-07-01,0.02,Covid
+North Dakota,2023-08-01,0.29,Covid
+North Dakota,2023-09-01,0.78,Covid
+North Dakota,2023-10-01,0.95,Covid
+North Dakota,2023-11-01,0.79,Covid
+North Dakota,2023-12-01,0.39,Covid
+North Dakota,2024-01-01,0.51,Covid
+North Dakota,2024-02-01,0.1,Covid
+North Dakota,2024-03-01,0.84,Covid
+North Dakota,2024-04-01,0.82,Covid
+North Dakota,2024-05-01,0.33,Covid
+North Dakota,2024-06-01,0.32,Covid
+North Dakota,2024-07-01,0.38,Covid
+North Dakota,2024-08-01,0.25,Covid
+North Dakota,2024-09-01,0.67,Covid
+North Dakota,2024-10-01,0.56,Covid
+North Dakota,2024-11-01,0.05,Covid
+North Dakota,2024-12-01,0.71,Covid
+Ohio,2020-01-01,0.87,Covid
+Ohio,2020-02-01,0.34,Covid
+Ohio,2020-03-01,0.37,Covid
+Ohio,2020-04-01,0.91,Covid
+Ohio,2020-05-01,0.45,Covid
+Ohio,2020-06-01,0.82,Covid
+Ohio,2020-07-01,0.62,Covid
+Ohio,2020-08-01,0.34,Covid
+Ohio,2020-09-01,0.88,Covid
+Ohio,2020-10-01,0.54,Covid
+Ohio,2020-11-01,0.62,Covid
+Ohio,2020-12-01,0.08,Covid
+Ohio,2021-01-01,0.31,Covid
+Ohio,2021-02-01,0.56,Covid
+Ohio,2021-03-01,0.34,Covid
+Ohio,2021-04-01,0.52,Covid
+Ohio,2021-05-01,0.59,Covid
+Ohio,2021-06-01,0.81,Covid
+Ohio,2021-07-01,0.21,Covid
+Ohio,2021-08-01,0.5,Covid
+Ohio,2021-09-01,0.04,Covid
+Ohio,2021-10-01,0.29,Covid
+Ohio,2021-11-01,0.17,Covid
+Ohio,2021-12-01,0.79,Covid
+Ohio,2022-01-01,0.96,Covid
+Ohio,2022-02-01,0.1,Covid
+Ohio,2022-03-01,0.74,Covid
+Ohio,2022-04-01,0.47,Covid
+Ohio,2022-05-01,0.74,Covid
+Ohio,2022-06-01,0.87,Covid
+Ohio,2022-07-01,0.23,Covid
+Ohio,2022-08-01,0.88,Covid
+Ohio,2022-09-01,0.81,Covid
+Ohio,2022-10-01,0.38,Covid
+Ohio,2022-11-01,0.8,Covid
+Ohio,2022-12-01,0.46,Covid
+Ohio,2023-01-01,0.08,Covid
+Ohio,2023-02-01,0.03,Covid
+Ohio,2023-03-01,0.08,Covid
+Ohio,2023-04-01,0.71,Covid
+Ohio,2023-05-01,0.28,Covid
+Ohio,2023-06-01,0.85,Covid
+Ohio,2023-07-01,0.19,Covid
+Ohio,2023-08-01,0.37,Covid
+Ohio,2023-09-01,0.49,Covid
+Ohio,2023-10-01,0.23,Covid
+Ohio,2023-11-01,0.11,Covid
+Ohio,2023-12-01,0.45,Covid
+Ohio,2024-01-01,0.33,Covid
+Ohio,2024-02-01,0.45,Covid
+Ohio,2024-03-01,0.23,Covid
+Ohio,2024-04-01,0.64,Covid
+Ohio,2024-05-01,0.04,Covid
+Ohio,2024-06-01,0.68,Covid
+Ohio,2024-07-01,0.53,Covid
+Ohio,2024-08-01,0.71,Covid
+Ohio,2024-09-01,0.04,Covid
+Ohio,2024-10-01,0.7,Covid
+Ohio,2024-11-01,0.41,Covid
+Ohio,2024-12-01,1.0,Covid
+Oklahoma,2020-01-01,0.66,Covid
+Oklahoma,2020-02-01,0.02,Covid
+Oklahoma,2020-03-01,0.91,Covid
+Oklahoma,2020-04-01,0.52,Covid
+Oklahoma,2020-05-01,0.85,Covid
+Oklahoma,2020-06-01,0.52,Covid
+Oklahoma,2020-07-01,0.07,Covid
+Oklahoma,2020-08-01,0.24,Covid
+Oklahoma,2020-09-01,0.36,Covid
+Oklahoma,2020-10-01,0.34,Covid
+Oklahoma,2020-11-01,0.29,Covid
+Oklahoma,2020-12-01,0.8,Covid
+Oklahoma,2021-01-01,0.15,Covid
+Oklahoma,2021-02-01,0.78,Covid
+Oklahoma,2021-03-01,0.93,Covid
+Oklahoma,2021-04-01,0.64,Covid
+Oklahoma,2021-05-01,0.78,Covid
+Oklahoma,2021-06-01,0.51,Covid
+Oklahoma,2021-07-01,0.92,Covid
+Oklahoma,2021-08-01,0.98,Covid
+Oklahoma,2021-09-01,0.82,Covid
+Oklahoma,2021-10-01,0.0,Covid
+Oklahoma,2021-11-01,0.25,Covid
+Oklahoma,2021-12-01,0.93,Covid
+Oklahoma,2022-01-01,0.53,Covid
+Oklahoma,2022-02-01,0.67,Covid
+Oklahoma,2022-03-01,0.55,Covid
+Oklahoma,2022-04-01,0.67,Covid
+Oklahoma,2022-05-01,0.48,Covid
+Oklahoma,2022-06-01,0.33,Covid
+Oklahoma,2022-07-01,0.19,Covid
+Oklahoma,2022-08-01,0.72,Covid
+Oklahoma,2022-09-01,0.97,Covid
+Oklahoma,2022-10-01,0.9,Covid
+Oklahoma,2022-11-01,0.91,Covid
+Oklahoma,2022-12-01,0.73,Covid
+Oklahoma,2023-01-01,0.43,Covid
+Oklahoma,2023-02-01,0.45,Covid
+Oklahoma,2023-03-01,0.73,Covid
+Oklahoma,2023-04-01,0.5,Covid
+Oklahoma,2023-05-01,0.19,Covid
+Oklahoma,2023-06-01,0.23,Covid
+Oklahoma,2023-07-01,0.08,Covid
+Oklahoma,2023-08-01,0.73,Covid
+Oklahoma,2023-09-01,0.77,Covid
+Oklahoma,2023-10-01,0.22,Covid
+Oklahoma,2023-11-01,0.01,Covid
+Oklahoma,2023-12-01,0.54,Covid
+Oklahoma,2024-01-01,0.83,Covid
+Oklahoma,2024-02-01,0.08,Covid
+Oklahoma,2024-03-01,0.79,Covid
+Oklahoma,2024-04-01,0.56,Covid
+Oklahoma,2024-05-01,0.42,Covid
+Oklahoma,2024-06-01,0.95,Covid
+Oklahoma,2024-07-01,0.39,Covid
+Oklahoma,2024-08-01,0.9,Covid
+Oklahoma,2024-09-01,0.18,Covid
+Oklahoma,2024-10-01,0.71,Covid
+Oklahoma,2024-11-01,0.31,Covid
+Oklahoma,2024-12-01,0.54,Covid
+Oregon,2020-01-01,0.43,Covid
+Oregon,2020-02-01,0.84,Covid
+Oregon,2020-03-01,0.42,Covid
+Oregon,2020-04-01,0.38,Covid
+Oregon,2020-05-01,0.35,Covid
+Oregon,2020-06-01,0.04,Covid
+Oregon,2020-07-01,0.13,Covid
+Oregon,2020-08-01,0.46,Covid
+Oregon,2020-09-01,0.25,Covid
+Oregon,2020-10-01,0.39,Covid
+Oregon,2020-11-01,0.51,Covid
+Oregon,2020-12-01,0.29,Covid
+Oregon,2021-01-01,0.49,Covid
+Oregon,2021-02-01,0.21,Covid
+Oregon,2021-03-01,0.66,Covid
+Oregon,2021-04-01,0.6,Covid
+Oregon,2021-05-01,0.73,Covid
+Oregon,2021-06-01,0.96,Covid
+Oregon,2021-07-01,0.06,Covid
+Oregon,2021-08-01,0.77,Covid
+Oregon,2021-09-01,0.94,Covid
+Oregon,2021-10-01,0.87,Covid
+Oregon,2021-11-01,0.6,Covid
+Oregon,2021-12-01,0.18,Covid
+Oregon,2022-01-01,0.18,Covid
+Oregon,2022-02-01,0.02,Covid
+Oregon,2022-03-01,0.05,Covid
+Oregon,2022-04-01,0.11,Covid
+Oregon,2022-05-01,0.93,Covid
+Oregon,2022-06-01,0.49,Covid
+Oregon,2022-07-01,0.36,Covid
+Oregon,2022-08-01,0.01,Covid
+Oregon,2022-09-01,0.37,Covid
+Oregon,2022-10-01,0.71,Covid
+Oregon,2022-11-01,0.3,Covid
+Oregon,2022-12-01,0.2,Covid
+Oregon,2023-01-01,0.49,Covid
+Oregon,2023-02-01,0.8,Covid
+Oregon,2023-03-01,0.84,Covid
+Oregon,2023-04-01,0.27,Covid
+Oregon,2023-05-01,0.12,Covid
+Oregon,2023-06-01,0.69,Covid
+Oregon,2023-07-01,0.55,Covid
+Oregon,2023-08-01,0.15,Covid
+Oregon,2023-09-01,0.72,Covid
+Oregon,2023-10-01,0.75,Covid
+Oregon,2023-11-01,0.53,Covid
+Oregon,2023-12-01,0.66,Covid
+Oregon,2024-01-01,0.35,Covid
+Oregon,2024-02-01,0.36,Covid
+Oregon,2024-03-01,0.33,Covid
+Oregon,2024-04-01,0.04,Covid
+Oregon,2024-05-01,0.49,Covid
+Oregon,2024-06-01,0.51,Covid
+Oregon,2024-07-01,0.21,Covid
+Oregon,2024-08-01,0.02,Covid
+Oregon,2024-09-01,0.74,Covid
+Oregon,2024-10-01,0.34,Covid
+Oregon,2024-11-01,0.74,Covid
+Oregon,2024-12-01,0.51,Covid
+Pennsylvania,2020-01-01,0.85,Covid
+Pennsylvania,2020-02-01,0.41,Covid
+Pennsylvania,2020-03-01,0.07,Covid
+Pennsylvania,2020-04-01,0.54,Covid
+Pennsylvania,2020-05-01,0.3,Covid
+Pennsylvania,2020-06-01,0.59,Covid
+Pennsylvania,2020-07-01,0.09,Covid
+Pennsylvania,2020-08-01,0.66,Covid
+Pennsylvania,2020-09-01,0.96,Covid
+Pennsylvania,2020-10-01,0.72,Covid
+Pennsylvania,2020-11-01,0.62,Covid
+Pennsylvania,2020-12-01,0.52,Covid
+Pennsylvania,2021-01-01,0.53,Covid
+Pennsylvania,2021-02-01,0.45,Covid
+Pennsylvania,2021-03-01,0.54,Covid
+Pennsylvania,2021-04-01,0.73,Covid
+Pennsylvania,2021-05-01,0.42,Covid
+Pennsylvania,2021-06-01,0.91,Covid
+Pennsylvania,2021-07-01,0.85,Covid
+Pennsylvania,2021-08-01,0.44,Covid
+Pennsylvania,2021-09-01,0.77,Covid
+Pennsylvania,2021-10-01,0.24,Covid
+Pennsylvania,2021-11-01,0.64,Covid
+Pennsylvania,2021-12-01,0.3,Covid
+Pennsylvania,2022-01-01,0.06,Covid
+Pennsylvania,2022-02-01,0.55,Covid
+Pennsylvania,2022-03-01,0.29,Covid
+Pennsylvania,2022-04-01,0.77,Covid
+Pennsylvania,2022-05-01,0.58,Covid
+Pennsylvania,2022-06-01,0.89,Covid
+Pennsylvania,2022-07-01,0.57,Covid
+Pennsylvania,2022-08-01,0.92,Covid
+Pennsylvania,2022-09-01,0.02,Covid
+Pennsylvania,2022-10-01,0.69,Covid
+Pennsylvania,2022-11-01,0.3,Covid
+Pennsylvania,2022-12-01,0.78,Covid
+Pennsylvania,2023-01-01,0.97,Covid
+Pennsylvania,2023-02-01,0.8,Covid
+Pennsylvania,2023-03-01,0.33,Covid
+Pennsylvania,2023-04-01,0.43,Covid
+Pennsylvania,2023-05-01,0.36,Covid
+Pennsylvania,2023-06-01,0.09,Covid
+Pennsylvania,2023-07-01,0.78,Covid
+Pennsylvania,2023-08-01,0.4,Covid
+Pennsylvania,2023-09-01,0.4,Covid
+Pennsylvania,2023-10-01,0.43,Covid
+Pennsylvania,2023-11-01,0.35,Covid
+Pennsylvania,2023-12-01,0.68,Covid
+Pennsylvania,2024-01-01,0.72,Covid
+Pennsylvania,2024-02-01,0.44,Covid
+Pennsylvania,2024-03-01,0.52,Covid
+Pennsylvania,2024-04-01,0.28,Covid
+Pennsylvania,2024-05-01,0.71,Covid
+Pennsylvania,2024-06-01,0.51,Covid
+Pennsylvania,2024-07-01,0.46,Covid
+Pennsylvania,2024-08-01,0.22,Covid
+Pennsylvania,2024-09-01,0.33,Covid
+Pennsylvania,2024-10-01,0.05,Covid
+Pennsylvania,2024-11-01,0.46,Covid
+Pennsylvania,2024-12-01,0.66,Covid
+Rhode Island,2020-01-01,0.1,Covid
+Rhode Island,2020-02-01,1.0,Covid
+Rhode Island,2020-03-01,0.25,Covid
+Rhode Island,2020-04-01,0.95,Covid
+Rhode Island,2020-05-01,0.85,Covid
+Rhode Island,2020-06-01,0.35,Covid
+Rhode Island,2020-07-01,0.29,Covid
+Rhode Island,2020-08-01,0.62,Covid
+Rhode Island,2020-09-01,0.92,Covid
+Rhode Island,2020-10-01,0.37,Covid
+Rhode Island,2020-11-01,0.92,Covid
+Rhode Island,2020-12-01,0.04,Covid
+Rhode Island,2021-01-01,0.99,Covid
+Rhode Island,2021-02-01,0.16,Covid
+Rhode Island,2021-03-01,0.73,Covid
+Rhode Island,2021-04-01,0.46,Covid
+Rhode Island,2021-05-01,0.09,Covid
+Rhode Island,2021-06-01,0.67,Covid
+Rhode Island,2021-07-01,0.14,Covid
+Rhode Island,2021-08-01,0.09,Covid
+Rhode Island,2021-09-01,0.84,Covid
+Rhode Island,2021-10-01,0.4,Covid
+Rhode Island,2021-11-01,0.18,Covid
+Rhode Island,2021-12-01,0.98,Covid
+Rhode Island,2022-01-01,0.81,Covid
+Rhode Island,2022-02-01,0.96,Covid
+Rhode Island,2022-03-01,0.16,Covid
+Rhode Island,2022-04-01,0.83,Covid
+Rhode Island,2022-05-01,0.01,Covid
+Rhode Island,2022-06-01,0.63,Covid
+Rhode Island,2022-07-01,0.45,Covid
+Rhode Island,2022-08-01,0.79,Covid
+Rhode Island,2022-09-01,0.05,Covid
+Rhode Island,2022-10-01,0.89,Covid
+Rhode Island,2022-11-01,0.44,Covid
+Rhode Island,2022-12-01,0.99,Covid
+Rhode Island,2023-01-01,0.06,Covid
+Rhode Island,2023-02-01,0.41,Covid
+Rhode Island,2023-03-01,0.11,Covid
+Rhode Island,2023-04-01,0.23,Covid
+Rhode Island,2023-05-01,0.77,Covid
+Rhode Island,2023-06-01,0.88,Covid
+Rhode Island,2023-07-01,0.01,Covid
+Rhode Island,2023-08-01,0.36,Covid
+Rhode Island,2023-09-01,0.27,Covid
+Rhode Island,2023-10-01,0.73,Covid
+Rhode Island,2023-11-01,0.15,Covid
+Rhode Island,2023-12-01,0.58,Covid
+Rhode Island,2024-01-01,0.2,Covid
+Rhode Island,2024-02-01,0.13,Covid
+Rhode Island,2024-03-01,0.56,Covid
+Rhode Island,2024-04-01,0.84,Covid
+Rhode Island,2024-05-01,0.9,Covid
+Rhode Island,2024-06-01,0.17,Covid
+Rhode Island,2024-07-01,0.31,Covid
+Rhode Island,2024-08-01,0.38,Covid
+Rhode Island,2024-09-01,0.78,Covid
+Rhode Island,2024-10-01,0.35,Covid
+Rhode Island,2024-11-01,0.98,Covid
+Rhode Island,2024-12-01,0.24,Covid
+South Carolina,2020-01-01,0.31,Covid
+South Carolina,2020-02-01,0.55,Covid
+South Carolina,2020-03-01,0.54,Covid
+South Carolina,2020-04-01,0.96,Covid
+South Carolina,2020-05-01,0.85,Covid
+South Carolina,2020-06-01,0.31,Covid
+South Carolina,2020-07-01,0.03,Covid
+South Carolina,2020-08-01,0.47,Covid
+South Carolina,2020-09-01,0.44,Covid
+South Carolina,2020-10-01,0.76,Covid
+South Carolina,2020-11-01,0.52,Covid
+South Carolina,2020-12-01,0.74,Covid
+South Carolina,2021-01-01,0.29,Covid
+South Carolina,2021-02-01,0.59,Covid
+South Carolina,2021-03-01,0.09,Covid
+South Carolina,2021-04-01,0.09,Covid
+South Carolina,2021-05-01,0.19,Covid
+South Carolina,2021-06-01,0.2,Covid
+South Carolina,2021-07-01,0.59,Covid
+South Carolina,2021-08-01,0.88,Covid
+South Carolina,2021-09-01,0.14,Covid
+South Carolina,2021-10-01,0.87,Covid
+South Carolina,2021-11-01,0.29,Covid
+South Carolina,2021-12-01,0.33,Covid
+South Carolina,2022-01-01,0.39,Covid
+South Carolina,2022-02-01,0.23,Covid
+South Carolina,2022-03-01,0.18,Covid
+South Carolina,2022-04-01,0.36,Covid
+South Carolina,2022-05-01,0.98,Covid
+South Carolina,2022-06-01,0.17,Covid
+South Carolina,2022-07-01,0.61,Covid
+South Carolina,2022-08-01,0.94,Covid
+South Carolina,2022-09-01,0.58,Covid
+South Carolina,2022-10-01,0.86,Covid
+South Carolina,2022-11-01,0.74,Covid
+South Carolina,2022-12-01,0.75,Covid
+South Carolina,2023-01-01,0.64,Covid
+South Carolina,2023-02-01,0.88,Covid
+South Carolina,2023-03-01,0.76,Covid
+South Carolina,2023-04-01,0.74,Covid
+South Carolina,2023-05-01,0.87,Covid
+South Carolina,2023-06-01,0.74,Covid
+South Carolina,2023-07-01,1.0,Covid
+South Carolina,2023-08-01,0.49,Covid
+South Carolina,2023-09-01,0.25,Covid
+South Carolina,2023-10-01,0.45,Covid
+South Carolina,2023-11-01,0.56,Covid
+South Carolina,2023-12-01,0.84,Covid
+South Carolina,2024-01-01,0.88,Covid
+South Carolina,2024-02-01,0.53,Covid
+South Carolina,2024-03-01,0.37,Covid
+South Carolina,2024-04-01,0.52,Covid
+South Carolina,2024-05-01,0.01,Covid
+South Carolina,2024-06-01,0.7,Covid
+South Carolina,2024-07-01,1.0,Covid
+South Carolina,2024-08-01,0.12,Covid
+South Carolina,2024-09-01,0.32,Covid
+South Carolina,2024-10-01,0.12,Covid
+South Carolina,2024-11-01,0.11,Covid
+South Carolina,2024-12-01,0.48,Covid
+South Dakota,2020-01-01,0.85,Covid
+South Dakota,2020-02-01,0.51,Covid
+South Dakota,2020-03-01,0.99,Covid
+South Dakota,2020-04-01,0.31,Covid
+South Dakota,2020-05-01,0.23,Covid
+South Dakota,2020-06-01,0.74,Covid
+South Dakota,2020-07-01,0.47,Covid
+South Dakota,2020-08-01,0.12,Covid
+South Dakota,2020-09-01,0.46,Covid
+South Dakota,2020-10-01,0.14,Covid
+South Dakota,2020-11-01,0.35,Covid
+South Dakota,2020-12-01,0.87,Covid
+South Dakota,2021-01-01,0.36,Covid
+South Dakota,2021-02-01,0.58,Covid
+South Dakota,2021-03-01,0.67,Covid
+South Dakota,2021-04-01,0.69,Covid
+South Dakota,2021-05-01,0.82,Covid
+South Dakota,2021-06-01,0.35,Covid
+South Dakota,2021-07-01,0.94,Covid
+South Dakota,2021-08-01,0.01,Covid
+South Dakota,2021-09-01,0.2,Covid
+South Dakota,2021-10-01,0.24,Covid
+South Dakota,2021-11-01,0.76,Covid
+South Dakota,2021-12-01,0.45,Covid
+South Dakota,2022-01-01,0.96,Covid
+South Dakota,2022-02-01,0.68,Covid
+South Dakota,2022-03-01,0.46,Covid
+South Dakota,2022-04-01,0.84,Covid
+South Dakota,2022-05-01,0.83,Covid
+South Dakota,2022-06-01,0.84,Covid
+South Dakota,2022-07-01,0.33,Covid
+South Dakota,2022-08-01,0.19,Covid
+South Dakota,2022-09-01,0.18,Covid
+South Dakota,2022-10-01,0.52,Covid
+South Dakota,2022-11-01,0.74,Covid
+South Dakota,2022-12-01,0.92,Covid
+South Dakota,2023-01-01,0.42,Covid
+South Dakota,2023-02-01,0.16,Covid
+South Dakota,2023-03-01,0.57,Covid
+South Dakota,2023-04-01,0.92,Covid
+South Dakota,2023-05-01,0.95,Covid
+South Dakota,2023-06-01,0.77,Covid
+South Dakota,2023-07-01,0.61,Covid
+South Dakota,2023-08-01,0.27,Covid
+South Dakota,2023-09-01,0.17,Covid
+South Dakota,2023-10-01,0.43,Covid
+South Dakota,2023-11-01,0.42,Covid
+South Dakota,2023-12-01,0.68,Covid
+South Dakota,2024-01-01,0.54,Covid
+South Dakota,2024-02-01,0.05,Covid
+South Dakota,2024-03-01,0.03,Covid
+South Dakota,2024-04-01,0.92,Covid
+South Dakota,2024-05-01,0.23,Covid
+South Dakota,2024-06-01,0.68,Covid
+South Dakota,2024-07-01,0.46,Covid
+South Dakota,2024-08-01,1.0,Covid
+South Dakota,2024-09-01,0.0,Covid
+South Dakota,2024-10-01,0.32,Covid
+South Dakota,2024-11-01,0.43,Covid
+South Dakota,2024-12-01,0.89,Covid
+Tennessee,2020-01-01,0.39,Covid
+Tennessee,2020-02-01,0.48,Covid
+Tennessee,2020-03-01,0.82,Covid
+Tennessee,2020-04-01,0.55,Covid
+Tennessee,2020-05-01,0.4,Covid
+Tennessee,2020-06-01,0.98,Covid
+Tennessee,2020-07-01,0.56,Covid
+Tennessee,2020-08-01,0.14,Covid
+Tennessee,2020-09-01,0.66,Covid
+Tennessee,2020-10-01,0.42,Covid
+Tennessee,2020-11-01,0.46,Covid
+Tennessee,2020-12-01,0.85,Covid
+Tennessee,2021-01-01,0.82,Covid
+Tennessee,2021-02-01,0.56,Covid
+Tennessee,2021-03-01,0.6,Covid
+Tennessee,2021-04-01,0.97,Covid
+Tennessee,2021-05-01,0.78,Covid
+Tennessee,2021-06-01,0.62,Covid
+Tennessee,2021-07-01,0.5,Covid
+Tennessee,2021-08-01,0.24,Covid
+Tennessee,2021-09-01,0.78,Covid
+Tennessee,2021-10-01,0.67,Covid
+Tennessee,2021-11-01,0.7,Covid
+Tennessee,2021-12-01,0.22,Covid
+Tennessee,2022-01-01,0.54,Covid
+Tennessee,2022-02-01,0.95,Covid
+Tennessee,2022-03-01,0.28,Covid
+Tennessee,2022-04-01,0.2,Covid
+Tennessee,2022-05-01,0.13,Covid
+Tennessee,2022-06-01,0.49,Covid
+Tennessee,2022-07-01,0.69,Covid
+Tennessee,2022-08-01,0.77,Covid
+Tennessee,2022-09-01,0.82,Covid
+Tennessee,2022-10-01,0.65,Covid
+Tennessee,2022-11-01,0.49,Covid
+Tennessee,2022-12-01,0.29,Covid
+Tennessee,2023-01-01,0.54,Covid
+Tennessee,2023-02-01,0.18,Covid
+Tennessee,2023-03-01,0.87,Covid
+Tennessee,2023-04-01,0.24,Covid
+Tennessee,2023-05-01,0.72,Covid
+Tennessee,2023-06-01,0.28,Covid
+Tennessee,2023-07-01,0.82,Covid
+Tennessee,2023-08-01,0.69,Covid
+Tennessee,2023-09-01,0.52,Covid
+Tennessee,2023-10-01,0.27,Covid
+Tennessee,2023-11-01,0.43,Covid
+Tennessee,2023-12-01,0.66,Covid
+Tennessee,2024-01-01,0.57,Covid
+Tennessee,2024-02-01,0.17,Covid
+Tennessee,2024-03-01,0.37,Covid
+Tennessee,2024-04-01,0.44,Covid
+Tennessee,2024-05-01,0.19,Covid
+Tennessee,2024-06-01,0.03,Covid
+Tennessee,2024-07-01,0.35,Covid
+Tennessee,2024-08-01,0.23,Covid
+Tennessee,2024-09-01,0.76,Covid
+Tennessee,2024-10-01,0.65,Covid
+Tennessee,2024-11-01,0.4,Covid
+Tennessee,2024-12-01,0.68,Covid
+Texas,2020-01-01,0.7,Covid
+Texas,2020-02-01,0.03,Covid
+Texas,2020-03-01,0.74,Covid
+Texas,2020-04-01,0.8,Covid
+Texas,2020-05-01,0.34,Covid
+Texas,2020-06-01,0.01,Covid
+Texas,2020-07-01,0.3,Covid
+Texas,2020-08-01,0.69,Covid
+Texas,2020-09-01,0.42,Covid
+Texas,2020-10-01,0.45,Covid
+Texas,2020-11-01,0.6,Covid
+Texas,2020-12-01,0.21,Covid
+Texas,2021-01-01,0.87,Covid
+Texas,2021-02-01,0.68,Covid
+Texas,2021-03-01,0.96,Covid
+Texas,2021-04-01,0.57,Covid
+Texas,2021-05-01,0.51,Covid
+Texas,2021-06-01,0.53,Covid
+Texas,2021-07-01,0.67,Covid
+Texas,2021-08-01,0.14,Covid
+Texas,2021-09-01,0.29,Covid
+Texas,2021-10-01,0.11,Covid
+Texas,2021-11-01,0.89,Covid
+Texas,2021-12-01,0.49,Covid
+Texas,2022-01-01,0.68,Covid
+Texas,2022-02-01,0.81,Covid
+Texas,2022-03-01,0.53,Covid
+Texas,2022-04-01,0.9,Covid
+Texas,2022-05-01,0.93,Covid
+Texas,2022-06-01,0.14,Covid
+Texas,2022-07-01,0.05,Covid
+Texas,2022-08-01,0.58,Covid
+Texas,2022-09-01,0.92,Covid
+Texas,2022-10-01,0.88,Covid
+Texas,2022-11-01,0.36,Covid
+Texas,2022-12-01,0.68,Covid
+Texas,2023-01-01,0.76,Covid
+Texas,2023-02-01,0.52,Covid
+Texas,2023-03-01,0.17,Covid
+Texas,2023-04-01,0.74,Covid
+Texas,2023-05-01,0.89,Covid
+Texas,2023-06-01,0.78,Covid
+Texas,2023-07-01,0.3,Covid
+Texas,2023-08-01,0.18,Covid
+Texas,2023-09-01,0.59,Covid
+Texas,2023-10-01,0.98,Covid
+Texas,2023-11-01,0.64,Covid
+Texas,2023-12-01,0.89,Covid
+Texas,2024-01-01,0.56,Covid
+Texas,2024-02-01,0.86,Covid
+Texas,2024-03-01,0.71,Covid
+Texas,2024-04-01,0.79,Covid
+Texas,2024-05-01,0.46,Covid
+Texas,2024-06-01,0.2,Covid
+Texas,2024-07-01,0.21,Covid
+Texas,2024-08-01,0.56,Covid
+Texas,2024-09-01,0.95,Covid
+Texas,2024-10-01,0.5,Covid
+Texas,2024-11-01,0.11,Covid
+Texas,2024-12-01,0.7,Covid
+Utah,2020-01-01,0.84,Covid
+Utah,2020-02-01,0.36,Covid
+Utah,2020-03-01,0.16,Covid
+Utah,2020-04-01,0.71,Covid
+Utah,2020-05-01,0.39,Covid
+Utah,2020-06-01,0.61,Covid
+Utah,2020-07-01,0.69,Covid
+Utah,2020-08-01,0.13,Covid
+Utah,2020-09-01,0.48,Covid
+Utah,2020-10-01,0.94,Covid
+Utah,2020-11-01,0.38,Covid
+Utah,2020-12-01,0.27,Covid
+Utah,2021-01-01,0.37,Covid
+Utah,2021-02-01,0.34,Covid
+Utah,2021-03-01,0.95,Covid
+Utah,2021-04-01,0.65,Covid
+Utah,2021-05-01,0.94,Covid
+Utah,2021-06-01,0.97,Covid
+Utah,2021-07-01,0.05,Covid
+Utah,2021-08-01,0.13,Covid
+Utah,2021-09-01,0.51,Covid
+Utah,2021-10-01,0.33,Covid
+Utah,2021-11-01,0.63,Covid
+Utah,2021-12-01,0.65,Covid
+Utah,2022-01-01,0.03,Covid
+Utah,2022-02-01,0.24,Covid
+Utah,2022-03-01,0.98,Covid
+Utah,2022-04-01,0.44,Covid
+Utah,2022-05-01,0.04,Covid
+Utah,2022-06-01,0.67,Covid
+Utah,2022-07-01,0.23,Covid
+Utah,2022-08-01,0.31,Covid
+Utah,2022-09-01,0.21,Covid
+Utah,2022-10-01,0.35,Covid
+Utah,2022-11-01,0.04,Covid
+Utah,2022-12-01,0.34,Covid
+Utah,2023-01-01,0.86,Covid
+Utah,2023-02-01,0.66,Covid
+Utah,2023-03-01,0.64,Covid
+Utah,2023-04-01,0.29,Covid
+Utah,2023-05-01,0.56,Covid
+Utah,2023-06-01,0.23,Covid
+Utah,2023-07-01,0.85,Covid
+Utah,2023-08-01,0.17,Covid
+Utah,2023-09-01,0.7,Covid
+Utah,2023-10-01,0.94,Covid
+Utah,2023-11-01,0.41,Covid
+Utah,2023-12-01,0.99,Covid
+Utah,2024-01-01,0.11,Covid
+Utah,2024-02-01,0.91,Covid
+Utah,2024-03-01,0.23,Covid
+Utah,2024-04-01,0.57,Covid
+Utah,2024-05-01,0.22,Covid
+Utah,2024-06-01,0.72,Covid
+Utah,2024-07-01,0.71,Covid
+Utah,2024-08-01,0.1,Covid
+Utah,2024-09-01,0.27,Covid
+Utah,2024-10-01,0.64,Covid
+Utah,2024-11-01,0.16,Covid
+Utah,2024-12-01,0.59,Covid
+Vermont,2020-01-01,0.85,Covid
+Vermont,2020-02-01,0.78,Covid
+Vermont,2020-03-01,0.76,Covid
+Vermont,2020-04-01,0.36,Covid
+Vermont,2020-05-01,0.9,Covid
+Vermont,2020-06-01,0.95,Covid
+Vermont,2020-07-01,0.34,Covid
+Vermont,2020-08-01,0.64,Covid
+Vermont,2020-09-01,0.82,Covid
+Vermont,2020-10-01,0.98,Covid
+Vermont,2020-11-01,0.56,Covid
+Vermont,2020-12-01,0.03,Covid
+Vermont,2021-01-01,0.34,Covid
+Vermont,2021-02-01,0.61,Covid
+Vermont,2021-03-01,0.51,Covid
+Vermont,2021-04-01,0.22,Covid
+Vermont,2021-05-01,0.81,Covid
+Vermont,2021-06-01,0.91,Covid
+Vermont,2021-07-01,0.84,Covid
+Vermont,2021-08-01,0.58,Covid
+Vermont,2021-09-01,0.45,Covid
+Vermont,2021-10-01,0.35,Covid
+Vermont,2021-11-01,0.68,Covid
+Vermont,2021-12-01,0.46,Covid
+Vermont,2022-01-01,0.43,Covid
+Vermont,2022-02-01,0.89,Covid
+Vermont,2022-03-01,0.5,Covid
+Vermont,2022-04-01,0.87,Covid
+Vermont,2022-05-01,0.68,Covid
+Vermont,2022-06-01,0.22,Covid
+Vermont,2022-07-01,0.39,Covid
+Vermont,2022-08-01,0.57,Covid
+Vermont,2022-09-01,0.78,Covid
+Vermont,2022-10-01,0.6,Covid
+Vermont,2022-11-01,0.19,Covid
+Vermont,2022-12-01,0.19,Covid
+Vermont,2023-01-01,0.49,Covid
+Vermont,2023-02-01,0.34,Covid
+Vermont,2023-03-01,0.39,Covid
+Vermont,2023-04-01,0.48,Covid
+Vermont,2023-05-01,0.65,Covid
+Vermont,2023-06-01,0.3,Covid
+Vermont,2023-07-01,0.18,Covid
+Vermont,2023-08-01,0.96,Covid
+Vermont,2023-09-01,0.11,Covid
+Vermont,2023-10-01,0.27,Covid
+Vermont,2023-11-01,0.62,Covid
+Vermont,2023-12-01,0.53,Covid
+Vermont,2024-01-01,0.34,Covid
+Vermont,2024-02-01,0.76,Covid
+Vermont,2024-03-01,0.1,Covid
+Vermont,2024-04-01,0.5,Covid
+Vermont,2024-05-01,0.27,Covid
+Vermont,2024-06-01,0.09,Covid
+Vermont,2024-07-01,0.51,Covid
+Vermont,2024-08-01,0.05,Covid
+Vermont,2024-09-01,0.52,Covid
+Vermont,2024-10-01,0.19,Covid
+Vermont,2024-11-01,0.32,Covid
+Vermont,2024-12-01,0.14,Covid
+Virginia,2020-01-01,0.79,Covid
+Virginia,2020-02-01,0.65,Covid
+Virginia,2020-03-01,0.18,Covid
+Virginia,2020-04-01,0.71,Covid
+Virginia,2020-05-01,0.65,Covid
+Virginia,2020-06-01,0.42,Covid
+Virginia,2020-07-01,0.46,Covid
+Virginia,2020-08-01,0.85,Covid
+Virginia,2020-09-01,0.26,Covid
+Virginia,2020-10-01,0.42,Covid
+Virginia,2020-11-01,0.91,Covid
+Virginia,2020-12-01,0.44,Covid
+Virginia,2021-01-01,0.69,Covid
+Virginia,2021-02-01,0.34,Covid
+Virginia,2021-03-01,0.05,Covid
+Virginia,2021-04-01,0.07,Covid
+Virginia,2021-05-01,0.11,Covid
+Virginia,2021-06-01,0.76,Covid
+Virginia,2021-07-01,0.38,Covid
+Virginia,2021-08-01,0.91,Covid
+Virginia,2021-09-01,0.46,Covid
+Virginia,2021-10-01,0.58,Covid
+Virginia,2021-11-01,0.4,Covid
+Virginia,2021-12-01,0.06,Covid
+Virginia,2022-01-01,0.88,Covid
+Virginia,2022-02-01,0.88,Covid
+Virginia,2022-03-01,0.8,Covid
+Virginia,2022-04-01,0.05,Covid
+Virginia,2022-05-01,0.32,Covid
+Virginia,2022-06-01,0.9,Covid
+Virginia,2022-07-01,0.92,Covid
+Virginia,2022-08-01,0.62,Covid
+Virginia,2022-09-01,0.06,Covid
+Virginia,2022-10-01,0.69,Covid
+Virginia,2022-11-01,0.38,Covid
+Virginia,2022-12-01,0.29,Covid
+Virginia,2023-01-01,0.26,Covid
+Virginia,2023-02-01,0.7,Covid
+Virginia,2023-03-01,0.89,Covid
+Virginia,2023-04-01,0.31,Covid
+Virginia,2023-05-01,0.76,Covid
+Virginia,2023-06-01,0.12,Covid
+Virginia,2023-07-01,0.17,Covid
+Virginia,2023-08-01,0.8,Covid
+Virginia,2023-09-01,0.57,Covid
+Virginia,2023-10-01,0.58,Covid
+Virginia,2023-11-01,0.36,Covid
+Virginia,2023-12-01,0.14,Covid
+Virginia,2024-01-01,0.99,Covid
+Virginia,2024-02-01,0.11,Covid
+Virginia,2024-03-01,0.12,Covid
+Virginia,2024-04-01,0.39,Covid
+Virginia,2024-05-01,0.87,Covid
+Virginia,2024-06-01,0.01,Covid
+Virginia,2024-07-01,0.23,Covid
+Virginia,2024-08-01,0.0,Covid
+Virginia,2024-09-01,0.33,Covid
+Virginia,2024-10-01,0.33,Covid
+Virginia,2024-11-01,0.42,Covid
+Virginia,2024-12-01,0.31,Covid
+Washington,2020-01-01,0.37,Covid
+Washington,2020-02-01,0.31,Covid
+Washington,2020-03-01,0.08,Covid
+Washington,2020-04-01,0.29,Covid
+Washington,2020-05-01,0.24,Covid
+Washington,2020-06-01,0.45,Covid
+Washington,2020-07-01,0.65,Covid
+Washington,2020-08-01,0.11,Covid
+Washington,2020-09-01,0.85,Covid
+Washington,2020-10-01,0.96,Covid
+Washington,2020-11-01,0.26,Covid
+Washington,2020-12-01,0.82,Covid
+Washington,2021-01-01,0.91,Covid
+Washington,2021-02-01,0.95,Covid
+Washington,2021-03-01,0.07,Covid
+Washington,2021-04-01,0.2,Covid
+Washington,2021-05-01,0.6,Covid
+Washington,2021-06-01,0.95,Covid
+Washington,2021-07-01,0.65,Covid
+Washington,2021-08-01,0.12,Covid
+Washington,2021-09-01,0.48,Covid
+Washington,2021-10-01,0.19,Covid
+Washington,2021-11-01,0.69,Covid
+Washington,2021-12-01,0.36,Covid
+Washington,2022-01-01,0.69,Covid
+Washington,2022-02-01,0.32,Covid
+Washington,2022-03-01,0.78,Covid
+Washington,2022-04-01,0.7,Covid
+Washington,2022-05-01,0.47,Covid
+Washington,2022-06-01,0.54,Covid
+Washington,2022-07-01,0.89,Covid
+Washington,2022-08-01,0.94,Covid
+Washington,2022-09-01,0.08,Covid
+Washington,2022-10-01,0.79,Covid
+Washington,2022-11-01,0.01,Covid
+Washington,2022-12-01,0.85,Covid
+Washington,2023-01-01,0.79,Covid
+Washington,2023-02-01,0.78,Covid
+Washington,2023-03-01,0.05,Covid
+Washington,2023-04-01,0.6,Covid
+Washington,2023-05-01,0.04,Covid
+Washington,2023-06-01,0.55,Covid
+Washington,2023-07-01,0.83,Covid
+Washington,2023-08-01,0.52,Covid
+Washington,2023-09-01,0.91,Covid
+Washington,2023-10-01,0.55,Covid
+Washington,2023-11-01,0.72,Covid
+Washington,2023-12-01,0.32,Covid
+Washington,2024-01-01,0.34,Covid
+Washington,2024-02-01,0.18,Covid
+Washington,2024-03-01,0.26,Covid
+Washington,2024-04-01,0.7,Covid
+Washington,2024-05-01,0.99,Covid
+Washington,2024-06-01,0.13,Covid
+Washington,2024-07-01,0.13,Covid
+Washington,2024-08-01,0.73,Covid
+Washington,2024-09-01,0.86,Covid
+Washington,2024-10-01,0.08,Covid
+Washington,2024-11-01,0.61,Covid
+Washington,2024-12-01,0.93,Covid
+West Virginia,2020-01-01,0.61,Covid
+West Virginia,2020-02-01,0.11,Covid
+West Virginia,2020-03-01,0.73,Covid
+West Virginia,2020-04-01,0.29,Covid
+West Virginia,2020-05-01,0.81,Covid
+West Virginia,2020-06-01,0.74,Covid
+West Virginia,2020-07-01,0.95,Covid
+West Virginia,2020-08-01,0.38,Covid
+West Virginia,2020-09-01,0.88,Covid
+West Virginia,2020-10-01,0.72,Covid
+West Virginia,2020-11-01,0.42,Covid
+West Virginia,2020-12-01,0.92,Covid
+West Virginia,2021-01-01,0.71,Covid
+West Virginia,2021-02-01,0.67,Covid
+West Virginia,2021-03-01,0.06,Covid
+West Virginia,2021-04-01,0.22,Covid
+West Virginia,2021-05-01,0.42,Covid
+West Virginia,2021-06-01,0.4,Covid
+West Virginia,2021-07-01,0.37,Covid
+West Virginia,2021-08-01,0.63,Covid
+West Virginia,2021-09-01,0.14,Covid
+West Virginia,2021-10-01,0.83,Covid
+West Virginia,2021-11-01,0.05,Covid
+West Virginia,2021-12-01,0.3,Covid
+West Virginia,2022-01-01,0.48,Covid
+West Virginia,2022-02-01,0.77,Covid
+West Virginia,2022-03-01,0.1,Covid
+West Virginia,2022-04-01,0.58,Covid
+West Virginia,2022-05-01,0.89,Covid
+West Virginia,2022-06-01,0.29,Covid
+West Virginia,2022-07-01,0.6,Covid
+West Virginia,2022-08-01,0.3,Covid
+West Virginia,2022-09-01,0.43,Covid
+West Virginia,2022-10-01,0.74,Covid
+West Virginia,2022-11-01,1.0,Covid
+West Virginia,2022-12-01,0.17,Covid
+West Virginia,2023-01-01,0.81,Covid
+West Virginia,2023-02-01,0.97,Covid
+West Virginia,2023-03-01,0.28,Covid
+West Virginia,2023-04-01,0.51,Covid
+West Virginia,2023-05-01,0.67,Covid
+West Virginia,2023-06-01,0.3,Covid
+West Virginia,2023-07-01,0.63,Covid
+West Virginia,2023-08-01,0.94,Covid
+West Virginia,2023-09-01,0.3,Covid
+West Virginia,2023-10-01,0.54,Covid
+West Virginia,2023-11-01,0.42,Covid
+West Virginia,2023-12-01,0.74,Covid
+West Virginia,2024-01-01,0.95,Covid
+West Virginia,2024-02-01,0.52,Covid
+West Virginia,2024-03-01,0.58,Covid
+West Virginia,2024-04-01,0.4,Covid
+West Virginia,2024-05-01,0.68,Covid
+West Virginia,2024-06-01,0.46,Covid
+West Virginia,2024-07-01,0.62,Covid
+West Virginia,2024-08-01,0.35,Covid
+West Virginia,2024-09-01,0.13,Covid
+West Virginia,2024-10-01,0.34,Covid
+West Virginia,2024-11-01,0.62,Covid
+West Virginia,2024-12-01,0.15,Covid
+Wisconsin,2020-01-01,0.31,Covid
+Wisconsin,2020-02-01,0.42,Covid
+Wisconsin,2020-03-01,0.93,Covid
+Wisconsin,2020-04-01,0.61,Covid
+Wisconsin,2020-05-01,0.36,Covid
+Wisconsin,2020-06-01,0.1,Covid
+Wisconsin,2020-07-01,0.68,Covid
+Wisconsin,2020-08-01,0.48,Covid
+Wisconsin,2020-09-01,0.41,Covid
+Wisconsin,2020-10-01,0.67,Covid
+Wisconsin,2020-11-01,0.79,Covid
+Wisconsin,2020-12-01,0.07,Covid
+Wisconsin,2021-01-01,0.18,Covid
+Wisconsin,2021-02-01,0.75,Covid
+Wisconsin,2021-03-01,0.8,Covid
+Wisconsin,2021-04-01,0.91,Covid
+Wisconsin,2021-05-01,0.94,Covid
+Wisconsin,2021-06-01,0.07,Covid
+Wisconsin,2021-07-01,0.36,Covid
+Wisconsin,2021-08-01,0.23,Covid
+Wisconsin,2021-09-01,0.27,Covid
+Wisconsin,2021-10-01,0.02,Covid
+Wisconsin,2021-11-01,0.47,Covid
+Wisconsin,2021-12-01,0.75,Covid
+Wisconsin,2022-01-01,0.06,Covid
+Wisconsin,2022-02-01,0.53,Covid
+Wisconsin,2022-03-01,0.89,Covid
+Wisconsin,2022-04-01,0.32,Covid
+Wisconsin,2022-05-01,0.26,Covid
+Wisconsin,2022-06-01,0.33,Covid
+Wisconsin,2022-07-01,0.06,Covid
+Wisconsin,2022-08-01,0.57,Covid
+Wisconsin,2022-09-01,0.67,Covid
+Wisconsin,2022-10-01,0.25,Covid
+Wisconsin,2022-11-01,0.97,Covid
+Wisconsin,2022-12-01,0.25,Covid
+Wisconsin,2023-01-01,0.43,Covid
+Wisconsin,2023-02-01,0.47,Covid
+Wisconsin,2023-03-01,0.82,Covid
+Wisconsin,2023-04-01,0.25,Covid
+Wisconsin,2023-05-01,0.82,Covid
+Wisconsin,2023-06-01,0.3,Covid
+Wisconsin,2023-07-01,0.37,Covid
+Wisconsin,2023-08-01,0.59,Covid
+Wisconsin,2023-09-01,0.67,Covid
+Wisconsin,2023-10-01,0.56,Covid
+Wisconsin,2023-11-01,0.41,Covid
+Wisconsin,2023-12-01,0.15,Covid
+Wisconsin,2024-01-01,0.63,Covid
+Wisconsin,2024-02-01,0.49,Covid
+Wisconsin,2024-03-01,0.43,Covid
+Wisconsin,2024-04-01,0.99,Covid
+Wisconsin,2024-05-01,0.74,Covid
+Wisconsin,2024-06-01,0.33,Covid
+Wisconsin,2024-07-01,0.31,Covid
+Wisconsin,2024-08-01,0.07,Covid
+Wisconsin,2024-09-01,0.07,Covid
+Wisconsin,2024-10-01,0.64,Covid
+Wisconsin,2024-11-01,0.42,Covid
+Wisconsin,2024-12-01,0.59,Covid
+Wyoming,2020-01-01,0.49,Covid
+Wyoming,2020-02-01,0.7,Covid
+Wyoming,2020-03-01,0.41,Covid
+Wyoming,2020-04-01,0.83,Covid
+Wyoming,2020-05-01,0.56,Covid
+Wyoming,2020-06-01,0.79,Covid
+Wyoming,2020-07-01,0.28,Covid
+Wyoming,2020-08-01,0.39,Covid
+Wyoming,2020-09-01,0.68,Covid
+Wyoming,2020-10-01,0.44,Covid
+Wyoming,2020-11-01,0.61,Covid
+Wyoming,2020-12-01,0.62,Covid
+Wyoming,2021-01-01,0.18,Covid
+Wyoming,2021-02-01,0.07,Covid
+Wyoming,2021-03-01,0.83,Covid
+Wyoming,2021-04-01,0.72,Covid
+Wyoming,2021-05-01,0.61,Covid
+Wyoming,2021-06-01,0.29,Covid
+Wyoming,2021-07-01,0.68,Covid
+Wyoming,2021-08-01,0.61,Covid
+Wyoming,2021-09-01,0.78,Covid
+Wyoming,2021-10-01,0.89,Covid
+Wyoming,2021-11-01,0.95,Covid
+Wyoming,2021-12-01,0.4,Covid
+Wyoming,2022-01-01,0.03,Covid
+Wyoming,2022-02-01,0.97,Covid
+Wyoming,2022-03-01,0.14,Covid
+Wyoming,2022-04-01,0.11,Covid
+Wyoming,2022-05-01,0.82,Covid
+Wyoming,2022-06-01,0.74,Covid
+Wyoming,2022-07-01,0.17,Covid
+Wyoming,2022-08-01,0.57,Covid
+Wyoming,2022-09-01,0.08,Covid
+Wyoming,2022-10-01,0.95,Covid
+Wyoming,2022-11-01,0.4,Covid
+Wyoming,2022-12-01,0.65,Covid
+Wyoming,2023-01-01,0.52,Covid
+Wyoming,2023-02-01,0.56,Covid
+Wyoming,2023-03-01,0.11,Covid
+Wyoming,2023-04-01,0.16,Covid
+Wyoming,2023-05-01,0.45,Covid
+Wyoming,2023-06-01,1.0,Covid
+Wyoming,2023-07-01,0.43,Covid
+Wyoming,2023-08-01,0.54,Covid
+Wyoming,2023-09-01,0.41,Covid
+Wyoming,2023-10-01,0.2,Covid
+Wyoming,2023-11-01,0.96,Covid
+Wyoming,2023-12-01,0.68,Covid
+Wyoming,2024-01-01,0.16,Covid
+Wyoming,2024-02-01,0.2,Covid
+Wyoming,2024-03-01,0.17,Covid
+Wyoming,2024-04-01,0.66,Covid
+Wyoming,2024-05-01,0.95,Covid
+Wyoming,2024-06-01,0.86,Covid
+Wyoming,2024-07-01,0.74,Covid
+Wyoming,2024-08-01,0.16,Covid
+Wyoming,2024-09-01,0.72,Covid
+Wyoming,2024-10-01,0.22,Covid
+Wyoming,2024-11-01,0.15,Covid
+Wyoming,2024-12-01,0.01,Covid
+US,2020-01-01,0.11,Covid
+US,2020-02-01,0.07,Covid
+US,2020-03-01,0.3,Covid
+US,2020-04-01,0.59,Covid
+US,2020-05-01,0.46,Covid
+US,2020-06-01,0.86,Covid
+US,2020-07-01,0.7,Covid
+US,2020-08-01,0.28,Covid
+US,2020-09-01,0.44,Covid
+US,2020-10-01,0.33,Covid
+US,2020-11-01,0.68,Covid
+US,2020-12-01,0.61,Covid
+US,2021-01-01,0.85,Covid
+US,2021-02-01,0.94,Covid
+US,2021-03-01,0.12,Covid
+US,2021-04-01,0.5,Covid
+US,2021-05-01,0.18,Covid
+US,2021-06-01,0.32,Covid
+US,2021-07-01,0.71,Covid
+US,2021-08-01,0.01,Covid
+US,2021-09-01,0.11,Covid
+US,2021-10-01,0.07,Covid
+US,2021-11-01,0.61,Covid
+US,2021-12-01,0.9,Covid
+US,2022-01-01,0.11,Covid
+US,2022-02-01,0.98,Covid
+US,2022-03-01,0.62,Covid
+US,2022-04-01,0.72,Covid
+US,2022-05-01,0.66,Covid
+US,2022-06-01,0.44,Covid
+US,2022-07-01,0.06,Covid
+US,2022-08-01,0.7,Covid
+US,2022-09-01,0.47,Covid
+US,2022-10-01,0.61,Covid
+US,2022-11-01,0.63,Covid
+US,2022-12-01,0.51,Covid
+US,2023-01-01,0.47,Covid
+US,2023-02-01,0.3,Covid
+US,2023-03-01,0.21,Covid
+US,2023-04-01,0.53,Covid
+US,2023-05-01,0.15,Covid
+US,2023-06-01,0.8,Covid
+US,2023-07-01,0.4,Covid
+US,2023-08-01,0.91,Covid
+US,2023-09-01,0.16,Covid
+US,2023-10-01,0.41,Covid
+US,2023-11-01,0.33,Covid
+US,2023-12-01,0.04,Covid
+US,2024-01-01,0.57,Covid
+US,2024-02-01,0.75,Covid
+US,2024-03-01,0.16,Covid
+US,2024-04-01,0.73,Covid
+US,2024-05-01,0.3,Covid
+US,2024-06-01,0.22,Covid
+US,2024-07-01,0.08,Covid
+US,2024-08-01,0.59,Covid
+US,2024-09-01,0.66,Covid
+US,2024-10-01,0.13,Covid
+US,2024-11-01,0.46,Covid
+US,2024-12-01,0.01,Covid
