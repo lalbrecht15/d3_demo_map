@@ -631,6 +631,7 @@
                     }
                 })
                 .on("drag", function(event) {
+                    const pointer = d3.pointer(event, chartG.node());
                     const x = Math.max(0, Math.min(width, event.x));
                     const date = xScale.invert(x);
                     
