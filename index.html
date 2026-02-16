@@ -586,73 +586,79 @@
 
                 yOffset += 20;
             });
+            // Drag behavior functions
+function dragstarted(event) {
+    event.sourceEvent.stopPropagation();
+    if (isPlaying) {
+        clearInterval(playInterval);
+        d3.select("#playButton").text("▶ Play");
+        isPlaying = false;
+    }
+    d3.select(this).classed("dragging", true);
+}
 
-            // Add draggable time marker
-            const timeMarkerGroup = chartG.append("g")
-                .attr("class", "time-marker-group");
+function dragged(event) {
+    // Constrain x position
+    const x = Math.max(0, Math.min(width, event.x));
+    
+    // Update visual position immediately (no lag)
+    timeMarker.attr("x1", x).attr("x2", x);
+    dragArea.attr("transform", `translate(${x}, 0)`);
+    
+    // Calculate date index
+    const date = xScale.invert(x);
+    const bisect = d3.bisector(d => d).left;
+    currentDateIndex = bisect(parsedDates, date);
+    
+    // Only update visualizations (optional - can move to dragended for better performance)
+    updateVisualizations();
+}
 
-            const timeMarker = timeMarkerGroup.append("line")
-                .attr("class", "time-marker")
-                .attr("y1", 0)
-                .attr("y2", height);
+function dragended(event) {
+    d3.select(this).classed("dragging", false);
+    // Ensure final update
+    updateVisualizations();
+}
 
+// Add draggable time marker
+const timeMarkerGroup = chartG.append("g")
+    .attr("class", "time-marker-group");
 
-            // Invisible drag area for easier interaction
-            const dragArea = timeMarkerGroup.append("rect")
-                .attr("class", "time-marker-drag-area")
-                .attr("width", 20)
-                .attr("height", height + 20)
-                .attr("x", -10)
-                .attr("y", 0)
-                .on("mouseenter", function(event) {
-                    const currentDate = dates[currentDateIndex];
-                    d3.select("#dateTooltip")
-                        .style("opacity", 1)
-                        .html(currentDate);
-                })
-                .on("mousemove", function(event) {
-                    d3.select("#dateTooltip")
-                        .style("left", (event.pageX + 10) + "px")
-                        .style("top", (event.pageY - 28) + "px");
-                })
-                .on("mouseleave", function() {
-                    d3.select("#dateTooltip")
-                        .style("opacity", 0);
-                });
-            
+const timeMarker = timeMarkerGroup.append("line")
+    .attr("class", "time-marker")
+    .attr("y1", 0)
+    .attr("y2", height);
 
-            // Drag behavior
-            const drag = d3.drag()
-                .on("start", function() {
-                    if (isPlaying) {
-                        clearInterval(playInterval);
-                        d3.select("#playButton").text("▶ Play");
-                        isPlaying = false;
-                    }
-                })
-                .on("drag", function(event) {
-                    const pointer = d3.pointer(event, chartG.node());
-                    const x = Math.max(0, Math.min(width, event.x));
-                    const date = xScale.invert(x);
-                    
-                    // Find closest date index
-                    let minDiff = Infinity;
-                    let closestIndex = 0;
-                    parsedDates.forEach((d, i) => {
-                        const diff = Math.abs(d - date);
-                        if (diff < minDiff) {
-                            minDiff = diff;
-                            closestIndex = i;
-                        }
-                    });
-                    
-                    currentDateIndex = closestIndex;
-                    updateVisualizations();
-                })
-                .on("end", function() {
-                    // Optional: do something when drag ends
-                });
+// Invisible drag area for easier interaction
+const dragArea = timeMarkerGroup.append("rect")
+    .attr("class", "time-marker-drag-area")
+    .attr("width", 20)
+    .attr("height", height + 20)
+    .attr("x", -10)
+    .attr("y", 0)
+    .on("mouseenter", function(event) {
+        const currentDate = dates[currentDateIndex];
+        d3.select("#dateTooltip")
+            .style("opacity", 1)
+            .html(currentDate);
+    })
+    .on("mousemove", function(event) {
+        d3.select("#dateTooltip")
+            .style("left", (event.pageX + 10) + "px")
+            .style("top", (event.pageY - 28) + "px");
+    })
+    .on("mouseleave", function() {
+        d3.select("#dateTooltip")
+            .style("opacity", 0);
+    });
 
+// Drag behavior
+const drag = d3.drag()
+    .on("start", dragstarted)
+    .on("drag", dragged)
+    .on("end", dragended);
+
+timeMarkerGroup.call(drag);
             timeMarkerGroup.call(drag);
 
             // Store for updates
