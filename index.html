@@ -84,8 +84,8 @@ body {
         }
 
         .state {
-            stroke: #fff;
-            stroke-width: 1px;
+            stroke: #000;
+            stroke-width: 0.5px;
             cursor: pointer;
         }
 
@@ -322,12 +322,17 @@ body {
             };
         }
 
-        function processMapCSVData(csvData) {
+           function processMapCSVData(csvData) {
             const dataByState = {};
             csvData.forEach(row => {
                 const state = row.state;
                 const date = row.date;
                 const value = parseFloat(row.value);
+
+                // Skip rows with invalid values
+                if (!state || !date || isNaN(value)) {
+                    return;
+                }
 
                 if (!dataByState[state]) {
                     dataByState[state] = [];
@@ -354,6 +359,12 @@ body {
                 const date = row.date;
                 const disease = row.disease;
                 const value = parseFloat(row.value);
+                
+                // Skip rows with invalid values
+                if (!state || !date || !disease || isNaN(value)) {
+                    return;
+                }
+                
                 // Handle both "US" and "United States" as National
                 const stateName = (state === "US" || state === "United States") ? "National" : state;
 
@@ -373,7 +384,6 @@ body {
             if (!stateData) return null;
             return stateData[currentDateIndex];
         }
-
         async function initialize() {
             const config = {
                 topoJsonPath: 'https://raw.githubusercontent.com/lalbrecht15/d3_demo_map/main/us_states_shifted.topojson',
@@ -461,7 +471,7 @@ body {
                 .range([0, width]);
 
             const yScale = d3.scaleLinear()
-                .domain([0, d3.max(timeSeriesData, d => d.value)])
+                .domain([0, d3.max(timeSeriesData.filter(d => !isNaN(d.value)), d => d.value) || 100])
                 .range([height, 0]);
 
             const line = d3.line()
