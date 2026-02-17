@@ -361,7 +361,7 @@ body {
                 const value = parseFloat(row.value);
                 
                 // Skip rows with invalid values
-                if (!state || !date || !disease || isNaN(value)) {
+                if (!state || !date || !disease ) {
                     return;
                 }
                 
@@ -475,8 +475,9 @@ body {
                 .range([height, 0]);
 
             const line = d3.line()
-                .x(d => xScale(d.parsedDate))
-                .y(d => yScale(d.value));
+                .defined(d => !isNaN(d.value))  // Skip drawing when value is NaN
+               .x(d => xScale(d.parsedDate))
+               .y(d => yScale(d.value));
 
             const dataByDisease = d3.group(nationalData, d => d.disease);
 
